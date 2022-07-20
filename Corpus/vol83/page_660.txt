@@ -1,0 +1,2253 @@
+wc. /Aviation =a -
+
+Indicateur de tension pour câbles et cordages. —
+Cet appareil a été imaginé par le capitaine du génie,
+Lenoir. Il est fort simple, il n en est pas moins appelé à
+rendre de grands services. Car il est très souvent de la
+plus haute importance de pouvoir mesurer rapidement
+l'effort auquel un eàble est soumis. Cette nécessité se
+rencontre notaminent en aéronau-
+tique. Le principe de l'appareil, tel
+que l'expose sou inventeur dans
+l'Aérophile est le suivant : si l'on
+maintient deux galets A, B contre
+un cordage teudu, la force F à
+appliquer au milieu du cordage
+pour lui donner une flèche OO de
+valeur déterminée est proportion-
+nelle à la tension du cordage. Ce
+principe a élé mis en œuvre comme
+il suit :
+
+T/appareil comprend un biti, for-
+mé de deux flasques, portant les
+axes des galets À et B, espacés de
+Goo mm. fintre ces flasques et per-
+pendiculairement à la direction AB,
+une tige coulisse dans des glissières.
+
+Cette tige est terminée à l’une de
+ses extrémités par une chape ouverte
+portant un troisième galet central.
+Pendant les mesures, le câble
+s'appuie sur les gorges des galets A et B en passant
+dans la chape du galet central. Ce galet transmet au
+cäble la traction F. Pour produire cctte traction, la
+tige coulissante, du côté opposé au galet, est .filetée
+et traverse un ressort à boudin laré. Ce ressort s'ap-
+puie, d'une part, sur le bâti de l'appareil, et d'autre
+part, par l'intermédiaire d’une butée à billes, sur
+l'embase d'un écrou moleté, vissé sur le filetage de la
+tige. En tournant cet écrou, l’on fait varier la compres-
+sion du ressort, et, par suite la traction F et la flèche
+du câble O0".
+
+L'écrasement du ressort est mesuré à l’aide d'une
+graduation portée par un manchon entourant le ressort
+à boudin, Ce manchon se déplace devant un index fixe.
+La graduation est chiffrée de façon à donner par lecture
+directe la valeur de la tension du cordage quand la
+flèche atieint 10 mm. Si l'on ne donne à la flèche qu'une
+valeur de 5 mm le résultat de la lecture précédente est
+à doubler.
+
+ 
+
+L'indicateur
+de tension Lenoir.
+
+Pour ‘ütiliser l'instrument, il reste à connaitre à quel
+
+moment la flèche OO atteint la valeur voulue : 10 mm
+ou 5 mm. | ee
+
+À cet effet, la tige, à section carrée dans la partie
+qui coulisse entre les flasques, porte un trait de repère
+dont les déplacements, par rapport au bâti de l'appareil,
+peuvent être suivis par une fenêtre découpée dans l'une
+des flasques.
+
+Le long des bords de cette fenêtre peut se déplacer
+un curseur portant trois traits espacés de 5 mm. Ce
+curseur est manœuvré par uue vis sans fin, à tête
+moletée.
+
+Voici donc le mode d'emploi de l'appareil :
+
+1° Appliquer les galets À et B sur le câble dont on
+veut mesurer la tension, le câble passant dans la chape
+du galet central ; |
+
+2° Le ressort à boudin étant entièrement détendu,
+amener à la main le galet central au contact du cäble,
+en faisant coulisser la tige dans sa glissière :
+
+3° À l'aide de la vis sans fin, faire coïncider le pre-
+mier trait du curseur et le trait de repère de la tige
+coulissante;
+
+4 Tourner l’écrou moleté jusqu'à ce que le trait
+
+de repère de la tige se soit transporté en face du troi-
+sième, Le nombre lu sur la graduation donne la ten-
+sion cherchée ou la moitié. L'appareil mesure des
+tensions de 00 à 600 kg avec une approximation de 5 à
+10 kg. |
+
+ 
+
+ 
+
+ 
+
+ 
+
+x. /lutomobilisme <a
+
+Le silencieux « Galaine ». — Nombre d'automo-
+bilistes ont déjà pu ‘observer que, parfois, leur moteur
+développe plus de puissance en fonctionnant avec un
+silencieux que dans la marche à échappement libre. Ce
+résultat, en apparence paradoxal, s'explique par le fait
+que la disposition du silencieux accélère automatique-
+ment l'échappement des gaz brûlés; il en résulte une
+diminution de contre-pression dans le cylindre et par
+suite une certaine amélioration du rendement, Ajoulons
+que souvent ce résultat avantageux est. simplement l’éffet
+d'un heureux hasard.
+
+Dans le silencieux « Galaine », l'inventeur s’est atta-
+ché à réaliser, de façon certaine, cet effet, et d'après les
+essais faits à l'Automobile Club de France, il obtient
+ainsi une amélioration de 5 pour 100 dans le rende-
+ment du moteur.
+
+Voici la description de cet appareil, telle que la donne
+M. Ventou-Duclaux, l'ingénieur chargé de l'essai à
+l'Automobile Club.
+
+Le silencieux « Galaine » est composé de trois enve-
+loppes concentriques ; celle du plus faible diamètre H est
+ouverte à ses deux extrémités, c’est la partie que l’on
+adaple sur la tuyauterie d'échappement du moteur.
+Cette enveloppe est percée de fentes perpendiculaires à
+son axe. |
+
+La seconde enveloppe À est percée de trous, une cloi-
+son est placée entre ces deux premières enveloppes à
+une certaine distance de l'extrémité de l'appareil.
+
+La troisième enveloppe extérieure B ne comporte au-
+cune ouverture. s
+
+Voici comment fonetionne cet appareil : les gaz d’échap-
+pement du moteur arrivant dans l'enveloppe centrale se
+divisent en deux parties; l'une, suit un chemin rectiligne
+et sort directement dans l'atmosphère; l’autre, traverse
+les fentes de la première enveloppe, puis les trous de la
+seconde, subit une certaine détente et vient se mélan-
+ger, vers l’orifice de sortie, aux gaz qui ont suivi le
+chemin rectiligne.
+
+La partie conique M, N joue un rôle important dans l’ap-
+pareil; le passage des gaz dans la partie centrale a pour
+résultat de créer une dépression dans la partie annu-
+laire comprise entre l'enveloppe interne et l'enveloppe
+
+         
+
+ 
+
+x :
+À = ARE RAR AR RL ÈS A
+
+LA Tr L [
+pe D er —
+& ï  — TER
+
+nn = Re
+
+ 
+
+pen
+
+re
+
+Coupe du silencieux « Galaine »,
+
+et limitée par la cloison. Cette dépression crée une
+aspiration des gaz à travers les fentes de l'enveloppe
+centrale et les trous de l'enveloppe, ce qui permet la
+détente des gaz ainsi détournés. — En vente : 96, rue
+Saint-Lazare, Paris.
+
+x. Clectricité <a
+
+Allumoir à magnéto. — Cet appareil est une sorte
+de briquet électromagnétique, apte à remplacer les allu-
+mettes ou les allumeurs au fero-cerium dont nul n'ignore
+les inconvénients.
+
+- Description. — Cet appareil comprend 2 aimants en U
+de 15%< 7,5 X< 4, À, terminés par des piècés polaires en :
+fer doux P. Entre ces pièces polaires peut tourner un
+noyau de fer doux en double T, N sur lequel est enroulé
+un fil de cuivre isolé F, très long et très fin, afin que la
+self-induction ait une grande valeur et que la tension du
+courant soit assez élevée. Au centre, un axe en acier X
+est supporlé par deux paliers et l'une de ses extrémités
+porte une manivelle M servant à la rotation de l'induit.
+
+Droits reservés au Cnam et à ses partenairesLe noyan en fer doux possède de chaque côté une joue
+en bois J'; l’une d'elles sert à la fixation d'un cylindre
+de boïs C traversé en son centre par l'axe et entouré
+par une bague de laiton B suv laquelle viennent cons-
+tamment frotter 2 lames élastiques de cuivre L reliées
+par un ressort R. La base des lames b et l'un des sup-
+ports de l'axe $ reposent sur une lame de laiton { dont
+la région antérieure a forme ressort et possède une
+échancrure e dans laquelle peut s'engager la partie
+supérieure d'une petite lampe à essence’ E. Près du
+cylindre de bois se trouve un cylindre de substance
+isolaute [pouvant tourner à frottement dur autour. de
+l'axe et présentant. une. partie saillante s percée d'un
+_trou-:0ù vient se loger l'une des extrémités d'un balai
+métallique m maintenu solidement en place par une vis s
+(fig. de gauche). : 7 .: ... . _. Le
+. Un des bouts du.fl. de linduit est mis à nu et se
+trouve coincé. d'une, part. entre l'axe et le cylindre ‘de
+bois C et d'autre part entre la bague de laiton B et.ce
+. dit cylindre. L'autre bout, aprés avoir traversé 1a joue
+de l’induit J, une partie.du collecteur C, présente. quel-
+ques tours de spires qui sont logées dans une cavité c
+‘creusée dans le collecteur et le cylindre porte-balai I et
+l'extrémité d mise à.nu se trouve coincée entre le balai 7n
+et les parois du trou. Le
+Les pièces Z sont supposées transparentes. :
+Lorsqu'on fait toucner l'induit, un courant prend nais-
+sance et le circuit se trouve fermé lorsqué le balai frotte
+
+ 
+
+L'allumoir Moreau,
+
+contre le bec de la lampe ; en effet le courant passe alors
+par l'axe X et son support-S et par la bague de laiton .B
+‘et:les lames collectrices EL; .chemine dans la lame de
+laiton ! puis dans la lampe E, le balai m et finalement
+circule daus le fil de l'induitÆF.
+Lorsqu'on donne un rapide tour de manivelle, le cou-
+rant s'établit d'abord quand-le balai frotte contre le bec
+de la lampe, mais il se trouve bientôt brusquement
+rompu quand le balai cesse de frotter. Alors, si le balai
+est bien calé, c'est-à-dire si Ta rupture a lieu lors d'un
+maximum du courant, il jaillit une puissante étincelle
+qui allume la lampe. | |
+Pour régler Ja posilion du balai il suflit de tourner le
+cylindre isolant qui le porte.  .. Loue,
+"Le principe de l'appareil est donc le suivant : produc-
+tion d’ün courant électrique-à l'aide d’une magnélo et
+. rupture de ce courant lors d'un dé ses maximum pour
+l'obtention d'une puissante ét’ncelle ‘destinée à allumage
+d'une lampe à essence. : DT tee
+Les avantages de cet allumoir sont : 1° allumage
+“rapide et certain; — 2° aucune consommation; — 3° au-
+_cun entretien, pas de manipulations. malpropres; —
+4° volume très réduit ; — 5° prix peu élevé.
+: La'construelion en est très facilé,; l'inventeur construit
+lui-même avec des outils plutôt riüdimentaires.
+- L'énergie émploÿéé pour produire Fallumage est de
+l'énergie humaine; mais la quantité dépeñsée-est à peine
+supérieure à celle exigée par le frottement: d'une allu-
+_ mette. Certaines modifications permettant d'ädapter cet
+appareil très pratique : 1° aux bureauxde-tabac (au lieu
+dé fairé tourner une manivelle il: suffirait dé tirer un
+anneau}; 2° dans une chambre à coucher (grâce à un
+système de commande à distance) on peut s'en servir
+comme appareil à électriser et .comme appareil capable
+d'alimenter une petite lampe. électrique. — T'inventeur
+est M. E. Moreau, à Lingé, par Martizay (fudre).
+
+ 
+
+ 
+
+- s'appliquer à toutes les formes de boîtes.
+
+ 
+
+ 
+
+ 
+
+x. Mécanique <a
+
+La scie « La Piiante ». — Cette scie a été imaginée
+
+à l'usage de tous ceux dont les travaux exigent l'emploi
+d'une scie en dehors de l'atelier. La scie ordinaire est,
+en effet, d'un transport plutôt difficile. La scie « La
+Piiante », au contraire, est éminemment maniable, parce
+que très facilement démon- ‘
+table. :
+Elle se compose d'une
+monture en bois et detrois
+lames différentes et inter-
+changeables, à savoir : une
+lame de scie à araser en
+acier trempé, une lame de
+scie à chautourner et une
+lame de scie à métaux.
+La monture comporte deux
+bras en. bois sur lesquels
+la lame se fixe au moyen de lourillons en cuivre avec
+crochet mobile supprimant l'intervention du tournevis
+et permeltant le changement instantané des lames.
+
+Un sommier el un tendeur métallique à écrou permel-
+tent de fixer les bras à l'écartement voulu et de donner
+à l'ensemble la rigidité nécessaire. Sur le sommier sont
+ménagées des rainures où l'on fixe les lames de rechange
+pendant ‘le: transport de l'outil. Lorsque le tout est
+
+ 
+
+ 
+
+Touvilou de fixation de Fa lime.
+
+ 
+
+La scie
+completement montée.
+
+La seu
+fixée aux bras.
+
+démonté et'replié, la scic tient tout entière dans une
+boite de carton dé 42 centirhètres de long, donc fort peu
+encombrante. — La scie « La Pliante:» est en vente
+chéz H. André; 15, rue de la Forge-Royale, Paris.
+
+Lu | Objets utiles <a
+
+Le « Dadori » ouvrant les boites de conserves. —
+Bien que certaines boîtes de conserves alimentaires
+soient munies d'un système qui permet de les ouvrir
+facilement, il y en a encore un grand nombre qui néces-
+sitent la section du métal formant le couvercle. Beau-
+coup d'outils ont été imaginés pour faire cette section,
+mais ils nécessitent en général assez de force et ne sont
+pas toujours d’un emploi facile.
+
+Le « Dadori » est combiné de telle sorte qu'il peut
+rondes,
+longues, carrées. I1 se compose d’un manche portant un
+talon À et un couteau GC qui sont fixes, cn outre une
+pointe P, qui est montée sur un quadrilatère articulé
+
+4. Ouverture d'une boite
+de conserves au moyen du « Dadori ».
+
+.2. Le « Dadori ».,
+
+    
+
+HARENCS MARINES
+
+(fig. 1). C'est ce qui constitue l'originalité de l'appareil.
+On comprend en effet que si on enfonce la pointe FP
+
+(fig. 5) en .un point quelconque du couvercle, il suffira
+
+de suivre le bord de la boîte, quelle qu'en soit la forme,
+pour que le couteau C découpe neltement le couvercle
+tout autour. L’opéralion se fait sans elfort et avec une
+grande sûreté. — L'appareil se trouve chez M. Danon,
+52, allée de Montfermeil, Le Raincy.
+
+#2
+
+Droits reservés au Cnam et à ses partenaires>
+
+Contre les pellicules. — Votre coiffeur ne manque
+pas, chaque fois que vous allez vous faire couper les
+cheveux,-de vous signaler l'abondance des pellicules, la
+nécessité d'une friction et l'avantage de vous servir
+d'une: eau. de toilette. de sa composition. Les pellicules
+du £uir chevelu ‘sont eu effet l'apanage de bien des gens
+ärthritiques ; hommés ét femmes y soutégalement sujets:
+Elles sont le résultat d’une affection des glandes séba-
+cées, affection connue ‘en dermatologie sous le nom de
+séborrhée, et ‘constituée par des squames de pelites
+dimensions, sèchés et fines, de coloration grisâtre, qui
+parsèment les cheveux et tombent avec un coup de
+brosse. On distingue deux variétés, comme le font du
+reste les coiffeurs quand ils vous disent que vous avez
+la peau grasse ou sèche; à côté de la séborrhée sèche
+existe, en effet, une forme de séhorrhée grasse, où les
+croûtes adhérent ensemble, où le cuir chevelu est enduit
+de matière huileuse.
+
+Chez l'homme, les moyens de combattre cette petite
+
+ 
+
+iufirmité sont faciles à employer; le cheveu n'est pas |
+long, les lavages et les onctions sont faciles. Mais chez :
+
+la femme, dont la chevelure est épaisse et va tombant
+jusqu'aux épaules, il en est tout autrement. Voici les
+conseils que donne un spécialiste éminent, le D" Sabou-
+raud. Appliquer tous les huit ou dix jours, je dirai plus
+loin comment, une couche du liquide suivant, au moyen
+d'un petit tampon d’ouate hydrophile :
+
+Huile de cade désodorisée .
+Huile de cèdre ,
+Acétone anhydre
+Alcool à go? .
+
+10 grammes.
+10
+. 30
+q. s. pour compléter 125 €. c.
+
+Le lendemain de cette application, il faut savonner la
+tête avec une brosse un peu ferme et un savon doux, tel
+que le savon à la glycérine. Puis on rince les cheveux
+et la tête bien à fond et on sèche dans un linge chaud.
+
+ 
+
+HYGIÈNE ET SANTÉ
+
+ 
+
+ 
+
+  
+
+ 
+
+Pour appliquer le liquide, de même que pour le
+savonnage du lendemain, il faut dessiner des raies: dans
+le cuir chevelu, pour que toutes les parties dela peau
+soient atteintes. Vingt raies, vingt minutes, est une for-
+mule-proverbe facile à retenir. D Le
+
+Si le cuir chevelu est: gras, il y aura avantage à uti-
+liser l'une des deux formules suivantes, la seconde étant
+plus nettement indiquée, quand il y a vraiment séborrhée
+grasse. Plus le cuir chevelu est gras, plus le soufre lui
+convient et comme on trouve maintenant, dans les phar-
+macies, des huiles soufrées par vulcañisation, c’est-à-
+dire chauffées avec du soufre à 3209 et dans lesquelles .
+le soufre n'existe qu'à l’état de combinaison, on ôbtien-
+dra un résultat réel et décisif.
+
+La première formule convient, ai-je dit, aux formes
+moyennes : ne . 7. et
+
+Azotate de potasse . 0,50 centigrammes:
+
+Formol à 40 pour 100. 0,30 —
+Ether éthylformique. , . 0,50 —
+Ether sulfurique , . 20 grammes.
+Alcoolat de citron. 20  * —
+Eau distillée . . . . 30 . —
+
+Alcool à go. . q. s. pour compléter 300 €. c.
+
+L'autre formule est spéciale aux séborrhées graves :
+Denisol , . douces ee
+Huile de cade désodorisée, . , 10
+Âcétone anhydre . . , , , . . 30
+Alcool à go? q. s. pour faire 120 €. ©.
+
+10 grammes.
+
+Parfum au choix du sujet,
+Ces mixtures ont toujours une légère odeur spéciale
+
+| de goudron, mais elles ne sont pas trop désagréables et
+leur emploi judicieux et continu, associé aux savon-
+pages, permet de triompher de l'affection des cuirs
+chevelus. ‘
+
+D' A. C.
+
+ 
+
+Baadolines. — Ces mixtures qui servent à fixer la
+forme des coiffures ou des moustaches sont à base de
+diverses matières mucilagineuses. Autrefois on employait
+surtout la gomme adragante, de la manière suivante par
+cxemple : |
+
+Gomme adragante pulrérisée. 8 grammes,
+
+Alcool à go? , 15 —
+Eau de roses Loue 25 —
+Essence de géranium rosut . 10 gouttes.
+
+Parfois on fait dissoudre 2 gr. d'acide borique dans
+l'eau de roses, et on ajoute un peu de teinture de ben-
+join. On délaie la gomme dans le mélange. d'alcool et
+d'essente, puis'on-ajoute l'eau, Actuellement, on préfère
+
+aux produits de ce genre les mucilages préparés en
+laissant tremper pendant quelques heures des graines de,
+
+coings, de lin ou de psyllum dans. dix fois leur poids
+d'eau tiède, puis passant à travers un linge. Avee la
+
+mousse d'Islande (carraghen), il suffit de.20 gr. du pro-.
+duit pour un litre d'eau, el on fait bouillir le mélange
+peadant un quart d'heure avant de filtrer, Dans tous les
+
+cas, ces mucilages sont parfumés avec de l'eau de
+
+Cologne, ajoutée à froid et en malaxant de façon à obte-
+
+nir lne crème épaisse. ".
+
+Ciménts au sucre. — Le sucre peut servir à confec-
+lionner divers mortiers intéressants que M. Sidersky
+signale dans son récent ouvrage sur la fabrication du
+sucre: ‘ :
+
+1°. Le ciment chinois s'obtient: en faisant .un mortier:
+épais avec de l'eau et un mélange composé de :. 50 kg.
+
+de sable tamisé fin; 25 kg de chaux fraichement éteinte
+en poudre; 8 kg de sucre. Ou laisse la prise se faire
+pendant huit jours sous un abri. Le sucrate de. chaux
+attaque la silice et forme des silieales en même temps
+
+que le sucrate se carbonate ct agglutine la masse. Ce
+
+ 
+
+ 
+
+ 
+
+ 
+
+: encore importe-t-il d'observer
+
+‘ papier à filtrer, pur chiffon.
+
+ciment à base de sucre est en usage depuis fort long-
+temps aux Indes et certains vieux murs de ce pays
+témoignent de sa qualité. M.'Herzfeld a employé avec
+succès pour la reconstitution’ du Muséum d'histoire
+naturelle de Berlin un mortier composé de 1 kg de
+chaux, 3 kg de sable et 2 kg de sucre.
+
+2° Le plâtre gâché avec de l’eau sucrée donne des
+surfaces lisses et ‘une prise compacte. On se sert de cé
+moyen pour la confection des moules, ‘ |
+
+Préparation du parchemin végétal. — Il est très
+facile de donner au papier la forte ténacité ‘et la transpa-
+rence relative qui le font ressembler.au parchemin, mais
+quelques petites précau- .
+tions pour éviler tout insuccès. |
+
+Le papier àparcheminer devra être.de bonne qualité,
+
+.non collé, et non chargé de poudres minérales, Les.
+
+meilleurs résultats sont obtenus en ‘prenant du bon
+
+..Le bain sera préparé en. mélangeant à de l'eau son
+double poids d'acide sulfurique à 669, ou ce qui.
+
+.revient au même,.en prenant tout.simplement-de l'acide
+: à 520 B:'On l'emploie à la température ordinaire.  - : :
+
+La parchemination se fait tout simplement en plon-
+geant le papier dans l'acide, de manière que la feuille
+“entière soit imbibée en même temps. Il est commode
+d'opérer dans une cuvette pour photo. On laisse le
+papier dansle bain jusqu'à ce que les bords commen-,
+
+‘cent à s'onduler-en. prenant, un aspect -mucilagineux.
+: À ce moment; la feuille est rapidement retirée puis plon-
+|| gée, dans l'eau ammoniacale à 20. pour r00. On lave
+
+ensuite à l’eau courante jusqu'A neutralité, puis on fait
+sécher. :
+
+En traitant à la fois deux feuilles de même grandeur
+bica superposées et accolées, l'acide ne pénètre pas
+eulre ‘elles, et. on obtient la parchemination que sur
+
+218
+
+Droits reservés au Cnam et à ses partenaires#| RECETTES ET PROCÉDÉS UTILES |
+
+==
+
+uue seule face, fl est bon de ne pas laisser sécher com-
+
+plètement à l'air libre, le papier devenant alors de sur- |
+
+face très irrégulière : quand l’eau est égouttée, mieux
+vaut mettre sous presse entre feuilles de papier buvard,
+(Laboratoire de La Nature.)
+
+Nouvelle composition polycopiante. — Les masses
+“servant Babituellement pour la polycopie sont à base de
+gélatine; ceci a l'inconvénient de provoquer parfois
+l'adhérence du papier sur lequel on tire des copies, ou,
+dans les pays chauds, les déformations du eliché. Le
+produit que viennent d'imaginer MM. Sabaté et Opinel
+ne présenterait pas ces inconvénients. Il est obtenu par
+Simple malaxage de :
+
+- Pierre lithographique pulvérisée , 20 grammes.
+
+Kaolin finement broyé. 80 —
+Glycérine bo —
+Eau. 5o —
+
+. est bon d'ajouter finalement une trace
+empêcher l’altération éventuelle de la glycérine. Le
+malaxage poussé jusqu’à parfaite homogénéité de la
+pâte, où coule cette dernière sur un support quelconque,
+de préférence une toile métallique fine, ce qui hâte la
+dessiccation. Les plaques obtenues s’emploient abso-
+lument de même façon que les gélatines à polycopier.
+{Revue des produils chimiques.)
+
+Crème et poudres de toilette au peroxyde de zinc.
+.— En présence des sécrétions organiques comme la
+sueur, ce composé donne naissance à de l'oxygène nais-
+
+«
+
+de thymol pour
+
+ 
+
+ 
+
+sant, dont on connaît le haut pouvoir antiseptique. En
+outre, le résidu restant est l’oxyde de zinc, dont on
+connait les propriétés adoucissantes vis-à-vis de l’épi-
+derme; dans ces conditions les mixtures cosmétiques en
+question sont tout à fait recommandables. Voici com-
+ment. on les prépare :
+
+Crème de toilette. — On commence à préparer un
+glycéré d'amidon en chauffant 140 gr. glycérine purifiée
+à 30° mélangée de r0.gr. eau distillée, et ajoutant peu à
+peu une bouillie faite en triturant 10 gr. amidon de blé
+où arrow-root et 10 gr. d'eau distillée. On triture en-
+suite au mortier 200 gr. du mélange précédent chauffé
+jusqu'à géléification, puis laissé refroidir, avec :
+
+Peroxyde de zinc à 20 pour 100. 5o grammes.
+
+Essence d’héliotrope . 4 —
+Essence de mélisse, , , , . . . ï —
+Poudres. — Ce sont des simples mélanges faits selon
+
+ces formules :
+
+Pour dessous Contre la sueur
+
+de bras. létide des pieds.
+Peroxyde de zinc à 20 p. 100. 20 gr. 26 gr.
+Oxyde de zine 20 — » —
+Craie précipitée 320 — D —
+Tale. . . . 40 — 75 —
+
+Le peroxyde de zinc pouvant à la longue se décom-
+poser partiellement de façon spontanée, il est bon d'em-
+ployer exclusivement le produit frais.
+
+(de Keghel, Aevue générale de chimie).
+
+ 
+
+… AVIS. — Dans la boîte aux lettres, la Rédaction publie les
+‘faits d’un intérét général qui lui sont signalés par ses abonnés.
+Elle répoud également, dans la mesure du possible, aux demandes
+
+de renseignements qui lui parviennent accompagnées d'une bande
+
+d'abonnement, En raison de l'abondance de' la correspondance et
+des recherches souvent nécessaires, il ne peut être répondu que
+dans ün délai de dix’.à quinze jours.
+
+Adresses relatives aux, appareils décrits. — L'in-
+
+venteur du pupitre musical est M. Gélis, 187, rue de
+Grenelle, Paris. — Le groupe électrogène Lister se
+. trouve chez M. Ch. Faul et fils, 47, rue Servan, Paris.
+
+Communications. — Huile de pierre. — M. E. Vittoz,
+de la Rosiaz-sur-Lausanñe, nous communique la réponse
+suivante à une question d'un de nos lecteurs : « Sous
+le ‘nom d'huile de pierre; nos droguistes vendent 2 pro-
+duits différents, dont l’un à base de bitume, l'autre
+comportant surtout les résidus de distillation de la
+houille. Peut-être ce ui fait l'objet de la question de
+
+- M. Poutet, à l'Oéeraie, est-il l'un de ces deux liquides
+: noirs et nauséabonds; dont nos charretiers zèbrent les
+ffancs de leurs chevaux.à la saison des taons. »
+
+Renseignements. — M, Ad. Castillon, à Saint-Lau-
+
+:rent-du-Var. — Pour rendre hydrophile le coton à tri- |
+
+coter. — Il suffit de le faire bouillir longuement dans
+‘un bain contenant-par litre d'eau 50 gr. soude caustique
+
+et 20 gi silicate de soude. On rince finalement à grande
+
+“eau: On peüt opérer dans une:« léssivèuse » de ménage.
+- [affinité pour l’eau est produite par simple: dissolution
+des matières gommeuses et résinéuses imprégnant natu-
+rellement les fibres M LL
+
+“2 M:GCh.L., x Mézières. — Les ouvrages dé ‘sylvieul-
+-ture sont nombreux. Sil'on ne possède pas ‘déjà des
+<onnäissänces générales sur la niatière, il est indiqué,
+pôtr réunir là documiéntation nécessairé, concernant les
+terrains boisés et plus particulièrement la création et
+
+“léxploitation de ‘Sapinières, de faire un choix, qu'indi-
+
+‘quera l'éditeur, parmi les ouvrages suivants : Sylvicul-
+
+“ture, par Alert Fron, ‘1: vol., 5 Îr.; Les Forêts (traité.
+pratiqué de sylviculture), par Boppe, 1 vol: franco 8fr.50:!
+‘Guide du forestier, par Bouquet de la Grye, r vol.
+
+‘franco, 2 fr. 95; Le vade-mecum du forestier, par Fran-
+gois Caquet, 1 vol. franco, 3 fr. 75; Traité de Sylviculture,
+par Mouillefert, à vol. franco, 13 fr. go; Exploitation
+des forêts, par H Vanutberghe, 2 vol. franco, 5 fr. 5o;
+Traité d'exploitation commerciale des bois, par Alphonse
+
+dl
+|
+
+ 
+
+ 
+
+ 
+
+214
+
+- des essais en sé
+
+Mathey, tome I, 1 vol., 15 fr.; Les essences forestières,
+tome If (Essences résineuses), par Loubié, 1 vol. franco,
+2 fr. 30; Les Sapinières, par Eugène Favergeon, 1 vol.
+franco, 1 fr, 10; Les Résineux (Guide du sylviculteur),
+par M. L. Nicolas, 1 vol. franco, o fr. 60: Exploitation
+des forêts résineuses (au Pays Landais}, par H. Ricard,
+
+1 vol., 6 fr. S'adresser à la Librairie Horticole, 84 bis, rue
+
+de Grénelle, Paris:
+
+M. Oudinet (Troyes). — Cadrans phosphorescents.
+On les rend lumineux avec une couche de vernis dans
+lequel on a mis une poudre phosphorescente. Vous
+trouverez tout au long le mode de préparation d'une
+telle poudre dans la Boîte aux letires de notre n° du
+
+: 6 août 1910 (Réponse à M. Darodes).
+
+Cercle des officiers, Magnac-Laval. — Patinage du
+cuivre et de l'étain. Nous avons publié au cours des
+années précédentes d'assez nombreuses recettes de ce
+genre. Citons parmi celles qui furent expérimentées
+dans notre laboratoire : Cuivre et laiton en rgrx, pre-
+mier semestre, pp. : 62, 46 et 54; deuxième semestre,
+p: 38, 111, 102, 126; en 1912 premier sémestre, p. 149.
+Etain, 1gr1; premier semestre, pp. 150 et 157.
+
+Laboratoire du lycée Michel-le-brave (Bucarest). —
+Résistance de l'aluminium aux divérs réactifs. L’acide
+sulfurique, l'acide nitrique agissant à la température
+ordinaire, ‘n'attaquent sensiblement pas le métal. Avec
+l'acide chlorhydrique, l'attaque est très rapide. Les
+solutions de soude, de potasse, caustiques ou carbo-
+nätes, les acides organiques’ aussi-le plus souvent, cor-
+rodent l'aluminium. A noter qu’en général, si le métal
+n'est pas très pur, il Sera bien plus aisément attaqué,
+et que certaines impuretés des solutions en contact (sels
+de mercure par exemple) facilitent étonnamment l’atta-
+que. [1 faudrait donc, pour chaqué cas envisagé, faire
+plaçant absolument dans les conditions
+de la pratique. out tee
+
+“M. Simon Leleu, au Quesnoy (Nord). — Merci de votre
+intéressante communication, qui sera bientôt insérée
+dans nos Aecettes. Pour rendre.le papier ow les:fibres
+textiles végétales tissées en mèche ou d'autre façon,
+
+capables de brûler sans flamme, en conservant un point
+
+incandescent, on les humecte d'une solution de salpêtre,
+puis on fait sécher (voir dans le dernier n° la prépara-
+tion du papier d'Arménie). Nous consacrcrons prochai-
+nement toute une chronique aux crèmes et cirages à bril-
+laut rapide. .
+
+Éd
+Es
+
+Droits reservés au Cnam et à ses partenaires“2
+
+Sommaire de notre précédent numéro.
+
+Les poissons exotiques : €, pe Vissen, — En flänant, causeries
+d'aviation (fn) : D' Amans. — Les locomotives à air comprimé
+du tunnel du Mont-d'Or : R, Boxnin, — Nouveau canon à mains
+lance-bombes et porte-amarres : Jacours Born. — La grande
+Bulgarie du moyen âge : L. De LAuNay. — Influence des forêts
+sur le régime des fleuves ‘ R. B, — Acadèmie des sciences
+GC. pe Viccepeurr., — La blatte chanteuse du Japon : V. lonmix.
+
+Supplément. — La grandeur stellaire du Soleil, — L'argent miroi-
+tant, — La transformation catalytique de l'acide sulfureux en
+acide sulfurique . — L'été de 1912 en Italie, — L’'éclairage du
+canal de Panama, — Les plus lourds cerveaux humains, ete.
+
+L'année psychologique, fondée par Arrren Biner. Dix-
+huitième année (r912), publiée par LarGuier Des
+Baxcezs et le D'.Tx. Simon, in-8, 526 p., fig. et 8 pl.
+hors texte, Masson et Ci, édit. Paris. Prix : 15 fr.
+
+Sous ce titre, depuis dix-sept années, régulièrement
+M. Alfred Binet faisait paraitre un important volume
+dans lequel se trouvaient résumés, en une série de
+revues, d'articles originaux et d'analyses, les princi-
+paux travaux de psychologie effectués pendant l'année.
+Son œuvre ne périra pas avec lui, et la dix-hui-
+tième année vient de paraitre par les soins de ses
+élèves.
+ses travaux on y trouvera de nombreux articles :
+
+conditions de l'obligation de conscience; la délimita-
+tion de la psychologie; la loi de préformation et de
+prédétermination en psychologie; études techniques
+sur l’art de la peinture; avancés et retardés; la
+
+mesure du développement intellectuel chez les jeunes |
+
+délinquantes : la suggestibilité chez. Les enfants
+d'école ; le mouvement psychanalytique ; la question
+du sommeil; le problème de la personnalité dans la
+psychologie religieuse; les progrès récents de la
+psychologie. comparée; les enfants anormaux, etc.
+Le volume de cette année ne le cède done en rien
+aux précédents; comme eux, il offre d'abondants
+matériaux aux psychologues, aux neurologistes, aux
+psychiatres, aux pédagogues, aux philosophes et en
+général à tous ceux qui veulent penser.
+
+Théorie et calcul des phénomènes électriques et des
+oscillations, par Cu.-Pr. Srenmerz, traduit par P. Bu-
+NET. In-8° de x-578 pages, avec 102 fig. H. Dunod et
+
+E. Pinat, Paris. Prix : 22 francs.
+
+Lorsque des centaines de kilomètres de circuits à
+haute et moyenne tension, de lignes aériennes et de
+. câbles souterrains se trouvent reliés, les phénomènes
+de capacité distribuée, les effets .des courants de
+charge des lignes et des câbles commencent à prendre
+une telle importance qu'ils nécessitent une étude
+approfondie. Certains de ces phénomènes qui n'avaient
+-qu'un'pur intérêt scientifique, comme la. distribution
+inégale du courant alternatif dans les conducteurs, la
+vitesse finie de propagation du champ électrique, etc.,
+méritent maintenant un grand intérêt de la part de
+l'ingénieur. électricien, ear ïîls se trouvent dans. la
+
+résistance du rail de retour des chemins de fer mono-
+phasés, dans .l'impédance effective opposée ‘aux dé--
+
+-chargés de la foudre dont dépend la sécurité du réseau
+entier, ete. Les fonctions transitoires du temps sont
+
+étudiées dans la première section de cet ouvrage; dans:
+
+‘la deuxième section, on traité lés phénomènes transi-
+
+toires périodiques qui ont pris une certaine impor- ||.
+tance industrielle dans les redresseurs, certains régu- ||.
+lateurs, ete. La troisième section donne la théorie‘des :
+phénomènes | alférnatifs en témps : et: transitoires. en :
+: distante; la quatrième et dernière partie a trait: aux
+phénomènes transitoires en temps et distance. |
+
+| Principes de la Technique de l'éclairage par de D'. L. ‘ L
+
+Brocu, traduit par B.:Rox. :1 vol.
+184 p., 40 fig.;
+Prix : 5 francs:  : es
+
+Ce livre comporte tout d'abord la discussion, le
+.calcul et la mesure de l’éclairement avec le plus de
+données exactes possibles.
+
+in-8® (25-16),
+
+Outre plusieurs études sur Alfred Binet et |
+sur |
+la perception des mouvements de nos membres; les |
+
+Î
+
+Il expose. ensuite, d'un. ll
+
+ 
+
+|
+
+ 
+
+ 
+
+ 
+
+d'équité ét. le degré. de probabilité du socialisme +:
+
+BIBLIOGRAPHIE
+
+ 
+
+point de vue pratique, les différents modes d'éclairage
+dont nous disposons actuellement, en indiquant leur
+prix de revient
+
+Manuel pratique de soudure autogène, par R. Graxsow
+et P. RosemBerc. Un volume cartonné de 360 pages;
+orné de 250 figures, Format : 0,14 xX 0,22. Publica-
+tions de l'Office central de l acétylène, 104, boulevard
+de Clichy, Paris. Prix : 5 francs.
+
+Ce manuel initie, d’une façon excellente, le soudeur
+à la technique de son métier. C’est un livre pratique,
+dont les auteurs font autorité en la matière Il traite
+de la soudure du fer, des aciers de tous genres, de la
+fonte, du cuivre, des laitons, des bronzes, et de divers
+métaux et alliages. -
+
+Beurres et graisses animales, par Arsentr Bruxo, in-12,
+300 p., Béranger, édit. Paris, 1912.
+
+On trouvera dans ce livre les méthodes d' analyse
+officielles et autres des beurres, margarines, saindoux,
+graisses alimentaires, suifs, stéarines, glycérines ; les
+législations française et étrangères qui règlent leur
+composition et répriment leurs fraudes et leurs altéra-
+tions
+
+Apiculture par R. Homwer, 2° édition, in-18, 466 pages,
+174 fig. J.-B. Baillière, édit., Paris, 1912. Prix : bro-
+ché, 5 fr.; cartonné 6 fr.
+
+Excellent manuel, très complet, donnant la descrip-
+tion des habitants de la ruche, des substances qu'ils
+utilisent, les renseignements sur le choix et la con-
+duite du rucher, ses produits et les maladies des
+abeilles.
+
+Aide-Mémoire du photographe, par G. Ménérrar, en
+8 fascicules. Charles Mendel, éditeur. Paris, 1912.
+Prix : 6 francs. [Chaque fascicule séparément : o fr. 79b).::
+
+Cet ouvrage constitue une !véritable encyclopédié
+embrassant toutes les connaissances pouvant être
+notées, mises en formules ou en tableaux, et qu'il est :
+indispensable au photographe de posséder ou tout au
+moins de pouvoir retrouver en cas de besoin. Il ren-
+ferme sous forme condensée une somme énorme de
+documents. Nous nous bornerons à mentionner les
+titres des 8 fascicules : I. Documents mathématiques,
+physiques, chimiques; IL!" Objectifs; TIL. Chambres
+noires ‘“{orthochromatisme,- plaques anti-halo, pelli-
+cules); IV. Phototy;pes négatifs; V. Phototypes positifs ;
+VI, Diapositives, Procédés positifs spéciaux, Photo-
+
+graphie des couleurs; VIT. Applications de la photo-
+graphie ; VIII. Photographie. industrielle, Recettes.
+
+A la mer, par Cs. Epry, 531 p., 198 £g.
+‘et Cie, édit., Paris, 1g12. Prix, 6 fr.
+
+L'auteur a dressé un inventaire élégant et pitto-.
+resque de nos connaissances actuelles en océanogra-
+phie qui plaira au grand public par sa clafté et $a
+belle présentation.
+
+Plon-Nourrit
+
+Essais de Synthèse scientifique, paë. °E. | Riowano, | I vol.
+: in-8° de la Bibliothèque de Philosophie contémporaine.
+: Librairie Félix Alcan, Paris : 1912. Prix : 5 francs.
+
+‘ Les grands progrès de toutes les sciences de- la vie
+
+à la suite des théories transformistes, l'éternel débat.
+centre le vitalisme et. le matérialisme: la base biolo:
+gique et la nâture intime des. tendances alféctives de :
+
+la conscience, l'origine et l'évolution du phénomène .
+
+: religieux, le rôle joué dans les sciences. sociales par
+la doctrine du  Matérialisme : historique, ‘le degré
+
+tJ
+
+toutes ces questions, les ‘plus’ importantes de.1à bio.
+
+PL. logie et de la sociologie sont étudiées dans cé volume
+
+avec cet esprit de synthèse qui met en relief les côtés .
+communs et l'étroite connexion de sujets Apparerf.
+
+1 : ment disparates: LUEUR Le PR T
+Gauthier- -Villars, édit. Paris,” 1gire fe Fa ne
+
+Là pensée humäine, par M.  Hürrmne. (Bibliothèque à de
+Pare Pris contemporaine), 1 vol. in-8°, F. Alcan,
+Paris. Prix : 7 fr. 50.
+
+, L'ouvrage du philosophe danois représente un des
+
+ae
+
+Droits reservés au Cnam et à ses partenairesefforts le, plus considérables et le plus originaux.
+
+de notre époque pour fonder sur des faits exacts une
+philosophie de la pensée. Il examine tour à tour ses
+lormes diverses, puis les problèmes qui se posent à
+son sujet, et indiquent ses solutions, Celles-ci se rat-
+tachent d'une façon générale aux doctrines du progma-
+lisme, en les précisant et en les dépassant souvent.
+
+Agenda aide-mémoire agricole pour 1913, par G. Wervy,
+sous-directeur de l'Institut national agronomique.
+10-18; 432 p. Baïllière, éditeur, Paris. Prix : 1 fr. 50.
+
+Guide pratique du L'specteur à Madagascar, par
+D. Levar. In-8° de 132 pages, avec 38 figures et
+1 carie. Paris, H. Dunod et Pinat. Prix : 6 franes.
+
+Ce traité débute par des notions sur le mode de
+gisement de l’or.à Madagascar, en lentilles alignées
+et interstratifiées dans les terrains archéens de l’Imé-
+rina. Le chapitre IT, consacré à l'exploitation des
+placers, traite, au point de vue pratique, de l'instal-
+lation des appareils de lavage des alluvions : berceau,
+longtom, sluices de tous modèles avec des plans d'or-
+gañisation des chantiers. Les progrès à apporter dans
+
+l'exploitation des placers forment l'objet du cha-
+pitre IIL.- Enfin, dans le dernier chapitre, l'auteur
+indique les règles simples pour rechercher et mettre
+en valeur les gîtes filoniens de Madagascar.
+
+The Evolution of animal Intelligence, par S. J. Hormes,
+Henry Holt and C°, éditeurs. New-York, 1g11: in-8°,
+296 P.
+
+Les progrès de la psychologie comparée amènent à
+discuter l’évolution des fonctions mentales. Holmes,
+
+qui a beaucoup contribué à ce mouvement, a classé ici
+cle faits duns l'ordre suivant
+
+un certain nombre
+
+E
+
+ 
+
+ 
+
+| BULLETIN MÉTÉOROLOGIQUE
+
+ 
+
+actions réflexes, Lropismes, comportement, instinct,
+plaisir et peine, commencements de l'intelligence,
+intelligence chez les insectes, les vertébrés inférieurs,
+les mammifères, vie mentale des singes. Il le fait avec
+uue grande sagesse, se refusant à expliquer notre cons-
+cience par des phénomènes physiques aussi bien qu à
+l'affirmer chez les animaux les plus inférieurs.
+
+Leuchtende Pflansen, par le D' Hans Moriseu, 2° édil.,
+in-8°, 200 p,, 2 pl, 18 fis., Gustav Fischer, édit.
+Léna, 1912, Prix : 7 m. 5o
+
+Bonnes études des plantes phosphorescentes, péri-
+diniens, bactéries, champignons ; de la nature et des
+conditions de production de la lumière qu'elles
+émeltent. >
+
+Stereoskopische Sehen uud Messen, par C. Purriuen.
+1 brochure 17 fig. G. Fisher, édit., à Téna, 1917,
+Prix : 1 mark.
+
+C. Pulfrich, des établissements Zeiss, d'Iéna, s'est
+fait, depuis de nombreuses années, le protagoniste des
+méthodes de mesure basées sur l'emploi du stéréos-
+cope. Cette brochure est consacrée à la vulgarisation
+des principes essentiels de cette technique. Elle
+comprend en outre une précieuse bibliographie de la
+question.
+
+Die stereoskopische Messmeihode in der Praxis (I
+pratique des procédés de mesures stéréoscopiques!|
+par Pavr Leuicer, 1 vol. avec r1rfig. J. Springer, édit.,
+Berlin, 1911. Prix : 3 marks.
+
+Expose la technique d'un procédé de mesure qui
+rend dès aujourd'hui les plus grands services dans
+nombres d'applications topographiques, artistiques el
+militaires.
+
+æ-
+
+| Observations de M. Ch. Dufour (Parc Saint-Maur, altitude 50",30). Bureau central météorologique de France.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VENT !
+
+OBSERVATIONS s nr | PLUIE EN CE Sa :
+7 ugenes pu marmm |'UERNONÈTRE PIRROTION ET pORGE ÉTAT DU CIEL MILLIMÈTRES OBSERVATIONS GENERALES |
+Lundi18 nov. 1912. 79,0 Calme. Couvert. 1 Presq. couv. : pl. jusqu. 3 h. 45: forte brume où laib. brouillard.
+Mardi 49. . . . ,. 50,5 N. N. W.1. Couvert. ñ Presq. coux.: très sombre entre 7 h. et 9 h. et 12 h. 45 ; rosëe,
+Mercredi 20 . , . . 79,3 W. N. W. 2. Couvert. 1 Couv.; pl. de 8 h. 30 à 6 h. et de 16 h. 15 à 25 h.
+Jeudi 21. Su ss Pl N. N. E, 4, Couvert, ù Couv.; pluie de 0 h. 55 à 1h. 15.
+Vendredi 22 . . . : 50,7 Calme. Couvert. , Nuageux ; brume; couronne lunaire. |
+Samedi 23 “À 19,2 Calme. Très nuageux. Nuag. ; gel. bl. ; faib, brouill, à 8 h. et 21 h.; couronne lunaire,
+Dimanche 24, . ,. 4,1 S. 2. Couvert, 0,5 Nuag.! gel, bl ; brume; bruine de 40 h. à 11 h. 20.
+
+Mardi . Mercredi
+
+|
+
+ANR CU CENT RC NU Re ROUE CNRC NC IT EEE
+
+ui
+2
+,
+‘Æ
++
+“ui
+-Æ
+"à
+E..
+<
+a
+z
+o
+3:
+EN
+M :
+Œ;.
+Br
+
+CIC IT LR
+
+ERRNITRNITINNRET UE
+
+FAIT EI
+
+NISNENE
+IUNILYUIdWAL
+
+PRIT
+RDC UENN
+
+“La courbe supérieure imdique la nébulosité de Q à 10; les flèches inférieures, le direcion @u vent. Les courbes du milieu tadiquent :
+courbe épaisse, les pressions barométriques (baromètre ramené à À, au niveau de la mer), courbe plus mince, thermomètre à l'abri à
+boule sèche; courbe en pointillé, thermomètre à l'abri à boule mouillée,
+
+ 
+
+PHASE DE LA LUNE : Pleine Lune, le 24, à 4 h. 22 m. du soir.
+
++216 À
+
+Droits reservés au Cnam et à ses partenairesLA NATURE
+
+QUARANTIÈME ANNÉE — :912
+
+DEUXIÈME SEMESTRE
+
+ 
+
+TABLE DU SUPPLÉMENT
+
+INFORMATIONS — SCIENCE APPLIQUÉE — HYGIÈNE ET SANTÉ — RECETTES
+
+ET PROCÉDÉS UTILES — VARIÉTÉS
+
+!. — INFORMATIONS.
+
+Abeilles : Rôle dans la culture des betteraves à graine . . ,
+Académie des Sciences : prix décernés . . . . . . . . .
+
+Accident d'aéroplane : explication.”. . . . . . . . . .. .
+Accumulateur se rechargéant par la lumière. ., . . E n'es
+Accumulateurs sulfalés : traitement. . . . , .
+Acide azotique : fabrication au moyen du gaz de four à coke.
+
+Acide carbonique industriel et fermentation. . .:,. . . .
+— liquide : industrie "7. 4. 4 4. ue
+— : solubilité dans la bière .., , + .:.:, . .i4 é E
+
+décomposition par la lumière. . , à
+transformation catalytique en acide suit
+
+Acide nitrique :
+Acide sulfuréux :
+
+Adelsherg :
+Aérobus à 42 places
+Aéronautique : commission permanente internationale. . . .
+Aëroplane : accident expliqué
+
+mm +
+
+D
+
+mm
+
+Supplément au n° 2062 de La Nature du 30 novembre 1912,
+
+|| Algue :
+
+Aéroplane : 4010 kilomètres
+— t Paris-Berlin. .,..,....1..,.,..
+— : record d'altitude, .., , ,. ..........
+
+Agricole et viticole de l'Est de la France (Semaine). . . ..
+
+Air : influence de sa composition chimique sur la vitalité des
+microbes
+
+Alcaloïde extrait du lait stérilisé. . . . :
+Alcool méthylique- : toxicité
+migration , ,
+Algues : pigments:rouges et bleus... 4: ,,,
+Allemagne : production de la houille en 1911 .
+Alliages de fer et de cuivre : corrosion par l'eau minéra-
+lisée. , . . . . ,. . . .. …..
+— des métaux nobles : propriétés . . . . , . . ...
+Alphabet mis au concours. . . . . , . . . . . . . . ..
+Amérique du Sud : T. SF. ...,..,...,...
+
+es
+
+mn ss
+CC
+nm
+
+nn à es
+
+#27 8e #
+
+Droits reservés au Cnam et à ses partenairesAmmoniaque : nouvelles recherches sur sa synthèse. . .
+
+: rôle du fer dans sa synthèse. , 4, . . . . . ..
+. Anémic professionnelle des photographes : existe-t-elle” .
+Antinoé : fouilles . .
+
+Aquedue de 380 kilomètres .
+
+Arbitrage à l'électricité .
+
+Arbres centenaires de la Malmaison.
+
+Argent miroitant, , , . , 4 4 4 4 4, . . 4. . . .
+Argent poreux. . . , Durs es aus
+Arsenic dans nos aliments. Dore use
+
+Association des petits fabricants et inventeurs français.
+Automobile : grand prix de France.
+à hélice. , .., . , .
+Auütomobhilisme aux États-Unis .
+Aviation militaire en Allemagne . , . . . . . . . . .
+dans les Balkans. , . .
+
+— : circuit de l'Anjou. . .
+Axolotl : mécamsme d'éclosion,
+‘Balayeusé. automobile Harlé.
+Baleines : poils . , , , , . ., . , . , . , . , . . .
+Basses pressions atmosphériques : effets physiologiques .
+Bateau à fond de verre.
+Lélail :
+
+empoisonnement par le sorgho .
+français, . . . . . . . . , . . . .
+vivant : grande exposition. . , . , , .
+Léton armé au bois. sources ss
+. Belterave à graine : rôle des abeilles dans la culture ‘
+Biére : sulubilité de l'acide earhonique , . , . . . . , .,
+Bière aux sautcrelles. ss
+Bologne : pierres luminescentes , . . . . . . . . , . . .
+Brunhes Bernard : monument, , , . . . . ..
+Buffle : lait. .
+Buis sud-africain : toxicité . , . , . . ,
+Camion-atelier déstiné à l'aviation militaire
+
+— automobile destiné aux aéroplancs du Maroc.
+
+Camphre au Japon. + . 4... ..
+Canada : forces hydrauliques . …..
+: industrie de la pulpe de bois. .
+
+Canal de Panama : éboulements . . . . . . . . . . ..
+:— éclairage . sure |
+
+— et marine américaine, 4, 44444 eu eu
+Caoutchouc synthétique. . . , ss ses
+Carbone : transformation en graphite. sara
+Casablanca : développement . .
+
+“averne nouvelle à Adelsberg 4 , . . . . , . , , ,
+duns La lave au Mexique. .
+
+Cavernes : musée autrichien pour
+Cellulose : distillation sèche.
+Cerfs-volants, concours iuternational ,
+
+Cerveaux humains les plus-lourds .
+
+Chaleur solaire : utilisation , . . . .
+
+Charbon et pétrole : production‘ et consommation mondiales
+Chats : invasion . . . . ous .
+Chemin de-ler du Saint-Gothard : électrification .
+Chevaux : élevage en France sus
+Ghicorée sauvage : changeténts de coloration des fléurs
+
+bleues … , . . rer
+
+-Chine nouvelle et l'aviation. ‘ .
+
+: commerce des vieux journaux .
+
+: lycées de jeunes filles : . . . , . 4, , ..
+: mouvement industriel. . . . .. .. ..,..
+Chute aérienne : étrange cause .
+
+Chutes d'eau aux États-Unis. .  . , , . . + . ... . .
+Giel : exploration . ... |
+Cive, falsilicalion ancienne .
+
+"étude.
+
++ ven
+
+Coke : Fabrigation . 4. . , . . . . . . .
+
+Colombo : port , ©
+
+Coméle : centenaire. . + + . 4 4
+
+Comète : la deuxième de l'année, , 4. 4, 4. . ..
+— 4919 b : identité avec la comète de Tuttle ,
+
+— Borrelly 19126... 4...
+mn Galé., 4 « sus
+
+En nouvelle : .
+‘Compoundage et eurchaulfe des locomotives .
+
+: Concours d'hydroaéroplanes de Saint-Malo. ,  , . . ..,
+
+65
+49
+58
+2
+25
+106
+90
+201
+65
+41
+45
+42
+81
+26
+414
+170
+25
+58
+421
+26
+210
+129
+66
+106
+146
+461
+158
+
+105
+413
+
+40
+422
+
+94
+455
+155
+202
+486
+170
+461
+
+186
+
+114
+82
+34
+
+405
+73
+
+202
+
+145
+
+210
+
+186
+
+121
+
+114
+
+8]
+66
+129
+162
+186
+
+. 178
+
+162
+169
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congrès forestier international. . . , . 1T8
+— international de zoologic de Monaco . .. . 49
+Conservation des monuments et phjets historiques et arlis-
+tiques . . ; . nus 42
+Corrosion des alliages de cuivre @l | de ler par l'eau minéralisée . 155
+Côte d'Ivoire : productions . , Lu 130
+| Crabes en conserves, nouveau produit japonais. 18
+Cristallisation artificielle du sulfate de barvte . 97
+| Cuirasse : résistance . . . . sur 114
+Cuirassés américains avec chaudières : à pé drole. 1
+Cyelonc du 19 août à Carcassonne , 150
+Déblayage hydraulique aux États-Unis. . oÙ
+Défrichements en Allemagne . sens sssus 2
+Dégel des conduites d'eau : emploi de l’électricité . . . . , 50
+Dirigcable allemand Schwaben : perle . 42
+Dispersion de la lumière dans le vide. . 9
+Dock floltant géant. . . . , .. .- … 158
+Dosage volumétrique de l'hy drogène par r absorption catalytique. 129
+Eboulements dans le canal de Panama . 455
+Éclairage de Paris au gaz. sous pression. 161
+Éclipse totale de soleil du 10 retobre. . 185
+Électricité à Paris en 4911 . su. .. 114
+Électrilication du chemin de fer du Saint- Gothard . 191
+Éléphant et lion en Afrique. . . . . . . 146
+Engrais catalyseurs : action fertilisante : 2
+Engrais phosphatës : progrès dans l'industrie. 202
+Érythrée : mines d'or . . . . « . . . . . . . . .. 194
+Étain des capsules métalliques : récupéralion électrolytique . 114
+États-Unis : chutes d’eau . 162
+— : grande industrie , . . , . , . . 129
+Été anormal de 1912. 169
+Été de 1912 en Halie . Leu 201
+Étoiles doubles très faibles : observation . 177
+—  TOUGÈS ? BrOUPE. à à à à 4 + . 194
+Expédilion astronomique américaine en Algérie . 194
+Explosions de poussières de houille : nouvelle station anglaise
+d'étude. . 89
+Exposition d'art photographique ? à Gand en 1913. 178
+— de bétail vivaut . ns su 146
+Fausse monnaie d'argent autrichienne : composilion , 35
+Fer : oxydation atmosphérique et passivilé . 33
+‘ Fermentation, source d'acide carbonique industriel . 121
+Fossiles géants de l'Afrique allemande . . . . . . . . o8
+l'ourrages avariés par les pluies : composition: 130
+l'ourrures : commerce en Russie, 122
+Furfurol et nicotine . . ss. 170
+Galvanisation de l'aluminium : nouveau procédé . 177
+— du fer et de l'acier par le procédé Lohmann . 14
+Gaz sous pression : éclairage de Paris . 161
+— (le tourbe. : . .... .. 162
+Gel : action sur les cellules végé tales . 26
+Glacière du Dachslein (Autriche) . . . . . sus 8
+Graphite : transformation des dilérentes formes de carbone . 161
+Grenouilles de pare . . . 446
+Grotte de Mertaoua (Algérie) . 90
+Grottes d'Osselles : aménagement. 122
+— du théâtre de Fiume. 98
+Güerre : coût ,-. . . . Less 477
+Haricot : culture. en Wandchourie . 98
+Hérédilé : queslions . . . . . 186
+Houmards de Terre-Neuve . .. 454
+Houblon : récoile en 1911 . , 478
+louille : nouveau cunsliluant . . . 4 4 4 + . . . + . . 1.
+— production en Allemagne en 1911 . . . 154
+Hybrides de lion et de léopard . . . . 202
+lydroaéroplane : Concours de Suint-Malo . 406
+— : développement. . . . . . . g8
+— à l'étranger, 4. 4, . 146
+[lydrogène : absorplion par le platine. 4194
+Incendies aux Élals-Unis : . | 66
+— à Paris en AN, 0... , .. 18
+‘Inde anghise : population au D mars ao. 90
+Industrie aux Étals-Unis. , . . . Los 129
+Infusoire : puissance de multiplication vrmsmree se 2
+Insectes nuisibles : destruction. , 14
+
+#
+
+028
+
+Droits reservés au Cnam et à ses partenairesItalie : daus la marine. . , . . . rem uus
+
+Jardin alpin Rostania. , , . . . . .
+
+Journaux en Chine {Gommèrec des vieux). .
+
+Laboratoire d'essais du Conservatoire national des ‘Arts et
+Méticrs et laboratoires allemands.
+
+Laine : commerce et élevage des moutons. . . . .
+
+Lampes à incandescence : fabrication des filaments métal.
+liques. , 0... .. . . ..
+
+à vapeur de anercurc
+Lancement de l'Inperalor . .
+Langage secret des « Tramps » . . . . ... . . . . ,
+
+Leitre océanique. . , . . . . . . . . . .
+Lignites : composition .
+
+Lion et éléphant en Afrique. Lure
+Locomotives : compoundage et surchaue vous
+Locomotives à pétrole au Canada.
+
+Lycées de jeunes filles en Chine
+
+Machine à écrire qui corrige et multiplie .
+
+Maisons modernes
+Mal de mer : nitroglycérine.
+
+Manche : tunnel. . . .
+Marées : pr ojet d'utilisation dans le Schlesw ig-Holstein .
+Marine américaine ét canal de Panama. , . .
+
+— italienne . . . serum
+Mer : plus grande profondeur 9780 mètres sue
+Métaux : progrès de la consommation mondiale . .
+Microbes : influence de la composition chimique de l'air sur
+
+leur vitalité. . . ., dorer tes
+Miel : chimie de la formation | sus
+Mines d'or de l'Érythrée . . seu
+Mollusques : comment cerlains percent les pierres .
+Moscou-Pékin en 4 jours . .
+
+Mouche bleue : perçoit la mort à distance .
+
+Mouches résistantes. . Durs
+Moulage au moyen du papier: d inscriptions s sur pierres .
+Moutons : élevage et commerce de la laine . .
+
+Muse : revivificalion au xn° siëele .
+
+Musée le plus ancien du monde , . : :
+origine et polymérisalion des carbures incomplets ;
+
+: l'ancêtre .
+
+Naphie :
+Natalité en Prusse : recul, . , . . ,. . . 4 4, 4 4. .
+Nautile : perle. . . . dosueas
+‘ Navires allemands à moteurs Diesel.
+Nécrologie : Ch. Bourseul, , . . . : . .:, . ,.
+— E. de Cyon .
+— le professeur Forel,. seu
+— 0. Krummel, . 44,444. .,
+
+Andrew Lang .
+
+Hubert Latham . Louer ass sus
+Wibur Wright... 0.444, 4 0 4,
+Nicotine et lurfurol . ...
+
+Nitroglycérine contre le mal de mer . .
+Nivellement général de la France en 1911 : travaux «du : service.
+Noir animal : propriétés absorbantes . .
+
+Noix : sévhage électrique . . . . .
+Oiseaux communs nidifiant à de grandes altitndes. ..
+Oléagiueuses : nouvelles graines . .. . , . . 7 .
+
+Omnibus à trolley à courant alternatif .
+
+Panarna : les éboulernents continuent.
+
+éclairage du canal . ..
+
+— expédition zoologique du canal, . .
+
+— records atleints au canal , , . . . 4 , , 4. 4 ..
+Papier : tissus.
+“Papillons géants chassés à l'arc,
+Paquehot France : record. +. 4... .
+Perle de Nautile. . . . . . rues
+
+Perte du dirigeable allemand Schwaben.
+
+Peste  précauliuns.
+
+Pétrole dans la marine . .
+
+Pétrole et charbon +. . . . Lust
+Phosphore blane : tr ansformation en phosphore TOULES + « »
+Photographie au magnésium. .
+
+Pics : sont-ils utiles ou nuisibles? . . . . . , . . . ..,
+
+Pierres luminescentes de Bologue . , . , . . ,.
+Pigments rouges et bleus des algues . . . . . . . . . ..
+
+Poissuns : introduetion en Nouvelle-Zélande .
+
+122
+
+89
+114
+
+17
+82
+
+14
+18
+81
+146
+99
+158
+162
+4
+66
+162
+170
+26
+186
+153
+82
+
+138
+81
+194
+
+154
+26
+122
+18
+114
+49
+58
+73
+94
+186
+122
+209
+195
+421
+183
+477
+)
+
+170
+162
+34
+405
+17
+82
+90
+129
+178
+202
+18
+42
+162
+84
+114
+186
+49
+146
+105
+290
+209
+185
+50
+113
+461
+. 2
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+
+89 -
+
+Poissons monstrueux . . 15%
+Pont : record dans l'art de le jeter. 13
+Ponte : record. . 154
+Port de Colombo {ile de Ceylan) . #1
+
+— militaire de Toulon. . nus 98
+Porte giganteste au bassin de radoub de Cherbourg. . . g8
+Potasse aux États-Unis . . , . . . . . . . . . . . . . . 8
+Projectenrs électriques : installation sur les transatlantiques
+
+allemands, , . 4.4... 4.44... 122
+Pulpe de bois : industrie au Canada . , , . . . , . . . . 153
+Radium : action sur l'eau oxygénée. . 75
+
+— : diselte . . 10
+
+— dans les étoiles nouvelles | 9
+Rapaces bienfaisants . 202
+Record naval... ...1.,,.,...,........ 210
+Rhin : bouche en Allemagne . _. 26
+Rhinocérus : reuseignements sur deux , 14
+Rocher branlant du Tandil : chute . 42
+Russie : commerce des fourrures , 122
+_Sécurilé dus voyageurs . ; - 170
+Signaux radiotélégraphiques horaires de la ‘Tour bifrel: utilité, 105
+Soleil : grandeur stellaire, . . . , . . . . . . , . . 201
+Soleil : utilisation de La chaleur . 145
+Sorgho : empoisonne le bétail . 66
+Source thermale d'Allemagne la plus abondante 1
+Sous-marin allemand : intérieur . . . . . . . .. q7
+
+— en plongée profonde . , :
+
+—  Vendémiaire : perte. « 17
+Speclres stellaires : classificalion 4 , . "7. , , . . . . . . 209
+Slation élévatoire gigantesque par motopompe à | combustion -
+
+interne, , nets su eu son ou te 11
+Statistique mondiale . 1922
+Stéuographie : record . . 170
+Succiôn entre navires . « . .... .. 178
+Suddile, combustible du Soudan . eue se. 161
+Faudil, chute du rocher branlant. . . . , 42
+T. S. F. en Amérique du Sud .. . « 446
+
+— transmission radiotélegraphique des écrilures, cro-
+
+quis, etc. . . .. 81
+Température du globe : s'élève-t-elle, : | 450
+Temps : influence sur les nerveux . . , . . . . , . . . . 90
+Termites : bruissement. 122
+Terre-Neuve : homards. 153
+Textilose . . . 15
+Tissus de papier . . 162
+Tilanie : logons, . 4,444, 4, 115
+Totem baleine. . 40
+Toulon : port militaire . 98
+Tourbe : gaz. , . . . ......,..,...,, «. . 162
+Toxicité du chlorure de potassium : augmentation par addition.
+
+de chlorure de sodium . cursus 49
+Tracteur à trolley. renfort de chevaux srusrsus 66
+Trafic des voyageurs entre la France et l'Angleterre . 58
+Traîneau automobile dans le Sahara . ee 113
+Trumps : langage secrel. uns 14
+Transformateur électrique de vitesse pour. navires. 457
+Transport de force à 140 000 volts, . . . . . +... 28
+Tremblement de terre en Turquie . . ; | 89, 97 . 491
+Truite arc-en-ciel : mécanisme d'éclusion , . . .… + 40
+Tunnel sous la Manche. . .. : «51 10
+Turbo-génératrice de 20 00-25 000 ilowatts. Lea. 81
+Turquie : tremblements de terre. . . . .…, 89,.97 151 :
+Ulira-violets : action chimique des rayons. ,:.... à 4 4 . 73
+Ulira-violette (Lumière) : destruction de corps. organiques, *, . 51.
+Univérsités de France : progrès . 4 4 4 , 4. 4 , 4. ‘ 98
+Usine Krupp : centenaire . . + 4. 4... 1 89.
+Vers dé terre el fertilité du sol. , . . , . , , . , , , . 34
+Verre : attaque par les acides. . . , . . 10%
+
+' Vertèbres néolithiqués : caractères ataviques. . ….8à
+Vignes d'Italie en INT. user, a
+Vins en Allemague : production et importation. su os à … 6û
+
+— : consommalien en Hollande. sus ae  « 406
+Viticole et agricole de l’est de la Franec (Semaine). . . « … 162
+Volcauiques italiens (produits) : éléments radioactifs , 97.
+Line : sulubilité dans l'eau . . , . . . . . , , . ,. .,. . 91SA] TABLE DU SUPPLÉMENT |
+
+Il. — SCIENCE APPLIQUÉE.
+
+&or ge-assiettes .
+
+ 
+
+ 
+
+ 
+
+rer . 44 || Éclairage : Fulgo. . . . , .. . . . . . . ..
+— Écran-filtre pour lampes à incandesconce. . .
+‘Automobilisme : Automobile pour enfants. , . . . . . 179 — Transformation d'un vase en appareil d'éclairage .
+— Balayeuse-arroseuse automobile Durey-Sohy . 43!
+—. Eprouvette pour bougies d'auto . . . . . . . . . . 83 || Électricité : Allumoir à magnéto . . .
+—  Gonflage dés pneumatiques . . . . . . . . . . . . A1 — Boussole Telefunken, , . , 7. . . , ,, . . ..
+— Jumelle amortisseur pneumatique P.S... 123 — Entraînement par noyau aimanté. , . . . . . . . .
+—  Jumellesélastiques pour ressgrts .,. . . . . . . 147 — Fabrication d'une pile sèche, . . . . . . . . . ..
+—  Pare-boue Dreux réglable, à montage et démontage — Haut parleur : applications originales , . . . . - .
+instantanés . . . . . . . . . . . . . verse D — Heure exacte chez soi par T. S. F. . . . . .
+— Paré-vol automobile « Le Mazuel ». . . . . . . . . 35 —— Indicateurs d'allumage . . . . . . . Lu .
+— Pont roulant électrique pour camions automobiles. . 45 — Pile régénérable à oxyde de cuirre. . . . . . .
+— Régulateurs, . . . . . . . . . .. 51 = Pose des lampes électriques : appareil . . . : . ...
+— Silencieux Galaine . . . . . .,. , . . . . . . .. 211 — Table chauffante électrique , . . . . . . . . .…
+— Valve en caoutchouc. . . . . . . . . . . . . . . 187 Encriers: support. nee en en es
+
+. . - | Eutonnoir automatique . , . . . . . . . . . , . .
+
+Automobilisme agricole : appareil labouveur Gilbert. . 35 || Ferme-corsage Greta.
+
+Avertisseur de fuites de ga. ee 4 4 140 Fixe-manche à bals, , , . , . . . ss me
+
+Glacimédiat . , . . . . , . sus ss ses rs
+
+Aviation : Casque téléphonique pour aviatéurs Due 1179 Gommeur automatique de bureau, , . . . . . . , . ..
+— Compas Monodep. sors vue 168
+— Indicateur de tension pour câbles et cordages . 211 || Gymnastique : Musculator . . . . . . . . . . . . . .
+
+Aviculture : Auto-distributeur de grain. . . . . . . .. 180 Hygiène : Hygiène du fumeur. . . . . . . . . .
+
+Bouchon à débit réglable . - . . . , . . . . . , . . .. 86 || Isolateur |, . . ie.
+
+. Cachetage des sacs postaux . . . . . . nus ss «+ + 28 || Jaugeage industriel des liquides : disposilif enregistreur . .
+” Cadenas à mille combinaisons. . . . . . , . . . . . . . ©?
+
+Cafetière à La Sultane 5. , . . . . , . . . . . . . 84 || Jouets : Aéro-puzzle, . . . . . . . . . . . , ,
+
+Casse-noix, casse-noisettes, . . 4 . : . . . . . . . . . . 28 — Boomerang ball, . . .. . .. .........
+
+n — Cireuit d'Europe. . . . . . . . . . . . . . . .,
+
+-Ghauffage : Appareil pour assurer le tirage malgré le — Jlove jou , . , . . ... oe su.
+
+| Ven sers rer sers 107 —  Kangoureu marcheur. . 4. ...
+
+Chauffage des fours au gaz , . . . . . . , . . . . . . . 205 _ Oiseau de France see
+—  Fourneau à gas « le Marzanne ». , . , . . . . . . 411 _ Ce ParBall moe use
+— ‘Radiateur économique . . . . . . . . . . .. 45 — Petit Par-Ball. ee ce...
+— Ventilation famivore . . . . . . . . .. 68 — Puzzle au mercure. : . . . .
+
+Chimie pratique : Construction d'un réfrigérant à grande Jouets mécaniques au Concours ‘Lépine : Béca-
+
+puissance pour laboratoire . . . . . . . . . . 463 | niste. 4 4 4 «+ . . pasteur ess.
+— Garnissage calorifuge pour manches de pisseltes . . . 140 | — Coup de vent, . . . . . . . . . , . . + .. .
+. — Course aux œufs. , , , , , . . . . . . . . .". .
+
+Chronométrie : Cercle horométrique. . . . . . . 67 — Frotteur . ...... 4.44... ..
+
+Cisaille articulée pour le jardin . . . . : . .. 19 — Multiple ... 444444444404.
+
+Classeur-relieur Flap. : . . . . . . , . . . Le 461 — Nappe enchantée. . . . . . . . . . . . . . . ,
+
+Cloche élégante contre les mouches . . . . . . sus 86! — Ours à la parade. , . . , . . . . . . . . . . ..
+
+Coquetier nire-œufs. . , . . . RE — Pérelapin . ............ 44...
+
+Coupe-légumes... . ,,.,. 4%... .. à 116 — Pierrot regardant l'éclipse. . , . . . 1...
+
+: | | — Repas des carnivoes.., . 4 4 4 4. ,
+
+Guisine : Appareil pour la cuisson des légumes à la va- | Jus de fruits : appareil de préparation. . . . . . . . . .
+
+peur es . . . su .. 21 || Machine à trancher l'« Idédn . .. ....,...,..
+— Machine à faire les frites. . . . . .. 27 || Marteau à multiples usages, . . . . . . . . . sus
+— . Pinee-plat. , 4.4... 4.44, 0 163 | |
+
+: : . Mécanique : Anti-bélier a Idéal ». . . . . . . . . . .
+
+Cuisine moderne : Mach'ne à euire les œufs, . , . . . 59 || —— Apparcil de calage des roues de voitures . .
+
+U— — battre la pâté. . : . . . 59 || - _— Auto-pompe électrique « La Source ». . . ... . .
+— — laver la vaisselle , : . . 59 — Balance humaine. . . . . . . . cesser
+— ‘Cafetière à vapeur, . 7, . .. . ,, : . . , . . . à9 — ‘Écrou indesserrable à blocage par bille. . . . . . .
+=. Machine à peler les légumes , , : , . . . 60 —  Élévateur automatique de liquides par l'air comprimé.
+— — polir l'argenterie, . . . , .. .. 65 —  Graissage des essieux sans démontage. , Dose
+— : laver La vaisselle # Vortex” ». 99 —  Normamètre. ,,...,.....4 4.44...
+
+_— Pesage direct des liquides contenus dans les réservoirs.
+. Cyclisme : Extenseur de fourche de bicyclette seen 163 — Raccord rapide ‘pour tuyaux d'arrosage et appareil 10-
+2 Lanterne nouvelle de bicyclette der os. 68 tif... ..., ... usa .
+“ie Lanterne de vélo . . : sure ses A1 — Rail à table de roulement amovible, vase ou
+URL Tige élastique \ ‘pour bicyclette ne di a Lu ‘ 99 —. Remontage automatique des horloges par Ja conduile
+Dactylophone pour sourds. . évuuruue . 204 || d'emu: ... +... ss.
+Dadori, ouvre-boîtes de conserves . . . . . 4 , . .. . . 912 || — Robinet mélangeur. . . . . . . . . . . .. ...
+… Roue résistante démontable, . . , . , . . . . . .
+
+Dessin : Baîte à coulisses mobiles « Le Guisquel ». 171 — Scie « La Pliante » . , . . . ..
+
+#Æ 220
+
+Droits reservés au Cnam et à ses partenaires
+
+211
+83
+205
+
+67
+4%
+193
+20
+400
+188
+196
+43
+100
+180
+84
+28
+
+100
+
+195
+_52
+52
+
+180
+172
+116
+165
+
+20
+188
+
+68
+196
+204
+
+. en
+
+Mn in He pig mi De ele
+Qr Cr Cr Qe Qt CP Cr OF 4
+GO GO Or Cr Cr Qt GR Gr GR
+
+456
+416
+145
+
+12
+
+471
+187
+132
+
+20
+
+45
+139
+471
+
+439Mécanique : Séparateur d'eaux pluviales
+Séparateur industriel
+Tamiseur mélangeur
+Muselte mangeoire « Mangealaise »
+Numère-vite. , .
+Parapluies :
+
+ns mn
+
+CC
+
+me
+
+D
+
+protection
+
+nm on 8 où os
+
+Photographie : Action sur la gélatine des alcalis
+playés dans les bains de développement, . . . . .
+Appareil photographique le « Sherlock Holmes ». .
+Déclancheur automatique d’obturateur « le Cunctator ».
+Lanterne photographique de voyage
+Machine à copier photographique.
+Photolampe au ferro-cérium .
+
+CmM-
+
+4
+21
+gl
+99
+
+101
+187
+
+ 
+
+ 
+
+Photographie : Séchage rapide des clichés : nouveau procédé.
+
+—  Vérachromoscope. ,
+Rafraîchisseur « Pôle Nord »
+Rafraîchissoir de boisson . . . . .., . . . . . . . . ..
+Rasoir de gousse: , . . , , . . .,
+
+CH. _ RECETTES ET PROCÉDÉS UTILES.
+
+Argenture :
+Bandolines ,
+Béton imperméable.
+Béton : pour le rendre imperméable.
+Bijoux : nouveau procédé de nettoyage. . . . . . . . . ,
+Boïsson faite avec des pommes sèches . .
+Boucherie : odeur . . . , .., . . . .. . . . . . . ..
+Bouchon de verre rodé à l'émeri : {ouverlure des flacons
+fermés par un) . . ., . . . . .. . . . . .
+Caoulchouc : désodorisation des objets
+Celluloïd (travail du).
+Ciments au sucre
+Cold-eream épilatoire, . ..
+Coloration oxyde noir de cuivre, ..
+Conservation destissus : procédés . . . . . . .
+Corne : peinture mouchelée pour imiter l'évail! le
+Cossus gâte-bois : destruction, , . , , . . . . .
+Crayons anti-buée pour chauffeurs d’aulo
+Crème pour chaussures de cuir jaune. . . . . . . . . . .
+Crème et poudres de toilette au péroxyde de #ine
+Eaux de boisson : nouveau procédé d'épuration.
+Encre violette pour stylographe.
+Escargots : destruction , , , , .
+Fixatif pour pastel. .
+
+difficultés. . , . . .
+
+mn
+
+on + ss +
+
++
+CR
+mm
+
+nn 6 os + +
+
++
+
+Flacons fermés par un bouchon de verre rodé à l'émeri (ou-
+verture) , . 4, 4444444 4
+
+_ Fleurs : séchage en conservant formes et couleurs:
+‘Galvanoplastie du nickel sous de grandes épaisseurs. , . . .
+Iortensias bleus, . , 4 . . . :
+Igaifugateurs liquides . . . . , . , . . . . . ..
+
+Imperméabilisation des bâches. . , . . . . . . . . . . .
+
+Imperméabilisation du ciment et du mortier avec l'aluminate
+de baryte: . . . , , . , ... ..
+
+Kirsch : procédé de fabrication. .
+Laits caillés : préparalioa et ‘propriétés. . . . . .
+Lessive nouvelle pour le blanchissage du linge.
+
+126 |
+190
+18
+214
+30
+166
+60
+181
+
+ 
+
+ 
+
+IV. — HYGIÈNE ET SANTE.
+
+Lé sang des radiologistes (D' A. C.). .
+
+Une cause rare de saturnisme (D' A. C. iris
+_. Écriture droite ou écriture penchée (Daniel Claude) . . .
+
+‘ Contre lonycophagie (Dr AG)... . . . .. . ,. ...
+Rébabilitation de la punaise (Daniel Clau:le). ,
+Doit-on boire en mangeant {[D' 4. C.), . . . , . . ...,
+Les fausses tüberculoses pulmonaires (D' Burnier).
+
+Le traitement de la'goutte {D' À. CG}. , . , . . ..
+L'iode pour les soins de la bouche (Dr À, C.. .
+
+Les méfaits-d'une figue (D° 4. EC.) #:.., ,,,...
+Le permanganate de polasse comme antiseptique (Dr A. CJ.
+Dangers de la pierre d’alun des coiffeurs
+Peut-on éviter l'essoufflement (D' A. C.)
+Pouvoir antiseptique du savon,
+
+Fous +
+CT
+
+CR
+
+45
+21
+3
+
+51
+54
+
+en
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+
+4
+19
+188
+16%
+44
+
+Salle de bain portative. , , . . . . . . . . . . . . .. 16
+Télégraphie sans fil : Heure exacte à domicile par T.S.F. 139
+Tentes en. bambou. . . . , . , . . . . , .. . . . .. 92
+Timbre à rotule , . . . . , . , ,........ . ,. 196
+Tire-bottes . . . . . . . . . . . , . . . .. : 92
+Tiroir-caisse de sécurité contre le vol. . . , . . . . . . . 172
+Vignette pour numéroteur rapide. . . . . . . . . . . , . 180
+| Viticulture : Inciseur Bouchard. , . , . . . . .. 92
+Limaces : destruction. . . . . . . . . . ,. . 60
+Liquide à détacher. . . 4 . . . . . . . . . . ,. . . .. 166
+Mandrin extensible, , , 4... . . . . . .. . 206
+Miel : analyse sommaire. , , . . . . . . . . . . . .. 134
+Nettoyage des bijoux : nouveau procédé , . , . . v… 174
+Nickelage. . . . 4... 11
+Odeur des boucheries. . . . .. ,.... ..,.... 94
+Outil en fer : amélioration . , . ., , ,.,,.,., ... 205
+Papier d'Arménie : préparation , . . , . . . . .. . 198
+Papier tue-mouches : préparation. . . . 4 .. . . . . , . 78
+Paratonnerres pour arbres. . . . . , . , . . . .. 166
+Parchemin végétal : préparation . . . . . , . . . ,. . . 215
+Peinture à l'aluminium pour écrans à projections. . . , . . 102
+Peintures anticryplogamiques . . . . , sure 94
+Peinture mouchetée de la eorne pour imiter l'écaille. . . . 905
+l'erçage de trous polygonaux avec une forerie ordinaire. . 54
+Pigeous artificiels pour ball-trapp. sous ses A3
+Plaques photographiques : utilisation pour la polycopie. 5
+| Polgcopie : nouvelle préparation, . , . . . . . . . . .. 214
+| Polycopie : utilisalion des plaques photographiques. 5
+Poudre épilatoire . . . . . .. . ,.. .. , ....,. 38
+Pseudo-sels anglais à longue durée. : . . ,. ss. 102
+Savon liquide neutre. . . . ......,... , 60
+Savon liquide parfumé , , . . . . . or errs 166
+Séchage des fleurs en conservant formes el couleurs. + 150
+Sels anglais et américains. , , , . . . Dosssess 43
+Tabac : extraction du Jus . . . . . . , . . .. . . . .. 205
+Taches de rouille sur les Lissus : enlevage, . . . . . . .. 46
+Teintes irisées sur verre, porcelaine, métaux, 58
+Tissus : procédés de conservalion, . . . , . . 182
+Trempe des acicrs rapides, . . . . . . . . res. . 4
+Veines du bois : pour Ies faire ressorhir. . . . . . . , .. +18
+Vin muscat : préparalion . , . . use + + + 126
+Vis à bois : fixation dans un mur. . . . . . . , , . . . . 49%6
+Yrilleltes des meubles : procédés de destruction. , . . 21, 402
+| Jode comme antiseptique (D À, G.}. . . . .. 425
+iluile camphrée en chirurgie {Dr A. C.). . . , ,. .. 425
+Fréquence de la pelade {D' A. G.), . . , . , ,. . . …. . 150
+: Peut-on éviter l'essoulfiement (D' A. G.) . . . ., -457
+Contre l’hypertrichose (D' 4. C.).'. . ur. 437
+Pression artérielle pendant la digestion. . . . . . , . .:. 165
+Tuberculose du pore {D° A. C.). . . . .. . . . .. 465
+Les centenaires (D' A. Carlaz), . . . 473:
+Un estomac tolérant {Dr A. @G.). . . . . . . ... !:... 481
+À propos du sevrage (Dr À, Carlaz), . . . ., , ., .... 489
+Emploi de la chambre à air de hicycletie comme bande hé-
+mostatique ou ligature, . , . .. .. ....... . 197
+Contre les pellieules {Dr 4, C1... . . .,, 913“| TABLE DU SUPPLÉMENT |}
+
+V. — VARIÉTÉS.
+
+La conservation des confitures (H. Buix). . , . , . . . . . 21 || Le réseau météorologique de la Côte d'Azur, . . , . . . . 109
+Les baies et les fruits à noyau dans la cuisine allemande Coloration des œufs d'oiseaux (D. GLawDE) . . , . . . . , . 417
+(A. TRUBLLE), 4... ....,......... 31 || Utilisation des prunelles {A. Tauezze). . , , . . : . . . . 125
+L'Atlas de géographie de Vivien de Saint-Martin et Schrader 53 Marquage des moutons et l'industrie lainière (H. Bun). . . . 135
+Les tailles extrêmes des Vertébrés . . . sms 6 Statistique sanitaire de la France pendant la période 1906-
+La prophylaxie de la malaria dans les États malais{M. Bror)). 69 4910... . ...., rune eee 441
+Unfeu Saint-Elme observé à Paris (J. L.). . . , . . . . . 85 || Durcissement des pierres à bâtir {A.C.). . . . . . . . .. 157
+‘Influence des sels de lithium et de cœsium sur le développe- | Industrie du museau de bœuf à Paris (R. Vizcens). . . . . . 465
+ment du blé (A, TRUELLE). . . 4 , . . . . . . . , . . 85 || La soie de lin{ll. Buw). . . . . . . . sous 181
+Le paupérisme en Allemagne et en Angleterre. . , . . . . 93 || L'industrie des pêches séchées au Chill. . , . . . . . . . 189
+L'industrie des cires végétales des pays tropicaux (H, Brin) . 101 || Le café de figues (A. Rozer). . . . . . . . . srusers 197
+VL — DIVERS.
+Bulletin astronomique [En Toucner). . . . . . . . . . 45, 149 |] Résumé météorologique. , . . . . 29, 61, 104, 133, 173, 205
+
+FIN DE LA TABLE DU SUPPLÉMENT
+
+Go
+
+Le Géran P, Masson. ‘
+
+Droits reservés au Cnam et à ses partenairesPARIS, IMPRIMERIE GÉNÉRALE LAHURE
+9, Rue de Fleurus, 9
+
+Droits reservés au Cnam et à ses partenaires

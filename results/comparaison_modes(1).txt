@@ -1,0 +1,137 @@
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 16:08:18 conventionnal + maj_maj + abreviations (9 mins)
+----------------------------------------------------------------------------------------------------------
+overall scores on the corpus vol83:
+	precision = 62.05 %
+	recall = 75.16 %
+	F-measure = 67.98 %
+
+overall scores on the corpus vol126:
+	precision = 44.27 %
+	recall = 77.22 %
+	F-measure = 56.28 %
+
+overall scores on the corpus vol12:
+	precision = 67.07 %
+	recall = 79.00 %
+	F-measure = 72.55 %
+
+## overall scores on the whole corpus:
+	precision = 58.26 %
+	recall = 77.01 %
+	F-measure = 66.34 %
+
+
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 16:26:16 conventionnal + min_min + abreviations 20 mins
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 67.23 %
+	recall = 73.91 %
+	F-measure = 70.41 %
+
+overall scores on the corpus vol126:
+	precision = 51.53 %
+	recall = 75.00 %
+	F-measure = 61.09 %
+
+overall scores on the corpus vol12:
+	precision = 70.99 %
+	recall = 72.98 %
+	F-measure = 71.97 %
+
+## overall scores on the whole corpus:
+	precision = 63.92 %
+	recall = 73.82 %
+	F-measure = 68.51 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 16:25:10 conventionnal + min_min + maj_maj + abreviations 30 mins
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 61.25 %
+	recall = 81.99 %
+	F-measure = 70.12 %
+
+overall scores on the corpus vol126:
+	precision = 43.38 %
+	recall = 78.33 %
+	F-measure = 55.84 %
+
+overall scores on the corpus vol12:
+	precision = 67.43 %
+	recall = 82.81 %
+	F-measure = 74.33 %
+
+## overall scores on the whole corpus:
+	precision = 57.96 %
+	recall = 81.45 %
+	F-measure = 67.72 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 17:34:19 conventionnal + abreviations (8mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 69.01 %
+	recall = 67.08 %
+	F-measure = 68.03 %
+
+overall scores on the corpus vol126:
+	precision = 52.99 %
+	recall = 73.89 %
+	F-measure = 61.72 %
+
+overall scores on the corpus vol12:
+	precision = 70.80 %
+	recall = 69.04 %
+	F-measure = 69.91 %
+
+## overall scores on the whole corpus:
+	precision = 64.80 %
+	recall = 69.35 %
+	F-measure = 67.00 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 21:43:56 conventionnal + maj_maj (7mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 69.94 %
+	recall = 72.98 %
+	F-measure = 71.43 %
+
+overall scores on the corpus vol126:
+	precision = 56.05 %
+	recall = 69.44 %
+	F-measure = 62.03 %
+
+overall scores on the corpus vol12:
+	precision = 70.48 %
+	recall = 67.97 %
+	F-measure = 69.20 %
+## overall scores on the whole corpus:
+	precision = 66.39 %
+	recall = 70.37 %
+	F-measure = 68.32 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 12, 2022 at 21:53:53 conventionnal (5 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 76.26 %
+	recall = 65.84 %
+	F-measure = 70.67 %
+
+overall scores on the corpus vol126:
+	precision = 66.85 %
+	recall = 66.11 %
+	F-measure = 66.48 %
+
+overall scores on the corpus vol12:
+	precision = 74.22 %
+	recall = 59.43 %
+	F-measure = 66.01 %
+## overall scores on the whole corpus:
+	precision = 73.13 %
+	recall = 63.60 %
+	F-measure = 68.03 %

@@ -1,0 +1,522 @@
+306
+
+
+
+PT EE
+
+
+
+LE CAOUTCHOUC SYNTHÉTIQUE
+
+Depuis longtemps, on sait que les chimistes qui
+orientent avec raison leurs recherches vers la réalisation
+des grands problèmes économiques, cherchent à disputer
+à la nature le secret de la synthèse du caoutchouc.
+Depuis longtemps aussi cette synthèse a été annoncée
+comme un fait accompli, démentie puis affirmée à nou-
+veau. Certes on a trop l'habitude d’attendre de la chimie
+les résultats les plus surprenants, de lui demander même
+souvent beaucoup plus qu’elle -ne sait et peut encore
+faire, pour que ce flottement dans ces affirmations ait
+pu ébranler la confiance des plus sceptiques. Seulement,
+si l’on demeure convaincu que le chimiste fera un jour
+le caoutchouc de toutes pièces, si on l’espère, on ne
+croit plus à une réalisation immédiate, Ou plutôt on n'y
+croyait plus, car il a suffi que de grands noms comme
+ceux de Ramsay, Perkins et Harriès missent dernièrement
+leur autorité au service de cette affirmation pour que
+cette synthèse fût bien près d’être considérée comme
+“acquise, à la veille même d’une exploitation industrielle.
+
+Ce qu'est la synthèse du caoutchoue, les possibilités de
+sa réalisation économique, l'importance commerciale
+d'une telle découverte, voilà ce que nous voudrions
+exposer, . —— .
+
+La composition chimique du caoutchouc. — On sait
+que le caoutchouc est une substance extraite d'un suc
+sécrété par les tissus d’un grand nombre d'arbres,
+arbustes, ou même lianes des produits tropicaux, princi-
+palement Artocarpées, Euphorbiacées, Apocynées. Ce suc
+obtenu par incisions et coagulé par des procédés divers,
+fournit la matière solide et élastique qu'est le caoutchouc.
+Mais à chaque variété d'arbre producteur, à chaque mode
+de coagulation correspond, peut-on. dire, une variété de
+caoutchouc. Le caoutchouc brut est une substance com-
+plexe, un mélange impossible à reproduire synthéti-
+quement, la synthèse voulant avant tout l’homogénéité,
+
+Il était donc nécessaire, avant d'essayer une repro-
+duction artificielle de cette substance, d’en déterminer la
+nature. Cette analyse fut entreprise dès 1784 par Bernard
+qui, soumettant le caoutchouc à la pyrogénation, en isola
+une huile que Grégory, Ilimley et À. Bouchardat, tous trois
+à peu près à la même époque vers 1835, scindèrent en
+deux portions, l’une bouillant aux basses températures
+vers 900-400, l’autre plus haut. vers 1800, En 1860,
+Greville. Williams reconnut la portion inférieure comme
+formée d’un carbure nouveau, l’isoprène, de formule
+CSHS, Vers 1875, G. Bouchardat, en étudiant l’action à
+chaud de l'acide chlorhydrique sur le carbure de Williams,
+remarqua que ce carbure était susceptible de fournir un
+polymère élastique ayant les propriétés du caoutchouc.
+C’est dans ce fait extrêmement intéressant qu’il faut voir
+la première ébauche de synthèse du caoutchouc. Et si La
+science sait un jour bâtir complètement la molécule du
+caoutchouc, elle devra à G. Bouchardat, qui posa la pre-
+mière pierre de cet édifice, la réalisation de cette œuvre.
+
+Or, pour que cette réalisation fût possible, 1l fallait avant
+tout préparer l’isoprène par un autre procédé, C'est ce
+
+. Qu'essaya Tilden en 1884 cn décomposant par la chaleur
+
+l'essence de térébenthine, c’est-à-dire en dépolymérisant |
+
+le carbure Gt0116 en carbure plus simple C5HS8. Mais ce
+procédé, outre qu’il donnait le très mauvais rendements,
+
+avail le grand désavantage de partir d’un produit soumis
+
+lui-même à des variations de production et par suite de
+prix considérable. Une. autre voie était nécessaire et on
+
+
+
+se mit d’abord et avec raison à essayer de déterminer la
+constitution de cet isoprène. Les travaux de Bouchardat
+vinrent de nouveau éclairer cette question : il établit que
+sous l'influence d’un acide halohydrique tel que l'acide
+bromhydrique, l'isoprène peut en fixer soit une molécule,
+soit deux molécules. Il y avait donc là un corps deux fois
+non saturé que par la suite les recherches de Kondskof,
+Mokievsky, Ipatiew et Wittorf fixèrent de façon irréfutable
+comme le méthylbutanediène de formule :
+
+CIE — C— CH — CH
+|
+CIF.
+
+Au surplus, la synthèse d'Euler, d'ailleurs extrème-
+ment coûteuse, vint apporter une dernière confirmation
+à cette constitulion, Comment de la constitution de ce
+carbure passer à celle du caoutchouc? Nous avons dit
+que sous l'influence des acides halohydriques à chaud,
+G. Bouchardat avait remarqué la polymérisation de l’iso-
+prène en un corps élastique. Ge même chimiste remarqua,
+en outre, que le produit à point d’ébullition élevée obtenu
+dans la pyrogénation du. caoutchouc, se retrouvait en
+chauffant l’isoprène à 2800-2909 dans une atmosphère de
+gaz carbonique. Et le nouveau carbure obtenu présentait
+tous les caractères d'un-produit rencontré dans de nom-
+breuses essences, telle l'essence de térébenthine : le
+dipentène. |
+
+Ipatiew donna l'explication de ce fait par la conden-
+sation de deux molécules d’isoprène comme il apparaît
+dans les schémas ci-dessous, hypothèse vérifiée plus tard
+
+ni cHs
+AN ue
+“He N ‘JE
+ee re T4 CI
+|
+CLÉ CHE CH CHE
+2
+A CH
+| |
+ZX
+É N\. CHS CH?
+
+par la synthèse du dipentène à partir de l'isoprène,
+effectuée par Henry Perkins.
+
+Des horizons nouveaux étaient ouverts; la chaleur ma-
+nifestait deux actions simultanées : en même temps
+qu'elle dépolymérisait le caoutchouc ‘jusqu’au terme
+ultime isoprène, elle le repolymérisait en dipentène; la
+polymérisation primitive n’était donc pas de la nature
+de composés analogues au dipentène ; il y avait tout lieu
+de croire que cette polymérisation n’était pas faite en
+chaîne fermée sur 6 atomes de carbone. Était-elle en réa-
+lité ouverte ou fermée différemment? Il appartenait aux
+remarquables travaux d'Ilarries de venir établir la véri-
+table constitution du caoutchouc, Harrices, en 1905,
+appliquant au caoutchouc une méthode nouvelle de tra-
+vail consistant en fixation d'ozone sur les corps orga-
+niques non safurés, trouva que par fixation de cet ozone
+sur le caoutchouc, on ohtenait un corps à qui l'analyse
+assignait comme formule C0H1606 : soit fixation de deux
+
+Droits reservés au Cnam et à ses partenaires
+molécules d'ozone sur le groupement C101]#6. Ce produit,
+cet ozonide comme on l'appelle, semblait donc être un
+produit de dépolymérisation de la molécule élevée du
+caoutchouc. Or cet ozonide traité par l’eau a fourni de
+l'aldéhyde lévulique de formule
+
+CHS— CO — CIE — CH — CO.
+
+Si donc l'aldéhyde lévulique était le seul produit
+obtenu dans ces conditions, c’est que la molécule du
+caoutchouc était bien fermée sur elle-même. Voici en
+effet comment on peut s'expliquer cette constitulion :
+
+C5 — CO — CH° — CH — CIE
+f x
+0 0
+BUS 05 f
+qe, IF +0 — 0  Osonide
+ara Ozone  \
+0 0
+N 17
+CH — CHE — CH — C0 — CH
+
+Ozonide + HÉ0 — H20* + 2CH5 — CO — CH? — CHE — CIO
+Eau Aldéhyde lévulique
+oxygénéc
+
+I y avait Ft une chaine encore inconnue à 8 alomes
+de carbone et l'on pouvait écrire la formule chimique
+du Para pur :
+
+CI — € — CE — CH? — CH F
+| {
+| dk — CH — CHÉ — G — CHF
+
+Que se passait-il dès lors dans la décomposition pyro-
+génée du caoutchouc : un dédoublement de ce corps en
+isoprène et une transformation partielle de celui-ci en
+dipentène. .
+
+La constitution était ainsi, aussi nettement établie que
+possible. Agents physiques ou chimiques agissant sur le
+caoulchouc lui donnaient pour squelette un produit en C#,
+cinq atomes de carbone liés en chaine linéaire. Comment
+un tel produit pouvait-il prendre naissance au sein des
+végétaux? IL devait prendre ses 5 atomes de carbone
+li oùils se trouvaient, dans la plante, à l’amidon, aux
+sucres, aux substances ternaires de formule générale
+CSIL00$ plus où moins condensées, pouvant fournir par
+réduction l'isoprène susceptible de se polymériser à l’état
+nussant,
+
+De là cette solution séduisante au point de vue indus-
+triel, la transformation de l'amidon en caoutchouc ;
+l’amidon dont les réserves sont inépuisables, le prix coù-
+tant insignifiant et de toute stabilité,
+
+Ce sont ces idées que les chimistes nommés plus haut,
+ont cherché à réaliser et celte réalisation, si l'on s’en
+tient aux communications scientifiques, semble bien avoir
+ëélé-couronnée de succès, Lout au moins au point de vuc
+pratique.
+
+Le problème posait deux questions :
+
+4° L’obtention de l’isoprène à bon marché ;
+
+2% La transformation de l’isoprène en caoutchouc avec
+des rendements économiques.
+
+Essai d'obtention de l’isoprène. — Un groupe com-
+posé de quatorze chimistes et: bactériologisles s’altuqua à
+celle question; il faut y mentionner Strange qui, dès
+1908, orienta ses recherches de ce côté, Matthews, Per-
+kins et Ramsay, comme conseillers, le professeur Fern-
+bach de l’Institut Pasteur de Paris.
+
+On songea immédiatement à utiliser les alcools supé-
+rieurs, résidus de la fabrication de l'alcool ordinaire. Ce
+mélange, connu sous Je nom de fusel ou d'huile de
+
+LE CAOUTCHOUC SYNTHÉTIQUE
+
+
+
+
+
+
+
+
+
+307
+
+pomme de terre, est constitué en majeure parlie par
+l'alcool isoamylique de formule
+
+CIB< sr
+CIS“ CH — CIE — CHS OH.
+
+Un brevet en date du 51 juillet 1911, pris simultané-
+ment par Perkins, Weizmann, Matthews et Stronge, se
+rapporte à la production de l'isoprène, en vue de la
+fabrication synthétique du caoutchouc, à partir du mé-
+lange des alcools amvyliques et en particulier de l'alcool
+isoamylique. Cet alcool isoamylique est transformé par
+déshydratation en carbure :
+
+CH? nn
+C2” CI — CH = CHE
+
+lequel perdrait encore deux atomes d'hydrogène par
+aclion de la chaleur avec transformation en isoprène. On
+peut se demander quel rendement il y aurait lieu
+d'espérer d’un mode opératoire aussi brutal. Ce même
+brevet mentionne, il est vrai, également un traitement à
+l'acide bromhydrique, puis à la potasse alcoolique ou à la
+chaux vive, sans que cet autre procédé puisse non plus
+a priori paraître très avantageux.
+
+Au surplus, la production mondiale de l'alcool isoumy-
+lique n'étant que de 3500 tonnes, il était avant. tout
+nécessaire d’avoir un moyen économique d'obtention de.
+cet alcool. C’est alors que le professeur Ferñbach, met-
+tant à profit cette remarque d’Ehrlich que l'addition de
+certaines matières telles que les aminoacides augmente
+dans la fabrication de l'alcool le rendement en alcools
+supérieurs, chercha de ce côté la solution du’ problème.
+Voulant faire de la produclion d’alcoo! éthylique la phaéo
+accessoire de la réaction de la fermentation, il n’obtint
+pas les résultats altendus; mais découvrit de ce fait
+de nouveaux modes de fermentation du plus haut
+intérêt,
+Obtention du butanèdiène et du méthylisoprène. —
+On savait déjà que, sous l'influence d’un microorganisme,
+le bacillus butylicus, la glycérine est susceptible de fer-
+menter en donnant de l'alcool butylique normal {Fitz) el
+de l'alcool propylique. Grimbert avait, d'autre” part, réa-
+lé la fermentation du glucose sous l'influence d’un
+bäcille, le bacillus orthobutylicus avec production du
+même alcool butylique. Mais les rendements étaient mau-
+vais. Le professeur Fernbach, voulant réaliser de façon
+analogue et à l'aide d'une bactérie nouvelle la fermenta-
+tion de l’amidon de maïs, de pomme de terre, de manioc
+avec production d'alcool isoamylique, n’obtint lui aussi
+que .l’aicool butylique avec l’acétone ordinaire comme
+sous-produit. Ét ce résultat inopiné devient une réaction
+de très grosse importance. D'abord la production d’acé-
+tone qui a de très nombreuses applications iidustriclles :
+il suffit de citer les explosifs, les fibres artificielles, l’acé-
+tylène dissous. On à recours actucllement pour sa‘ prépa:
+ration à la distillation du bois qui n’en rend que
+1 pour 100.
+
+Le procédé Fernbach abaisse son prix de 50 pour 100
+et la produit en quantité illimitée, D’autre part, il'est
+établi aujourd’hui depuis les travaux d'ilarries. que, au
+point de vue de li synthèse du caoutchouc, la production
+d'alcool butylique est aussi importante que celle de l'alcool
+isoamylique. En ‘effet, si on fait subir à l’alcool butylique
+normal
+
+CIS — CH? — CII2 — CHÉOÏI
+
+le double traitement de déshydratation et de déshydrogéna-
+
+Droits reservés au Cnam et à ses partenaires308
+
+tion exposé plus haut pour l'alcool isoamylique, on tombe
+sur un nouveau carbure, le butancdiène
+
+- CIE = CH CH — CIE.
+
+Or ce carbure est le chaînon fondamental de l’isoprène,
+de l’isoprène deméthylé, c’est-à-dire son homologue infé-
+rieur : de même que le carbure
+
+CH—C—C—CIE
+|
+
+|
+CIF CHs
+
+serait l’isoprène méthylé ou son homologue supérieur. Et
+Harries à montré en 1911 que l’on peut faire du caout-
+chouc artificiel non seulement avec l’isoprène, mais avec
+ses homologues, en particulier avec le butanediène, et
+que le caoutchouc de butanediène, vulcanisable comme le
+caoutchouc naturel, a des qualités au moins égales à celles
+du caoutchouc d'isoprène. Ces résultats firent d’ailleurs
+l'objet d’un brevet pris par Matthews et Stronge en août
+1912 (n° 457 547), ces deux chimistes ayant fait de leur
+côté celte découverte simultanément avec Harrics,
+
+D est facile d’entrevoir dès lors toute l'importance de
+la réaction de Fernbach : d'une part, formation d’aleool
+butylique, passage au bulanediène et condensation en
+caoutchouc de butanediène ; d’autre part, production d’acé-
+tone: composé d’une grande utilisation industrielle, Ajou-
+tons que peut-être on peut voir dans l’acétone elle-même
+une matière première pour la synthèse du caoutchouc.
+L'acélone réduite dans des conditions convenables fournit
+en eflet ce nouveau corps, la pinacone bi-alcool tertiaire
+qui, déshydraté avec la plus grande facilité, conduit direc-
+tement au diméthylbutanediène ou méthylisoprène lequel,
+comme ses homologues inférieurs i isoprène et butanediène,
+donne par condensation un caoutchouc de diméthylbu-
+tanediène d'une grande valeur commerciale, comme l’a
+démontré Kondakof,
+
+Transformation de l'isoprène où homologues en caout-
+chouc, — Tous les hydrocarbures possédant le double
+chaînon > G(—C—C—C< ont en réalité tendance à
+se polymériser soit sous l'influence de la chaleur, soit
+
+_plus lentement, spontanément, soit sous l'influence de
+divers réactifs. Le brevet pris par Matthews et Stronge,
+n’est que l'application de cette propriété. En faisant agir
+sur lesdits carbures un métal alcalin, un métal a lcalino-
+lerreux. ou un alliage de ces métaux ou d'un de ces
+métaux avec d'autres, “on provoque leur condensation
+dans ‘des . conditi ‘ons extrémement avantageuses, puis-
+qu’elle aboutit à un rendement de 100 pour 100.
+
+Le’ sodium métallique ou le potassium métallique
+seraient les meilleurs agents. Ils provoqueraient une
+polymérisation quantitative à froid ou à température peu
+élevée, tous les autres procédés étant lents et exigeant
+une haute température.
+
+Les produits de condensation auraient toutes les pro-
+priétés du caoutchouc, y compris la vulcanisation.
+
+Tel est l’ensemble des faits acquis, qui a permis au
+
+professeur Perkins de faire récemment, devant la Société
+d'industrie chimique de Londres, une communication
+d’un grand retentissement, annonçant la synthèse du
+caoutchouc comme définitivement obtenue,
+Immédialement une Société se forma, la Synthetic
+Products Company Limited, en vue de lexploitation du
+nouveau procédé, au capital de 450 000 livres, soit
+41.250 000 francs, avec W. Ramsay comme directeur et
+
+LL
+
+LE CAOUTCHOUC SYNTHÉTIQUE
+
+
+
+
+
+S. W. Tilden, comme ingénieur conseil. L'annonce de
+celte constitulion de Société, suffit à faire baisser toutes
+les valeurs du caoutchouc naturel.
+
+Voici, en effet, d'après les inventeurs, le rendement
+qu’on peut attendre du nouveau traitement : 100 parties
+de pulpe sèche de pomme de terre, transformées à
+35 degrés par la bactérie de Fernbach, fournissent à la
+distillation fractionnée 43 parties d'alcool butylique ct
+d’acétonc.
+
+De ces 45 parties, 14 sont constituées par l'acétone
+(sous-produit), le reste, soit 29 parties, par l'alcool buty-
+lique. Des 29 parties d'alcool butylique, on retirerait
+22,5 de bütanediène transformables intégralement en
+caoutchouc. Le tableau suivant fait micux ressortir ces
+rendements.
+
+400 parties pulpe sèche de pommes de terre,
+
+4ÿ parties alcool butylique et acétone.
+
++
+ee ————
+Y
+
+29 alcool bulylique. 14 acètone (sous-produit).
+
+33,5 butanediène.
+
+22 caoutchouc.
+
+La pomme de terre renfermant environ un quart de son
+poids de fécule, il en résulterait que 400 kg-de pommes
+de terre brute pourraient fournir 22 kg de caoutchouc,
+ce qui, d’après Perkins, mettrait le prix de revient à
+ shilling la livre,
+
+On pourrait s'étonner d’un aussi bon rendement si
+Pon ne savait que ce ne sont encore là que des résultats
+d'expériences de laboratoire ; il semble malheureusement
+probable que le passage par les différentes phases du
+procédé ne se fera pas industriellement sans des abaisse-
+ments de rendements plus considérables, principalement
+la transformation de l'alcool butylique en hutanediène,
+opération qui ne peut être que, ou courte et brutale
+avec de mauvais rendements, ou longue et douce, mais
+alors coûteuse.
+
+Peut-on dire, en réalité, qu’on a fait ou fera jamais
+la synthèse du caoutchouc? Nous ne le: pensons ‘pès.
+À vrai dire, le mot synthèse est un terme impropre
+quand il s'agit des phénomènes que nous venons d’ex-
+poser; la chimie à l'habitude de le réserver à des faits
+plus nets ct plus précis. Sans parler du butanediène qui,
+lui, ne semble pas entrer à l’état condensé dans la .con-
+stitution du caoutchouc, l’isoprène lui-même ne saurait
+prétendre à reproduire le caoutchouc par polymérisation.
+Ce qu’on a fait, ce n’est pas une synthèse, mais une repro-
+duction artificielle du caoutchouc : l’isoprène condensé
+n’est, pour ainsi dire, que le principe actif du caout-
+chouc, ce que le menthol est à l’essence de menthe, la
+mannite à la manne ; à côté de lui existent, dans toute
+variété de caoutchouc, des produits secondaires, résines,
+dérivés d’oxydation. complexes et mal connus, dérivés
+qui donnent pourtant à chaque variété sa personnalité
+ou, plus simplement, ses propriétés, c’est-à-dire sa va-
+leur. Ce n’est pas la synthèse du menthol qui constitue-
+rait celle de l'essence de menthe, ce n’est pas l’isoprène
+condensé qui fait le caoutchouc. Bien plus, l’isoprène
+condensé lui-même n’est pas, à proprement parler, un
+produit synthétique. Un produit de synthèse est, avant
+tout, un produit défini qu'on sait pouvoir identifier
+avec le composé naturel à reproduire. par le point de
+fusion, l'indice de réfraction, le poids moléculaire, toutes
+propriétés révélatrices de la pureté, L’isoprène condensé n’a
+
+Droits reservés au Cnam et à ses partenairesLE MYSTÈRE DU COUCOU
+
+rien de tout cela : comme le caoutchouc, il est de nature
+colloïdale, il n’a ni point de fusion, ni point moléculaire
+qui permettent de le déclarer identique au caoutchouc
+pur. Comment ces molécules d’isoprène se sont-elles
+arrangées en édifice dans l’espace? la nature n’est pas
+simple ; pour qui sait le nombre pour ainsi dire illimité de
+composés qui peuvent êtreengendrés par l'alliance répétée
+de deux molécules entre elles, il est facile de concevoir
+l'incertitude où l’on se trouve. Pourtant, peut-être, de ce
+mode d’enchaînement dépend, pour une grande part, la
+valeur d’un caoutchouc, et il ne nous est pas permis, au
+moins avec nos procédés actuels, nos connaissances
+théoriques présentes, de prévoir comment il saurait être
+possible de bâtir un enchaînement à notre volonté, de
+réaliser tels stéréo-isomères qui nous seront apparus
+
+
+
+
+
+
+
+309
+
+comme les meilleurs. Certes, le jour n’est pas loin où
+un caoutchouc produit industriellement viendra concur-
+rencer sur le marché les caoutchoucs naturels ou de
+plantation. Que ceux-ci ne s’effraient pas, la lutte sera
+acceptable; la reproduction synthétique de la vanilline
+n’a pas détruit la vanille, le Para restera le Para.
+
+Mais quand bien même l’œuvre du chimiste ne sor-
+tirait pas complètement victorieuse de cette lutte, si
+seulement elle vient s'opposer à l’œuvre de la nature,
+suscitant une baisse des prix de vente et, par suite, des
+utilisations que nous ne saurions prévoir, le résultat
+atteint sera suffisamment convenable pour que la science
+s'en enorgueillisse à juste titre et puisse ajouter avec
+joie ce trophée à ceux qu’elle conquiert chaque jour.
+
+Axoné Derœur.

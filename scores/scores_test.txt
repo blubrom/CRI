@@ -1,0 +1,205 @@
+-------------------------------------------------    
+Chosen mode: latin_binom
+Evaluation of the article : Les_ravages_des_chenilles_p178 :
+	true positives : ["Liparis auriflua"] 
+	false positives : ["Cette petite", "Bombyce disparate", "Berce pareille", "Liparis chrysorrhea"] 
+	false negatives : ["Yponomente", "Yponomenta malinella", "Bombyx neustria Linn", "Liparis dispar Linn", "Liparis chrysorrhea Linn"] 
+	precision = 20.0 %
+	recall = 16.666666666666664 %
+	F-measure = 18.18181818181818 %
+Evaluation of the article : Les_ecailles_de_poissons_p31 :
+	true positives : ["Osmerus eperlanus"] 
+	false positives : ["Quelques \u00e9cailles", "Lesstries admirables"] 
+	false negatives : ["Esox lucius", "Clupea sardinia", "Pleuronecles solea", "Alburinus lucidus Heck", "Gobis fluviatilis"] 
+	precision = 33.33333333333333 %
+	recall = 16.666666666666664 %
+	F-measure = 22.22222222222222 %
+Evaluation of the article : Le_vent_et_les_orties_p14 :
+	true positives : ["Urtica urens"] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.0 %
+	recall = 100.0 %
+	F-measure = 100.0 %
+Evaluation of the article : Les_anabantides_p193 :
+	true positives : [] 
+	false positives : ["Mus\u00e9um lui", "Quatre esp\u00e8ces", "Bouche petite", "Bouche transverse"] 
+	false negatives : ["ANABANTID\u00c9S", "Anabas", "Anabantid\u00e9s", "Anabas", "anabas", "Anabantid\u00e9s", "Anabantid\u00e9", "Anabantid\u00e9s", "Anabantid\u00e9s", "Anabas", "Anabas", "Anabas", "Anabas", "Anabantid\u00e9s", "Anabas Cienopome", "Spirobranches", "Polyacanthe", "Macropode", "Orphrom\u00e8ne", "Trichopus", "Trichopsis", "Trichogaster", "Betta", "Heloctome"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : La_vipere_noire_d_Australie_p416 :
+	true positives : [] 
+	false positives : ["Sol\u00e9noglyphes celle", "Australie mais", "Vip\u00e8re enroulante", "Schlingende natler"] 
+	false negatives : ["Ophidiens sol\u00e9noglyphes", "Crotaliens", "Vip\u00e9riens", "Acanthophide c\u00e9rastin", "Acanthophide c\u00e9rastin"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Le_venin_du_scorpion_p151 :
+	true positives : [] 
+	false positives : ["Globules qui", "Alt\u00e9ration plus", "Une heure", "Bellesme prouve"] 
+	false negatives : ["scorpio europ", "scorpio occilanus", "scorpio occitanus", "scorpio afer", "scorpio funestus", "buthus imperalor", "scorpio occitanus", "scorpio occitanus", "scorpio europ", "scorpio occitanus", "Scorpio occitanus", "scorpio occilanus", "scorpio occitanus"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_musaraignes_des_pyrenees_p90 :
+	true positives : [] 
+	false positives : ["Daubenton sorex", "Chelle plus", "Gette esp\u00e8ce"] 
+	false negatives : ["sorex areneus", "sorex fodiens", "arvicola arvalis", "auriculis absconditis"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_phoques_a_fourrure_p135 :
+	true positives : ["Phoca vitulina"] 
+	false positives : ["Cette station", "\u00c9glise grecque", "Cette sage", "Cette belle", "Mais aucune"] 
+	false negatives : ["Cumetopias selleri", "Trichichus rosmarus"] 
+	precision = 16.666666666666664 %
+	recall = 33.33333333333333 %
+	F-measure = 22.22222222222222 %
+Evaluation of the article : Les_poissons_fossiles_p115 :
+	true positives : ["Conus ponderosus", "Turritella triplicata"] 
+	false positives : ["Notre confr\u00e8re", "Paris grace", "Meumer qui", "Sauvage tire", "Comme mterm\u00e9diaire", "Suisse devenues", "Plagiostomes mais", "Chiavon celles", "Cette hypoth\u00e8se", "Cette terre", "Am\u00e9rique lorsque", "Erythr\u00e9e dans", "Sicile similaires", "Infusoires caract\u00e9ristiques", "Seguenza qui", "Licata recueillis", "Sauvage rappelle", "Seille rivi\u00e8re"] 
+	false negatives : ["T\u00e9l\u00e9ost\u00e9ens", "Ganv\u00efdes", "T\u00e9l\u00e9ost\u00e9ens", "Hol\u00e9co\u00efdes", "Gano\u00efides", "Gestraciontes", "Iylodontes", "Gano\u00efdes", "Plagiostomes", "Fistularia", "Vomer", "Osmerus", "Clupea", "Osmerus Albyi", "Anopterus Albyi", "Murex scabcr Arca", "Trigla licat", "Triglid", "Triglid", "Triglida licat", "Triglida Hirundo", "Scomh\u00e9ro\u00efdes", "Anxis", "Scomber", "Osmerus Albyi", "Anapterus", "\u00dcsmerus", "Anapterus", "Diatomac\u00e9es"] 
+	precision = 10.0 %
+	recall = 6.451612903225806 %
+	F-measure = 7.8431372549019605 %
+Evaluation of the article : Raisin_blanc_modifie_en_raisin_noir_p288 :
+	true positives : [] 
+	false positives : ["Flon qui"] 
+	false negatives : ["Podocarpus Koraiana"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : De_reproduction_du_phylloxera_p262 :
+	true positives : ["Lacanium vermilio"] 
+	false positives : [] 
+	false negatives : ["Quercus Coccifera", "phylHoxera vastatrix"] 
+	precision = 100.0 %
+	recall = 33.33333333333333 %
+	F-measure = 50.0 %
+Evaluation of the article : La_commission_de_peche_p403 :
+	true positives : ["Spirorbis nautiloides", "Cornutus autolytus", "Lucernia quadricornis", "Lucernia quadricornis"] 
+	false positives : ["Cirratulus grandis", "Octopus selon", "Zo\u00e9e qui", "Cette diminution"] 
+	false negatives : ["Cirratulus", "Lern onema radiata", "iner Grratulus", "Cancer irroratus"] 
+	precision = 50.0 %
+	recall = 50.0 %
+	F-measure = 50.0 %
+Evaluation of the article : ACADEMIE_DES_SCIENCES_p318 :
+	true positives : [] 
+	false positives : ["L\u00e9pidotus tertiaire", "Depuis celte", "Graves enmentionne", "Noyon dans"] 
+	false negatives : ["L\u00e9pidotus", "l\u00e9pidotus", "J\u00e9pidost\u00e9s", "l\u00e9pidotus", "Crocodilus depressifrons", "l\u00e9pidotus"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Quelques_infusoires_p239 :
+	true positives : ["Amphileptus margaritifer", "Kolpode capuchon", "Euplotes charon", "Stylonychia mytilus"] 
+	false positives : ["Une feuille", "Venus mais"] 
+	false negatives : ["Trachelocerea olor", "Param\u00e9cie Aur\u00e9He", "Kolpodes", "Param\u00e9cies", "amphileptus", "euplotus", "Stylonychia Icion"] 
+	precision = 66.66666666666666 %
+	recall = 36.36363636363637 %
+	F-measure = 47.05882352941177 %
+Evaluation of the article : La_commission_de_peche_p391 :
+	true positives : ["Stenotomus argyrops", "Pomatomus saltatrix", "Slenolumus argyrops", "Cerianthus borealis", "Lophius americanus", "Dendronotus arborescens", "Boltenia reniformis", "Cerianthus borealis"] 
+	false positives : ["Une rang\u00e9e", "Conserv\u00e9e dans", "Boltenia offre"] 
+	false negatives : ["Coryph\u00e8ne", "lomatomus sallatrix", "0phius americanus", "Pentacta frondosa", "ophius", "Torpedo occidentalis", "Lophothuria fabricii", "Pentacta frondosa", "Boltenia"] 
+	precision = 72.72727272727273 %
+	recall = 47.05882352941176 %
+	F-measure = 57.14285714285714 %
+Evaluation of the article : Graines_ayant_germe_p338 :
+	true positives : [] 
+	false positives : ["Laurium exploit\u00e9es", "Une chose", "Flora orientalis"] 
+	false negatives : ["Glaucium Serpieri", "Glaucium"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_Moas_ou_Dinornis_p369 :
+	true positives : ["Dinerais ingens", "Dinornis robustus", "Dinornis giganieus", "Dinornis casuarinus", "Dinornis ingens"] 
+	false positives : ["Br\u00e9vipennes qui", "Autruches comme", "Ranges province", "Ranges province", "Autruche mais", "Dinornis qui", "Dinornis qui", "Ranges province", "Ranges province", "Dinornis giganteus", "Dinornis donn\u00e9e", "Dinornis qui", "Dinornis qui"] 
+	false negatives : ["MOAS", "DINORNIS", "Moas", "Dinornis", "Br\u00e9vipennes", "Br\u00e9vipennes", "tarsom\u00e9tatarsien", "tarsom\u00e9tatarsien", "elephantopus", "Dinora", "Palapt\u00e9ryx", "Dinornis", "D didiformis", "D elephantopus", "Dinornis", "Dinornis", "Strigops", "Ocydromes"] 
+	precision = 27.77777777777778 %
+	recall = 21.73913043478261 %
+	F-measure = 24.390243902439025 %
+Evaluation of the article : Du_voyage_du_challenger_p372 :
+	true positives : ["Scalpellum regium", "Sculpellum regium", "Scalpellum regium", "Ophioglyphe bullata", "Antennarius marmoratus"] 
+	false positives : ["Scalpellum poss\u00e8de", "Une bande", "Thomson raconte", "Chaque touffe", "Lrouve plus"] 
+	false negatives : ["Scalpella", "Scalpellum", "Scalpellum", "Scalpellum r", "Physostomes", "Siernoptychides", "Sternoptychide", "Thalassidroma Wilsoni", "Lophius Piscatorius", "Antennarus"] 
+	precision = 50.0 %
+	recall = 33.33333333333333 %
+	F-measure = 40.0 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p330 :
+	true positives : [] 
+	false positives : ["Kava boisson"] 
+	false negatives : ["Peper Methysticum", "Dammara viliensis"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Faisan_d_elliot_au_jardin_des_plantes_p177 :
+	true positives : [] 
+	false positives : ["Cette nouvelle", "Perdicides qui"] 
+	false negatives : ["Calophasis Ellioti", "Phasianus lorquatus", "Torquatus", "Revesit", "Calophase", "Euplocomes", "Phasianides"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_amorces_des_squales_p80 :
+	true positives : [] 
+	false positives : ["Une rang\u00e9e", "Hermite pris", "Squales qui", "Paris mais", "Tr\u00e8ves qui"] 
+	false negatives : ["Pagurus Bernardus Linn", "Pal\u00e9mons", "Crangons", "Buceins", "Dueccins", "Luccin Lessin"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Guerre_au_phylloxera_p44 :
+	true positives : ["Phylloxera vastatrix"] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.0 %
+	recall = 100.0 %
+	F-measure = 100.0 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p307 :
+	true positives : [] 
+	false positives : ["Australie orientale", "Comptes rendus"] 
+	false negatives : ["Macrotoma Heros", "Holothuria edulis"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Le_bananier_a_paris_p144 :
+	true positives : ["Musa ensete"] 
+	false positives : ["Plantes mais", "Notre gravure", "Lambertye qui"] 
+	false negatives : [] 
+	precision = 25.0 %
+	recall = 100.0 %
+	F-measure = 40.0 %
+Evaluation of the article : Les_maladies_de_la_vigne_p218 :
+	true positives : [] 
+	false positives : ["Garnier fr\u00e8res", "Gette d\u00e9sorganisalion", "Cette alt\u00e9ralion", "Grison jardinier", "Lalorgue propri\u00e9taire"] 
+	false negatives : [] 
+	precision = 0 %
+	recall = 100 %
+	F-measure = 0.0 %
+Evaluation of the article : Oiseaux_des_Iles_Mascaraignes_p408 :
+	true positives : ["Psitlacus rodericanus", "Columba rodericana"] 
+	false positives : ["Eudes quelques", "Association britannique", "Pigeon mais", "Gelinottes qui", "Gelinotte aussi", "Plantes ennemie", "Afrique centrale", "Pteropus rubricollis"] 
+	false negatives : ["Pexophaps", "Ocydrome", "Erythromaque", "Athene murivora", "Ardea megacephala", "Turtur picturatus", "Numida tiarata", "Pteropus rubricollis Leguat"] 
+	precision = 20.0 %
+	recall = 20.0 %
+	F-measure = 20.000000000000004 %
+Evaluation of the article : Coloration_artificielle_des_fleurs_p374 :
+	true positives : ["Hesperis matronalis"] 
+	false positives : ["Une autre"] 
+	false negatives : ["1beris umbellata"] 
+	precision = 50.0 %
+	recall = 50.0 %
+	F-measure = 50.0 %
+Evaluation of the article : Le_gourami_p245 :
+	true positives : [] 
+	false positives : ["Macropode qui", "Gommerson d\u00e9clare", "Australie cette"] 
+	false negatives : ["Pharyngiens labyrinthiformes", "Osphronemus olfax", "Aro\u00efd\u00e9es"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Crustace_du_fond_de_la_mer_p68 :
+	true positives : ["Astacus zaleucus", "Astacus pellucidus", "Cambarus pellucidus", "Calliaxis adriatica", "\u00c0stacus zaleucus"] 
+	false positives : ["Europe mais", "Heller qui", "Hoploparia longimana"] 
+	false negatives : ["NEPHROPS STEWARTII", "Nephrops Stewartii", "Nephrops Norwegicus", "Astaciens", "Calocaris Macandre", "Nephrops Stewartii", "Calocaris", "Nephrops Stewartii", "Nephrops"] 
+	precision = 62.5 %
+	recall = 35.714285714285715 %
+	F-measure = 45.45454545454545 %

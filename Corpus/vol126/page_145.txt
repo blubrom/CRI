@@ -1,0 +1,170 @@
+138
+
+29 La nageoire. On sait que les coques des hydravions
+modernes ont des formes très arrondies qui ne leur donnent
+aucune stabilité propre. L'appareil, lorsqu'il repose sur l’eau,
+a, de ce fait, tendance à pencher latéralement, son équilibrage
+dans ce sens ne pouvant être parfait: autrement dit, en
+langage maritime, il prend de la bande. Il se reçoit alors sur
+des flotteurs ou ballonnets, placés aux bouts des ailes.
+
+La nageoire remplace les ballonnets. Sur le Latécoère 300
+elle est constituée par deux caissons vides, ayant le profil
+et l’aspect d’une aile épaisseet courte. Chacun de ces caissons
+est rivé sur un des flancs de la coque, sous l'aile, à hauteur
+de la flottaison. En l’air, la nageoire donne ainsi à l’hydravion
+l'aspect d’un « sesquiplan » dont le plan inférieur serait de
+dimensions très réduites.
+
+La nageoire est d’ailleurs « porteuse ». Elle porte son propre
+poids qui est d'environ une tonne.
+
+Lorsque l'hydravion est améri et au repos, la nageoire est
+partiellement immergée; l'appareil repose alors sur sa coque
+et ses nageoires, sans bande appréciable. Lorsqu'il prend de
+la vitesse pour décoller et monter sur les redans, la nageoire
+doit frôler la surface de l'eau, puis la tangenter sans la toucher,
+sous peine de freiner l'avion et d'empêcher le décollage.
+
+L'avantage de la nageoire est d'augmenter considérablement
+la flottabilité de l'hydravion, de la maintenir au repos sur
+l’eau sans aucune bande, et de ne rien peser en l'air.
+
+Mais sa mise en place et son réglage sont fort délicats.
+
+En effet : 19 Une tenue solide des caissons sur la coque est
+difficile à réaliser. Ils sont rivés en bout sur une surface faible,
+alors qu'ils subissent, au moment de l’envol, un effort d’arra-
+chement considérable;
+
+29 Le réglage de l'incidence de ces caissons, c’est-à-dire
+langle qu'ils doivent faire avec l'horizontale, doit faciliter
+la montée de l'appareil sur son redan; |
+
+30 L'immersion d'une nageoiïre est calculée sur le tonnage
+maximum; il faut, lorsqu'on amérit lège, que la nageoire ne
+se trouve pas très au-dessus de Ja flottaison. L'appareil repo-
+serait dans ce cas sur sa coque et sur l'extrémité de l’un des
+caissons, fort courts; il prendrait alors ung: bande, qui devien-
+drait excessive, étant donné que l'aile supériegre, très longue
+ne se trouve qu'à 5 m. 50 ou 6än au- déssus, dé‘ l’eau.
+
+Pour toutéé ces raisons, la nageoire n'a pas rallié, jusqu'ici,
+que des partisans. Beaucoup d’aviateurs considèrent son
+avenir avec scepticisme. Mais il en est ainsi de toute solution
+nouvelle : il ne faut pas oublier que lés deux coques paral-
+lèles du « Savoia » italien ont fait sourire bien des gens alors
+que l'appareil du raid Balbo était une coque « Savoia ».
+
+Le premier constructeur qui ait appliqué le principe de la
+nageoire à des hydravions de gros tonnages est Dornier. Ses
+caissons-nageoires étaient vides comme ceux du Latécoère 800.
+La mise au point en fut longue. La maison Latécoëre l'appliqua
+à son tour au Laté 880 de 10 tonnes, destiné à l'aviation
+maritime {mais cette fois la nageoire contenait des réservoirs
+d'essence), puis au Laté 300. Sur ce dernier appareil la réussite
+semble totale.
+
+ 
+
+#
+#
+
+La performance de la” Croix-du-Sud'constitue une épreuve
+d'endurance remarquable. Sa vitesse moyenne de 185 km
+n’est pas forte, mais le problème posé n'était pas un problème
+de vitesse.
+
+Le succès remporté par le commandant Bonnot et son équi-
+page est intéressant au double point de vue commercial et
+militaire.
+
+Pour les relations postales Afrique-Amérique du Sud, il
+permet d'envisager de façon courante l'emploi de l'hydravion
+multimoteur. D'autre part, il permettra d'établir dans une
+
+ 
+
+ 
+
+certaine mesure, une concurrence au Graf-Zeppelin, qui assure
+régulièrement le service Allemagne-Amérique du Sud,
+
+Jusqu'ici, il a été surtout question des terrestres multi-
+moteurs {voyage de Cousinet); or, quoi qu’on en dise, il n’est
+pas douteux que l'hydravion offre sur l'avion terrestre pour
+de telles traversées marilimes, des avantages sérieux de sécurité
+en cas de panne,
+
+Le Laté 300 peut d’ailleurs tenir l'air avec n'importe lequel
+de ses moteurs arrêté.
+
+Au point de vue militaire, il montre la légitimité de la
+conception de l'hydravion de croisière à grand rayon d'action,
+basé aux colonies et destiné à chercher et combattre les
+navires corsaires. Tout perfectionnement dans sa structure,
+tout progrès dans son emploi, présentent donc un grand
+intérêt. Commandant Sauvarre-JourDAN.
+
+MÉCANIQUE
+
+Wagons silencieux.
+
+On vient de mettre à l'essai sur l’Interborough Rapid
+Transit C0, de New-York, chemin de fer analogue à notre
+métropolitain, un wagon à l'abri des bruits.
+
+La caisse en est entièrement étanche aux bruits extérieurs :
+à cet effet les fenêtres sont constamment maintenues fermées
+et toutes les fissures par lesquelles les bruits pourraient
+pénétrer sont soigneusement bouchées. Les parois sont traitées
+acoustiquement. L'aération est assurée par des ventilateurs
+et les canalisations d’air sont aménagées de façon à interdire
+le passage du bruit des ventilateurs.
+
+On a mesuré l'intensité du bruit à l'intérieur du wagon
+ainsi équipé : dans les wagons ordinaires du chemin de fer
+souterrain de New-York, le bruit a la même intensité que
+celui de la cataracte de Niagara, entendu au voisinage immé-
+diat de la chute : soit 95 décibels. Dans le nouveau wagon, le
+bruit est réduit à 7,5 décibels, soit le 1/100 de la valeur primi-
+tive. Les voyageurs y peuvent sans trop de peine converser
+entre eux.
+
+BOTANIQUE
+Arbres bizarres.
+
+M. J. Maussier-Dandelot, de Pau, ‘a signalé dans La Nature
+du 15 décembre 1933, p. 568, un tilleul dont le tronc est
+brusquement renflé à partir de 1 m de hauteur. Cette anomalie
+n’est pas unique.
+
+Je ne parle pas d'un châtaignier (Casianea sativa Mill.)
+presque centenaire et intéressant à d’autres points de vue, qui
+existait il y a peu de temps et existe sans doute encore (quoique
+dépérissant), au Jardin botanique de Dijon. I] est représenté
+par la planche VI du charmant guide consacré à cet établisse-
+ment, par son éminent directeur M. P. -A. Genty. Son renfle-
+ment est dû à ce qu'il est greffé {sur chêne blanc) et il débute
+au niveau de la greffe.
+
+De ma table de travail, j'aperçois sur la promenade de la
+Douix, à Châtillon-sur-Seine (Côte-d'Or), un tilleul d’une
+soixantaine d'années qui présente la même particularité que
+celui de Pau, mais encore plus accentuée. Son diamètre est
+en effet de 0 m 60 jusqu'à 1 m 30 au-dessus du sol, et de
+4 m 33 immédiatement au-dessus de cette hauteur. Sa phoLo-
+graphie offre le même aspect que celle de la page 569.
+
+La soudure entre branches d'un même arbre ou d’arbres
+voisins et de même espèce, sans Être fréquente, n’est pas
+extrêmement rare. J'en ai observé récemment un cas sur le
+terrain de mes fouilles d’une station du premier âge du fer,
+au Mont-Lassois, près Châtillon; et les bûcherons en observent
+
+de loin en loin. JEAN LAGORGETTE.
+
+9
+oo T
+
+Droits reservés au Cnam et à ses partenaires

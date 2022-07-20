@@ -1,0 +1,127 @@
+
+— po
+
+SOCIÉTÉ FRANÇAISE DE PHYSIQUE
+
+Séance du 20 décembre 18178,
+
+M. le secrétaire général présente au nom de M. Bour-
+seul un microphone dont le principe consiste en l'emploi
+de deux feuilles de plaqué de fresne formant les parois
+d'une boite remplie de charbon coke ou poudre impalpa-
+ble. Le courant qui va ensuite actionner le téléphone tra-
+verse cetle résistance que font varier les moindres bruits
+provoquant la vibration des plaques. Ainsi qu'on a pu
+
+Droits reservés au Cnam et à ses partenaires
+100
+
+s’en convaincre, le limbre de la voix estheaucoup moins
+modifié que lors de la transmission par deux téléphones.
+
+M. Aymonnet décrit la méthode qu'il emploie pour
+graduer les galvanomètres. Ïl recoit sur une pile thermo-
+électrique liée au galanomètre, et dont il fait varier la
+distance à la source calorifique, alternativement les rayons
+directs ct les rayons ayant traversé un corps très dia-
+thermane : il note les rapports des déviations correspon-
+dantes. Les limites angulaires entre lesquelles ces rap-
+ports sont égaux comprennent la portion du galvanomètre
+où Îles dévialions sont proportionnelles aux quantités de
+chaleurs reçues par la pile. Il passe ensuite par des divi-
+sions successives à l'expérience des intensilés correspon-
+dantes aux dévialions comprises au-dessous et au-dessus
+de ces limites. On peut vérifier la graduation en faisant
+varier la nature du corps diathermane, En produisant
+des dérivations dans le courant et recommençant ainsi la
+gradualion, M. Aymonnet s’est convaincu que les inten-
+sités des courants sont proporlionnelles aux quantilés de
+chaleur qui les engendrent.
+
+M. Joubert expose les recherches qu'il a faites sur la
+
+LA NATURE.
+
+ 
+
+variation du pouvoir rotatoire du quartz avec la tempéra-
+ture. L'appareil d'observation était le saccharimètre Lau-
+rent, éclairé par la lumière de la soude. Pour les tem-
+pératures élevées, M. Joubert plaçait le quartz dans un
+tube chauffé par la vapeur d’un liquide bouillant, selon
+le dispositif employé par MM. Deville et Troost dans la
+mesure des densilés de vapeur. Les températures au-
+dessus de la température d'ébullilion du eadmium (8409),
+élaient produites par un fourneau chauffé aux huiles
+lourdes de pétrole. L'épaisseur des échantillons a varié de
+15 à 40 nullimètres.
+
+Les résultats ont été les suivants : Tous les quartz sont
+identiques au point de vue qui nous occupe. La courbe
+représentative des variations du pouvoir rotatoire du
+quartz avec la température s'élève d'abord rapidement
+jusqu'à 3000. De celte température jusqu’à l’ébullition
+du cadmium (8400) elle se confond presque avec une
+ligne droite, en présentant un point d’inflexion vers 5000.
+Au ‘delà de 8400 Ja courbe change brusquement d'al-
+Intes; le pouvoir rolatoire qui variait si rapidement ne
+croit plus jusqu'à 15009 qu'avec une lenteur extrême.
+
+ 
+
+Rhéo-tsl por pression, de A, Edisun.
+
+RILEOSTAT PAR PRESSION
+
+Nous avons résolu de signaler à nos lecteurs
+quelques-uns des appareils nouveaux de M. Edison.
+Nous remercions le savant Américain d'avoir bien
+voulu nous adresser les documents nécessaires à la
+publication des gravures que nous publierons suc-
+cessivement. Nous parlerons aujourd'hui du nou-
+veau rhéostat par pression.
+
+Le courant qui entre par la borne de droite sort
+par la borne de gauche, après avoir traversé la co-
+lonne dont la coupe montre la composition inté-
+rieure.
+
+Le tube À étant en ébonite ou en ivoire, le cou-
+
+-rant est obligé de traverser la partie intérieure qui
+est composée de feuilles en étoffes de soie impré-
+guées d'une substance dont la composition n'est
+point donnée, enduites de charbon et dont la con-
+ductibilité varie suivant l'état de compression.
+
+Pour: donner la pression, on emploie la vis F dont
+le filet sullant D est creusé dans l'écrou E. Ce der-
+
+ 
+
+nier porte une échelle graduée verticale G, qui
+permet d'évaluer exactement le nombre de tours.
+Le Jimbe F G étant également gradué, les frac-
+tions de tour sont indiquées à la façon des vis mi-
+crométriques.
+
+Un tâtonnement préalable a permis de reconnai-
+tre quelle est la meilleure proportion à adopter en-
+tre le nombre des disques, leur nature et l'épaisseur
+des couches de charbon.
+
+Cette disposition ingénieuse autant que simple,
+est fort intéressante ; elle permet de profiter, sous
+une nouvelle forme, de l’influence du tassement des
+matières pulvérulentes sur leur conductibilhité élee-
+trique, propriété dont M. Edison a déjà tiré tant
+d'inventions différentes.
+
+La sensibilité de ce rhéostat est, dit on, exces-
+sive, ce qui se comprend facilement puisqu'on
+peut approprier la nature et le nombre des disques
+au genre des courants qu'il s'agit d'étudier.
+
+— 5 —
+
+Droits reservés au Cnam et à ses partenaires

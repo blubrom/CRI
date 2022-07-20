@@ -1,0 +1,772 @@
+——= LES APPLICATIONS NOUVELLES ——
+DE LA STROBOSCOPIE
+
+La stroboscopie, dont le principe a été indiqué par le
+physicien Plateau, il y a une centaine -d’années, est un
+procédé qui permet l'observation de mouvements rapides
+et périodiques, grâce au phénomène de la persistance de
+l'impression rétinienne. Grâce à elle, on peut se rendre
+
+AT .
+Secteur noir
+
+sur
+
+fond blanc
+
+
+
+Fig, 1. — Principe de la stroboscopie.
+
+Lorsqu'on éclaire un secteur d'un disque tournant à uné vitesse
+constante uniquement au moment où il passe dans une position donnée
+on croit voir ce secteur immobile.
+
+compte, avec la plus grande précision, des anomalies de
+fonctionnement d’une pièce mécanique en vibration,
+animée d’un mouvement alternatif rapide, ou tournant
+h grande vitesse.
+
+Si, par exemple, sur un disque de couleur claire, nous
+traçons un rayon noir, et si nous faisons tourner ce
+disque lentement, nous apercevons à chaque instant la
+position occupée par le rayon. Lorsqu'on augmente,
+au contraire, la vitesse de rotation du disque, en raison
+de la persistance des impressions sur la rétine on n’aper-
+çoit plus qu’une plage uniforme (fig. 1).
+
+. Mais si l’on éclaire le rayon au moment où il passe à
+chaque tour dans une certaine position, par exemple dans
+la position verticale, et seulement à ce moment-là, et si
+la succession des éclairs lumineux est telle que la première
+impression sur la rétine ne soit pas encore évanouie
+lorsque le deuxième éclairement se produit, l'observateur a
+l'impression de voir le secteur immobile dans la position
+verticale,
+
+Si la vitesse du disque vient à varier très légèrement,
+la cadence des éclairages intermittents restant cons-
+tante, l'observateur voit le rayon se déplacer lentement,
+et tourner dans un sens ou dans l’autre, suivant que la
+vitesse du disque est légèrement plus grande ou légère-
+ment plus faible que précédemment; on obtiendrait le
+même résultat en faisant varier la cadence des éclai-
+rages. Ce système très simple donne ainsi la possibilité
+de déterminer si la vitesse de rotation d’un corps demeure
+bien constante. On l’emploie par exemple, on le sait,
+pour vérifier la vitesse de rotation du plateau porte-
+disque d’un phonographe, celle d’un disque de Nipkow
+en télévision, etc. Suivant le même principe, on peut
+évidemment étudier le mouvement périodique de tout
+corps facilement visible. La stroboscopie permet aussi
+d’immobiliser en quelque sorte, pour l’observateur, une
+pièce en rotation rapide. Il est relativement facile alors
+de constater comment elle se comporte en service, quelles
+déformations ou quelles vibrations elle subit.
+
+LES DIFFÉRENTS PROCÉDES
+ST ROBOSCO PIQUES
+
+Une des premières applications de la stroboscopie
+a résidé dans l'étude précise du mouvement des corps
+On peut procéder par une méthode directe, ou par une
+méthode indirecte.
+
+La méthode directe consiste à éclairer le corps à étu-
+dier à l’aide d'une source lumineuse d'intensité cons-
+tante, et à examiner le corps éclairé à l’aide d’un système
+ne permettant de l'apercevoir qu’à intervalles pério-
+diques. On peut, par exemple, employer à cet effet un
+disque tournant pourvu de fentes, on peut également
+regarder directement l’objet à étudier et interposer le
+système obturateur entre la source d’intensité constante
+et cet objet. »
+
+Cependant, les éclairements doivent être évidemment
+aussi brefs que possible; il est donc nécessaire d'utiliser
+des fentes fines et espacées; il faut aussi des sources
+lumineuses intenses pour avoir un éclairement  suffi-
+sant. Le rendement lumineux est très mauvais, surtout
+si l’on veut une grande précision. Ce système n’est. donc
+suffisant que pour les examens grossiers,
+
+Le procédé le plus couramment adopté est le procédé
+
+D
+mm.
+
+Droits reservés au Cnam et à ses partenairesPP
+
+indirect qui consiste à produire des éclairages
+de l’objet à étudier, très brefs et répétés à
+cadence régulière. Les tubes luminescents
+nousfournissent un moyen simple d'obtenir
+des éclairs très brefs puisque leur inertie est
+extrêmement réduite. On sait, par exemple,
+que pour étudier très simplement le mouve-
+ment d’un disque de phonographe ou.d’un
+disque de Nipkow, on l’éclaire avec une petite
+ampoule au néon, alimentée par du courant
+alternatif à 50 périodes. Ce procédé très simple
+n’est évidemment plus applicable lorsqu'il s’agit
+d'étudier une pièce mécanique animée d’un
+mouvement très rapide.
+
+Les stroboscopes employés pour étudier les
+mouvements des pièces mécaniques comportent
+de petits tubes luminescents enroulés en spi-
+rales et placés dans un réflecteur muni d’un
+manche. On produit des éclairs très brefs
+dans le tube à néon et on éclaire directement
+le sujet à observer ‘fig. 2).
+
+Le premier dispositif qu'on a étudié pour
+produire les éclairs brefs et cadencés du tube à
+néon comportait un rupteur entraîné par un
+petit moteur, et qui commandait la décharge
+d'un condensateur dans un circuit élévateur de ten-
+sion. Ce mécanisme est d’un entretien assez délicat, si
+l'on veut éviter l’usure et l'oxydation des contacts.
+De plus, en vitesse, la « pointe d'allumage » ne se produit
+pas toujours sur la même position du collecteur, ce qui
+rend très difficile l'examen stroboscopique des torsions
+et efforts instantanés.
+
+Pour éviter l’emploi du collecteur tournant, on a songé
+à utiliser des contacts réalisés à l’aide de cordes ou de
+lames vibrantes. C’est ainsi que l’appareil Guillet à
+corde vibrante produit des contacts dans des godets à
+mercure (fig. 3). La faible amplitude des oscillations de
+la corde rend cependant quelquefois difficile l’instan-
+tanéité du contact, d’où l’emploi plus ou moins néces-
+saire de relais avec circuit-filtres, etc,
+
+UN STROBOSCOPE PORTATIF SANS CONTACT
+
+L'emploi d’un stroboscope portatif peut être fort
+intéressant dans une usine pour étudier les déformations
+élastiques anormales d’un organe en mouvement, ou ses
+anomalies de fonctionnement. Il est également utile dans
+les laboratoires de physique et même de physiologie, par
+exemple pour l'examen des cordes vocales (fig. 4).
+
+Un appareïl stroboscopique portatif à tube à néon
+présentant, de plus, la particularité de ne pas comporter
+de contact, a été récemment réalisé en France, d’après les
+travaux de M. René Hardy, dont nous avons déjà signalé
+les études sur les tubes à luminescence. Il nous paraît
+intéressant d’en indiquer les caractéristiques.
+
+Pour obtenir de bons résultats, il était nécessaire de
+
+réaliser des éclairs périodiques instantanés, d’une inten-
+
+sité lumineuse, très vive, mais parfaitement constante.
+
+Dans cet appareil, très simple, on a conservé une
+source lumineuse à néon donnant des éclairs brefs, mais,
+pour augmenter encore l’instantanéité de ces éclairs, on
+
+
+
+Fig. 2. — Vérification du mouvement des soupapes d'un moteur à l’aide d'un stroboscope.
+
+L'ouvrier éclaire simplement les soupapes avec son réflecteur à néon À éclairs.
+
+amplifie à 1500 volts le courant initial affectant des pointes
+très fines de faible voltage, de 0,25 v maximum (fig. 5).
+
+Un moteur à cage d’écureuil, sans collecteur, ne pro-
+duisant pas de courants parasites haute fréquence,
+actionne un disque en aluminium de 10 cm de diamètre
+comportant des fentes dans lesquelles sont noyées de
+fines lames de fer doux. Le changement de vitesse du
+moteur est obtenu en déplaçant une bille en acier entre
+deux pièces coniques. Un indicateur de vitesse étalonné
+sur l'appareil permet de se rendre compte exactement
+de la vitesse de rotation du moteur.
+
+Les lames de fer doux des fentes du disque tournent
+entre les pièces polaires en pointe d’un aimant per-
+manent comportant deux bobines en série, relié à l’entrée
+d’un amplificateur à lampes de T. 8. F, alimenté entière-
+ment par le courant du secteur alternatif.
+
+Fig. 3. — Siroboscope à corde vibrante et conlacis à godels à mercure,
+syslème Guillel,
+
+
+
+Droits reservés au Cnam et à ses partenairesFig. 4, — Emploi d'un stroboscope portatif pour l'examen d’une came
+en marche.
+
+L'ouvrier tient à la main le projecteur stroboscopique, relié
+à l'appareil portatif placé à gauche,
+
+Grâce à la rotation du disque, on obtient dans les
+bobines des chocs magnétiques qui peuvent être traduits
+par de petites pointes de courant très régulières et
+de forme caractéristique, Les courants obtenus sont
+envoyés dans un système de potentiomètre P, permet-
+tant d’en faire varier l'intensité, et un ensemble self-
+capacité SC permet de supprimer les harmoniques des
+notes émises. À la sortie de l’amplificateur résistance-
+capacité, on obtient des courants de forte tension et à
+très faible intensité permettant l'allumage du tube. La
+courbe du courant à la sortie est plus accentuée qu’au
+
+Fig. 5, — Schéma de principe du siroboscope portatif à amplification
+
+par lampes de T. S. F, sans contact, iype Hardy,
+
+
+
+… hangement de
+Cone a lames Vitesse FT
+de fer doux
+
+0 volts
+
+
+
+
+
+
+
+
+
+
+GR
+‘ &r 10 v.
+
+
+
+
+
+
+
+ES
+on
+
+départ et la rapidité de l'allumage est augmentée par le
+fait que le tube ne s'allume que lorsque la tension est
+suffisante, c’est-à-dire au moment des pointes de courant,
+comme le montre la figure 6 (B).
+
+L'ensemble de l'appareil est monté dans une valise,
+comportant dans son couvercle un haut-parleur témoin,
+faisant entendre la note musicale de la fréquence d’exa-
+men. Deux tubes luminescents sont utilisés, l’un de
+forme spirale dans un petit projecteur à manche, l’autre
+de forme ponctuelle et d'une grosse intensité, combiné
+avec un miroir de Clare, fixé sur un serre-tête (fig. 7).
+
+UN RADIO-COMPAS STR OBOSCOPIQUE
+
+Parmi les applications récentes les plus curieuses de la
+stroboscopie, on peut encore signaler l’usage qu’on en a
+fait dans un nouveau système de radio-compas.
+
+La radiogoniométrie joue un rôle de plus en plus grand
+dans la navigation maritime ou aérienne; on sait qu’elle
+est fondée sur les propriétés directionnelles des cadres
+de réception en T. S.F,
+
+Un cadre se compose d’un bobinage vertical générale-
+ment effectué en spirale; lorsque ce cadre est relié à un
+poste-récepteur de T. S, F., et qu’on accorde le circuit
+oscillant formé par le bobinage et par un condensateur
+variable sur la longueür d'onde d’un poste émetteur, on
+constate qu’on entend l’émission de ce poste seulement
+lorsque le plan vertical du cadre est dirigé vers cette
+station. La position d'intensité maxima est, d’ailleurs,
+plus ou moins nette, de même que Ja position d’audition
+nulle, perpendiculaire à la première.
+
+Pour obtenir une précision plus grande des indications,
+il faut que la courbe sinusoïdale qui traduit
+la variation d'intensité suivant la position
+du cadre présente un maximum et un
+minimum définis. Il faut ensuite déterminer
+la direction exacte de l’émetteur, car le
+procédé indique seulement le plan dans
+lequel il se trouve, et on ne sait sa direction
+exacte qu’à 1809 près (fig. 8).
+
+Dans les appareils ordinaires de radio-
+goniométrie, les recherches se font « au
+son », et il faut à l'opérateur une certaine
+habileté pour éviter les erreurs. Grâce à la
+stroboscopie, on peut remplacer cette opé-
+ration auditive de recherche radiogonio-
+métrique par une lecture automatique et
+directe.
+| On avait déjà cherché, d’ailleurs, depuis
+| assez longtemps, à supprimer les difficultés
+de réglage provenant de l'orientation ma-
+nuelle des cadres en utilisant des cadres
+animés automatiquement d'un mouvement
+de rotation continu. Les courants induits
+dans ces cadres tournants, et amplifiés par
+un appareil à lampes à vide, pouvaient
+ainsi alimenter le cadre d’un galvano-
+mètre orientant une masse magnétique
+dans la position du champ maximum,
+c’est-à-dire dans la direction. de l'émetteur.
+
+Tube
+
+au néon
+
+
+
+
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairesl'allumage de
+l'ampoule
+
+
+
+mination
+
+Fig, 6. — Amplification des tops « magnéiiques » par l'amplificateur
+à lampes.
+
+A. Forme schématique des tops magnétiques provoqués par la
+rotation du disque.
+B. Comment s'effectue l'allumage du tube à néon par les courante
+amplifiés.
+
+M. René Hardy a réalisé un radio-compas strobosco-
+pique à lecture directe qui ne comporte aucun système
+électromécanique, et permet, d'autre part, d'éviter
+l'incertitude de 1800 qui subsiste encore dans les appareils
+ordinaires à cadre tournant.
+
+Dans cet appareil, on emploie comme indicateur un
+dispositif stroboscopique lumineux qui indique auto-
+matiquement à chaque instant la direction de l'émetteur.
+
+Le collecteur d’ondes est constitué ici par un cadre ou
+deux cadres perpendiculaires entraînés autour d’un axe
+vertical par un moteur électrique qui tourne à une
+vitesse de l’ordre de 600 tours par minute. Ce collecteur
+d'ondes est relié généralement à un récepteur à lampes
+de T. S. F. à changement de fréquence, mais on pourrait
+également utiliser un récepteur à amplification haute
+fréquence directe. Au courant du cadre ou des cadres
+est, d’ailleurs, superposé un courant d'antenne réglable
+
+(fig. 9).
+
+Fig. 8. — Principe de la radiogoniométrie et représentation schématique
+du champ induit dans un cadre tournant.
+
+Peste emetteur
+
+
+
+
+
+
+
+Fig. 7. — Stroboscope portatif Hardy.
+
+Dans le cas de l'emploi d’un poste à changement de
+fréquence, le courant recueilli par le collecteur d’ondes
+arrive directement sur l’une des grilles de la lampe oscil-
+latrice qui est suivie de deux étages d'amplification
+moyenne fréquence à grand coefficient d’amplifica.
+tion.
+
+Ce courant moyenne fréquence est ensuite détecté,
+puis amplifié par une lampe basse fréquence à transfor-
+mateur,
+
+Après la première basse fréquence, une dérivation
+permet d'alimenter deux autres étages séparés; l’un
+est relié à des écouteurs téléphoniques, l’autre à des
+tubes à gaz rare placés sur des cadrans indicateurs
+gradués.
+
+Fig. 9. — Principe du radio-compas siroboscopique,
+
+A. Le tube au néon s'éclaire chaque fois que le plan du cadre est
+dirigé vers l'émetteur, une division du cadran gradué devient alors
+visible,
+
+B. Courbe montrant le mode d'action du courant redressé et amplifié
+sur le tube à néon.
+
+Cadran gradue
+
+. Poste
+emetteur
+
+tournant
+
+“
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires|
+
+10
+
+Pointe daherase des tubes au neon
+
+l
+#k 1/10.000de sec.
+
+ee
+1/10% de seconde
+
+
+
+Ftg. 10. — Forme des courants amplifiés transmis aux lubes
+luminescents,
+
+Le courant induit dans le cadre varie suivant la posi-
+tion de”celui-ci par rapport à la position de l’émetteur; il
+s’annule pour une position déterminée. On donne à
+l'amplificateur en faisant varier le potentiel des grilles
+écrans un coefficient d'amplification assez fort pour
+qu'il y ait saturation de la lampe détectrice, lorsque
+l'énergie recueillie est sensible. °
+
+Deux fois par tour, le cadre passe par une position
+correspondant à une force électro-motrice nulle, et la
+détectrice n’est pas saturée. On peut représenter alors
+la force électrique induite par une sinusoïde.
+
+Si lon ajoute au cadre une antenne, la courbe du
+courant détecté sans saturation se présente sous une
+forme identique, mais décalée: comme il y a en réalité
+saturation, le courant détecté est représenté par une
+courbe déformée à la détection et présentant des maxima
+étalés. |
+
+L’amplification basse fréquence à transformateur per-
+met ainsi d'obtenir à la sortie du récepteur des pointes
+de saturation qui permettent d’illuminer les tubes à
+néon pendant un temps très bref (fig. 10).
+
+Le système indicateur dans cet appareil est ainsi
+constitué par deux tubes à gaz rare fixés sur un plateau
+solidaire du cadre tournant en synchronisme avec eux.
+Les résultats les meilleurs ont été obtenus avec des
+tubes ‘spéciaux contenant deux électrodes parallèles
+dans un mélange néon-hélium.
+
+Le plateau qui supporte les tubes à néon est entraîné
+
+Fig. 12. — Indications données par le cadran du radia-compas.
+
+T, Ta: tubes à néon. OM : direction de l'émetteur. C, D, E, F: position
+d'allumage sans effet d'antenne. À droite : flèche indicatrice obtenue
+après réglage de l'effet d'antenne.
+
+
+
+
+
+
+
+par un petit moteur synchronisé à la même vitesse que
+le collecteur d’ondes; il est recouvert par un disque
+dans lequel on a découpé une fente de 3/10 de mm, en
+face de chaque tube. Les tubes au passage de la direc-
+tion recherchée s’illuminent pendant un temps très court,
+de l’ordre de 1/10.000€ de seconde, et comme la vitesse
+de rotation permet une vision stroboscopique, on a
+l'illusion d’une ligne fine constamment lumineuse dans
+la même direction (fig. 11).
+
+Pour assurer un synchronisme exact des mouvements
+du cadre et de l'indicateur reproduits à chaque tour du
+collecteur d'ondes, un « top » magnétique est produit
+par le passage en face l’une de l’autre de deux masses
+feuilletées, dont l’une constitue la pièce polaire d’un
+bobinage relié à l’amplificateur. Ce système détermine
+un éclair bref sous le cadran gradué, qui est considéré
+comme le 0 de la graduation, pour déterminer la posi-
+tion angulaire des cadres.
+
+Pour lever l'incertitude de 1809, on se sert des indica-
+
+
+
+Fig. 11. — Le radio-compas stroboscopique.
+
+A gauche : le cadre tournant et son moteur; au milieu : l'amplificateur
+muni du cadran indicateur; à droite : un répétiteur.
+
+tions données par l'appareil, et il suffit d'examiner la
+disposition des signes lumineux apparaissant sur l’indi-
+cateur. |
+
+Les deux tubes à gaz rares sont calés à 1700 l’un
+de l’autre sur leur plateau; ils sont branchés en paral-
+lèle, et s’allument chacun deux fois par tour, l’allumage
+ayant lieu pour chaque tour à 1809 de l’allumage précé-
+dent. Si l'effet d’antenne est nul, on constate donc
+quatre allumages par tour.
+
+Mais l'effet d’antenne est réglable, ce qui permet de
+faire varier l'angle d'allumage. On peut ainsi arriver à
+rapprocher deux positions d’allumage, tandis que les
+deux autres se superposent. En regardant le cadran
+gradué à ce moment, on a l'impression d’une flèche
+unique dont la pointe indique par définition la direction |
+recherchée (fig. 12).
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairesAvec un seul récepteur radiogoniométrique, on peut
+actionner, en parallèle, un nombre quelconque de répé-
+titeurs, ce qui est fort intéressant, par exemple, sur les
+navires.
+
+Le radio-compas stroboscopique s’applique ainsi à
+tous les problèmes de radiogoniométrie et permet d’ob-
+
+1 =—
+
+tenir immédiatement et d’une manière visible la direc-
+tion d’un poste-émetteur avec une précision de l’ordre
+du 1/6° de degré. L'appareil paraît donc fort intéressant,
+et capable de rendre de grands services.
+
+P. Hémanrpinquer.
+
+NOUVEAU TYPE DE BARRAGE A TOURELLES
+RETENUE D'EAU DU LINOUBRE POUR L'ALIMENTATION
+DES COMMUNES D'AUSSILLON ET DE MAZAMET
+
+Les barrages hydrauliques sont à l’ordre du jour.
+Les eaux retenues forment parfois d'immenses Jacs
+artificiels, réserves d'énergie et d'eaux alimentaires ou
+industrielles,
+
+On garde mémoire de la rupture —
+toujours catastrophique — de hautes
+digues en maçonnerie; aussi l'ingénieur
+n’hésite-t-il pas à prendre toutes les pré-
+cautions possibles contre cet effroyable
+accident. Il dispose à cet effet :
+
+a) de laboratoires d’essais qui peuvent
+étudier les caractéristiques des roches
+de fondation de la vallée, et des maté-
+riaux parmi lesquels il convient de choi-
+sir;
+
+b) des méthodes de la résistance des
+matériaux, qui permettent de calculer
+les dimensions de l'ouvrage en vue de
+sa résistance mécanique. Les calculs peu-
+vent d’ailleurs avantageusement être
+contrôlés par des déterminations photo-
+élasticimétriques sur modèles transpa-
+rents ou translucides (1), ou par expé-
+riences sur modèles réduits ;
+
+c) des méthodes d'essais hydrauliques
+sur modèles des organes d'écoulement ou de décharge;
+
+d) des enseignements de la pratique, notamment de
+l’auscultation des ouvrages existants ou de la discus-
+sion des accidents ou catastrophes.
+
+CHOIX D'UN DISPOSITIF DE BARRAGE
+
+Avant tout, il convient de choisir le type de barrage.
+
+Le plus ancien, la digue rectiligne*en terre, ou mieux
+en maçonnerie, n’est pas toujours le plus sûr, ni même
+le plus économique. La perméabilité y joue un grand
+rôle : des infiltrations d’eau, non évacuées aussitôt, font
+naître des sous-pressions qui ne tardent pas à compro-
+mettre la sécurité {°)}
+
+La digue en arc présentant l’extrados au courant
+retenu ajoute à la stabilisation résultant du poids, celle
+
+1. Cf: Les Pierres naturelles ét artificielles, par MArncoTTE. Gauthier-
+
+Villars, éditeur, Paris, |
+2. Voir à ce sujet le chapitre sur l'adduction d'eaux potables dans
+« l'Art de bätir ». Ch. Béranger, éditeur, Paris,
+
+qui résulte de l’arc-boutement des enracinements de
+l'ouvrage dans les rives.
+Le barrage en arc n'utilise que ce dernier effet; c’est
+
+
+
+Fig. 1. — Barrage du Linoubre.
+
+une voûte renversée dont les encastrements terminaux
+dans la :vallée, en renversant le sens des contraintes,
+créent des tensions, toujours dangereuses dans une
+maçonnerie éminemment propre à résister, aux pres-
+sions, non aux tensions.
+
+Dans tous ces ouvrages, les questions de retrait (1) et
+de dilatation doivent être examinées avec soin; et il
+convient de prévoir, notamment, des joints de dilata-
+tion. |
+
+MM. Mesnager et Verrier avaient proposé un type de
+barrage à voûtes minces multiples formant comme les
+vasques successives d’une gigantesque cascade ou, si
+l'on veut, d’une énorme échelle à poissons. Chaque
+
+voûte ne supporterait que la différence des pressions
+
+1. Nous avons établi que le retrait d'un mortier est en fonction
+linéaire du logarithme de l’âge. Ce phénomène est donc particulière-
+ment dangereux dans les périodes qui suivent la construction.
+
+LI : î
+222222222222 22292222
+
+er
+
+PR
+
+Droits reservés au Cnam et à ses partenaires—— 12
+
+hydrauliques des deux biefs qu’elle sépare. Le regretté
+savant qu'était Mesnager estimait que l’on aurait ainsi
+une économie de maçonnerie et une plus grande sécurité.
+En tout cas, 1l est incontestable qu’un barrage de ce
+genre offrirait un remarquable débouché aux eaux
+de crues exceptionnelles. Or, la plupart des catastrophes
+ont eu pour cause une élévation anormale de la charge
+hydraulique et le déversement des eaux au-dessus du
+maçonneries non préparées pour cet écoulement.
+
+BARRAGE A TOURELLES
+
+C'est d’une autre mamière que M. H. Chabal, ingé-
+nieur-constructeur, a établi le projet du barrage du
+Linoubre, dont il achève actuellement la construction.
+
+La hauteur maximum 16 m de la retenue d’eau au-
+dessus des fondations de l'ouvrage est fort modeste, eu
+égard aux grandes hauteurs déjà réalisées et surtout à
+celles prévues. Il n’y avait donc, de ce chef, aucune
+difficulté spéciale à résoudre. Au contraire, la longueur
+totale du barrage, 225 m, comprenant un déversoir
+de 95 m, susceptible d’évacuer une crue de 35 m°
+sec avec une lame déversante d’environ 40 cm, introdui-
+sait — notamment dans le déversoir, prévu en béton
+armé — des dilatations et contractions, qu’il s'agissait
+de modérer autant que possible pour éviter la désorga-
+nisation des maçonneries,
+
+Sur les digues latérales en terre revêtues d’un triple
+revêtement de béton (le revêtement intermédiaire étant
+armé), on s’est borné à employer des joints de dilatation
+en cuivre : trois sur la rive droite qui forme déversoir,
+et dont le revêtement s'étend jusqu’à l'aval; deux seule-
+ment sur la rive gauche, dont le revêtement ne porte
+que sur l’amont. |
+
+L'innovation ne porte que sur la partie centrale de
+
+71 m de longueur construite en béton armé.
+Des tuyaux ou tourelles de 4 m environ de diamètre
+
+Fig. 2. — Barrage du Linoubre.
+
+Vu de l'aval autour de la galerie centrale.
+
+
+
+
+
+
+
+sont dressés verticalement sur trois rangs dont la hau-
+teur décroît d’amont en aval (fig. 1 et 2).
+
+Chaque tourelle est coiffée d’une coupole étanche.
+
+Chacun de ces alvéoles peut ainsi se contracter ou se.
+dilater pour son propre compte. A l'aval, des contreforts
+en béton armé placés dans le sens du courant et séparant
+des autres, chaque file de trois tourelles, s’opposent à la
+poussée de l’eau.
+
+Un remblai de terre contre la paroi des tourelles
+supérieures achève la construction, qu’elle protège
+d’ailleurs des grandes variations de température. Cette
+protection calorifuge est remplacée à l’aval par un revê-
+tement en béton ordinaire qui s'étend sur toute la partie
+mouillée, coupoles et contreforts compris.
+
+*
++ *
+
+Les tourelles communiquent entre elles pour former
+une sorte de cave à alvéoles; le tout reste sec y compris
+le sol, rocher naturel dont la température restera sensi-
+blement constante dans le voisinage de 100€, de sorte
+que les maçonneries des tourelles tendront aussi vers
+cette température constante,
+
+Sans doute l’abaissement du plan d’eau pendant l’été
+exposera l’ouvrage au soleil brûlant, mais le revêtement
+de 50 cm d’épaisseur des tourelles en béton armé cons-
+titue une couche calorifuge efficace.
+
+“
+Æ *
+
+Les eaux — comme toutes celles qui s’écoulent de
+régions granitiques —sont très pures et très douces. Ces
+eaux tendent à dissoudre la chaux mise en liberté pen-
+dant la prise et le durcissement des ciments, ainsi que
+la silice, l’alumine et le sulfate de calcium. Cette action
+dissolvante, lente mais continue, éminemment destruc-
+trice, a été étudiée notamment par M. le professeur
+Giran.
+
+Nous avons montré, qu’en dehors
+de l'emploi de ciments ad hoc le
+remède à ces désorganisations qui
+pourraient amener de terribles catas-
+trophes réside dans l'étanchéité des ma-
+conneries obtenue à l’aide de soins
+particuliers (1). .
+
+M. Chabal a prévu pour cela un
+triple enduit asphaltique sur le béton
+armé, enduit imperméable garanti
+contre l’action des vagues par un revê-
+tement en béton.
+
+Ce barrage présente donc un dispo-
+sitif intéressant à divers points de
+vue. L'expérience montrera jusqu’à
+quel point on peut l’appliquer à des
+barrages de plus grande hauteur.
+
+*
+
+1. Cf. Les matériaux des constructions civiles et
+des Travaux Publics (Gauthier-Villars, éditeur,
+Paris) et l'Art de bâtir (Ch. Béranger, édit. Paris,
+Liége},
+
+Droits reservés au Cnam et à ses partenaires

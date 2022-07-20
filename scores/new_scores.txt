@@ -1,0 +1,205 @@
+-------------------------------------------------    
+Chosen mode: latin_binom
+Evaluation of the article : Les_ravages_des_chenilles_p178 :
+	true positives : ["Yponomenta malinella", "Liparis chrysorrhea", "Liparis auriflua"] 
+	false positives : ["Ja campagne", "Bombyce disparate", "Berce pareille", "Ja tente", "Je vois"] 
+	false negatives : ["Bombyx neustria", "Liparis dispar"] 
+	precision = 37.50 %
+	recall = 60.00 %
+	F-measure = 46.15 %
+Evaluation of the article : Les_ecailles_de_poissons_p31 :
+	true positives : ["Clupea sardinia", "Pleuronecles solea", "Osmerus eperlanus", "Gobis fluviatilis"] 
+	false positives : ["Alburinus lucidus", "Lesstries admirables", "Cela prouve"] 
+	false negatives : ["Esox lucius", "Alburinus lucidus Heck"] 
+	precision = 57.14 %
+	recall = 66.67 %
+	F-measure = 61.54 %
+Evaluation of the article : Le_vent_et_les_orties_p14 :
+	true positives : ["Urtica urens"] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.00 %
+	recall = 100.00 %
+	F-measure = 100.00 %
+Evaluation of the article : Les_anabantides_p193 :
+	true positives : [] 
+	false positives : ["Ja vase", "Quatre esp\u00e8ces", "Deuxi\u00e8me groupe", "Bouche petite", "Troisi\u00e8me groupe", "Bouche transverse"] 
+	false negatives : ["Anabas Cienopome"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : La_vipere_noire_d_Australie_p416 :
+	true positives : [] 
+	false positives : ["Ja d\u00e9signe", "Vip\u00e8re enroulante", "Schlingende natler"] 
+	false negatives : ["Acanthophide c\u00e9rastin", "Acanthophide c\u00e9rastin"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Le_venin_du_scorpion_p151 :
+	true positives : ["Scorpio occitanus"] 
+	false positives : ["Ie rencontre", "Je tenais", "Je craignais", "Bellesme prouve", "Ja th\u00e9rapeutique", "Ja vie"] 
+	false negatives : ["scorpio europ", "scorpio occilanus", "scorpio occitanus", "scorpio afer", "scorpio funestus", "buthus imperalor", "scorpio occitanus", "scorpio occitanus", "scorpio europ", "scorpio occitanus", "scorpio occilanus", "scorpio occitanus"] 
+	precision = 14.29 %
+	recall = 7.69 %
+	F-measure = 10.00 %
+Evaluation of the article : Les_musaraignes_des_pyrenees_p90 :
+	true positives : [] 
+	false positives : ["Daubenton sorex", "Ja uombreuse", "Gette esp\u00e8ce"] 
+	false negatives : ["sorex areneus", "sorex fodiens", "arvicola arvalis", "auriculis absconditis"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Les_phoques_a_fourrure_p135 :
+	true positives : ["Phoca vitulina", "Trichichus rosmarus"] 
+	false positives : ["\u00c9glise grecque", "Aucune protection"] 
+	false negatives : ["Cumetopias selleri"] 
+	precision = 50.00 %
+	recall = 66.67 %
+	F-measure = 57.14 %
+Evaluation of the article : Les_poissons_fossiles_p115 :
+	true positives : ["Conus ponderosus", "Turritella triplicata"] 
+	false positives : ["Sauvage tire", "Gette d\u00e9termination", "Suisse devenues", "Bolca \u00e9tage", "Chiavon celles", "Am\u00e9rique lorsque", "Sicile similaires", "Gette opinion", "Infusoires caract\u00e9ristiques", "Ja d\u00e9nomination", "Ja s\u00e9rie", "Ja famille", "Licata recueillis", "Sauvage rappelle", "Seille rivi\u00e8re"] 
+	false negatives : ["Osmerus Albyi", "Anopterus Albyi", "Murex scabcr", "Trigla licat", "Triglida licat", "Triglida Hirundo", "Osmerus Albyi"] 
+	precision = 11.76 %
+	recall = 22.22 %
+	F-measure = 15.38 %
+Evaluation of the article : Raisin_blanc_modifie_en_raisin_noir_p288 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Podocarpus Koraiana"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : De_reproduction_du_phylloxera_p262 :
+	true positives : ["Lacanium vermilio"] 
+	false positives : ["Je sais", "Je craindrais"] 
+	false negatives : ["Quercus Coccifera", "phylHoxera vastatrix"] 
+	precision = 33.33 %
+	recall = 33.33 %
+	F-measure = 33.33 %
+Evaluation of the article : La_commission_de_peche_p403 :
+	true positives : ["Spirorbis nautiloides", "Cirratulus grandis", "Cornutus autolytus", "Lucernia quadricornis", "Grratulus grandis", "Cancer irroratus", "Lucernia quadricornis"] 
+	false positives : ["Ja vie", "Octopus selon", "Ja substance", "Ja fabrication", "Ja propagation"] 
+	false negatives : [] 
+	precision = 58.33 %
+	recall = 100.00 %
+	F-measure = 73.68 %
+Evaluation of the article : ACADEMIE_DES_SCIENCES_p318 :
+	true positives : [] 
+	false positives : ["L\u00e9pidotus tertiaire", "Graves enmentionne"] 
+	false negatives : ["Crocodilus depressifrons"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Quelques_infusoires_p239 :
+	true positives : ["Amphileptus margaritifer", "Kolpode capuchon", "Euplotes charon", "Stylonychia mytilus"] 
+	false positives : ["Je lerme"] 
+	false negatives : ["Trachelocerea olor", "Param\u00e9cie Aur\u00e9He", "Stylonychia Icion"] 
+	precision = 80.00 %
+	recall = 57.14 %
+	F-measure = 66.67 %
+Evaluation of the article : La_commission_de_peche_p391 :
+	true positives : ["Stenotomus argyrops", "Pomatomus saltatrix", "Slenolumus argyrops", "Pentacta frondosa", "Cerianthus borealis", "Lophius americanus", "Dendronotus arborescens", "Lophothuria fabricii", "Pentacta frondosa", "Boltenia reniformis", "Cerianthus borealis"] 
+	false positives : ["Lile consiste", "Boltenia offre"] 
+	false negatives : ["lomatomus sallatrix", "0phius americanus", "Torpedo occidentalis"] 
+	precision = 84.62 %
+	recall = 78.57 %
+	F-measure = 81.48 %
+Evaluation of the article : Graines_ayant_germe_p338 :
+	true positives : [] 
+	false positives : ["G\u00e9ographie bolanique", "Laurium exploit\u00e9es", "Flora orientalis"] 
+	false negatives : ["Glaucium Serpieri"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Les_Moas_ou_Dinornis_p369 :
+	true positives : ["Dinerais ingens", "Dinornis robustus", "Dinornis giganieus", "Dinornis casuarinus", "Dinornis ingens"] 
+	false positives : ["Ranges province", "Ranges province", "Ranges province", "Ranges province", "Dinornis giganteus", "Dinornis donn\u00e9e"] 
+	false negatives : [] 
+	precision = 45.45 %
+	recall = 100.00 %
+	F-measure = 62.50 %
+Evaluation of the article : Du_voyage_du_challenger_p372 :
+	true positives : ["Scalpellum regium", "Sculpellum regium", "Scalpellum regium", "Ophioglyphe bullata", "Antennarius marmoratus"] 
+	false positives : ["Nature ua", "Scalpellum poss\u00e8de", "Thomson raconte", "Sargassum bacciferum", "Ja superficie"] 
+	false negatives : ["Thalassidroma Wilsoni", "Lophius Piscatorius"] 
+	precision = 50.00 %
+	recall = 71.43 %
+	F-measure = 58.82 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p330 :
+	true positives : ["Dammara viliensis"] 
+	false positives : ["Kava boisson"] 
+	false negatives : ["Peper Methysticum"] 
+	precision = 50.00 %
+	recall = 50.00 %
+	F-measure = 50.00 %
+Evaluation of the article : Faisan_d_elliot_au_jardin_des_plantes_p177 :
+	true positives : ["Phasianus lorquatus"] 
+	false positives : [] 
+	false negatives : ["Calophasis Ellioti"] 
+	precision = 100.00 %
+	recall = 50.00 %
+	F-measure = 66.67 %
+Evaluation of the article : Les_amorces_des_squales_p80 :
+	true positives : [] 
+	false positives : ["Hermite pris"] 
+	false negatives : ["Pagurus Bernardus", "Luccin Lessin"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Guerre_au_phylloxera_p44 :
+	true positives : ["Phylloxera vastatrix"] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.00 %
+	recall = 100.00 %
+	F-measure = 100.00 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p307 :
+	true positives : ["Holothuria edulis"] 
+	false positives : ["Australie orientale", "Comptes rendus"] 
+	false negatives : ["Macrotoma Heros"] 
+	precision = 33.33 %
+	recall = 50.00 %
+	F-measure = 40.00 %
+Evaluation of the article : Le_bananier_a_paris_p144 :
+	true positives : ["Musa ensete"] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.00 %
+	recall = 100.00 %
+	F-measure = 100.00 %
+Evaluation of the article : Les_maladies_de_la_vigne_p218 :
+	true positives : [] 
+	false positives : ["Garnier fr\u00e8res", "Gette alt\u00e9ration", "Gette d\u00e9sorganisalion", "Uidium l\u00e8pre", "Ja r\u00e9colte", "Ja cause", "Grison jardinier", "Ge m\u00e9lange", "Ja reconnaissunee", "Lalorgue propri\u00e9taire", "Gette larve", "He ja", "Altise bleue", "Ja tige"] 
+	false negatives : [] 
+	precision = 0.00 %
+	recall = 100.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Oiseaux_des_Iles_Mascaraignes_p408 :
+	true positives : ["Athene murivora", "Ardea megacephala", "Psitlacus rodericanus", "Columba rodericana", "Numida tiarata", "Pteropus rubricollis"] 
+	false positives : ["Association britannique", "Diverses pi\u00e8ces", "Plantes ennemie", "Afrique centrale"] 
+	false negatives : ["Turtur picturatus"] 
+	precision = 60.00 %
+	recall = 85.71 %
+	F-measure = 70.59 %
+Evaluation of the article : Coloration_artificielle_des_fleurs_p374 :
+	true positives : ["Hesperis matronalis"] 
+	false positives : [] 
+	false negatives : ["1beris umbellata"] 
+	precision = 100.00 %
+	recall = 50.00 %
+	F-measure = 66.67 %
+Evaluation of the article : Le_gourami_p245 :
+	true positives : [] 
+	false positives : ["Je montre", "Gommerson d\u00e9clare", "Martinique ni"] 
+	false negatives : ["Pharyngiens labyrinthiformes", "Osphronemus olfax"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Crustace_du_fond_de_la_mer_p68 :
+	true positives : ["Astacus zaleucus", "Astacus pellucidus", "Cambarus pellucidus", "Calliaxis adriatica", "\u00c0stacus zaleucus"] 
+	false positives : ["Ge dernier", "Hoploparia longimana"] 
+	false negatives : ["NEPHROPS STEWARTII", "Nephrops Stewartii", "Nephrops Norwegicus", "Calocaris Macandre", "Nephrops Stewartii", "Nephrops Stewartii"] 
+	precision = 71.43 %
+	recall = 45.45 %
+	F-measure = 55.56 %

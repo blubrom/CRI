@@ -1,0 +1,1515 @@
+MÉCANIQUE
+Nouveaux grappins automatiques « Gallia »
+
+Il existe d'assez nombreux types de bennes preneuses ou de
+grappins automatiques soit pour manutentionner des minerais
+ou des matières pondéreuses de toutes sortes, soit pour gerber
+des ferrailles, des déchets de fabrication ou des pierres dans les
+ports, les parcs de stockage, les hauts fourneaux, les usines
+métallurgiques et autres. Des techniciens spécialistes ont
+imaginé, par exemple, des bennes automatiques à griffes
+indépendantes pour le ramassage des blocs irréguliers et des
+bennes preneuses à mâchoires multiples (système Priestman)
+
+Fig. 1. — Grappin automatique « Gallia » monté sur un pont roulant
+griffes ouveries au-dessus d'un ias de ferrailles à manuientionner.
+
+qu'on peut utiliser avec tous les appareils de levage moyen
+nant de légères modifications. De leur côté, les grappins arti-
+culés « Polype» ont fait leurs preuves pour la manutention des
+gadoues ou l'exploration de certaines épaves de navires gisant
+par 100 à 150 m de profondeur dans la mer.
+
+Récemment la firme bordelaise des « Bennes automatiques
+Gallia » a étudié un nouvel engin de ce genre, permettant de
+manipuler aisément et rapidement les tubes, pièces méca-
+niques, tôles d'acier et autres ferrailles. Cette firme a réalisé
+plusieurs modèles de cet appareil ne différant entre eux que
+par le nombre des câbles de manœuvre. Le typele plus courant,
+qu'on voit o-contre monté sur un pont-roulant, comprend
+& brins dont deux servent pour le levage ou la fermeture et
+deux pour la suspension ou l’ouverture (fig. 1 et schéma 2).
+
+INVENTIONS ET NOUVEAUTES
+
+ 
+
+ 
+
+139
+
+ 
+
+ 
+
+Fig. ?.— Vue en élévaiion du grappin aulomalique « Gallia »
+
+Des couronnes en forte tôle formées d'une tête & et d’une poutre
+b constituent les organes essentiels du nouveau grappin: elles
+
+Fig. 8. — Le grappin automatique « Gallia » en action.
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires= 1140 —p—2——
+
+ 
+
+portent respectivement des oreilles € et c supportant elles-
+mêmes les axes d’articulation des bielles et des griffes d. Ces
+6 dernières se terminent par des pointes e en acier spécial très
+résistant et de fortes bielles j les relient à la tête de l'appareil.
+D'autre part, des arbres encastrés dans la tête et la poutre
+soutiennent les poulies de mouflage g sur lesquelles s’enroulent
+les brins de levage h. Les attaches à coin i, qui servent à fixer
+ceux-ci, facilitent les opérations de montage ou de démontage
+et se trouvent reliées à un palonnier d’équilibrage des tensions,
+monté, selon le nombre des câbles du type du grappin, soit sur
+l'arbre de tête, soit sur celui de la poutre.
+
+En outre, des taquets k, portés par les oreilles c’ permettent
+de limiter l'ouverture des griffes tandis que des pièces interca-
+laires en tôle réunies par des entretoises empêchent les brins
+de sortir des gorges des poulies. Sous la poutre, des plaquettes
+protègent, au cours des manœuvres, les câbles et les poulies.
+Au-dessus de la tête, les brins sortent par des boîtes à rouleaux j
+spécialement agencées pour éviter l'usure des organes quand le
+grappin se referme sur un amoncellement hétéroclite d'objets
+métalliques. Quant au rattachement de l'appareil à une grue
+ou à un pont roulant, il s'effectue par l'intermédiaire de 2 câbles
+m fixes sur un palonnier n servant à compenser leur différence
+de longueur, Aussi, grâce à tous ces organes ingénieusement
+combinés, le grappin automatique « Gallia » permettra-t-il d'ac-
+croître la vitesse de manutention des ferrailles et matériaux
+similaires, tout en procurant une très appréciable économie de
+main-d'œuvre. Jacques Boyer.
+
+CINÉMATOGRAPHIE
+
+Eclairage intensif pour cinéma d'amateurs.
+
+Un des principaux problèmes de la projection des petits
+films d'amateurs a longtemps été l'intensité de l'éclairage
+nécessaire pour obtenir des images d'une taille suffisante sur
+l'écran. Les premiers appareils n'avaient qu'une lampe de
+8 watts, mais peu à peu on imagina des dispositifs d'éclairage,
+liés au poste de projection ou indépendants, de plus en plus
+lumineux. On vit ainsi successivement des lampes de 35, de
+45, de 76, de 100 watts.
+
+Tout récemment, un nouveau progrès d'importance a été
+réalisé par un arc horizontal à miroir qui, sous courant continu,
+consomme de 6 à 7 ampères et donne une projection particu-
+lièrement brillante.
+
+Mais il y faut du courant continu et l'arc nécessite un réglage,
+
+une surveillance, sans parler des dangers d'incendie.
+
+Voici une nouvelle solution plus élégante, qui emploie la
+lampe Philips de 800 watts (15 volts sous 50 ampères) grâce à
+quelques heureuses adaptations.
+
+La lampe donne une lumière très intense et presque ponc-
+tuelle. Elle est placée à demeure un peu plus loin que le foyer
+principal d'un miroir concave de façon que les rayons reçus
+
+Fig. 4, — Schéma du Vitolia intensif.
+
+ 
+
+Cheminée à chicane
+
+Écran infrarouge
+
+Condenseur
+
+Arrivee
+d'air forcé
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 5 (à gauche). — L'appareil monté derrière un Pathé-baby.
+Fig. 6 (à droite). — Vue du rhéosiai d'éclairage.
+
+sur une large surface soient renvoyés vers un petit condensa-
+teur placé à l'extrémité opposée. Lampe et miroir sont enfer-
+més dans un bâti de lanterne étanche à la lumière sur lequel
+le condensateur est encastré. Pour éviter l'échauffement de la
+lanterne, on a groupé toute une série de dispositifs : d'abord
+une forte aération intérieure de la lampe et du miroir au
+moyen de chicanes placées au bas et d'une cheminée placée
+au-dessus; puis un filtre transparent devant le condensateur
+qui absorbe tout l’infra-rouge en laissant passer la totalité
+de la lumière visible; ce filtre est refroidi par un courant d’air
+qui frappe également des ailettes métalliques placées autour
+et unies au bâti. Le jet d'air est soufflé par trois tubulures dont
+une envoie sur le filtre et les deux autres sur le film au moyen
+d’une petite turbine montée sur le moteur du projecteur. Dans
+ces conditions, on peut passer de très longues bandes, opérer
+pendant longtemps, sans aucun dommage pour les films et
+sans aucun risque d’échauffement.
+
+La lampe est alimentée par un transformateur dont le
+secondaire est lié à un rhéostat fixé à l’arrière de Îa lanterne;
+le rhéostat est à secteur tournant et à plots pour assurer une
+mise en marche progressive.
+
+Ces récents perfectionnements permettent des projections
+très lumineuses, même avec de petits appareils tels que les
+Pathé-baby. Ils donnent toute sécurité, même pendant la
+projection de «titres arrêtés ». Is s'adaptent facilement à tous
+les projecteurs éclairés par l'arrière.
+
+Venant au moment où les pellicules, même les petites de
+9,5 mm ont acquis une finesse de grain telle que les forts gros-
+sissements sont possibles, ils donnent un nouvel intérêt à la
+cinématographie d’amateur et aux projections animées dans
+les écoles et patronages.
+
+Une médaille d’or a d’ailleurs récompensé le nouvel appareil
+d'éclairage intensif au dernier concours Lépine.
+
+Inventeur et constructeur : Vitolia intensif, 127, rue de Reuilly,
+
+Paris (12°), |
+OBJETS UTILES
+
+La fermeture « Éclair »
+
+Agrafes et portes, boutonnières et boutons se démodent.
+Il faut aller vite, même pour s'habiller; il faut fermer et ou-
+vrir instantanément 6es vêtements, ses chaussures, son sac
+de voyage, sa voiture, que sais-je encore. De là, le succès
+grandissant des systèmes de fermeture composés de deux .
+chaînes s’engrenant l'une dans l’autre au moyen d'un eur-
+
+SEE —_—_—Â_—_—_—_—_—_—_—_—_—_—_—_—_—_—_—]—_—_—_————
+
+Droits reservés au Cnam et à ses partenairesFig. 7 (à gauche). — La fermeiure Lelurr,
+
+1, ruban à coudre ou coller sur les bords de l'ohjet dont on veut
+assurer la fermeture: ?, cordonnet âe renlorcement; 4, arréts d'exiré-
+mité; 4, maillons; à, cursetir; 6, tirette: 7, arrèt inférieur.
+
+Fig. 8 (à droite). — Comment on fire la fermelure Éclair.
+
+1 et ©, extrémités des rubans à replier avant couture. En pointillé,
+points de piqûre; la piqûre d'arrêt inférieur doit être renlorrée.
+
+seur qu'il suffit de tirer. On en met maintenant partout. Une
+fois mises en place, ces fermetures sont plus durables que les
+vêtements ou les objets qu'elles doivent clore; on ne craint
+donc plus la déchirure, l'effilochage ou, désespoir inattendu,
+le fil qui casse et le bouton qui se détache au moment même
+où l’on s'habille, où l’on se hâte de partir.
+
+L'idée n’est pas nouvelle et bien des systèmes ont déjà
+été proposés, mais tous avaient le défaut d’être lourds, rigides,
+difficiles à fermer ou trop faciles à ouvrir et surtout fort chers,
+C'est un ingénieur suédois établi aux Etats-Unis, M. Sund-
+back, qui imagina les modèles actuels, puis qui réalisa la
+machine nécessaire pour les fabriquer en série à bon compte.
+
+Le principe en est des plus simples : deux séries de chai-
+nons se font face, sertis sur des rubans très résistants. Chaque
+chaînon présente une face convexe et une concave; l’aspérité
+d'un côté s’emboîte exactement dans la cavité du chaînon qui
+lui fait face et la face bombée de ce dernier s'emboîte dans le
+creux du chaînon opposé. La fermeture est donc remarqua-
+blement solide. Pour obtenir rapidement cette série d’emboi-
+tement alternés, il faut présenter les chaînons successifs sous
+un angle déterminé; ceci est le fait du curseur qui engrène
+quand on le tire dans un sens et détache quand on le tire en
+sens inverse.
+
+La fermeture « Éclair » est faite en métal inoxydable dans
+les conditions habituelles de l'atmosphère; sa résistance à la
+traction atteint 25 kg dans les modèles légers et 100 dans
+les plus forts.
+
+Ses usages deviennent du plus en plus nombreux et on ne
+saurait les énumérer tous. On trouve aujourd’hui des bandes
+de toutes longueurs qu'on peut appliquer soi-même par cou-
+ture ou par collage. Citons seulement la fermeture de tous les
+vêtements, depuis la lingerie de luxe, les chemises, les tri-
+cots, les vestons, les pantalons, les pardessus, jusqu'aux gants,
+chaussures, chaussons, bottes, guêtres. Toute la maroqui-
+nerie et les articles de voyage sont justifiables du même dis-
+positif : serviettes, sacs à main, porte-monnaie, étuis à ciga-
+rettes, cartables, valises, sacs à linge ou à parapluies, cartons
+à chapeaux, cabas, valises, mallettes, pochettes à clés et à
+pipes, blagues à tabac, porte-raquettes, porte-musique,
+
+ 
+
+141 =—=
+
+étuis à violon, etc. L'automobile y trouve un accessoire com-
+mode pour les cache-radiateurs, les enveloppes de roues de
+secours et surtout dans les carrosseries amovibles : Le cam-
+ping est simplifié par ce mode de clôture des tentes. C'est
+dire que la fermeture Eclair est aujourd'hui d’un usage
+absolument général et qu'elle s'applique à tous les objets
+qui nous entourent pour notre plus grande commodité.
+
+Constructeurs : La Fermeture Eclair, 6, rue Stanislas-Girardin,
+Rouen et 43, rue du Sentier, Paris.
+
+Un rasoir électrique.
+
+Le rasoir dit de sûreté, dont le modèle Gillette est le pro-
+totype universellement connu, a amené dans l’art de la barbe
+une véritable révolution, dont l’un des effets a été d'émanciper
+le sexe «fort» du rasoir du coiffeur. La foire de Leipzig a
+révélé, dans ce même domaine, une nouvelle innovation : le
+rasoir de sûreté devient électrique. Les usines Siemens-Schuc-
+kert ont présenté, en effet, un appareil dans lequel, pour la pre-
+mière fois, abandonnant le principe de la lame immobile, on
+s'est avisé d'imprimer au rasoir proprement dit, sous l'action
+d’un minuscule moteur électrique, un mouvement de va-et-
+vient — fort rapide, à raison de 100 coups par seconde, dans
+le sens de sa longueur.
+
+Tandis qu'il faut autrement exercer une certaine pression,
+ce rasoir électrique s'applique très doucement: grâce à son
+mouvement propre, la lame fonctionne à la manière d’une
+faux, coupant les poils au ras de la peau. La coupe, d'une dou-
+ceur extrême, laisse la peau tout à fait intacte et permet même
+de raser, dès le début, à contre-poil.
+
+Le courant actionnant le petit moteur est fourni par une
+pile de faibles dimensions, qu'on met dans sa poche ou qu'on
+place, pendant le fonctionnement, à côté de soi, sur la toi-
+lette,
+
+Constructeurs : Usines Siemens-Schuckert, à Berlin Siemensstadt.
+
+Fig. 9. — Emploi du rasoir électrique.
+
+ 
+
+ 
+
+9m mm
+RP
+
+Droits reservés au Cnam et à ses partenaires142
+
+ 
+
+ 
+
+BOITE AUX LETTRES
+
+ 
+
+ 
+
+ 
+
+COMMUNICATIONS
+
+À propos de Jules Verne.
+
+M. Virgile Brandicourt, collaborateur à La Nature, %1, rue de Noyon,
+Amiens, préparant un travail sur Jules Verne, serait reconnaissant
+aux lecteurs de vouloir bien lui envoyer tous souvenirs personnels,
+anecdotes, appréciations sur le grand romancier. Il serait heureux qu'on
+voulüt bien lui signaler les traductions de Jules Verne en langues
+étrangères autres que : anglais, allemand, italien, espagnol, suédois,
+norvégien, danois. Les traductions en langues orientales ou en patois
+l'intéresseraient particulièrement.
+
+A propos du joueur d'échecs (n° du 1° décembre
+1938 et du 1er janvier 1934, Boîte aux Lettres),
+
+M. À. D. de Beaumont, à Albi, nous écrit.
+
+« Vous voudrez bien me permettre, à l'encontre de la critique,
+d'ailleurs courtoise, mais aventurée, de M. Tournier, d'approuver,
+comme superposable à la réalité, l'affirmation du « Prestidigitateur
+Alber », que l'automate joueur d'échecs de Kempelen était, aux États-
+Unis passé à peu près inaperçu,
+
+Certes, il avait été remarqué, étudié et dévoilé, par Edgard Poë
+qui, de l'observation diligente, passant au raisonnement déductif,
+
+QUESTIONS ET
+
+Question à nos lecteurs. — L'éymologie du moi « Cre-
+tonne ».
+
+Nous serons reconnaissants à ceux de nos lecteurs qui pourront
+nous aider à résoudre le problème que pose la lettre suivante de
+M. l'Abbé Mathieu, professeur au Petit Séminaire d'Orgeville.
+
+« Je viens de faire ces jours-ci une petite découverte qui m'a beaucoup
+intéressé et n'a pas laissé de me surprendre. Je me suis aperçu en
+effet que les ouvrages les plus récents assignaient comme étymologie
+du nom de cretonne — forte toile — Crelon, petit village de l'Eure,
+alors que des ouvrages plus anciens indiquaient Cretonne, nom de
+fabricant.
+
+Ainsi le grand Larousse du XIXe tient pour Cretonne.
+
+Alors que pour Creton, nom de village, je trouve le Larousse du
+xx® siècle, le Dictionnaire étymologique de Clédat et le Dictionnaire
+étymologique de Bloch, paru l'année dernière et qui est, je crois, la
+dernière autorité en cette matière.
+
+Un tel accord parmi les auteurs modernes provient sans doute de
+ce qu'un travail relativement récent a établi avec certitude qu'il
+s'agissait bien du petit pays de Creton.
+
+Ce point d'histoire locale m'intéresse particulièrement. Connaissant
+ce petit pays, je suis certain par ailleurs que personne maintenant n'y
+est au courant d'une pareille question,
+
+C'est pourquoi je serais reconnaissant à La Naïure — si par l'in-
+termédiaire de la Boîte aux lettres elle pouvait m'indiquer
+quelle thèse ou quel article d'une revue d'industrie textile aurait bien
+pu parler de cette question et élucider d'une manière certaine cette
+question d'origine
+
+Amélioration d’un poste supeérhétérodyne.
+
+Nous vous remercions de votre communication relative à l'amélio-
+ration de la sélectivité dans un poste superhétérodyne. En supprimant
+une lampe de votre appareil, et en réunissant la douille grille et la
+douille plaque par un condensateur fixe de quelques millièmes de
+mierofarad, vous diminuez certainement la sensibilité de votre poste,
+mais vous augmentez la sélectivité, puisque vous intercalez des circuits
+de sélection supplémentaire, |
+
+On pourrait obtenir, certainement, un résultat du même genre sans
+diminuer la sensibilité, en adoptant un système présélecteur à deux
+circuits accordés, mais le moyen est sans doute plus complexe, et
+difficilement applicable aux appareils déjà anciens fonctionnant sur
+batteries ou par courant redressé. Nous étudierons, d'ailleurs, cette
+question, d'un intérêt pratique général, dans une chronique de Radio-
+phonie pratique. Réponse à M. Si81ee, à Lilling (Moselle).
+
+avait démontré que l'automate n'était pas un mécanisme, mais le
+masque dissimulant une présence humaine, la boîte truquée qui logeait
+un joueur d'échecs vivant.
+
+Seulement, Edgard Poë, parfaitement inconnu aux États-Unis,
+resta ignoré et passa inaperçu du peuple américain jusqu'au jour
+où la France le consacra génie Sans comparaison possible,
+
+11 a fallu la traduction française de Baudelaire pour découvrir,
+à son pays natal, quel génie d'une rare originalité avait été Edgard
+Poë, Seulement Poë était mcrt | »
+
+La position vraie de la Terre, pour chaque
+jour, chaque heure (n° du 1 décembre 1938, p, 525).
+
+Dans l'article ci-dessus, l'auteur M, Monnier décrit un ingénieux ap-
+pareil de sa conception et donne au lecteur les indications nécessaires
+pour le construire, Il se trouve que M. Monnier a réinventé sans le
+connaitre un dispositif inventé dès 1914 par M, le Lieutenant-colonel
+Vincent, 111, rue Dubourdieu, à Bordeaux, brevelé par lui à cette
+époque; et décrit sous le nom de « Cosmogéosphère » notamment dans
+le Bulletin de la Sociéié astronomique de France. M. Le Colonel Vincent
+nous écrit pour revendiquer la paternité de cet appareil; l'auteur et la
+rodaction de La Nature lui en donnent acte très volontiers.
+
+RÉPONSES
+
+Projecteur cinématographique pour films à plu-
+Sieurs formats,
+
+On peut désirer utiliser un projecteur cinématographique pour films
+de format réduit, permettant d'utiliser les films de différents formats,
+Soit édités dans le commerce, soit provenant d'enregistrements d'ama-
+teurs.
+
+Les films d'amateurs ont un format de 8 mm, de 9,5 mm ou de
+16 mm. On trouve désormais des filmothèques comportant des enre-
+gistrements déjà nombreux en 16 mm et surtout en 9,5 mm (Pathé-
+Baby). Quant aux films de 17,5 mm, ils sont obtenus par réduction
+directe des films standard de 85 mm, et sont déjà utilisés normale-
+ment pour l'enseignement et la petite exploitation.
+
+Nous vous avons signalé qu'on pouvait trouver des projecteurs
+cinématographiques d'amateur ou de petite exploitation du type
+bifilms pour 9,5 mm ou 16 mm. Il y a désormais, depuis peu de temps,
+des appareils encore plus ingénieux du type trifilms ou même quadri-
+films.
+
+Les premiers permettent à volonté la projection des bandes de
+9,5 mm, de 16 mm, ou de 17,5 mm. Les autres servent également en
+outre, pour la projection des films de 8 mm.
+
+En particulier, nous pouvons vous signaler, dans cette catégorie
+nouvelle de projecteurs, le type Nizo, modèle H, des établissements
+Chotard, 22, rue Bobillot, Paris. |
+
+Réponse à M. GHesquières, à Enghien (Belgique).
+
+Emploi des appareils radiotechniques pour la sur-
+dité.
+
+La plupart des appareils employés pour combattre les effets de la
+surdité sont électro-acoustiques, et comportent simplement un micro-
+phone placé dans un circuit comportant une petite pile dite « sèche 2,
+à chlorure d'ammonium, et un récepteur téléphonique très léger, de
+forme modifiée de manière à s'adapter facilement sans aucune gêne
+sur l'oreille du sujet, ét à être peu visible,
+
+On peut cependant, avec succès, tenter non seulement d'utiliser les
+phénomènes de conduction osseuse à l'aide de systèmes à armature
+vibrante dont les vibrations sont transmises aux os du crâne, ou même
+utiliser des systèmes d'amplification des courants microphoniques à
+lampes de T.S.F.
+
+La sensibilité des appareils réalisés est alors beaucoup plus grande:
+elle permet notamment d'obtenir une profondeur de champ beaucoud
+plus étendue, c'est-à-dire de permettre à l'interlocuteur de s'éloigner
+du microphone. Cette profondeur de champ est particulièrement pré-
+
+- cieuse pour l'écoute dans une salle de conférences, dans une salle de
+
+0 mm
+ARR RRQ QE
++
+
+Droits reservés au Cnam et à ses partenairesthéâtre ou de concerts. De plus, on peut faire varier la tonalité de
+l'audition, c'est-à-dire rendre les sons plus ou moins graves et plus ou
+moins aigus beaucoup plus facilement qu'avec des appareils électro-
+acoustiques ordinaires. |
+
+Vous pouvez trouver, 'à ce sujet, des renseignements dans les articles
+qui ont paru dans La Nature, ou dans l'ouvrage La surdité et l'acous-
+tique moderne, (Chiron, éditeur.)
+
+L'inconvénient des appareils de ce genre réside surtout dans le
+fait qu'ils sont plus complexes, et généralement plus coûteux que les
+appareils ordinaires. Ils sont surtout forcément plus encombrants,
+et, par suite, moins portatifs. Il est vrai que tout amateur de T.S.F.
+peut assez facilement constituer un appareil de fortune à l'aide des
+amplificateurs qu'il possède déjà le plus souvent.
+
+Réponse à M. CAHEN, à Vichy (Allier).
+
+Troubles d’audition radiophonique.
+
+La plupart des oscillations haute fréquence parasites n'ont pas une
+fréquence propre bien déterminée, et ce fait s'oppose d'ailleurs, essen-
+tiellement à leur élimination. On remarque pourtant, la plupart du
+temps, que les troubles produits augmentent d'intensité en même
+temps que la longueur d'onde sur laquelle le récepteur est accordé. Les
+parasites atmosphériques, entre autres, sont bien plus gênants sur les
+longueurs d'onde moyennes de 1000 à 2000 m que sur la gamme de
+200 à 500 m, et surtout de 15 à 80 m,
+
+I y a bien sans doute des perturbations parasites qui se manifestent
+spécialement sur des longueurs d'onde réduites. Tels sont par exemple
+les troubles produits par les dispositifs d'allumage des moteurs d'auto_
+mobiles, mais ces perturbations sont, en réalité, très rares et relative.
+ment peu intenses.
+
+Nous pensons donc que les troubles produits au cours de vos audi-
+tions sont dus essentiellement, comme vous le pensez, à l'influence
+de la ligne électrique à haute tension passant près de votre maison.
+
+Le remède est assez difficile à appliquer. Il ne peut résider que dans
+une disposition particulière de l'antenne. Celle-ci doit être perpendi-
+culaire à la ligne amenant les courants perturbateurs, aussi élevée
+que possible, et il serait bon que la descente d'antenne soit blindée,
+
+Vous pourriez vous référer, à ce sujet, aux articles de M. Michel
+Adam, parus dans La Naiure ou à la brochure L'éliminaltion des para-
+sites en T,S.F, (Edition Film et Technique, 17, rue des Acacias,
+Paris 17°). Réponse à M. L. P. à Toulouse.
+
+De tout un peu.
+
+J. B., à Bergerac. — 1° Vous trouverez tous renseignements
+utiles sur la fabrication des articles en caoutchouc dans l'ouvrage
+« Industrie du caoutchouc » par Jacobs, éditeur, Béranger, 15, rue
+des Saints-Pères.
+
+29 En ce qui concerne le matériel, vous pouvez vous adresser aux
+maisons suivantes : Soyer, 84, rue des Pyrénées, Paris, 20°: G. Breuil,
+route d'Abrest à Vichy (Allier); Lyon, 50, rue Capouillet, Bruxelles.
+
+3° Pour éviter la diffusion de l'encre, il vous suffira de lui donner
+plus de consistance par addition d'un peu de savon.
+
+4% Durcir la couche des papiers carbone serait aller 4 l'encontre
+d’une bonne utilisation, vous pouvez prendre comme type de pré-
+paration la formule suivante :
+
+Suif blanc, . . . . . . . . . . . . . . 100 grammes
+Cire d'abeilles. . . . . , , . , , , , , , * 10 —
+Bleu de Prusse pulvérisé. . , ,. vu 10 ee
+
+Le Bleu de Prusse peut étre remplacé par du noir d'ivoire ou tout
+autre pigment à volonté. Enduire à chaud, en choisissant un papier
+lisse.
+
+59 Service de l'Intendance, 6, boulevard des Invalides, à Paris.
+
+M. Mettey, à Audincourt (Doubs). — Le moyen le plus pra-
+tique pour détruire les tarets qui rongent vos poutres est de badigeon-
+ner celles-ci avec une solution de zincate de soude que vous obtiendrez
+facilement en préparant les deux mélanges suivants :
+
+A. Chlorure de zinc à 45°B. 480 cmè
+Eau ordinaire. , , , . . . . . . . . 1000 —
+B. Lessive de soude caustique à 36°B.. , . 400 —
+Eau ordinaire. . , . . , s + 2950 —
+
+Verser la première solution dans la seconde, agiter, passer à la
+toile métallique de fer pour séparer les grumeaux, puis appliquer sur
+le bois en se servant d'une brosse à peindre assez dure pour faire
+bien pénétrer.
+
+143 ——
+
+M, P. (Jura). — 1° La formule suivante vous donnera très
+probablement satisfaction pour préparer un cirage-crème pour chaus-
+sures,
+
+Faire chauffer au bain-marie :
+
+Ozokérite . . . . . . . . . . . 100 grammes
+Cire de Carnauba ou du Japon. . , . . . 100 —
+Essence de térébenthine. . . ,. . . . , . 500 —
+
+Sitôt que la masse est homogène, cesser de chauffer et continuer
+d'agiter en plongeant le récipient dans l’eau froide, pour hâter la
+prise en masse.
+
+Si on désire un cirage noir, ajouter avant refroidissement 5 gr de noir
+animal ct pour un cirage jaune même dose de jaune au stéarate.
+
+N. B, — Eviter de substituer de la cire d’abeiïlles aux cires indi-
+quées, le brillant serait moins rapide à obtenir, avoir soin également
+de prendre de l'ozokérite bonne et non de la cérésine blanche ou
+de la paraffine.
+
+2° Formule de vernis à l'acétate :
+
+Acétate de cellulose,
+
+ 
+
+60 grammes
+
+Alcool éthylique. . . . . . . , . . , . . 125 —
+Acétone. . . , . . . . . ,. , . . . . . . 675 —
+Benzine. . . EL ——
+
+Alcool benzylique. dou ou es 15 —
+
+Ne pas négliger l'alcool benzylique qui agit comme gélatinisant des
+avétstes cellulosiques et donne d'autre part du brillant aux pelli-
+cules,
+
+M. Peugeot, à Monbéliard. — Dans le cas qui vous intéresse,
+nous pensons que les soudures à base de cuivre et zine pourraient
+vous convenir. Suivant la fusibilité désirée, on peut prendre :
+
+A. Cuivre 2-Zinc 1, B. Laiton malléable 5-Zine 1. C, Cuivre L-Zine 1
+ou même simplement le laiton laminé, Toutes soudures pour lesquelles
+on utilise comme fondant le borax,
+
+Nous croyons d'autre part, qu'il serait plus pratique pour vous
+d'acheter des soudures toutes préparées dans une maison spécialisée,
+par exemple la société des Plaques el Poudres à souder, marques
+Laffitte, 102, avenue Parmentier, en lui signalant le but que vous
+voulez atteindre, l'une de ses préparations Bronzogène, Ligot, Cui-
+vrogène, etc. répondra certainement à votre désir.
+
+M. Villiamier, à Pontarlier, 1° L'inconvénient que voussignalez
+est dû à l'emploi d'une éuve électrolytique en fer, vous pourrez l'éviter
+en vous servant comme on le fait presque toujours actuellement
+d'une cuve en bois parallélépipédique constituée par des madriers
+assemblés à joints plats et serrés au moyen de tirants en fer dont
+les extrémités portent des écrous, le bois le plus employé est le pitchpin.
+Pour assurer une étanchéité parfaite, on fait sur les faces d'assemblage
+des rainures que l’on réunit par une fausse languette.
+
+Enfin, dans le but de protéger Le bois, on y applique un enduit
+obtenu en faisant fondre à chaud 1000 gr de gutta-percha et en ajou-
+tant successivement 300 gr de pierre ponce en poudre impalpable
+puis 6000 gr de poix de Bourgogne.
+
+La préparation étant maintenue à l'état fluide au bain-marie, on
+en donne plusieurs couches sur les parois internes de la cuve, sans
+négliger la moindre partie de la surface; les joints, les angles et les
+coins sont particulièrement recouverts, on y coule méme au moyen
+d'une cuiller en fer un excès de matière que l'on égalise et lisse à chaud
+avec un fer à souder.
+
+L'extérieur de la cuve est protégé par un vernis quelconque à la
+gomme laque dans l'alcool ou un vernis gras.
+
+2° Nous avons publié dans le n° 2891 du 15 avril 1930, page 359,
+un article très complet sur le chromage auquel vous pourrez vous
+reporter. Voir également les études récentes sur la galvanoplastie
+industrielle parues dans a Revue de chimie industrielle, n° 484, 1932,
+pages 105 à 112, n° 485, 1932, p. 189 à 144, no 486, juin 1932, p. 176.
+
+M. Moravatz, à Belgrade. — La place limitée dont nous dis-
+posons, ne nous permet pas de traiter «in extenso » un sujet aussi
+vaste que la galvanoplastie en général; veuillez bien vous reporter
+aux ouvrages spéciaux, par exemple le Manuel pratique de galvano-
+plastie et dépôts électro-chimiques, par André Brochet, éditeur,
+Baillière, 19, rue Mautefeuille, Les dépôts métalliques directs et
+indirects par Gasnier, même éditeur.
+
+MM. Myloni et Cie, à Salonique. — À notre grand regret,
+nous ne pouvons vous donner satisfaction en vous donnant une for-
+mule de revivification des alcools dénaturés, une telle vulgarisation
+aurait pour conséquence de permettre une fraude, que ladite dénatu-
+ration a justement en vue d'éviter. -
+
+© qu _ me de .
+|
+2220
+
+Droits reservés au Cnam et à ses partenairesDOCUMENTS PHOTOGRAPHIQUES
+
+  
+
+Fig. 1. — Le Bear of Oakland, {e navire à bord duquel l'amiral Byrd Fig. 2. — Le Discovery, le célèbre navire océanographique anglais,
+énireprend une nouvelle exploration antarctique. qui va entreprendre un nouveau voyage dans l'Antarciique.
+{Phot. Keystone.) {Ph. Keystone.)
+
+ 
+
+Fig. 4. — L'escadre aérienne du général Vuillemin arrive à Alger, au retour
+de sa croisière africaine. (Phot. Keystone.)
+
+ 
+
+Fig.3,— Gigantesque moteur à vent à «rotor»,
+construit par M.Madaras à West-Burlington
+(Etats-Unis).
+
+(Phot. Wide World.)
+
+ 
+
+Fig. 5. — Ur irain moderne pour la
+ligne « Teæas and Pacific » : auto-mo-
+trice à essence (moleur de 480 ch),
+wagons en acier inoxydable, roues
+caoutchoutées.
+
+  
+ 
+ 
+   
+  
+
+(Phot. Wide World.)
+
+  
+  
+
+   
+ 
+  
+
+VÉLODYNE N°0!
+
+Fig. 6. — Le Vélodyne Caudron
+ne
+seen AVIONS LAURRON
+
+permettra aux cyclistes d'alleindre la |
+vilesse de 50 km-heure.
+
+(Phot. Rol.)
+
+HouBERTHET VELODYNE Mu!
+Fee ae on AMONS CABDA
+
+  
+
+ 
+
+ 
+
+Le Gérant: G. Massox. 439. — np. Laure, 9, rue de Fleurus. Paris — 1-2-1934.
+
+Droits reservés au Cnam et à ses partenairesDroits reservés au Cnam et à ses partenairesParaît le le et le 15 de chaque mois (48 pages par numéro)
+
+LA NATURE
+
+MASSON et Cie, Editeurs, 120, Boulevard Saint-Germain, PARIS, VI" /R. C. Seine : 15.234) Tél. Danton 56-11.
+
+PRIX DE L'ABONNEMENT
+Tarif intérieur, Franre et Colonies 12 mois (24 n°), 90 £r.; — 6 mois (12 n°), 45 tr.
+
+ 
+
+Prix du numéro vendu en France : 4 tr.
+
+ 
+
+Tarif spécial pour la Belsique et le Furembonrg : 12 mois (24 n°}, 405 fr.; — 6 mois (12 n*) 53 fr.
+à : | UN an, . , .., 140 fr. , Un ax, , . ,,, .. ,. . |. 1430 fr,
+’ TT 41 À ‘ \
+Tarif pour l'étranger ‘ anfne 1 | Six mois,  . . . . . 55 fr. Tarif n° 2 { Six mois, , 0. . . . . 65 fr.
+
+Tarif extérieur n° 4 valable pour tous les pays ayant accepté une réduction de 50 pour 100 sur les affranchissements des périodiques:
+Albanie, Allemagne, Argentine, Autriche, Brésil, Bulgarie, Canada, Chilie, Colombie, Congo belge, Costa-Rica, Cuba, Egypte,
+Equateur, Espagne, Esthonie, Ethiopie, Finlande, Grèce, Guatemala, Haïti, Hedja:, Honduras, Hongrie, Lettonie, Liberia,
+Lilhuanie, Mexique, Nicaragua, Panama, Paraguay, Pays-Bas, Perse, Pologne, Portugal et ses Colonies, République Dominicaine,
+Roumanie, Russie (U.R.S.S.), San Salvauor, Serbie, Suisse, Trhécoslovaquie, Turquie, Ünion d'Afrique du Sud, Uruguay, Venezuela.
+
+Tarif extérieur n° 2 valable pour les autres pays.
+
+Réglement par mandat, chèques postaux (compte n° 599, Paris) ou chèque à l'ordre de Masson et C!, sur une banque de Paris.
+Les abonnements sont payables d'avance et partent du 1° de chaque mois.
+Pour tout changement d'adresse, joindre 1a bande et un franc.
+Dans le cas de majoration des tarifs postaux, la différence des frais de poste serait demandée aux abonnés.
+
+Adresser ce qui concerne la rédaction à MM. les rédacteurs en chef de La Nature, 120, boulevard Saint-Germain. Paris VIe.
+Les abonnements et les ordres de Publicité sont reçus à la Librairie MASSON et C', 120, boulevard Saint-Germain, Paris-Vl-
+La reproduction des illustrations de « La Nature » est interdite.
+
+La reproduction des articles sans leurs figures est soumise à l'obligation de l'indication d'origine.
+
+téorologie
+
+les appareils enregistreurs
+J. RICHARD, sont recherchés
+pour leur grande précision.
+
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+     
+
+APPAREILS POUR
+la vitesse et direchon du vent. Pres.
+sion atmosphérique. Température
+Humidité. Évaporation, Pluie
+Radiation solaire, Nébulosité,
+Electricité atmosphérique. Trans.
+mission électrique à distance
+
+ 
+
+MÉTÉOROGRAPHES
+
+| ZT ET ET
+pour l'aérostation l'aviction et l'étude de l'atmasphere. * ;
+APPAREILS DE CONTRÔLE | . k
+ET DE MESURE à
+pour tes Sciences et l'industre . |
+
+PHOTOGRAPHIE AËRIENNE - - + ë
+# RICHARD -LABRELY * ;
+JUMELLES DE PRÉCISION V E EL NO RIN
+TS + |
+E Jules RICHARD Marque V& Probité Qualité Sécurité
+
+Usines et Bureaux 28, Rue Mélingue, Paris-19° La premiére Maison de Sélection du
+sn rene BON sers), monde VILMORIN-ANDRIEUX & Cie
+M Re ME CT 9 tement le Cotologue G. 4 Quai de la Mégisserie PARIS (1er)
+
+Catalogue T franco sur demande
+
+INVENTEURS
+
+Faites examiner vos brevets par spécialiste expérimenté lequel vous fournira
+les moyens de mettre vos inventions en exploitation commerciale et industrielle,
+
+ 
+
+    
+         
+         
+
+ANCIENNE MAISON
+
+Consultations gratuites. — Prendre rendez-vous. Er
+s’ adresser à STERN, Ingénieur-Conseil orka
+51, rue de Paradis, PARIS Prov. 34-25 : 84, ne Ober mpf, 84, Paris
+
+ 
+
+Droits reservés au Cnam et à ses partenairesN° 2923
+
+ 
+
+ 
+
+LA NATURE
+
+15 Février 1934.
+
+ 
+
+ 
+
+ 
+
+LE LONG DU ‘ PIPE-LINE” DE L'IRAK
+
+La Nature ayant publié, l’année dernière,
+une étude sur le pipeline qui va bientôt
+transporter au littoral méditerranéen, à raison
+de 4 000 000 de tonnes par an, le pétrole dit
+de Mossoul, nous n’aurons qu'à rafraîchir la
+mémoire de nos lecteurs en condensant quel-
+ques faits d'ordre général, avant de leur sou-
+mettre les observations que nous rapportons
+d'un voyage qui nous a fait suivre tout le
+tracé de cet ouvrage gigantesque.
+
+Rappelons que le concessionnaire de ces
+gisements, situés entre le Tigre et la fron-
+tière persane, est la Jrag Petroleum Com-
+pany, consortium international où notre pays
+est représenté,pour un quart, par la Compagnie
+française des: Pétroles. On se souviendra
+aussi que le pipe-line comporte deux branches,
+affectant une forme qui se rapproche de la
+lettre Ÿ ct totalisant une longueur de près de
+2000 km. Elles partent ensemble de Kirkouk,
+ville qui occupe le cenége du champ pétrolifère
+du même norg# M côte à côte le
+Tigre, puis l'Fp “#h séparent sur la
+rive droite d#fæ deféfier ffé@ve, la branche
+septentrionalé abat VS Tripoli presque
+en ligne droit \è LABVers BAerritoire syrien,
+RUE neS
+
+   
+   
+   
+   
+
+ 
+
+    
+
+   
+  
+  
+
+   
+   
+
+tandis que la #idionale franchit successive-
+
+ment les déserts de et de la Transjordanie, puis la
+
+Palestine, avant d'atteindre Caïffa.
+Comme je me propose de faire ici des emprunts à mon
+
+Fig. ?. — Enlrepôt de tubes duns lé camp de Homes.
+
+ 
+
+ 
+
+Fig. L — Hums. {Vue prise au retour des pèlerins de la Mecque.)
+
+carnet de route, le lecteur me permettra de consigner
+dès à présent cette précision : j'étais le compagnon de
+voyage de M. Maurice Mercier, secrétaire général de la
+Compagnie française des Pétroles, qui joint à ces fonc-
+tions sa connaissance approfondie de l’art et
+de la langue arabes, connaissance que je n’eus
+pas trop à lui envier, puisqu'il m'en fit lar-
+gement profiter au cours d’une randonnée
+qui nous transporta jusqu’au delà de Bagdad.
+
+Je n’ajouterai que quelques mots à ce
+préambule. Depuis notre voyage, qui prit
+place au printemps, les travaux ont été’
+poussés avec une telle activité qu'à la
+date de fin janvier 1934, ils approchaient de’
+leur achèvement. Les 2000 km de tubes sont
+posés ; il ne reste plus qu’à terminer l’installa-
+tion des 12 stations de pompage échelonnées
+sur les deux branches du pipe-line.
+
+A TRAVERS LE DÉSERT DE SYRIE :
+
+De Tripoli, que nous avions atteint par la:
+route du httoral qui part de Beyrouth, il nous
+fallut aller loin dans l’intériew pour trouver
+des chantiers en activité, la branche septen-
+trionale du pipe-line étant déjà construite
+
+mms
+ET “
+
+Droits reservés au Cnam et à ses partenaires=== 146
+
+ 
+
+Fig. 3, — Un tracteur partant 40 tonnes de tubes vers Palmyre,
+
+depuis la côte jusqu'à plus de 80 km à lest de Pal-
+myre. Sur la section achevée, le pipe-hine, enterré dans
+sa tranchée de 1 m de profondeur, était désormais
+invisible : en quelques semaines ou en quelques jours, les
+apports de sable avaient effacé son emplacement presque
+partout; mais la ligne télégraphique établie par l’Zrag
+Petroleum Company en marquait le tracé, avec ses mâts
+de tôle d'acier, peints d'un gris clair, et ses fils rouges.
+
+L'intérêt technique du voyage débuta réellement à
+Homs, l'antique Éphèse, ville de 60 000 habitants, reliée
+à Tripoli par une voie ferrée, longue d’une centaine de
+kilomètres. Je ferai. à mes notes ce premier emprunt :
+
+« Le pétrole mésopotamien secoue déjà la léthargie
+orientale de’ l’antique cité. C’est devenu le principal
+entrepôt de la branche septentrionale du pipe-line, à
+l’orée du grand désert syrien où s’allonge déjà son serpent
+d'acier. Les trains apportent de Tripoli leurs cargaisons
+de tubes; ils les déchargent à quelques centaines de
+mètres de la grande mosquée, dont minarets et coupoles
+dominent de leur aveuglante blancheur le labyrinthe
+
+ 
+
+ 
+
+des ruelles tortueuses, aux maisons noires
+construites de basalte…
+
+« Le camp de la compagnie, où s'exerce
+une activité qui ne connaît ni trêve ni repos,
+oppose un curieux contraste à la somnolence
+de la vieille cité musulmane... Symétrique-
+ment rangés autour des bâtiments tout
+battant neufs où ingénieurs et dessinateurs
+poursuivent leurs calculs et parachèvent leurs
+plans, les tubes dressent d’imposantes pyra-
+mides.. Secondés par de puissantes grues,
+des Kurdes athlétiques chargent les conduites
+sur d'énormes camions : selon la capacité du
+modèle, c’est vingt ou quarante tonnes qu'ils
+vont transporter au fond des déserts...
+
+« En compagnie du chef de la station et de
+ses principaux Collaborateurs, nous déjeunons
+au mess, grande salle à l'aspect plaisant.
+
+Des lianes fleuries tapissent l'arceau inté-
+rieur; des plantes en pot égayent les coins;
+des magazines anglais et français voisinent sur
+une table ornée d’un aquarium aux pois-
+sons rouges; une autre est réservée aux tournois de
+ping-pong. L’Irag Petroleum s'est efforcé de donner à
+son personnel toute la somme de confort que permet
+la région... »
+
+Le long de la piste qui nous conduit à Palmyre, des
+squelettes et des carcasses de chameaux matérialisent
+l'horreur de ces vastes étendues sablonneuses où les
+puits d’eau potable sont rares et très espacés. De minus-
+cules oasis ct de pauvres hameaux de huttes coniques
+révèlent de loin l’existence de ces sources. Nous visitons
+un « point d’eau » créé par l’{rag Petroleum : des bara-
+quements aux toitures de tôle, deux grands réservoirs,
+les tentes d’un poste de gendarmerie syrienne, embryon
+de village dressé près de trois puits creusés par la compa-
+gnie et qui ont rencontré l’eau douce à 30 m de profon-
+deur. Leur débit est destiné à l'alimentation d’une
+station de pompage {l’une des douze qui s’échelonnent
+sur les deux branches du pipe-line), éloignée d’une cin-
+quantaine de kilomètres et que marque sur la carte le
+signe « T-4 ».
+
+DANS LA TEMPÉTE DE SABLE
+
+Fig, 4, — La pelle mécanique trace et nivelle l'emplacement de la tranchée
+
+où sera posée la conduite.
+
+ 
+
+Il n’est pas inutile de conter la mésaventure
+qui nous survint, une heure après avoir traversé
+Forklos, le dernier village rencontré avant Pal-
+myre: cette évocation du fléau des déserts
+syriens montrera l’une des difficultés auxquelles
+les constructeurs du pipe-line ont eu à faire
+face.
+
+Sans autre guide que les poteaux de la ligne
+télégraphique, le long de la vague piste où se
+multipliaient les squelettes de chameaux, nous
+marchions à bonne allure, quand des signes de
+mauvais augure portèrent notre chauffeur ar-
+ménien à accélérer sa vitesse. Depuis un
+instant, J'avais remarqué un bizarre phénomène :
+çà et là, de petites colonnes de poussière sem-
+blaient surgir tout d’un coup du sol; un mo-
+
+Droits reservés au Cnam et à ses partenairesment, elles tournaient nonchalamment sur leur
+base, puis disparaissaient, en s’effondrant dans
+l'air apparemment calme. Bientôt, leur nombre,
+leurs dimensions et leur durée augmentèrent, et
+sans arrêt. D’énormes fûts grisâtres tourbil-
+lonnaient dans une direction commune, se
+frôlant, se heurtant, s’incorporant les uns aux
+autres, La tempête de sable se levait, fléau
+qui, même pour les Bédouins accoutumés, double
+l'horreur de ces régions maudites.
+
+Nous atteignons le poste « T-4 » sous les
+rafales d’un vent froid et visitous l’installa-
+tion, encore sommaire. Ces stations de pom-
+page seront comme de petites villes autonomes,
+dans leur cadre désertique, Autour des pompes
+actionnées par des moteurs Diesel, des chalets
+confortables seront les logis du personnel.
+Magasins, entrepôts, ateliers de réparations,
+garages pour les véhicules et garages pour les
+aéroplanes, compléteront le groupement, avec
+le fortin et sa petite garnison de gendarmes.
+Un groupe électrogène assure déjà l'éclairage du
+camp, et des équipes de manœuvres indigènes
+commencent à mniveler l'emplacement de l’aérodrome.
+Pour le moment, la station est alimentée en eau potable
+par des camions-citernes; elle le sera d’une façon plus
+régulière et plus abondante dès l'achèvement de la con-
+duite qui la reliera aux trois puits dont j'ai parlé à
+l'instant.
+
+Nous nous sommes remis en route dans la tempête
+Nous rencontrons un gros camion de la compagnie que
+le vent, qui nous pousse par derrière, empêche d'avancer;
+à travers les vitres closes, nous en apercevons d’autres,
+un peu plus loin, dans la même situation d'attente. La
+visibilité diminue entre les tourbillons d’une poussière
+de sable qui s'épaissit, de seconde en seconde. Le chauf-
+feur doit serrer d’assez près les poteaux télé-
+graphiques, sous peine de se tromper d’orien-
+tation.
+
+Nous arrêtons au caracol d’El-Beïda, fortin
+turc qui tombe en ruines. Un peloton de la
+Légion étrangère y a dressé son camp. Des
+hommes, stoïquement, restent debout sous
+la rafale, en lui tournant le dos; d’autres se
+sont accroupis autour d’un feu de racines,
+entre les murailles ébréchées, refuge qu'ils
+partagent avec deux ou trois familles de
+nomades, qui grelottent dans leurs pittores-
+ques haïllons.…. Un soldat me montre le
+puits, proprement maçonné, d’où les Bédouins
+tirent une eau saumâtre, d’un goût légère-
+ment sulfureux.
+
+Pendant cette pause, qui n’a guère duré
+plus de cinq mnutes, la violence de la tem-
+pête s’est-encore accrue. Nous ,yoyageons
+maintenant dans une muraille : c'est l'expres-
+sion qui rend le mieux ma pensée, la compa-
+raison avec la « soupe aux pois » des brouil-
+lards londoniens m’apparaissant insuffisante.
+Le sable impalpable qui tourbillonne autour
+
+ 
+
+mr.
+
+147 —
+
+ 
+
+Fig, 5. — La machine à creuser les tranchées à l'œuvre dans le désert de Syrie.
+
+de nous est si dense qu'il forme une masse compacte et
+homogène, au travers de laquelle le soleil de cinq heures
+ne laisse plus filtrer que des lueurs de cave: rien n’est
+visible au delà d’une distance de trois à quatre pas. Et
+c’est réellement sinistre, angoissant aussi...
+
+Une panne de moteur nous immobilise, alors que
+nous sommes encore à 20 km de Palmyre. Mais notre
+chauffeur connaît son métier, et nous repartons un quart.
+d'heure plus tard. Nous n'avons pas parcouru 5 km,
+que les ténèbres:se’dissolvent conime par enchantement. :
+Nous revoyons enfin du paysage, âpre et pierreux, mais
+pittoresque, la . piste 'contournant les derniers contre-
+forts de deux massifs entre lesquels descendent douce-
+
+Fig. 6 (à gauche), — Les soudeurs à l'ouvrage.
+
+Fig. 7 (à droite), — La soudure de la conduite : la section pivotant lentement
+
+sous le- chalumeau.
+
+ 
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires= 148.
+
+ 
+
+ment ses sinuosités. Bientôt, Palmyre étale sous nos
+regards son stupéfiant ensemble de ruines.
+
+Au dire des aviateurs que j'ai rencontrés en Syrie
+et en Irak, ces tempêtes de sable projettent leurs tour-
+billons à des hauteurs prodigieuses : de 4 à 5000 m!
+Surpris, un avion doit gagner de l'altitude ou renoncer
+tout de suite à la lutte en atterrissant n'importe où;
+les moteurs s’encrassent et ne fonctionnent plus: bien
+des drames aériens du désert n’ont pas d’autre cause.
+Aussi, l’{rak Petroleum a-t-il multiplié les terrains d’atter-
+rissage le long du pipe-line, principalement dans les
+régions rocheuses que traverse la branche méridionale.
+
+Certains drames terrestres s’expliquent de même façon.
+Les touristes qui s’aventurent dans le désert avec une
+voiture, si puissante qu’elle soit, qui n’est pas « à l’ordon-
+nance », s'exposent aux plus graves dangers. Le moteur
+doit être pourvu d’un dispositif spécial qui le protège
+contre la poussière la plus fine. En outre, l'automobile
+
+ 
+
+ 
+
+Fig, 8. — La soudure de « conduite.
+On voit à gauche, sous le tube, le chevalet à galets qui permet de faire tourner
+toute une section.
+
+porte à l'arrière un récipient cylindrique dont les deux
+tiers sont réservés à l’eau potable, le troisième recevant
+la provision d'essence. Une pelle et 50 m de corde complè-
+tent le harnachement. Et 1l est expressément recommandé
+aux voyageurs de ne point s’aventurer seuls dans le
+désert; deux voitures circulant de compagnie diminuent
+les risques de toute nature. Pour avoir enfreint ces règles,
+trois touristes ont péri misérablement, l’année dernière.
+Pris dans une tempête de sable, égarés loin de la piste,
+puis immobilisés par l'arrêt du moteur, ils moururent de
+soif, après avoir vainement cherché le puits que leur
+indiquaient les cartes.
+
+DES CHANTIERS EN PLEIN DÉSERT
+
+Quittant Palmyre et sa ceinture de palmeraies et de
+jardins, nous nous acheminons vers l’est par une piste
+sablonneuse, \le long de laquelle le pipe-line est indiqué
+par le bossellement de son remblai. Nous sommes bientôt
+en vue d’'Erek, hameau de quelque 120 âmes, édifié près
+
+ 
+
+ 
+
+d’une source. L'Jraq Petroleum a foré huit puits dans le
+voisinage; trois seulement ont rencontré la strate aqui-
+fère, à des profondeurs de 50 à 80 m. L’eau, qui est pure,
+malgré son léger goût sulfhydrique, alimente les réser-
+voirs de la station de pompage « T-3 ». Les lecteurs de
+La Nature me permettront de transcrire ici quelques
+notes, bien qu'elles soient dépourvues de tout intérêt
+technique :
+
+« Surprise ! merveille ! enchantement !. Expressions
+désordonnées d’un enthousiasme qui dépasse la mesure,
+si je le compare aux dimensions de sa cause ! Après les
+50 km de désert gris que nous avons parcourus, depuis
+Palmyre et ses derniers pâturages, voici soudain, tapic
+au creux d'une dépression minuscule, une oasis grande
+comme un Mouchoir de poche. De fait, c’est une sorte
+de vasque naturelle, large d’une vingtaine de mètres
+tout au plus, qui s’est formée autour de la source. Litté-
+ralement, des plantes aquatiques l’encombrent de toutes
+
+les nuances que peut offrir le vert.
+
+me « Je sollicite un arrêl devant ce joyau
+
+et constate qu'il est le paradis d’un petit
+monde : des oiselets ajoutent à ses splendeurs
+le brillant coloris de leurs plumes; des bécas-
+sines de noire livrée s’envolent en me saluant
+de la note aiguë de leurs cris; des bourdon-
+nements décèlent une légion d'insectes; deux
+papillons, rarissimes hôtes du grand désert,
+se poursuivent du battement de leurs ailes
+menues, vernies de jaune pâle. Un natura-
+liste qui s’aventurerait jusqu'ici nous en
+rapporterait une passionnante étude sur l’évo-
+lution des espèces dans un habitat réduit... »
+
+Nous atteignons les chantiers. Dans le
+cadre désertique, leur activité m’apparaît
+tout de suite prodigieuse. Qu'ils soient An-
+glais, Américains ou Français, les membres
+du personnel dirigeant rivalisent d’ardeur.
+Tous, ingénieurs, contremaîtres ou chefs-
+soudeurs, ont su communiquer une bonne
+part de leur entrain à leurs bataillons de
+coolies, manœuvres recrutés parmi les races
+indigènes : Syriens, Arabes, Kurdes, Assyriens.
+
+Je décrirai les différentes phases de la construction, en
+les désignant de leurs termes américains, l’industrie du
+
+| pipe-line étant originaire des États-Unis. Je dois préciser
+
+qu’il s’agit là d’une description « posthume », puisque,
+au moment où j'écris ces lignes, les deux branches de la
+gigantesque conduite sont achevées, quant à la pose
+de leurs 2000 km de tubes.
+
+La première phase est le stringing (de string, corde).
+Les camions, venus de Homs et qui marchent jour et
+nuit, avec trois équipes de chauffeurs, ont déchargé leurs
+cargaisons de tubes, que des grues montées sur chenilles
+alignent bout à bout le long d’une piste, préalablement
+tracée et nivelée à la largeur voulue par une pelle méca-
+nique, montée elle aussi sur chenilles.
+
+Le trenching (de trench, tranchée) intervient ensuite.
+Il est exécuté par une étrange machine, le digger (ou
+fossoyeur), que supportent, à l'avant, deux grandes roues
+de fer, armées de crampons qui s’agrippent au sol, à
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesmesure que la marche se poursuit, Abrité du
+soleil par une toile, le conducteur se tient
+debout, devant ses trois leviers. Suivent les
+deux chenilles, aux engrenages imbibés de
+sable. Enfin, à l'arrière, tourne une roue de
+3 m de diamètre, pourvue de godets aux
+rebords tranchants qui rongent le terrain,
+élèvent les déblais et les versent dans une
+sorte de rigole aménagée sur un côté, d’où ils
+retombent à l'écart. L’engin, qui fait honneur
+à l'esprit inventif de l'Amérique, peut creuser
+5 m de tranchée par minute, en terrain
+friable ou peu résistant, les dimensions du
+fossé se mesurant par environ À m de profon-
+deur et autant de largeur.
+
+Secondées par ces petites grues mobiles
+qui sont des auxiliaires merveilleux, des
+équipes procèdent çà et là au pipe-in, c'est-
+à-dire à l’accouplement des tuyaux. Un
+manchon d’acier, qui est presque de leur
+grosseur, et que l’on enfonce à coups de
+masse, maintient les conduites bout à bout. Quand
+12 tubes ont été ajustés ainsi les uns aux autres, ils
+forment une file de 120 m, prête pour le welding {ou
+soudage); et l’on commence par consolider l’assemblage
+en posant trois points de soudure à chaque solution
+de continuité.
+
+Les grues déposent la longue et pesante section sur
+d’ingénieux dispositifs, minuscules chevalets dont deux
+galets occupent la face supérieure, S’aidant d’un levier
+dont le bras courbe épouse le contour des tubes, un seul
+homme peut aisément faire tourner l’énorme charge sur
+ces roulettes. Protégé du soleil par une ombrelle blanche
+qu'un aide tient au-dessus de lui, la figure cachée sous
+un masque spécial, le soudeur (un Européen) s’installe
+successivement devant chaque commissure et la soude
+à l’arc électrique, le tube « composite » pivo-
+tant sous le chalumeau, d’un mouvement lent
+et régulier. |
+
+Il s’agit maintenant de joindre cette sec-
+tion à celles qui forment déjà un ensemble
+et que soutiennent des pièces de bois, sur le
+côté de la fosse: c’est le tie-in (de tie, lien).
+Grâce à la souplesse des grues, l’ajustage s’ef-
+fectue sans encombre. Mais le nouvel ensemble
+ne peut pas pivoter sous le chalumeau, et
+c'est l’ouvrier qui doit tourner, cette fois,
+autour de la commissure à souder, opération
+des plus pénibles.
+
+LES DERNIÈRES PHASES
+
+Sur les pas des soudeurs s’avance la prè-
+mière des équipes chargées du treating (trai-
+tement): elle a pour mission de nettoyer
+extérieur des tubes et surtout de le débarras-
+ser des écailles de rouille. Une deuxième la
+talonne, en répandant à froid sur ces tubes
+un vernis (appelé primar) qui servira de
+liant entre l'acier et l’émail à chaud. Ce pre-
+mier enduit demande huit heures pour sécher
+
+1499 ==
+
+ 
+
+Fig, 9, — L'accouplement de deux sections (tie-in).
+
+en temps normal, et trois seulement, quand le vent
+souffle. |
+
+La troisième phase du treating offre des détails pitto-
+resques. L’émail à chaud séchant presque instanta-
+nément (en 15 secondes), l'opération doit être conduite
+avec méthode et rapidité. La chaudière où bout le
+liquide visqueux, montée sur un tracteur à chenilles,
+accompagne l’équipe de très près; des manœuvres en
+remplissent, au robinet, de grands arrosoirs qu’ils tendent,
+au fur et à mesure, à l’ouvrier chargé de les vider.
+
+Cet homme (celui dont je surveille les mouvements
+est un jeune Bédouin bien dressé) est tenu d’avoir, à la
+fois, la force d’un hercule et l’adresse d’un danseur de
+corde, car on lui demande de marcher à reculons, penché
+en avant, et d'une vive allure, sur un tube large de 25 em,
+
+Fig. 10. — La machine qui enraule du papier autour des tubes.
+
+ 
+
+ts
+RQ
+
+Droits reservés au Cnam et à ses partenaires=== 150
+
+ 
+
+Fig. 11. — La machine qui remblaïe les tranchées.
+
+en tenant à bout de bras un récipient qui, plein, pèse plus
+de 5 kg.
+
+J’admire de quelle façon cet enfant du désert exécute
+un programme aussi compliqué, et Je ne m'étonne pas
+qu’il reçoive la plus haute paye accordée aux ouvriers
+indigènes (120 piastres par jour, soit environ 25 fr).
+La bouche de l’arrosoir est aplatie : elle verse, sur le des-
+sus du tuyau, un jet quasi continu que deux hommes,
+marchant à la même vitesse que « l’acrobate », reçoivent
+sur une longue et large bande de feutre, passée sous le
+tube, et qu'ils font aller et venir, tout en avançant, pour
+que l'émail soit répandu, d’une façon uniforme, en une
+couche dont l'épaisseur peut atteindre un demi-centi-
+mètre.
+
+Fig, 12, -- Le désert de Mésopotamie entre le “Tigre et l'Euphrale,
+
+transformé en lac par les pluies d'hiver.
+Le tracé du pipe-line est coupé par les eaux.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Enfin, voici la dernière des équipes chargées du trea-
+ting: elle pousse, en l’accompagnant, une curieuse
+machine qui, construite sur le principe de la vis hélicoï-
+dale, court autour du pipe-line en l’enveloppant d’un
+gros papier goudronné; la bande se déroule de volumi-
+neuses bobines que des hommes se tiennent prêts à
+renouveler.
+
+Il ne me reste plus qu'à parler du back-filling (remplis-
+sage), suprême opération. Le grand serpent que forment
+les tubes soudés va dire adieu à la lumière du jour. Sou-
+levé par les grues, et conservant les sinuosités qui pare-
+ront aux changements de température, il descend douce-
+ment au fond de la fosse, que s’empresse de combler
+une machine aux gestes quasi humains. Montée sur che-
+nilles, avec un seul homme pour la commander, elle est
+pourvue, sur un côté, d’une longue poutrelle mobile dont
+le bout soutient, par des câbles d’acier, ce que j’appellerai
+une « herse sans dents ». Un jeu de leviers et de poulies
+anime ce pesant accessoire de mouvements apparemment
+désordonnés, qui exécutent une jolie besogne : le talus
+de déblais est rejeté dans la tranchée, en une brève série
+de comiques bousculades; puis, un va-et-vient de la
+herse nivelle le remblai, sur la tombe où gît pour toujours
+le pipe-line.
+
+Les opérations que je viens de décrire sont presque
+toutes menées simultanément : il en résulte une activité
+que le cadre désertique fait paraître, je l'ai dit, encore
+plus merveilleuse. Chaque gang (ensemble des équipes
+travaillant dans le même secteur) compte plus de 600 per-
+sonnes, dont les cinq sixièmes sont des manœuvres
+indigènes; une trentaine d'ingénieurs, contremaîtres et
+conducteurs, et 70 ouvriers spécialisés {soudeurs, méca-
+niciens, chauffeurs, etc.), complètent le total.
+
+À l’époque de notre visite, cette branche septentrionale
+du pipe-line s’allongeait, en moyenne, de 4 km par
+journée de 8 heures. Les chefs du chantier m’assurèrent
+même que, certains jours le rendement s’é-
+tait élevé à 3 milles, soit 4800 m, chiffre
+qui pouvait être considéré comme un record
+mondial.
+
+COMMENT VIVENT LES ÉQUIPES
+
+Cette rapidité d'exécution, au milieu
+d'éléments hostiles, s’explique par l’esprit
+de méthode qui a présidé à l’organisation
+de l’entreprise. Nous en avons une nou-
+velle preuve en visitant, sur le chemin de
+retour vers Palmyre, le camp qui héberge
+la gang et qui est, naturellement, aussi
+mobile qu'elle. Six semaines environ mar-
+quent le temps de sa durée, après quoi
+force lui est de s’enfoncer plus loin dans le
+désert. Le déménagement mobilise 110 ca-
+mions, chacun d’une capacité de 2 tonnes.
+
+On y mange et on y couche sous la
+toile. Les mess réservés aux ingénieurs,
+contremaîtres et ouvriers spécialisés sont
+des tentes spacieuses à doubles toits, meu-
+blées de tables et de chaises métalliques:
+les lucarnes sont de mica, et l’on s’y
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires

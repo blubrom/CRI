@@ -1,0 +1,1822 @@
+NOUVEL APPAREIL A VOILURE TOURNANTE
+L'HÉLICOPTÈRE FLORINE
+
+LA TECHNIQUE DE L'HÉLICOPTÈRE
+
+L'idée d'utiliser des hélices sustentatrices pour soulever
+et diriger des appareils aériens est fort ancienne puisque
+nous trouvons déjà dans les notes et dessins de Léonard
+de Vinci des schémas d'appareils utilisant ce principe.
+Au XIX° siècle lorsque, grâce aux ballons, l’homme
+commença réellement à pouvoir s'élever dans l’espace,
+des chercheurs : Ponton d'Amécourt, Forlanini, ete.,
+dont la dernière Exposition des Souvenirs de l'Aviation
+nous a rappelé les noms — s’attaquèrent au problème
+par des moyens différents. À l’époque des premiers
+« aéroplanes », Breguet, Renard, Santos-Dumont, Cornu,
+le vicomte Decazes illustrèrent l’histoire de l'hélicoptère,
+et, plus près de nous, les tentatives d'Oemichen, de De
+Bothézat, du marquis de Pescara sont encore présentes
+à notre esprit.
+
+Jusqu'ici, pour des considérations de principe, pour des
+raisons constructives ou simplement financières, aucun
+dispositif n’a réussi à s’imposer; mais, étant donné les
+immenses services que rendrait un appareil permettant
+des décollages et atterrissages verticaux, toute étude de ce
+genre doit être suivie avec intérêt.
+
+Le constructeur d’hélicoptère doit s'attacher à résoudre
+trois questions primordiales; rendement aérodynamique
+— stabilité et maniabilité autour des trois axes — sécurité
+des organes mécaniques.
+
+Comme les formules générales de l’hélice propulsive
+sont applicables aux hélices sustentatrices on montre
+qu’un certain coefficient q
+
+rejet
+
+q—,— (*et$ coefficients de traction et de puissance)
+j
+
+appelé qualité sustentatrice permet de servir de com-
+mune mesure entre différents systèmes de sustenta-
+teurs.
+
+Plus cette qualité sustentatrice est grande pour un
+diamètre donné, plus la charge soulevée par cheval sera
+importante; le premier point sera donc de déterminer la
+valeur de ce coefficient pour le système proposé.
+
+La seconde question — et non la moindre puisque de
+nombreux hélicoptères doivent leur échec aux difficultés
+que les inventeurs ont rencontrées pour la résoudre — est
+relative à la stabilité.
+
+On dit qu'un appareil est stable si, après l’action d’un
+couple perturbateur qui détruit l’état d’équilibre des
+
+qq
+A
+
+Droits reservés au Cnam et à ses partenairesforces en présence, l'appareil revient à sa position de
+marche normale à la suite de quelques oscillations décrois-
+santes de faible amplitude.
+
+De plus il faut que l'appareil soit maniable, c’est-à-dire
+qu’il obéisse immédiatement aux manœuvres du pilote
+dans toutes les évolutions possibles.
+
+Il a fallu 30 années d’expériences pour rendre l'avion
+moderne à peu près stable dans certaines limites d’inci-
+dence, il n’est donc pas étonnant que la stabilité des héli-
+coptères ait donné lieu à quelques déboires.
+
+Enfin, comme les hélicoptères comportent des hélices
+à grand diamètre, une parfaite connaissance de l’inten-
+sité, de la direction, de la position et de la période des
+efforts est nécessaire pour appliquer judicieusement les
+lois de la résistance des matériaux et de l’élasticité.
+
+Nous allons voir comment l'ingénieur Florine a abordé
+et résolu ces divers problèmes au laboratoire aérodyna-
+mique belge de Rhode St-Génèse.
+
+PRINCIPE DE L'HÉLICOPTÈRE FLORINE
+
+La théorie et l’expérience montrent que toute voilure
+tournante qui prend appui sur l’air subit de la part de
+celui-ci un certain couple appelé couple de réaction dont
+l’utilisation dans le banc-balance pour mesurer la puis-
+sance des moteurs avec moulinet Renard est un exemple
+frappant.
+
+Si l'hélicoptère ne comportait qu’une seule hélice,
+le couple de réaction ferait tourner le bâti qui la sup-
+porte en sens inverse de la rotation de l’hélice, ce
+qui »erait plutôt gênant pour les passagers !.. Pour
+annuler le couple de réaction, divers constructeurs ont
+
+associé deux hélices de mêmes caractéristiques, tournant .
+
+en sens inverse de façon à annuler les deux couples de
+réaction, mais les couples aérodynamiques et gyrosco-
+piques qui concourent à la stabilité s’annulent  égale-
+
+Fig. 2, — L'hélicopière Florine iype I
+
+On remarque le moteur 180 ch Hispano placé au milieu du bâti en bois;
+la boîte contenant l'embrayage et le réducteur, et les arbres de commande.
+
+
+
+255 ==
+
+ment, rendant la
+stabilité des ma-
+chines vraiment
+précaire.
+
+M. Florine s’est
+résolument écarté
+des sentiers battus
+en employant deux
+hélices tournant
+dans le même sens,
+placées assez loin
+l'une de l’autre à
+chaque extrémité
+d’un bâti rigide.
+Cette disposition
+présente l’avan-
+tage d'utiliser en
+marche ascendante
+chaque hélice à
+plein rendement,
+puisque aucune in-
+terférence aérody-
+namique ne se pro-
+duit entre elles; de
+plus elle permet
+de résoudre élé-
+gamment, par l’in-
+chnaison des axes,
+l'équilibre des cou-
+ples de réaction
+et d'assurer par
+ce même moyen la
+stabilité et la ma-
+miabilité de l'ap-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pareil.
+ï
+Nous allons exa-
+N . Fig. 1. — Schéma montrant comment, dans
+MINET Ta- l'hélicopière Florine, les momenis des couples
+pidement de réaction par rapport au centre de gravité
+
+en nous ‘on! équilibrés par l'inclinaison. des trac-
+
+aidant du tions T, Ty.
+
+schéma
+
+de la fig. 1 comment s’équilibrent les prin-
+cipaux couples.
+
+Les deux hélices H, et H, étant inclinées
+du même angle de part et d’autre de la verti-
+cale ? auront des tractions T et T, égales si
+elles tournent au même nombre de tours, et
+si leurs couples de réaction F,F',et F,F,,
+sont identiques. ‘
+
+Si nous projetons T, et T, sur un plan ho-
+rizontal passant par les moyeux À, et À,, nous
+obtiendrons deux forces égales et parallèles,
+mais dirigées en sens contraire. Ces forces don-
+nent un couple par rapport à l’axe Gz perpen-
+diculaire à leur plan et passant par le centre
+de gravité; ce couple peut être représenté par
+le vecteur K..
+
+De même si nous projetons les couples de
+réaction sur le même axe Gz et que nous les
+composons, le vecteur résultant K, sera dirigé
+
+EEE — EEE
+
+Droits reservés au Cnam et à ses partenaires256
+
+
+
+
+
+
+
+Fig. 3. — L'hélicopière Florine type II.
+
+Au centre le moteur refroidi par l'air et son hélice de refroidissement. Le fuselage est en tubes d'acier,
+les pattes d'atterrissage en électron.
+
+en sens inverse de K,. Pour des valeurs bien déter-
+minées de T,et T, et de l'angle à d’inclinaison des
+axes de rotation, on conçoit que les vecteurs représen-
+tatifs K, et K, soient égaux et de signe contraire et que
+le système de forces et de couples soit en équilibre.
+Après avoir montré comment l’équilibrage des couples
+de réaction est obtenu, examinons maintenant une
+autre particularité de l'appareil Florine. Lorsqu'un héli-
+
+coptère se déplace en translation suivant une trajectoire
+
+Fig. 4.
+Déjail d'une hélice el de son moyeu montrant le haubanage
+el l'articulation des pales,
+
+L'arbre est relié au manche à balai qui commande la hauteur et l'inclinaïison
+
+du chemin de roulement.
+
+
+
+sensiblement horizontale, toutes les pales de sa voilure
+tournante ne subissent pas à un instant donné des efforts
+identiques. Celles qui avancent contre le vent relatif
+sont attaquées à une vitesse plus grande que celles qui
+s’effacent dans le vent. Il en résulte, sur des pales rigi-
+dement fixées au moyeu, des variations périodiques
+
+“d'efforts qui fatiguent les matériaux et assemblages et
+
+peuvent amener leur rupture sous l’action de vibrations
+ou de phénomènes de résonance. Pour éviter ces graves
+difficultés M. Florine a articulé les pales de
+ses voilures autour des moyeux de façon que
+chaque pale soit astreinte à une variation d’in-
+cidence pendant un tour complet.
+
+Comme on sait que la force aérodynamique
+est proportionnelle au carré de la vitesse et à
+l'angle d’attaque du profil, en diminuant linci-
+dence lorsque la vitesse augmente, on peut
+obtenir sur chaque élément une résultante aéro-
+dynamique à peu près constante.
+
+Cette possibilité de commande d'incidence
+des pales permet également de produire un mo-
+ment de roulis dans le sens que l’on désire,
+
+DESCRIPTION
+DES APPAREILS FLORINE
+
+Comme ilest généralement d'usage pour toute
+étude de machine nouvelle, l'application des
+principes que nous venons d'exposer ne s’est
+pas faite sans écueils.
+
+L'examen des travaux successifs de M. Flo-
+rine montrera avec quel courage et quelle téna-
+cité celui-ci a réussi à triompher de nombreuses
+difficultés de tout ordre,
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairesDès 1927 des essais de modèles réduits possédant des
+hélices de 0 m 60, actionnées par des moteurs électriques
+permirent de vérifier la théorie sustentatrice et d’expéri-
+menter le fonctionnement du système de variation d’inci-
+dence des pales. Puis un modèle de plus grandes dimen-
+sions comportant des hélices de 3 m de diamètre toujours
+commandées par des moteurs électriques souleva à plu-
+sieurs reprises son poids de 36 kg. |
+
+Ces essais préliminaires ayant donné satisfaction après
+quelques mises au point de détail, la construction d’un
+appareil pouvant enlever son pilote fut décidée. Cette
+machine (fig. 2) se composait d'un bâti en bois supportant
+deux hélices de 7 m 20 de diamètre et de 0 m 60 de profon-
+deur mises en mouvement par un moteur Hispano Suiza
+de 180 ch à refroidissement par eau.
+
+Entre le vilebrequin du moteur et les arbres de commande
+des hélices une boîte d’engrenages à pignons d’angle
+munie d'un embrayage à friction permettait un rapport
+de réduction du nombre de tours de 6 à 1.
+
+Les pales étaient constituées par une armature de tubes
+en duralumin sur laquelle sont enfilées des nervures en
+bois recouvertes de contreplaqué. Un manche et un volant
+rendaient possible la conduite de la machine en comman-
+dant l'incidence des pales soit dans le sens longitudinal,
+soit dans le sens latéral. Le montage de l'appareil fut
+terminé à la fin de 1929, mais malheureusement lors des
+premiers essais de violentes secousses se firent sentir dans
+la commande et 4 pales se détachèrent brutalement.
+
+Comme il fut établi que la cause de cet accident était
+due aux vibrations de torsion et flexion combinées, les
+nouvelles pales furent haubanées et leur profondeur
+réduite à 0 m 20 à leur extrémité pour 0 m 30 à leur section
+maxima.
+
+Ces modifications essayées en juillet 1930 ne furent pas
+pleinement satisfaisantes; si les vibrations de flexion
+avaient disparu, celles de torsion mani-
+festaient encore leur présence et la rup-
+ture d’un cardan de transmission et des
+griffes d’accouplement amena la destruc-
+tion du nez du moteur et de graves avaries
+au vilebrequin. Cet accident d’accessoire
+ne mettait pas en cause le principe de
+l'hélicoptère, mais comme les crédits de
+construction étaient épuisés l'inventeur
+ne pouvait songer à réparer sa machine.
+
+Fort heureusem:nt le Fonds national
+pour la Recherche scientifique auquel on
+doit déjà la première ascension strato-
+sphérique du professeur Piccard accorda à
+M. Florine une subvention de 60 000 fr.
+
+L'appareil subit alors d'importantes
+transformations et devint le type II
+(fig. 3) qui a donné des résultats intéres:
+sants. Dans un but d’allégement l’em-
+brayage fut supprimé, le moteur 180 ch
+à eau remplacé par un 200 ch Renard en
+étoile à refroidissement par air, et un
+fuselage en tube d’acier soudé préféré au
+bâti en bois. Le poids total en ordre de
+vol s’abaissa à 950 kg et une étude très
+
+257 ==
+
+
+
+Fig. 5. — L'appareil Florine phalographié en vol,
+au moment où il baïlit le record du monde de durée avec 9 min. 58 sec.
+
+serrée des accouplements souples en caoutchouc permit
+d'espérer la suppression des vibrations de torsion causées
+par la très grande longueur des arbres.
+
+Après quelques essais préliminaires au cours de l'été
+dernier, le 25 octobre 1933 M. Robert Collin, ingénieur
+au S.T, Aé. belge qui pilotait l’appareil, battait officieu-
+sement le record du monde de durée en hélicoptère en
+tenant l’air pendant 9 min 58 sec à environ 5 mètres de
+haut,
+
+Si ces performances font sourire certains sceptiques,
+il n’est pas inutile de leur rappeler qu’il y a un peu plus
+de 25 ans un prix de 20 000 fr était offert au premier
+pilote d’aéroplane qui atteindrait l'altitude de 25 m...
+et cependant aujourd’hui le record d’altitude dépasse
+13 600 m. L’hélice sustentatrice est loin d’avoir
+
+Fig. 6: — Vue en bout de l'appareil montrant distinctement l'inclinaison des hélices
+
+- pour équilibrer les couples de réaction.
+
+
+
+Droits reservés au Cnam et à ses partenaires—— 258
+
+
+
+donné toutes ses possibilités et si l'hélicoptère ou l’avion-
+hélicoptère aboutissent à des résultats pratiques, nous les
+devrons à des chercheurs comme M. Florine qui auront
+persévéré dans cette voie,
+
+MANŒUVRABILITÉ
+
+Contrairement à d’autres tentatives antérieures qui .
+
+ont dû leur échec à leur manque de stabilité et de mania-
+bilité, l'étude de ces questions semble avoir été fort
+poussée dans l'hélicoptère Florine. En considérant le
+schéma simplifié de la fig. 7 nous allons voir comment
+l'appareil peut tourner autour des trois axes de tangage,
+de roulis et de giration. Le pilote peut d’une part incliner
+en avant, en arrière, à droite et à gauche, le manche à
+
+
+
+
+
+Fig. 7. — Le mécanisme par lequel le manche à balai M, par l'intermédiaire du chemin
+de roulement B produit une variation déferminée de l'angle d'incidence des pales.
+
+balai M monté sur une rotule attachée au bâti en R et
+d'autre part,commander le coulissement de l’araignée A
+sur le tube du manche à balai vers le haut ou vers le bas.
+
+|
+
+
+
+
+
+UN NOUVEAU
+
+
+
+
+
+CORPS SIMPLE
+
+
+
+
+
+Ce coulissement fait monter ou descendre les deux chemins
+de roulement tels que B par l'intermédiaire d’un jeu de
+leviers et biellettes — et la levée de ces chemins de roule-
+ment commande le changement de pas de toutes les pales
+au moyen des tiges telles que T.
+
+‘La variation d'’assiette autour de l’axe de tangage,
+montée ou descente de l'appareil, est obtenue par l’incli-
+naison du manche vers l'avant ou l'arrière qui produit
+l'augmentation du pas de l’hélice avant et la diminution
+de celui de l’hélice arrière.
+
+L’inclinaison latérale suivant l’axe de roulis se fait en
+poussant le manche à droite ou à gauche; cette action
+produit la rotation des chemins de roulement autour de
+l’axe longitudinal, ce qui augmente l'incidence des pales
+d’un côté et la diminue de l’autre.
+
+Enfin la rotation partielle de l'appareil
+‘autour de son axe de giration {changement
+de cap) est produite par la modification de
+l'angle d’inclinaison ? d’une hélice par
+rapport à l’autre. Ce changement d’angle
+détruit l'équilibre des couples de réaction
+que nous avons examiné au début de cette
+étude et fait tourner l’appareil jusqu’à ce
+qu’on rétablisse la même valeur de l’in-
+clinaison (70 en moyenne) pour les deux
+hélices H, et H,.
+
+CONCLUSION
+
+
+
+Nous espérons que ce rapide exposé a
+montré que, tant au point de vue des prin-
+cipes nouveaux appliqués qu’au sujet des
+solutions mécaniques minutieusement éprou-
+vées, l'hélicoptère Florine est un appareil
+d'avenir,
+
+Rendons hommage à la ténacité de son
+inventeur et souhaitons que les perfor-
+mances très encourageantes enregistrées
+l'an dernier soient encore améliorées, puisque l’appa-
+reil le permet certainement.
+
+JEAN Lacaine.
+
+——
+nt
+ms
+
+, L'HYDROGÈNE LOURD
+
+J'ai eu l’occasion d'exposer précédemment aux lecteurs
+de La Nature une découverte concernant l’hydrogène,
+celle du para- et de l’orthohydrogène. Le gaz si connu,
+dont on pouvait supposer l’étude terminée, se révélait,
+grâce à la mesure de certaines propriétés physiques,
+comme un mélange de deux sortes d'hydrogène. Toute-
+fois cette isomérie très spéciale n’affectait pas du tout la
+plupart des propriétés; en particulier on n’a signalé
+jusqu'ici aucune différence dans les propriétés chimiques
+des deux variétés. Aussi, pour expliquer les différences
+
+révélées par la spectroscopie et la: chaleur spécifique,
+a-t-on été forcé de recourir à une différence très subtile
+dans le noyau même des atomes qui composent les deux
+sortes de molécules. Dans cet article, je voudrais parler
+de recherches nouvelles concernant l’hydrogène et qui
+ont établi l’existence d’un nouvel hydrogène, différant
+de celui qu’on croyait bien connaître, non plus seulement
+par quelques traits, mais par l’ensemble des propriétés
+physiques et même chimiques, à tel point qu’on peut
+admettre qu'il s’agit d’un nouveau corps simple.
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires259 =—
+
+
+
+
+
+Fig. 1. — Le professeur UÜrey, dans son laboratoire de l'Universite de Colombie,
+Le professeur Urey, en collaboration avec MM. Brickwedde et Murphy, a découvert l'hydrogène lourd en 1932, (Ph. Keystone.)
+
+ISOTOPES DE L'HYDROGÈNE.
+ÉTAT DE LA QUESTION FIN 1931
+
+gnétique par exemple et recevoir sur une plaque pho-
+tographique sur laquelle elles laissent une trace. La
+position de cette trace, qu’on mesure après développe-
+
+On est habitué depuis plus de 20 ans à admettre que ment de la plaque, permet de connaître la masse des parti-
+certains éléments chimiques sont des mélanges d’isotopes. cules; on trouve ainsi deux particules pour le chlore et
+
+Si on adopte le schéma électrique des atomes,
+deux isotopes du même élément possèdent le
+même nombre d'électrons planétaires, donc la
+même charge positive dans le noyau de l’atome;
+ils diffèrent par la masse de ce noyau.
+
+Par exemple le chlore, dont le poids ato-
+mique est 35, 46 si on pose 0 — 16, serait un
+mélange de deux chlores de poids atomiques
+35 et 37 dans des proportions faciles à calcu-
+ler. Ces isotopes ont d’abord été mis en évi-
+dence dans les transformations radioactives,
+puis, grâce aux recherches sur les rayons po-
+sitifs, dans un grand nombre d'éléments non
+radioactifs. Si on fait passer une décharge dans
+le chlore raréfié, derrière la cathode percée se
+propagent des particules chargées positive-
+ment, ‘qu'on peut dévier dans un champ ma-
+
+Fig. 2. — Spectres moléculaires de l'hydrogène (d'après Hertz).
+Cette figure représente des portions des spectres de l'hydrogène ordinaire et de
+l'hydrogène lourd. Entre les deux : le spectre d'un mélange à parties égales des
+deux hydrogènes.
+
+
+
+Droits reservés au Cnam et à ses partenaires— 260 —_—__—_—_—————_—_—_—_——_—_—_—_—_—_—_—_—_—_-_——_—_—_—_—_—_—_—
+
+leurs masses sont très exactement 35 et 37 si on
+attribue la masse 16 aux particules positives obtenues
+dans l'oxygène. Cette mesure des masses a été rendue
+très précise par Aston qui, en 1927, a appliqué le procédé
+à l'hydrogène et donné pour la masse totale de l’atome
+(noyau + électron) la valeur 1,00778 à 2 unités près
+environ du dernier chiffre. Or, la mesure précise du poids
+atomique par les procédés chimiques donne 1,00777, à
+peu près avec la même précision; cette fois, le poids ato-
+mique est rapporté à celui de l'oxygène gazeux, tel qu’on
+l’obtient par exemple par décomposition du chlorate de
+potassium. La coïncidence des deux nombres est si bonne
+qu’on en avait conelu qu'il y avait identité complète entre
+la particule positive d’Aston et l'hydrogène chimique, tel
+que le donne laction de l’acide sulfurique sur le zinc, en
+d’autres termes que cet hydrogène chimique est un corps
+unique ou encore qu’il n’y a pas d’isotope de l'hydrogène.
+
+Ce résultat si net dut être revu en 1929, année où l’on
+découvrit les isotopes de l'oxygène; l’oxygène chimique
+contiendrait 3 oxygènes isotopiques dont les masses ato-
+miques seraient entre elles comme 16, 17 et 18 et sensi-
+blement dans les proportions respectives 630, 1 et 0,2.
+S'il en est ainsi, le poids atomique du mélange, qui sert
+Justement de base aux poids atomiques chimiques, est un
+peu plus grand que 16, qui se trouve être celui de la variété
+la plus abondante. En faisant 0 — 16, les chimistes attri-
+buent à cette variété un poids atomique inférieur à 16 et
+dans le rapport 1 : 1,00022. Il en résulte que, quand Aston
+attribue le poids 16 à la trace laissée par l'isotope abon-
+dant, il utilise un nombre trop fort et, automatiquement,
+tous ses poids atomiques sont trop élevés ; il faut les diviser
+par 1,00022. L'opération faite pour l'hydrogène donne
+1,00756, c’est-à-dire un nombre qui ne peut pas coïncider
+avec le poids atomique chimique; il faut supposer que le
+gaz des chimistes renferme, à côté de celui qui donne sa
+trace dans l'appareil d’Aston, un autre gaz plus lourd.
+L'hypothèse la plus simple est que ce gaz est un isotope
+de l’hydrogène; son atome aurait un seul électron plané-
+taire et le noyau aurait la masse 2 environ au lieu de Î;
+
+dans ce cas on calcule que sa proportion dans l'hydrogène.
+
+ordinaire serait de 1 atome sur 4500 (Birgeet Menzel 1931).
+DÉCOUVERTE DU NOUVEAU CORPS SIMPLE
+
+Elle a été annoncée en janvier 1932 par des physico-
+chimistes américains : Urey. Brickwedde et Murphy;
+ces savants ont essayé une distillation fractionnée de
+l'hydrogène liquide; en opérant vers — 2509 C, sous la
+pression atmosphérique ou sous pression réduite, ils ont
+obtenu une queue de distillation qui a été étudiée au
+spectroscope. La décharge dans le gaz résiduel montre,
+à côté des raies ordinaires du spectre de Balmer, des raies
+très faibles, que le spectroscope à réseau sépare très bien
+des raies ordinaires et dont l'intervalle avec celles-ci est
+de l’ordre de grandeur de 4 unité Angstrôm. Il y a coïnci-
+dence exacte entre la longueur d’onde mesurée et celle
+que permet de calculer la théorie des spectres pour un
+isotope de masse 2. Il s’agit donc bien de l’isotope attendu.
+La proportion a pu être déduite de l'intensité des raies
+obtenues; les auteurs l’estimaient à 1/4000 au plus dans
+le gaz naturel.
+
+
+
+Depuis cette découverte, comme nous allons le voir,
+un procédé très efficace a été découvert pour la séparation
+du nouvel isotope; mais on a repris quand même l'étude
+de la distillation de l'hydrogène liquéfié. Au laboratoire
+cryogène de Leyde, on a pu opérer sur 50 à 60 litres de
+liquide et les réduire à une quantité assez petite pour
+donner 2 à 3 litres de gaz; dans ces conditions, la propor-
+tion du nouvel atome est montée à 3 pour 100 environ.
+Pour le doser dans le gaz, s’il s’agit de proportions dépas-
+sant quelques centièmes, on peut n.esurer la densité;
+s’il s’agit de quelques millièmes, on se sert de l'intensité
+des raies isotopiques dans l'appareil d’Aston.
+
+Avant de passer à la méthode de concentration la plus
+efficace, signalons qu’on a essayé à peu près tous les pro-
+cédés connus d’enrichissement d’un mélange; ces essais
+ont été faits, soit sur l'hydrogène, soit sur l’eau : adsorp-
+tion du gaz sur du charbon actif et extraction, adsorption
+de l’eau, diffusion du gaz à travers la porcelaine ou le
+palladium, distillation de l’eau, etc. Tous ces procédés
+permettent de montrer qu’une séparation a lieu; elle est
+la plupart du temps assez faible. Aucun de ces procédés
+n'est comparable pour le rendement et la commodité
+à l’électrolyse de l’eau.
+
+CONCENTRATION ÉLECTROLYTIQUE
+DE L'HYDROGÈNE LOURD
+
+En étudiant l’eau contenue dans une vieille cellule
+électrolytique, Washburn et Urey (1932) lui trouvèrent
+une densité de 1,000034 par rapport à l’eau ordinaire à Ja
+même température. D'où un procédé de séparation qui
+s’est révélé à l'usage le meilleur de tous ceux proposés
+jusqu'ici. Comme la théorie ne donne aucune indication
+sur la raison de cette séparation, on s’est d'abord bien
+gardé de changer quelque chose au mode opératoire de
+l'électrolyse industrielle; on électrolysait une solution
+de soude caustique avec des électrodes en nickel. Depuis,
+d’autres expérimentateurs ont électrolysé une solution
+d'acide sulfurique avec des électrodes de plomb, comme
+dans les accumulateurs, et les résultats sont aussi bons.
+Peu à peu l’eau disparaît du bac et la solution se concentre:
+quand on a réduit le volume au 1/10 par exemple, on distille
+l’eau résiduelle et on y dose le nouvel hydrogène: ce
+dosage se fait par mesure de la densité, on a perfectionné
+dans ce but les méthodes de mesure pour leur permettre
+de donner la 6° décimale. Certains dosent par mesure
+précise de l’indice de réfraction. Une nouvelle électrolyse
+réduit au 1/10,etc. Après ces réductions successives, la
+densité de l’eau résiduelle augmente. Lewis a fini par
+atteindre la densité de 1,105, après quoi il semble que la
+densité n’augmente plus, on serait arrivé ainsi à «l’eau
+lourde » pure. Au début de l’électrolyse, on perd l'hydro-
+gène dégagé; 1l y a avantage ensuite à le récupérer car il
+contient de plus en plus de l’isotope lourd; on le brûle
+tout simplement dans l’air et on recueille l’eau produite
+qu’on dose pour la faire rentrer au point convenable dans
+le cycle des opérations.
+
+Le rendement total de l'opération serait environ de
+10 pour 100 de l'hydrogène lourd contenu dans l’eau
+primitive. Pour avoir une eau contenant 99 pour 100 du
+nouvel hydrogène, il faudrait réduire le volume initial de
+
+0 ml
+
+qq AE Q P
+
+Droits reservés au Cnam et à ses partenaires20 litres environ à 1 centimètre cube, Il est facile de cal-
+culer la dépense du courant; en fait, il existe déjà en Amé-
+rique des fabricants qui livrent de l’eau enrichie contenant
+environ 0,5 pour 100 d’eau lourde et qui peut servir de
+
+matière première pour une électrolyse ultérieure ou même
+
+pour des expériences diverses.
+QUELQUES PROPRIÉTÉS DE L'EAU « LOURDE »
+
+Jusqu'ici on n’a guère obtenu que quelques dixièmes
+de centimètres cubes d’eau lourde au maximum de concen-
+tration; on a mesuré sa densité que nous avons déjà
+donnée ; elle fond à 30 8, au lieu de 09, pour l’eau ordinaire,
+et bout à 1 019 4, au lieu de 4000, Comme l’eau ordinaire,
+elle a un maximum de densité, mais aux environs de
+119 6, au lieu de 4° pour l’eau ordinaire. Son indice de
+réfraction est un peu inférieur à celui de l’eau ordinaire.
+On a obtenu des quantités beaucoup plus importantes
+d’eau lourde à 90-95 pour 100; cette eau dissout les sels,
+mais ils y sont en général moins solubles que dans l’eau
+ordinaire; par exemple le sel marin se dissout à raison
+de 0,30 g dans 1 g d’eau lourde (0,36 g dans 1 g d’eau
+ordinaire). Les solutions de sels conduisent le courant,
+mais moins bien que dans l’eau; la mobilité des ions est
+nettement plus faible, en particulier celle de l'ion du
+nouvel hydrogène descend presque de 3 à 2. C’est peut-
+être une des raisons qui interviennent dans la séparation
+électrolytique, le nouvel hydrogène se transportant moins
+vite à la cathode.
+
+Les physiologistes ont immédiatement étudié l’action
+de l’eau lourde sur certains organismes. Les semences de
+tabac n’y germent pas; des tétards, des planaires, des
+paramécies sont tués en un temps variable de À h. à 48h.
+dans l’eau lourde à 92 pour 100; l’action toxique com-
+mence probablement pour une concentration beaucoup
+plus faible. Comme pour beaucoup de toxiques, il est
+possible que, sous des doses minimes, l’action soit au
+contraire bienfaisante; attendons-nous à voir employer
+bientôt les injections d’eau alourdie en médecine.
+
+NOM. SYMBOLE DU NOUVEAU CORPS SIMPLE,
+PROPRIÉTÉS PHYSIQUES ET CHIMIQUES
+
+Urey a proposé d'appeler le nouveau corps deutérium
+(le deuxième) et de lui donner le symbole H,, H, étant
+réservé à l'hydrogène de masse 1. Rutherford préférerait
+le nom de diplogène dont la terminaison rappelle l’hydro-
+gène, et le symbole D qui indiquerait qu’il s’agit d’un
+corps assez distinct de l'hydrogène. L'accord n’est pas
+fait sur ces dénominations et symboles; nous emploierons
+le nom de deutérium et le symbole D, réservant H à
+l'hydrogène de masse 1.
+
+Le gaz donné par l’électrolyse de l’eau ordinaire ren-
+ferme à la fois les atomes H et D; donc trois espèces de
+molécules diatomiques sont possibles : H°, HD et D?,
+de masses 2, 3 et 4 environ.
+
+Si des atomes H et D sont présents dans une boîte et
+qu'on en prenne deux au hasard pour les combiner, on
+voit que la chance de tirer H. H est proportionnelle au
+carré du nombre N, des atomes H, celle pour D? au carré
+du nombre N, des atomes D, celle pour D, H et H, D
+
+261 ——
+
+
+
+
+
+proportionnelle à 2N, N,, d’où pour les concentrations
+des 8 espèces de molécules la proportion :
+
+[H3] : [D*|: [HD] = N°: N,t: 2N,N, où la notation
+[H?] désigne la concentration de l’espèce H2.
+
+L'équilibre chimique H?+ D? 7; 2HDune fois atteint,
+la loi d'action de masses exige que, à une température
+[H®] TD?
+
+[HD:]
+ci-dessus montre qu'il doit être 1/4 Une théorie plus
+complète, où interviennent les quanta, apprend que la
+constante dépend de la température, la valeur 1/4 étant
+atteinte aux températures élevées. L'expérience permet de
+vérifier cette théorie plus complète et elle montre que la
+constante est 1/3 à la température ordinaire. Il est facile
+de voir que, si le nombre des atomes D est faible, comme
+c'est le cas dans l'hydrogène électrolytique ordinaire,
+tout l'hydrogène lourd est pratiquement à l’état de molé-
+cules HD. L'emploi du spectrographe de masses d’Aston
+permet de le vérifier, en étudiant l'intensité de la trace
+laissée par l’ion positif correspondant. Il faudra cependant
+se rappeler que l'équilibre pourra mettre un assez long
+temps à s'établir. Quand le nombre des atomes D
+augmente, la proportion des molécules D? augmente aussi.
+En passant, ces dosages selon Aston ont montré que la
+teneur de l'hydrogène en deutérium variait beaucoup avec
+‘âge du bain électrolytique.
+
+Le gaz pur D? peut être préparé à partir de l’eau lourde
+dont la formule sera D?0. On a utilisé jusqu'ici la décom-
+position de la vapeur d’eau lourde sur la tournure de fer
+chauffée, ou sur le magnésium, ou même sur le sodium. En
+appliquant cette préparation à de l’eau simplement enri-
+chie en eau lourde, on constate que l’hydrogène obtenu
+au début n’a pas la même composition qu’à la fin; ce
+procédé chimique serait aussi un procédé de séparation.
+Le même procédé de décomposition sur le fer à été em-
+ployé pour retirer l'hydrogène d’eaux de provenances
+diverses : eau de pluie, eau « fossile » de minéraux anciens,
+eau rejétée par les cratères, etc. L'analyse semble avoir
+montré que la proportion de deutérium est à peu près la
+même dans ces diverses eaux,
+
+Hertz (1933) a réussi à préparer de petites quantités
+de deutérium pur par diffusion de l'hydrogène à travers
+une série de bougies de porcelaine. Ce gaz placé dans un
+tube de Geissler et parcouru par une décharge électrique
+donne les spectres atomique et moléculaire dont nous
+avons parlé à propos du parahydrogène. Le spectre ato-
+mique n’a rien de particulier, ses raies sont simplement
+un peu déplacées par rapport à celles de l'hydrogène. Le
+spectre moléculaire de raies est au contraire très différent.
+La figure 2 reproduit d’après Hertz une portion de ce
+spectre : en haut pour H°, en bas pour D, au milieu pour
+un mélange; on voit que le spectre du milieu contient
+les raies des deux autres et des raies supplémentaires qui
+sont celles de la molécule HD.
+
+Une série très intéressante d'expériences à été effectuée
+avec le noÿau de l'atome de deutérium, qui est l’analogue
+du proton, noyau de l’hydrogène, et qu’on appelle deuton:
+il est chargé positivement. Accéléré dans un champ élec-
+trique, il constitue un projectile de grande énergie ciné-
+tique avec lequel on a bombardé des cibles formées de
+
+fixe, le quotient soit constant: la proportion
+
+oo nn
+
+Droits reservés au Cnam et à ses partenaires262
+
+
+
+substances diverses : métaux, sels, ete. Avec le fluorure
+de lithium par exemple, le bombardement donne des
+particules à très abondantes et des protons d’une grande
+force de pénétration. On sait que les particules à sont
+des noyaux d’hélium; on admet que le lithium de masse
+atomique 6 se combine avec le deutérium pour donner
+deux particules + de masse 4; on assiste donc à une désin-
+tégration du lithium. Avec une cible de glucinium on
+obtient en outre des neutrons en quantité; on sait qu’on
+appelle ainsi des particules non chargées, de masse 1, ana-
+logues à celle du noyau d'hydrogène et qui entrent dans
+la constitution de certains noyaux atomiques. On a
+proposé d'admettre que, pendant le bombardement, le
+deuton se rompait en un proton et un neutron; inverse-
+ment il se pourrait que la combinaison du proton et du
+neutron donne le noyau du deutérium.
+Contrairement à ce qu’on admettait jusqu'ici pour les
+isotopes d’un élément chimique, le nouvel isotope de
+l'hydrogène semble avoir des propriétés chimiques assez
+nettement différentes de l'hydrogène H; sa vitesse de
+réaction semble moindre pour les cas étudiés jusqu’à ce
+jour; la grosse différence de poids atomique explique ce
+fait. Les chimistes ont donc un beau champ de travail en
+perspective. Cette étude est déjà amorcée; on a déjà
+préparé par exemple les « acétylènes » nouveaux par
+réaction de l’eau plus ou moins concentrée sur le carbure
+de calcium, 3 corps sont possibles : l’ancien acétylène
+C?H? et les deux nouveaux C?HD et C?D?; jusqu'ici on
+s’est contenlé d'étudier leur spectre d'absorption qui a
+permis de vérifier quelques prévisions théoriques. Quand
+on s’adressera aux composés renfermant un plus grand
+nombre d’atomes H, on voit que le nombre des nouveaux
+composés va être considérable. Sans compter que certains
+de ces composés renferment de l’oxygène et, comme celui-
+ci existe aussi sous 3 formes isotopiques, la complication
+qui en résulte sera grande. On a étudié déjà par exemple
+les bandes d'absorption du groupement O,,D, celles des
+acides chlorhydriques DCI, et DCI, ete. Ces questions
+chimiques peuvent être envisagées sous une forme assez
+
+
+
+
+
+intéressante. On sait que, à propos des corps radioactifs,
+on s’est beaucoup servi d'une méthode où l’isotope radio-
+actif joue le rôle d’indicateur. Le principe est le suivant :
+on mélange au plomb par exemple une très faible quan-
+tité d’un de ses isotopes radioactifs; à cause du gros poids
+atomique, on peut admettre ici que les deux métaux ont
+exactement les mêmes propriétés chimiques. On fait par
+exemple le titrate du mélange, on le dissout dans l’eau
+et on étudie son adsorption par le charbon actif; l’équi-
+libre obtenu, on peut doser facilement la quantité de
+l'isotope radioactif adsorbée, d’où par proportion celle
+du plomb; le procédé a été appliqué pour un grand nombre
+de réactions. On peut essayer le même procédé pour
+l'hydrogène; on a déjà réussi quelques expériences du
+type suivant : dans une eau contenant une proportion
+connue de deutérium, on dissout de l’ammoniaque ordi-
+naire NH°; la solution est basique, elle contient une
+petite proportion de la base NH OH résultant de l’hydra-
+tation de NH°'. Dans les idées courantes, il doit y avoir
+hydratation et déshydratation successives des molécules
+NE, la proportion de NH° OH résulte d’un effet de
+moyenne, S'il en est ainsi, l’eau lourde peut prendre
+part à la réaction et, au bout de quelque temps le deuté-
+rium se partagera entre l’eau et l’ammoniaque; si on
+distille pour récupérer l’eau, la densité de celle-ci aura
+diminué; c’est bien ce que vérifie l'expérience. Les essais
+de ce genre peuvent renseigner sur la mobilité des atomes
+d'hydrogène dans la substance dissoute et là aussi un
+vaste champ d'expériences s'ouvre.
+
+Dans ce court article, nous n'avons pu qu’indiquer
+quelques-unes des voies ouvertes dans le nouveau dorraine
+découvert par Urey et ses collaborateurs (1); nous pensons
+avoir montré encore une fois, comme nous le disions à
+propos des parahydrogènes, que le sujet le plus rabattu
+peut réserver des surprises aux physico-chimistes.
+
+E. Darmoïs.
+Professeur à la Sorbonne.
+
+1. Pour des détails plus amples, voir « Le deutériums. Actualités
+selentifiques et industrielles, n° 121, Hermann. Paris, 1934.
+
+LES RICHESSES DU KATANGA (CONGO BELGE)
+
+SITUATION GÉOGRAPHIQUE
+
+Le Katanga est l’une des quatre provinces du Congo
+Belge et incontestablement la plus intéressante au point
+de vue des richesses du sol, du sous-sol, sans compter
+qu’elle jouit, bien que située à quelques degrés de l’équa-
+teur, d’un climat très supporta blepourles Européens (fig. 1).
+Cette situation, privilégiée au point de vue climatérique,
+le-Katanga la doit à une altitude générale élevée, souvent
+voisine de 2000 m et ne descendant pas en dessous
+de 1000 m.
+
+Cette province s'étend approximativement du 5° au
+13° parallèle sud et du 22° degré Est au 32° degré.
+Cet immense territoire a une superficie non encore établie
+avec exactitude qui n’est sûrement pas inférieure aux
+trois quarts de celle de la France.
+
+
+
+GÉOLOGIE DE LA RÉGION
+
+. D'origine ancienne, le Katanga abonde en roches
+cristallophylliennes (granit, gneiss, calcaires cristallisés,
+quartzites, etc.), avec seulement quelques massifs de
+terrains métamorphiques indiquant l’absence presque
+totale de remaniements profonds. Toute la région com-
+prise entre le Luababa et le Tanganika présente partout
+ce caractère homogène.
+
+C’est dans ces terrains, au niveau de dislocations pro-
+fondes et étendues, que se situent les grands gisements
+métallifères : gîtes filoniens ou roches qui en se désagré-
+geant fournissent les alluvions riches (or, cassitérite, etc.).
+
+La série des roches schisto-calcaires est également bien
+représentée dans la région que nous examinons. Ce sont
+des schistes argileux et des calcaires où la dolomie est
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairestrès abondante. Aucun métamorphisme n’a dû affecter
+ces couches souvent en discordance avec les roches cristal-
+lines.
+
+Parmi les formations continentales nous devons signa-
+ler le « système du Lualaba » nom qui lui fut donné par le
+géologue belge J. Cornet, professeur à l’école des Mines de
+Mons, l’un des fondateurs de la géologie congolaise. Les
+couches de ce système contiennent én effet les deux seuls
+bassins houillers connus dans tout le Congo, ceux de la
+Lukuga et de la Luena. Il s'agirait de gisements formés
+au sein d’une mer intérieure ou d’une lagune d'eau sau-
+mâtre en communication avec la mer, remontant au
+Permien ou au Triss.
+
+Quant aux terrains superficiels, éluvionnaires, alluvion-
+naires et de ruissellement, nous en parlerons si besoin est
+lors de l'examen des différentes productions.
+
+I LA HOUILLE
+
+Comme nous l'avons dit plus haut les deux seuls gise-
+ments de houille connus et exploités au Congo sont ceux
+de la Lukuga et de la Luena. Le charbon qu’ils fournissent
+
+
+
+Fig. ®.— La Luena, exploitation houillère en carrière.
+
+est d’origine relativement jeune puisque d'élaboration
+triasique. Il est à pouvoir calorifique élevé, 5500 calories,
+mais assez maigre, ne donnant un bon coke qu’en mélange
+avec des charbons agglutinants tirés du bassin rhodésien,
+le plus proche de la frontière congolaise. Le gisement de
+la Lukuga a été découvert aux environs de 1910. Cinq
+couches d’une puissance de 0,8 m à 1 m 8 forment par
+leur ensemble une épaisseur de houille d'environ cinq
+mètres d'épaisseur. La superficie totale de la concession
+serait d'à peu près 25 mille hectares avec une réserve
+d’un milliard de tonnes, ce qui équivaut à la richesse
+actuelle des bassins houillers belges, Campine non
+comprise, Les couches reconnues sont d’une régularité
+absolue, débutant à la surface, s’enfonçant brusquement
+jusqu’à 100 m de profondeur, puis se continuant en
+nappes horizontales. Cette disposition particulière a
+permis le système d'exploitation en galeries inclinées. Les
+possibilités d'extraction pourraient représenter 2 à
+3000 tonnes par mois mais n’ont jamais été poussées au
+delà de 1200 tonnes en raison de l’absence d'industrie au
+voisinage, la population indigène continuant à utiliser le
+bois comme moyen de chauffage.
+
+
+
+
+
+
+
+de anga ka
+
+<L se T
+PAR
+SE
+
+RE Lec More, |
+
+NT a. 10!
+
+0 Banguelo |
+
+Ge dl
+SS sc ya.
+
+RHODESIE
+
+
+
+
+
+Léopoidville
+
+terre
+
+
+
+”
++
++
+
++
+3
++
+
+
+
+Tambèze
+
+DU NORD
+
+Gicemenis de
+hauttle,
+
+_ ==
+x
+f
+ë
+Sert
+
+30;
+
+
+
+Fig. 1. — Congo belge. Carie générale.
+
+La Geomine (Cie géologique et minière des Industriels
+et Ingénieurs belges) propriétaire de cette concession n’a
+qu'un puits d'extraction à Greinerville qu’elle maintient
+au niveau du progrès, envisageant l’industrialisation
+possible de la région. Flle dit d’ailleurs dans son rapport
+du 9 décembre 1930 « que la consommation du charbon
+dans cette région, qui est annuellement de 12 000 tonnes,
+augmentera au fur et à mesure que l'emploi du bois
+comme combustible deviendra plus onéreux ».
+
+Incontestablement plus avantageuse est la situation de
+la Luena. Ce gisement fut découvert en 1914. Sa superficie
+ne dépasse malheureusement pas deux cents hectares avec
+trois couches principales dont la puissance atteint
+3 m au plus. Le tonnage total n’est guère que de
+dix millions de tonnes. Cependant des prospections en
+cours depuis 4925 au nord de Luena ont permis de décou-
+vrir des réserves importantes de houille sans qu’on puisse
+fixer à ce jour leur tonnage. En attendant, l'exploitation
+
+Fig. 8. — La Luena, puits vertical,
+
+
+
+Droits reservés au Cnam et à ses partenaires— 264
+
+
+
+qui n’était que de 29 500 tonnes en 1922 est passée à
+121 800 tonnes en 1930-31. On escompte même arriver à
+une production annuelle de 300 000 tonnes. Cette prospé-
+rité rapide est due au voisinage des importantes usines
+de l’Union Minière qui utilisent ce charbon pour les trai-
+tements du cuivre, sans compter que le chemin de fer du
+Katanga en fait un large usage.
+
+L'exploitation se fait de deux façons; là où le gisement
+affleure, sous une dizaine de mètres de morts-terrains,
+l'exploitation se fait en carrière (fig. 2); ailleurs, lorsque
+les couches se trouvent à cinquante mètres de profon-
+deur et plus on utilise les galeries inclinées ou les puits
+verticaux comme dans le Nord,
+
+
+
+
+
+Cependant, force nous est de conclure que si la produc-
+tion houillère du Katanga est un appoint pour l’industrie
+locale (!), elle est loin d’être suffisante et c’est là un point
+sombre dans l’évolution industrielle prodigieuse du
+Katanga.
+
+(À suivre). G. REMAELE.
+
+1. Nous apprenions, tout récemment, qu'en présence de la crise intense
+qui sévit au Congo, la Luena vient de suspendre son exploitation
+jusqu'à des temps meilleurs.
+
+Les photographies qui illustrent cet article nous ont été fournies
+par M. le Directeur du service d'information du Comité spécial du
+Katanga, auquel nous tenons à exprimer ici nos remerciements.
+
+LE NOMBRE ET LA RÉPARTITION
+
+DES AUDITEURS DE RADIODIFFUSION
+EN FRANCE
+
+Jusqu’à ces jours derniers, les statistiques concernant
+le nombre et la répartition des auditeurs de radiodiffusion
+en France n’existaient pas, pour la raison majeure qu’il
+n’y avait en notre pays que des bases d'appréciation fort
+incertaines. C’est en vain qu’on cherchait la France parmi
+
+Fig. 1. — Nombre d'auditeurs de radiodiffusion
+par département
+
+nd
+JS
+7 Dr ÿ RD
+
+700
+
+4
+
+Ph
+
+LE Ÿ W
+
+olus de 50.000
+
+
+
+les statistiques numériques de l’Union internationale de
+Radiodiffusion. Si par hasard on trouvait son nom,
+c’était avec la mention « néant » ou « nombre inconnu ».
+
+Il y a une dizaine d’années, la Tour Eiffel et la station
+de Radiola tentèrent une prospection parmi leurs audi-
+teurs. À la suite de ces sondages, il fut admis que la
+France comptait environ 600 000 auditeurs. Les statis-
+ticiens les mieux renseignés estimaient bien que ce
+nombre très vague avait dû s’accroître pendant cette
+décade et devait dépasser un million. C’est ce dernier
+chiffre qui fut admis comme base pour les évaluations
+budgétaires au moment du vote de la taxe sur les récep-
+teurs radiophoniques (loi du 31 mai 1933).
+
+Depuis le mois de juin 1933, l'institution et le recou-
+vrement de la taxe sur les récepteurs ont permis de pro-
+céder au recensement des auditeurs, dont les déclarations
+ont été centralisées par l'Administration des Postes et
+Télégraphes.
+
+On apprit ainsi assez rapidement que le nombre global
+des auditeurs français était supérieur aux évalua-
+tions.
+
+De 1300 (00 environ au mois de septembre, 1l est
+passé à 1 544 299 au 30 novembre 1933.
+
+Ce chiffre, fort si on le compare aux évaluations inten-
+tionnellement modestes, paraît faible vis-à-vis de celui des
+auditeurs des nations voisines. La France vient après
+la Grande-Bretagne (5 767 916 récepteurs), l'Allemagne
+(4 635 537), le Japon (1 571 562), sans compterles États-
+Unis (17 004 701) et la Russie {12 000 000) dont les popu-
+lations ne sont pas comparables à la sienne,
+
+Au point de vue de la nature des récepteurs, la statis-
+tique n’est pas sans intérêt. Elle nous montre qu’en
+France les récepteurs privés à lampes sont la majorité
+(2€ catégorie : 4 270 362); viennent ensuite les postes à
+galène (17€ catégorie : 54 587), qui ne représentent guère
+que 4 pour 100 des précédents; ensuite les postes pour
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairesauditions publiques gratuites (3€ catégorie : 19 236);
+enfin les postes pour auditions publiques payantes
+(4 catégorie : 98).
+
+Ces chiffres deviennent beaucoup moins abstraits si
+on les interprète démographiquement. La première idée
+qui vient à l’esprit est de reporter sur chaque départe-
+ment d’une carte de France le chiffre d’auditeurs qui a
+été dénombré, en ombrant plus ou moins les départe-
+ments en fonction du nombre des récepteurs.
+
+On obtient ainsi la carte de la figure 1, qui indique la
+densité départementale des auditeurs de radiodiffusion
+en France. Si l’on estime en première approximation
+que tous les départements ont globalement la même
+superficie — approximation assez grossière, dont il faut
+au moins excepter la Seine et le Rhône, — on obtient une
+répartition figurant le nombre d’auditeurs par kilomètre
+carré de superficie, autrement dit une répartition de la
+densité surfacique.
+
+La région parisienne vient en tête avec 440 637 audi-
+teurs en Seine et Seine-et-Oise. Puis vient le départe-
+ment du Nord avec 128 129 auditeurs.
+
+Les départements les moins intéressants sont la
+Lozère (839 auditeurs) et la Corse (516 auditeurs).
+
+On compte de 1000 à 3000 auditeurs par département,
+dans les Alpes méridionales, le Massif Central, les Pyrénées.
+
+De 3000 à 10000 auditeurs par département dans
+presque tout l’ouest et le centre de la France, le Morvan
+et le Jura.
+
+De 10 000 à 25 000 auditeurs par département, dans
+la Normandie, la région du Nord, la Lorraine et l’Alsace,
+la région lyonnaise, la Haute-Garonne et les Bouches-
+du-Rhône. |
+
+De 25 000 à 50 000 auditeurs dans le Pas-de-Calais, la
+Seine-Inférieure, la Gironde et le Rhône.
+
+Mais ces indications absolues, pour intéressantes qu’elles
+soient, ne renseignent pas sur le goût plus où moins vif
+que les diverses régions françaises éprouvent pour la
+T.S.F,
+
+C'est pourquoi j'ai cru bon de calculer pour chaque
+département le pourcentage des auditeurs de T. S. F.
+par rapport à la population globale (tableau ci-contre).
+Cette statistique, traduite par la carte de la figure 2,
+montre quelles sont les régions où la radiodiffusion est
+en faveur, quelles sont celles, au contraire, où l’on peut
+beaucoup attendre d’une propagande et d’une action
+rationnelles.
+
+Disons tout de suite qu’en moyenne la densité des
+auditeurs est très faible en France : 3,2 pour 100 de la
+population totale de notre pays.
+
+La France arrive au 16€ rang des nations après le
+Danemark (15 pour 100), les États-Unis (14 pour 100)
+la Grande-Bretagne (13 pour 100), la Suède 10 pour 100)
+la Hollande (7,5 pour 100), l'Autriche (7,4 pour 100),
+l'Allemagne (7 pour 100), la Suisse (7 pour 100), la Bel-
+gique (5,4 pour 100), l'Islande (4,9 pour 100), le Canada
+(4,9 pour 100), la Norvège (4,7 pour 100), l'Argentine
+
+?
+
+3
+
+(4,4 pour 100), la Hongrie (3,5 pour 100), la Tchécoslo-.
+
+vaquie (3,5 pour 100), au même niveau que la Finlande
+(3,2 pour 100).
+
+On voit d’un coup d'œil les différences qui existent
+
+265 ===
+
+LT] Moins de 1%
+de a 24
+dæ2è3%
+æsGLÆ
+DB: 47
+
+
+
+Fig.®.— Pourcentage des auditeurs par rapport à la population
+de chague département,
+
+entre les cartes des figures À et 2. Le groupement des audi-
+teurs est beaucoup plus net sur la seconde que sur la
+première.
+
+On observe que le pourcentage des auditeurs par rap-
+port à la population varie en général comme la densité sur-
+facique des habitants, bien qu'a priori cette loi ne soit
+pas évidente. |:
+
+Onze départements du nord de la France: Aisne,
+Ardennes, Marne, Nord, Oise, Pas-de-Calais, Seine, Seine-
+et-Oise, Seine-et-Marne, Seine-Inférieure, Somme, cons-
+tituent une sorte de pôle d'attraction des auditeurs
+(4 à 7 pour 100).
+
+Tout autour, de la Manche au Rhin, une couronne de
+départements comptent encore 3 à 4 pour 100 d’auditeurs.
+Il y a encore deux petits pôles de concentration en
+Gironde et dans le Rhône.
+
+Le centre de la France forme une grande zone de
+dépression: Aveyron, Ardèche, Cantal, Corrèze,
+Creuse, Dordogne, Haute-Loire, Haute-Vienne, Lot,
+Lozère, comptent moins de { pour 4100 d’auditeurs.
+De même, cette carence se retrouve en Bretagne (Côtes-
+du-Nord, Finistère, Morbihan), en Vendée, dans les
+Landes, l'Ariège, les Pyrénées-Orientales et la Corse.
+
+Quelles sont les causes de cette répartition ? Il peut
+
+sembler à première vue que les régions montagneuses ou
+
+arides sont celles qui accusent la plus faible proportion
+d’auditeurs. Cependant la Bretagne et le Massif Central,
+qui sont les régions les plus pauvres en auditeurs sont
+moins montagneuses que les Alpes, le Jura ou les Vosges.
+
+D'autre part, si l’on peut invoquer le dépeuplement en
+
+ER
+Sn
+
+Droits reservés au Cnam et à ses partenaires== 266
+
+ce qui concerne le Massif Central, on ne peut le faire pour
+la Bretagne, dont la forte densité de population égale
+celle de certains départements du Nord.
+
+Le fait brutal, c'est que, jusqu’à ce jour, la radiodif-
+fusion n’intéresse pas nos populations de l'Ouest et du
+Midi. Sans doute la question de climat et de tempéra-
+ment intervient-elle ici. Le climat plus rigoureux du
+Nord et de l'Est favorise la fréquentation du foyer et
+développe le goût de la radiophonie. On peut invoquer
+aussi l'argument que certaines régions ne sont pas encore
+électrifiées, circonstance essentielle pour les postes-secteur.
+
+Il faut bien avouer aussi que la cause fondamentale
+réside dans le retard considérable dont souffre la radio-
+
+
+
+
+
+————————
+
+diffusion française par rapport à ses voisines. La loi de
+finances de mars 1928 instituant le statu quo des stations
+et arrêtant leur développement technique n’a pas permis
+de satisfaire les aspirations des auditeurs français.Leur
+nombre n’a pu s’accroître que dans le Nord et l'Est où
+l’on entend convenablement les deux seules stations
+françaises puissantes (Radio-Paris et le Poste Parisien),
+ainsi que les émissions anglaises, belges, hollandaises,
+allemandes et suisses.
+
+Espérons que la réalisation du Plan Ferrié dotera pro-
+chaimement la France des stations de 60 à 100 kw qui
+mettront les auditeurs français sur un pied d'égalité avec
+
+leurs confrères de l’étranger.
+
+Pourcentage du nombre des auditeurs par département.
+
+
+
+
+
+
+
+
+
+
+
+
+
+EE —
+| | avr Pourcentage
+Nombre ! Milliers 8
+DÉPARTEMENTS d'auditeurs|d’habitants des
+| auditeurs.
+| |
+AM. 4.4... . . | 6.904 317 | 2,2
+Aisne . . . . . . . . . . .| 20,262 489 4,1
+Aller . . . . . . 7.571 | 370 2
+Alpes (Basses-) , , . 1.038 | 88 4,2
+Alpes (Hautes-). .| 1.020 88 1,1
+Alpes-Maritimes. . | 8.403 435 | 4,9
+Ardèche . , 2.689 289 | 0,9
+Ardennes. . . . . . . …« 42.057 297 &
+Âriège , 4 4 4 . 4 + 4 + | 4.570 176 0,9
+Aube. , dues os ee 8.368 238 8,5
+Aude. . &,503 292 4,5
+Aveyron. . . . . . . . . .| 2.844 329 0,9
+Bouches-du-Rhône. . | 20.264 ; 929 2,2
+Calvados. . . . . . . . . | 10.988 | 390 2,8
+Cantal . . . . . 2.719 | 197 0,9
+Charente, . . . . . . . 5.408 | 313 1,7
+Charente-Inférieure . . . . . 9.193 418 | 2,2
+Cher. 5.989 298 2
+Corrèze. . 2.598 269 1
+Corse . su 516 290 0,2
+Côte-d'Or. . . . 9,813 328 3
+Côtes-du-Nord . 4,408 552 0,8
+Creuse . our ue 2,177 219 sl
+Dordogne. . . . . . . . . .| 4.079 | 392 1
+Doubs. . . . . . . . . . .| 8.255 296 | 2,8
+Drôme. .. | &,750 263 1,8
+Eure. . 11.582 308 3,8
+Eure-et-Loir . 9.058 255 3,5
+Finistère . , . . . . 4.863 753 0,6
+Gard, . . .. 5.864 402 1,5
+Garonne (Haute-] . . 10.004 431 | 2,3
+Gers. ‘ 2.617 196 1,3
+Gironde . . 28.876 828 3,5
+Hérault . . . 8.956 500 1,8
+Ille-et-Vilaine. 7,857 561 1,4
+Indre . . 8.621 255 4
+Indre-et-Loire, . 8,897 334 2,6
+Isère. . 13.142 558 2
+Jura. . 5.495 230 2,4
+Landes. . 2.610 263 1
+Loir-et-Cher 6.344 248 2,5
+Loire. . su. 10.581 669 1,6
+Loire (Haute-) . . 2.312 304 0,8
+Loire-Inférieure . . 9.282 | 651 4,4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires
+
+MrcneL
+
+ADan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| L Nombre | Milliers [Pourcentage
+DÉPARTEMENTS d’auditeurs| d'habitants des
+: auditeurs.
+|
+|
+Loiret 12.170 341 3,5
+|Lot .... 1.618 171 0,95
+|| Lot-et-Garonne ., 3.532 246 1,4
+| Lozère. . . . . 839 104 0,8
+Maine-et-Loire . 8.014 477 1,7
+Manche 7.069 431 1,6
+| Marne , 17.613 397 L,&
+Marne [Haute-). 5.597 195 2,9
+Mayenne. . . . .. 3.944 260 1,5
+Meurthe-et-Moselle, , 19.679 552 3,6
+Meuse . 7.170 218 8,3
+Morbihan. . 3.312 548 0,6
+Moselle. . 19.134 633 3
+Nièvre. . 4.956 260 1,9
+Nord. , 128.129 | 1.969 6,5
+| Oise 19.825 406 4,9
+!| Orne. . sus 5.675 | 277 2
+!| Pas-de-Calais, . . . 51.099 | 1.172 4,3
+Puy-de-Dôme. . 6.907 515 1,4
+Pyrénées (Basses-). . 5.937 &î4 1,3
+|| Pyrénées (Hautes-) . 2.224 188 1,2
+Pyrénées (Orientales) . 2.048 230 0,9
+Rhin (Bas-). . 23.218 "671 3,5
+(Rhin (Haut-). . 15.380 490 3,1
+| Rhône . . . . . Lu 30.540 994 3,1
+Saône (Haute-) et Belfort . 7.342 266 2,7
+(Saône-et-Loire . . 12.629 549 2,3
+(Sarthe . . 8.028 387 2,1
+Savoie . . .. 3.367 231 4,5
+Savoie (Haute-}. . 5.015 | 245 2
+Seine et Seine-et-Oise . . 440 000 | 6.298 7
+Seine-et-Marne . 23.576 406 5,8
+Seine-Inférieure. 39.140 905 4,4
+Sèvres (Deux-) . 4.843 310 1,4
+{Somme. . 22.388 474 4,7
+Tarn. . se. 4,859 301 1,6
+Tarn-et-Garonne. . 2,414 174 4,4
+Var . 6.281 | 848 1,8
+Vaucluse. . 3.897 | 230 1,7
+Vendée. . . 3.570 397 0,9
+Vienne, . . . . . . . 4,815 310 1,6
+Vienne (Haute-). . 3.570 351 1
+Vosges. . . , . . 11.020 ; 382 2,9
+Yonne. . 9.405 | 277 8,4LES NOUVEAUX PROCÉDÉS DE STÉRILISATION
+A L'HOPITAL DE LYON
+
+Edifié sur les plans de l'architecte Tony Garnier et mis
+en service au cours de l’année 1933, le nouvel Hôpital
+de Grange-Blanche occupe une superficie de 16 hectares
+à l’est de Lyon. Cette vaste « cité médicale », établie par
+pavillons séparés, comprenant chacun un service de chi-
+rurgie ou deux services de médecine, forme un ensemble
+de 22 services hospitaliers dont 13 avec clinique d’ensei-
+gnement et comporte 1544 hits.
+
+Délaissant les importantes installations de chauffage,
+
+
+
+Fig.1.— Stérilisateurs d'eau de 200 litres chacun dans une salle d'opération.
+
+de ventilation et de distribution d’eau chaude de cet
+hôpital, un des plus modernes de France, nous décrirons
+aujourd’hui le matériel de stérilisation que de savants
+spécialistes y ont aménagé d’une façon remarquable avec
+tous les perfectionnements suggérés par les progrès
+récents de la bactériologie.
+
+D'une façon générale, on a prévu à Grange-Blanche une
+station de stérilisation pour chaque pavillon de chirurgie
+mais afin de ne pas multiplier les autoclaves susceptibles
+de désinfecter de grosses pièces telles que les champs
+opératoires ou les boîtes de pansement, on a réuni dans
+une installation centrale des appareils d’un volume suffi-
+sant pour satisfaire aux besoins essentiels des divers
+
+services chirurgicaux. L’élimination microbienne s’y
+obtient soit par déshydratation, soit par oxydation
+(combustion), soit par hydrolyse ou le plus souvent par
+coagulation en chauffant les enceintes à stériliser pendant
+un temps suffisamment long. Les températures à atteindre
+pour détruire tous les microbes. varient naturellement.
+Ainsi il suffit de porter l’eau à 1200 pour la stériliser tandis
+qu’il faut aller jusqu’à 1349 pour aseptiser les objets
+placés dans des autoclaves en présence de la vapeur d’eau
+
+DA Thérimomere
+
+Ne
+
+si
+
+ra
+à
+“5
+"
+ni
+A
+A
+i
+f
+“a
+“a
+F1
+
+RS
+
+SSSSS LANERES
+
+S
+
+à
+
+ARS
+Co
+ss ss
+
+LISE
+
+Fig.2.— Schémas d'un stérilisateur de 200 litres : élévation et coupe,
+
+après les’ avoir débarrassés, par un vide préalable ou par
+purges successives, de l'enveloppe d'air qu’ils retiennent.
+Enfin pour obtenir une stérilisation sèche parfaite, on doit
+pousser jusqu’à 1800,
+
+Afin de réaliser ces diverses conditions, on a installé
+dans chacun des pavillons du nouvel hôpital lyonnais tout
+un matériel de stérilisation et de désinfection qui s’y trouve
+réparti de la manière suivante.
+
+À chaque étage des pavillons de chirurgie, fonctionnent
+2 ou 3 stérilisateurs d’eau, alimentés en vapeur de chauf-
+fage depuis la station centrale de l’établissement et four-
+nissant de l’eau privée de tous germes microbiens, aux
+lavabos des salles d'opération ou de pansement de l'étage.
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires== 268
+
+y a, dans tout l'hôpital, 66 de ces générateurs d’eau
+stérilisée et leur association est combinée de telle sorte
+que les lavabos se trouvent toujours prêts à servir. En
+outre, dans chaque pavillon de chirurgie, se voient un
+petit autoclave chauffé au gaz pour stériliser les sérums,
+les bouïllons de culture et les petits pansements ainsi que
+plusieurs étuves électriques Poupinel pour la stérilisation
+sèche des instruments, Quant à la station centrale de stéri-
+lisation de tous les services hospitaliers, elle voisine avec
+la pharmacie et comprend 3 autoclaves horizontaux d’un
+volume total de 5 m° surmontés chacun de géné-
+rateurs de vapeur propre et alimentés en vapeur
+haute pression par les chaudières de l'usine électrique de
+Grange-Blanche. Enfin le service de désinfection, annexé
+à la lingerie et à la matelasserie, se compose de 2 grandes
+étuves fonctionnant de la même façon que les autoclaves
+de stérilisation, d’une étuve de désinfection des crachoirs
+
+Théemomelre
+à ssdren
+l Contacter electrique
+
+a méreurs
+
+
+
+
+
+Fig. 3. — Schéma du stérilisateur électrique Poupinel
+qu'on voit vers la droile dans la fig. 1.
+
+chauffée à la vapeur et d’une chambre à formol, que des
+radiateurs portent à 70° pour assurer la désinfection des
+matelas.
+
+Ces généralités posées, examinons de plus près les
+appareils ci-dessus en signalant leurs particularités inté-
+ressantes.
+
+Voici d’abord l’un des générateurs en acier galvanisé
+de la stérilisation centrale; il est muni d’une garniture
+de niveau, de 2 soupapes, d’un manomètre indicateur de
+pression et chauffé intérieurement par un serpentin en
+cuivre recevant la vapeur. Des vannes appropriées per-
+mettent de le remplir ou de le vider de son contenu
+liquide et de prélever de la vapeur à sa partie supé-
+rieure pour l'envoyer dans l’appareil de stérilisation qui
+le surmonte. Sur celui-ci, se trouve branchée une pompe
+à vide électrique ayant pour but d'extraire la plus grande
+
+
+
+
+
+
+
+
+
+
+
+partie de l'air de son intérieur avant l'admission de la
+vapeur, ce qui facilite les opérations de stérilisation et
+évite un gaspillage de vapeur. L’autoclave stérilisateur,
+cylindre en acier de 1 m 10 de diamètre et de 1 m 80 de
+longueur, abrite un panier métallique pouvant contenir
+les différents objets à aseptiser; 1l reçoit la vapeur du
+générateur supérieur après le fonctionnement de la pompe
+à vide. Un dispositif de purge assure le passage de la
+vapeur fluente pendant le temps voulu. A la fin de l’opé-
+ration, un condenseur permet de contrôler la valeur de
+la dépression produite, puis avant d'ouvrir l’appareil, on
+provoque la rentrée de l’air sur un filtre à coton qui
+empêche les poussières de pénétrer dans les boîtes à
+pansement. L'examen de la pression maxima obtenue
+dans l’autoclave et de la dépression terminale réalisée
+donne la certitude d’une stérilisation parfaite.
+
+Revenons maintenant aux petits autoclaves à gaz et aux
+« Poupinels » des différents pavillons hospitaliers. Les
+premiers servent à stériliser rapidement à la vapeur
+quelques pansements et surtout les sérums ou autres
+liquides injectables qui s’accommodent mal des varia-
+tions de pression provoquées par les détentes successives
+dans les grands autoclaves centraux, sans compter les
+difficultés de leur transport depuis ces derniers jusqu'aux
+lieux de leur emploi. De leur côté, les « Poupinels » élec-
+triques commandés par des interrupteurs étanches sont
+en cuivre rouge et calorilugés par des produits minéraux.
+D'après M. Paul Durand, ingénieur électricien de l'Hôpi-
+tal de Grange-Blanche, on les a adoptés de préférence à
+ceux d’autres systèmes, car une fois la température désirée
+atteinte, il suffit de couper le courant pour que la stérili-
+sation s’y effectue pendant la durée normale du refroi-
+dissement de l’enceinte. Le chauffage réalisé intérieure-
+ment sous les tablettes au moyen de toiles métalliques
+diminue, dans la mesure du possible, les variations consi-
+dérables des procédés de rayonnement calonfique à
+grande distance. En outre, un thermomètre à cadran
+permet le contrôle thermique tandis qu’un avertisseur
+sonore et lumineux prévient les usagers du moment où
+la température de stérilisation se trouvant atteinte, ils
+doivent couper le courant.
+
+Entrons à présent de nouveau dans la station centrale
+où se trouvent, comme nous l’avons déjà noté plus haut,
+3 grands autoclaves. Chacun de ces stérilisateurs d’eau a
+une capacité de 200 litres et reçoit la vapeur provenant
+de l’usine électrique de l'hôpital. Or pour réaliser correc-
+tement l’asepsie, il faut d’abord remplir le réservoir en
+eau impure, ensuite stériliser en deux temps (purge d’air
+et vidange des conduites, puis montée en pression). En
+outre, le système doit pouvoir se mettre en position de
+garde pour séparer nettement la distribution du remplis-
+sage. Ces conditions impliquent une série de 12 opérations
+qui s’exécutent en ouvrant successivement ou simulta-
+nément un certain nombre de robinets et de vannes.
+L'ouverture de celles-ci se fait au moyen d’un. tambour
+pouvant occuper 12 positions différentes, correspondant
+aux opérations successives (amenée d’eau de ville ou
+d’eau de refroidissement, introduction de vapeur, purge,
+distribution d’eau stérile, commande et fermeture de la
+canalisation du filtre). À chacune desdites positions du
+
+
+
+
+
+Droits reservés au Cnam et à ses partenairesER |
+
+
+
+Fig. 4. -- Éluve à désinfection du linge
+(coupe).
+
+tambour, des cames provoquent l'ouverture de la vanne
+voulue et un système de verrouillage empêche la distri-
+bution d’eau stérile dans le cas où par suite d’une fausse
+manœuvre, le préposé aurait fait entrer de l’eau non puri-
+fiée dans le réservoir. Un voyant indique, du reste, à
+l’opérateur les positions du tambour qu’il peut comman-
+der en toute liberté, grâce à un volant. Un manomètre,
+
+Fig. 6. — Cuve pour la désinfection des crachoirs.
+
+
+
+Fig: 5, — Étuve à désinfection de la literie.
+{Entrée et sortie des objets avant et après l'opération.)
+
+un thermomètre à lecture instantanée et un thermomètre
+enregistreur assurent le contrôle des différentes opérations.
+Enfin la fermeture de vannes de sectionnement permet
+l'isolement des canalisations d’eau et de vapeur quand
+un de ces stérilisateurs ne sert pas. :
+
+Insistons quelque peu maintenant sur le très rationnel
+outillage de désinfection des crachoirs, qui comprend un
+
+Fig. 7. — Schéma de l'appareil à stériliser les crachoirs.
+
+
+
+Droits reservés au Cnam et à ses partenaires

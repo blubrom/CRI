@@ -1,0 +1,213 @@
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 17:37:42  classical mode (20 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 69.15 %
+	recall = 77.95 %
+	F-measure = 73.28 %
+
+overall scores on the corpus vol126:
+	precision = 56.54 %
+	recall = 67.22 %
+	F-measure = 61.42 %
+
+overall scores on the corpus vol12:
+	precision = 72.32 %
+	recall = 69.75 %
+	F-measure = 71.01 %
+
+## overall scores on the whole corpus:
+	precision = 66.98 %
+	recall = 72.54 %
+	F-measure = 69.65 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 18:04:18 no min_min (10 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 71.08 %
+	recall = 71.74 %
+	F-measure = 71.41 %
+
+
+overall scores on the corpus vol126:
+	precision = 57.21 %
+	recall = 66.11 %
+	F-measure = 61.34 %
+
+
+overall scores on the corpus vol12:
+	precision = 71.94 %
+	recall = 64.77 %
+	F-measure = 68.16 %
+
+## overall scores on the whole corpus:
+	precision = 67.68 %
+	recall = 67.94 %
+	F-measure = 67.81 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 18:16:56 only convetionnal binoms (5.5 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 77.32 %
+	recall = 64.60 %
+	F-measure = 70.39 %
+
+overall scores on the corpus vol126:
+	precision = 68.67 %
+	recall = 63.33 %
+	F-measure = 65.90 %
+
+overall scores on the corpus vol12:
+	precision = 76.44 %
+	recall = 56.58 %
+	F-measure = 65.03 %
+
+## overall scores on the whole corpus:
+	precision = 74.81 %
+	recall = 61.43 %
+	F-measure = 67.46 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 18:29:41only convetionnal binoms + binoms succeded by Linn, Humbolt, Lamark or Buffon  (7 mins)
+------------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 77.32 %
+	recall = 64.60 %
+	F-measure = 70.39 %
+
+overall scores on the corpus vol126:
+	precision = 68.67 %
+	recall = 63.33 %
+	F-measure = 65.90 %
+
+overall scores on the corpus vol12:
+	precision = 76.44 %
+	recall = 56.58 %
+	F-measure = 65.03 %
+
+## overall scores on the whole corpus:
+	precision = 74.81 %
+	recall = 61.43 %
+	F-measure = 67.46 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 18:40:02 conventional binoms + min_min (15 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 74.27 %
+	recall = 70.81 %
+	F-measure = 72.50 %
+
+overall scores on the corpus vol126:
+	precision = 67.44 %
+	recall = 64.44 %
+	F-measure = 65.91 %
+
+overall scores on the corpus vol12:
+	precision = 76.55 %
+	recall = 61.57 %
+	F-measure = 68.24 %
+
+## overall scores on the whole corpus:
+	precision = 73.33 %
+	recall = 66.03 %
+	F-measure = 69.49 %
+
+Essayer d'ajouter le contexte prends trop longtemps (plus d'1 min pour traiter un article ce qui mène à plus d'une heure par volume)
+
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 20:30:45 conventional binoms + abreviations (5 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 70.20 %
+	recall = 65.84 %
+	F-measure = 67.95 %
+
+overall scores on the corpus vol126:
+	precision = 55.65 %
+	recall = 71.11 %
+	F-measure = 62.44 %
+
+overall scores on the corpus vol12:
+	precision = 73.93 %
+	recall = 61.57 %
+	F-measure = 67.18 %
+
+## overall scores on the whole corpus:
+	precision = 66.97 %
+	recall = 65.52 %
+	F-measure = 66.24 %
+
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 21:22:12  conventional binoms + maj_maj + abreviations (7 mins)
+----------------------------------------------------------------------------------------------------------
+overall scores on the corpus vol83:
+	precision = 63.56 %
+	recall = 74.22 %
+	F-measure = 68.48 %
+
+overall scores on the corpus vol126:
+	precision = 44.97 %
+	recall = 74.44 %
+	F-measure = 56.07 %
+
+overall scores on the corpus vol12:
+	precision = 68.97 %
+	recall = 71.17 %
+	F-measure = 70.05 %
+
+## overall scores on the whole corpus:
+	precision = 59.44 %
+	recall = 73.18 %
+	F-measure = 65.60 %
+
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 21:31:54 conventional binoms + min_min + abreviations (20 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 68.33 %
+	recall = 72.36 %
+	F-measure = 70.29 %
+
+overall scores on the corpus vol126:
+	precision = 55.08 %
+	recall = 72.22 %
+	F-measure = 62.50 %
+
+overall scores on the corpus vol12:
+	precision = 74.21 %
+	recall = 66.55 %
+	F-measure = 70.17 %
+
+## overall scores on the whole corpus:
+	precision = 66.34 %
+	recall = 70.24 %
+	F-measure = 68.24 %
+# ----------------------------------------------------------------------------------------------------------
+Experience launched on May 06, 2022 at 22:34:47 conventional binoms + maj_maj + min_min + abreviations (30 mins)
+----------------------------------------------------------------------------------------------------------
+
+overall scores on the corpus vol83:
+	precision = 62.56 %
+	recall = 80.43 %
+	F-measure = 70.38 %
+
+overall scores on the corpus vol126:
+	precision = 44.74 %
+	recall = 75.56 %
+	F-measure = 56.20 %
+
+overall scores on the corpus vol12:
+	precision = 69.48 %
+	recall = 76.16 %
+	F-measure = 72.67 %
+
+## overall scores on the whole corpus:
+	precision = 59.36 %
+	recall = 77.78 %
+	F-measure = 67.33 %

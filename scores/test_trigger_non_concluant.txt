@@ -1,0 +1,210 @@
+-------------------------------------------------    
+Experience launched on January 10, 2022 at 15:10:04    
+Chosen mode: trigger
+Evaluation of the article : Les_ravages_des_chenilles_p178 :
+	true positives : ["Bombyx neustria", "Liparis dispar", "Liparis chrysorrhea"] 
+	false positives : [] 
+	false negatives : ["Yponomenta malinella", "Liparis auriflua"] 
+	precision = 100.00 %
+	recall = 60.00 %
+	F-measure = 75.00 %
+Evaluation of the article : Les_ecailles_de_poissons_p31 :
+	true positives : [] 
+	false positives : ["Esoce "] 
+	false negatives : ["Esox lucius", "Clupea sardinia", "Pleuronecles solea", "Osmerus eperlanus", "Alburinus lucidus", "Gobis fluviatilis"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Le_vent_et_les_orties_p14 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Urtica urens"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Les_anabantides_p193 :
+	true positives : [] 
+	false positives : ["Anabas Cienopome ", "Polyacanthe Macropode Orphrom\u00e8ne Trichopus Trichopsis Trichogaster Betta Troisi\u00e8me ", "Heloctome "] 
+	false negatives : ["Anabas Cienopome"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : La_vipere_noire_d_Australie_p416 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Acanthophide c\u00e9rastin", "Acanthophide c\u00e9rastin"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Le_venin_du_scorpion_p151 :
+	true positives : [] 
+	false positives : ["scorpion "] 
+	false negatives : ["scorpio europ", "scorpio occilanus", "scorpio occitanus", "scorpio afer", "scorpio funestus", "buthus imperalor", "scorpio occitanus", "scorpio occitanus", "scorpio europ", "scorpio occitanus", "Scorpio occitanus", "scorpio occilanus", "scorpio occitanus"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Les_musaraignes_des_pyrenees_p90 :
+	true positives : [] 
+	false positives : ["musaraigne "] 
+	false negatives : ["sorex areneus", "sorex fodiens", "arvicola arvalis", "auriculis absconditis"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Les_phoques_a_fourrure_p135 :
+	true positives : [] 
+	false positives : ["phoque "] 
+	false negatives : ["Phoca vitulina", "Cumetopias selleri", "Trichichus rosmarus"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Les_poissons_fossiles_p115 :
+	true positives : [] 
+	false positives : ["comprenant ", "seulement ", "actuellement vivauts ", "communs ", "\u00dcsmerus "] 
+	false negatives : ["Osmerus Albyi", "Anopterus Albyi", "Conus ponderosus", "Turritella triplicata", "Murex scabcr", "Trigla licat", "Triglida licat", "Triglida Hirundo", "Osmerus Albyi"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Raisin_blanc_modifie_en_raisin_noir_p288 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Podocarpus Koraiana"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : De_reproduction_du_phylloxera_p262 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Quercus Coccifera", "Lacanium vermilio", "phylHoxera vastatrix"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : La_commission_de_peche_p403 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Spirorbis nautiloides", "Cirratulus grandis", "Cornutus autolytus", "Lucernia quadricornis", "Grratulus grandis", "Cancer irroratus", "Lucernia quadricornis"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : ACADEMIE_DES_SCIENCES_p318 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Crocodilus depressifrons"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Quelques_infusoires_p239 :
+	true positives : [] 
+	false positives : ["divers "] 
+	false negatives : ["Trachelocerea olor", "Amphileptus margaritifer", "Kolpode capuchon", "Euplotes charon", "Param\u00e9cie Aur\u00e9He", "Stylonychia mytilus", "Stylonychia Icion"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : La_commission_de_peche_p391 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Stenotomus argyrops", "Pomatomus saltatrix", "Slenolumus argyrops", "lomatomus sallatrix", "0phius americanus", "Pentacta frondosa", "Cerianthus borealis", "Lophius americanus", "Torpedo occidentalis", "Dendronotus arborescens", "Lophothuria fabricii", "Pentacta frondosa", "Boltenia reniformis", "Cerianthus borealis"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Graines_ayant_germe_p338 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Glaucium Serpieri"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Les_Moas_ou_Dinornis_p369 :
+	true positives : [] 
+	false positives : ["diff\u00e9rent ", "Palapt\u00e9ryx "] 
+	false negatives : ["Dinerais ingens", "Dinornis robustus", "Dinornis giganteus", "Dinornis giganieus", "Dinornis casuarinus", "Dinornis ingens"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Du_voyage_du_challenger_p372 :
+	true positives : [] 
+	false positives : ["Scalpellum "] 
+	false negatives : ["Scalpellum regium", "Sculpellum regium", "Scalpellum regium", "Thalassidroma Wilsoni", "Ophioglyphe bullata", "Antennarius marmoratus", "Lophius Piscatorius", "Sargassum bacciferum"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p330 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Peper Methysticum", "Dammara viliensis"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Faisan_d_elliot_au_jardin_des_plantes_p177 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Calophasis Ellioti", "Phasianus lorquatus"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Les_amorces_des_squales_p80 :
+	true positives : ["Pagurus Bernardus"] 
+	false positives : [] 
+	false negatives : ["Luccin Lessin"] 
+	precision = 100.00 %
+	recall = 50.00 %
+	F-measure = 66.67 %
+Evaluation of the article : Guerre_au_phylloxera_p44 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Phylloxera vastatrix"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p307 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Macrotoma Heros", "Holothuria edulis"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Le_bananier_a_paris_p144 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Musa ensete"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Les_maladies_de_la_vigne_p218 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : [] 
+	precision = 100.00 %
+	recall = 100.00 %
+	F-measure = 100.00 %
+Evaluation of the article : Oiseaux_des_Iles_Mascaraignes_p408 :
+	true positives : [] 
+	false positives : ["nouveau "] 
+	false negatives : ["Athene murivora", "Ardea megacephala", "Psitlacus rodericanus", "Turtur picturatus", "Columba rodericana", "Numida tiarata", "Pteropus rubricollis"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+Evaluation of the article : Coloration_artificielle_des_fleurs_p374 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["1beris umbellata", "Hesperis matronalis"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Le_gourami_p245 :
+	true positives : [] 
+	false positives : [] 
+	false negatives : ["Pharyngiens labyrinthiformes", "Osphronemus olfax"] 
+	precision = 100.00 %
+	recall = 0.00 %
+	F-measure = 0.00 %
+Evaluation of the article : Crustace_du_fond_de_la_mer_p68 :
+	true positives : [] 
+	false positives : ["nouveau "] 
+	false negatives : ["NEPHROPS STEWARTII", "Astacus zaleucus", "Nephrops Stewartii", "Nephrops Norwegicus", "Astacus pellucidus", "Cambarus pellucidus", "Calocaris Macandre", "Calliaxis adriatica", "Nephrops Stewartii", "\u00c0stacus zaleucus", "Nephrops Stewartii", "Hoploparia longimana"] 
+	precision = 0.00 %
+	recall = 0.00 %
+	F-measure = -100.00 %
+overall scores on the corpus:
+	precision = 18.18 %
+                  	recall = 3.20 %
+	F-measure = 5.44 %

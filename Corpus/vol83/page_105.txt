@@ -1,0 +1,161 @@
+100 ==——
+
+d’une pointe de cuivre rouge touchant un cristal minus-
+cule de pyrite de fer enrobé dans unc masse métallique,
+de Ja soudure de ferblantier par exemple. L’onde oscil-
+lanle, captée par l'antenne, passant difficilement par le
+contact imparfait (pointe et pyrite), se décèle à l’écouteur
+Léléphonique à chaque effort correspondant, c’ést-à-
+dire à chaque signal. Mais certaines parties du cristal
+seulement sont sensibles, il faut les chercher, l'oreille
+au guct, et pour cela la
+pointe est montée sur une
+articulation apte à la pro-
+mener sur toules les par-
+les: de da pyrite. Un
+inconvénient de ce genre
+de détecteur est que la
+pointe, s'émoussantpar ces
+recherches et devant s’ap-
+puyer à peine pour que le
+point touché sait le plus
+petit possible, il en ré-
+sulte que le moindre choc
+peut occasionner un dé-
+placement ct rendre muet le récepteur téléphonique,
+
+Pour avoir subi maintes fois ces inconvénients, J'ai
+moi- méêmc fabriqué un petit détecteur dont je donne la
+primeur à La Nature. Il consiste d’abord à remplacer
+la pointe de cuivre facile à émousser par une aiguille bien
+acérée touchant avec une certaine pression la pyrite en
+question.
+
+La figure 5 représente ce détecteur : la borne C
+reliéé à A'.de la figure 2 serre. avèc sa vis supérieure
+la partie spirale formant ressort de l'épingle d'acier bien
+connue dite épingle de nourriec, : dont on a enlevé la
+partic que l’on devine, pour ne laisser que l'aiguille préala-
+blement pliée au chalumeau, pour qu’elle vienne appuyer
+sur la pyrite avec une pression réglable par la vis de
+la borne C. La pyrite est enrobée comme toujours dans
+un alliage quelconque ct maintenue dans une boîte
+métallique pouvant se déplacer légèrement, mais en com-
+
+ 
+
+Fig, r.
+
+ 
+
+ÆARRIEU, GA
+
+. Fig. 2. _
+
+munication métallique avec. la borne D; on devine que
+l'aiguille étant fixe, c’est 1ci la pyrite enchâssée que lon
+déplace j jusqu’ à ce qu'à l'audition: ori s’ aperçoive que l'on
+‘a touché un point sensible.
+Pour faire cet essai, il:suffit, tout le poste ‘de réception
+étant monté, de mettre en action une sonnerie électrique
+(survoltée. si possible) du voisinage; ‘bien que l'on
+-entende le train d’étincelles du trembleur dans tous les
+points dela pyrite touchés jar l'aiguille, on acquerra bien
+
+vite la pratique, nécessaire pour reconnaitre, lorsque la
+pointe touchera la partic sensible, que l'émission de son
+
+LA TÉLÉGRAPHIE SANS FIL A LA PORTÉE DE TOUT LE MONDE
+
+ 
+
+ 
+
+ 
+
+qui en résulle est subitement
+augmentée.
+
+La partie la plus originale de ce détecteur est que
+le point sensible élant trouvé, on remplit la boîte
+métallique de stéarine fondue (de la vulgaire bougie) en
+ayant soin, pendant tout le temps que dure le refroi-
+dissement, d’actionner la sonnerie, précaution que la
+pratique m'a enseignée et qu’il ne faut pas négliger.
+
+Dans ces conditions le détecteur n’est plus sensible
+au choc et peut étre manié sans la moindre précaution.
+
+J'ajouterai enfin. que pour éviter d’enchässer des
+pyrites insensibles je procède de la façon suivante : après
+avoir brisé une pyrite au marteau et l'avoir réduite en
+morceaux de la grosseur d'une lentille, j'examine ceux-ci
+sur un support métallique remplaçänt la boîte B en les
+touchant à la pointe pendant le tintement de la sonnerie,
+tout le poste étant monté et le récepteur téléphonique
+aux oreilles; les morceaux insensibles sont jetés et les
+autres peuvent être énrobés ct essayés à nouveau comme
+il a été dit précédemment,
+
+Bobines de résonance. — La bobine de résonance
+qui dans mes recherches sur les orages m'a donné le
+plus de satisfaction cst représentée par la figure 5; j'en
+dirai quelques mots après avoir décrit plus on détail celle
+plus simple représentée par la figure 4 qui suffit dans la
+plupart des cas. Elle est formée en principe d’un cylindre
+de matière non con-
+ducirice (bois paraffiné
+ou tube de carton
+fort) sur lequel esi
+enroulé un fil de
+cuivre de 6/10 de mil-
+limètre de scetion,
+isolé à la soïe, Ce fil
+une fois enroulé bien
+serré est dénudé à Ja lime plaie, puis au papier de verre
+sur les 2 lignes où doivent glisser les curseurs. Un des
+curseurs est relié par l’une des parties métalliques quel-
+conques de la glissière à ce qui sert d'antenne, L'autre
+
+considérablement ct
+
+ 
+
+Fig. 3.
+
+- CUFSCUT terminant le circuit primaire d'antenne accordée,
+
+comme l'indique le schéma de la figure 2, est relié au
+détecieur par la monture métallique de sa coulisse,
+eclui-ci à l’un des fils du récepteur téléphonique et
+l'autre fil de celui-ci au fl de terre; -enfin au même
+fil de terre se trouve. rattachée l'e extrémité du il fin de la
+bobine d’accord, |
+
+J'ai trouvé avantageux de donner à cét appareil les
+dimensions suivantes : longueur de la bobine, 25 cm; dia-
+mètre, 8 em; longueur de fil enroulé, environ 88 mètres.
+Les glissières sont formées d’un fil de laiton de 5 mm,
+fixées par 2 équerres à la bobine même. Enfin une cavité,
+pratiquée à l’une des extrémités de la bobine, contient
+le détecteur tandis que l’autre extrémité possède une
+cavité semblable pour le téléphone au repos.
+
+Pour entendre les signaux il suffit done de porter ce
+téléphone À l'oreille; l'appareil est toujours. prêt à
+cet effet. Ce
+
+Ï va sans dire enfin que toute cette installation peut
+
+être insérée sur un appareil ordinaire complet d’un réseau
+
+téléphonique privé, de façon que le téléphone de droite
+(qui peut être levé impunément sans agir sur les. com-
+mutations du poste téléphonique ordinaire e) serve lui-même
+de récepteur pour les signaux radiotélégraphiques, .
+
+Il me reste:à parler ‘de la disposition de la figure 5.
+Elle x l'avantage de se prêter : à toutes les résonances
+possi iblGs, ce qui est fort précieux en maints cus où les
+
+Droits reservés au Cnam et à ses partenaires

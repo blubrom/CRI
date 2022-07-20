@@ -1,0 +1,205 @@
+-------------------------------------------------    
+Chosen mode: Maj_min
+Evaluation of the article : Les_ravages_des_chenilles_p178 :
+	true positives : ["Yponomenta malinella", "Bombyx neustria", "Liparis dispar", "Liparis chrysorrhea", "Liparis auriflua"] 
+	false positives : ["Charentes pour", "Iis \u00e9laient", "Cette petite", "Bombyce neustrien", "Dans lenr", "Cela est", "Plus tard", "Bombyce disparate", "Linn ainsi", "Berce pareille", "Geoffroy qui"] 
+	false negatives : [] 
+	precision = 31.25 %
+	recall = 100.0 %
+	F-measure = 47.61904761904761 %
+Evaluation of the article : Les_ecailles_de_poissons_p31 :
+	true positives : ["Esox lucius", "Clupea sardinia", "Pleuronecles solea", "Osmerus eperlanus", "Gobis fluviatilis"] 
+	false positives : ["Quelques \u00e9cailles", "Alburinus lucidus", "Lesstries admirables", "Tout jusqu", "Aussi lorsque", "Sans aller", "Tout cela", "Esoce tout", "Laissons encore", "Salmonid\u00e9s qui", "Cela prouve"] 
+	false negatives : ["Alburinus lucidus Heck"] 
+	precision = 31.25 %
+	recall = 83.33333333333334 %
+	F-measure = 45.45454545454545 %
+Evaluation of the article : Le_vent_et_les_orties_p14 :
+	true positives : ["Urtica urens"] 
+	false positives : ["Naudin hasarde"] 
+	false negatives : [] 
+	precision = 50.0 %
+	recall = 100.0 %
+	F-measure = 66.66666666666666 %
+Evaluation of the article : Les_anabantides_p193 :
+	true positives : [] 
+	false positives : ["Anabas poisson", "France gr", "Anabantid\u00e9s dans", "Anabas sont", "Anabantid\u00e9s habitent", "Anabantid\u00e9 fuit", "Pendant plusieurs", "Day fuites", "Anabantid\u00e9s meurent", "Singuliers poissons", "Cette chambre", "Guvier avait", "Cet air", "Alors par", "Anabas auraient", "Mus\u00e9um lui", "Anabas est", "Quatre esp\u00e8ces", "Carbonnier ont", "Premier groupe", "Deuxi\u00e8me groupe", "Bouche petite", "Troisi\u00e8me groupe", "Bouche transverse", "Tout cela"] 
+	false negatives : ["Anabas Cienopome"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : La_vipere_noire_d_Australie_p416 :
+	true positives : ["Ophidiens sol\u00e9noglyphes", "Acanthophide c\u00e9rastin", "Acanthophide c\u00e9rastin"] 
+	false positives : ["Ophidiens ont", "Deux familles", "Sol\u00e9noglyphes celle", "Crotaliens qui", "Vip\u00e9riens avec", "Australie mais", "Vip\u00e9riens aussi", "Australiens qui", "Black shake", "Merren qui", "Vip\u00e8re enroulante", "Schlingende natler", "Lesson lors", "Coquille recueillait", "Serpent noir", "Acanthophide enrouleur", "Daudin pour", "Corsair typ"] 
+	false negatives : [] 
+	precision = 14.285714285714285 %
+	recall = 100.0 %
+	F-measure = 25.0 %
+Evaluation of the article : Le_venin_du_scorpion_p151 :
+	true positives : ["Scorpio occitanus"] 
+	false positives : ["Aristote ont", "Enfin certaines", "S\u00e9n\u00e9gal offrent", "Jes endroits", "Midi sont", "Erhenberg qui", "Globules normaux", "Globules qui", "Alt\u00e9ration plus", "Bellesme est", "Pour peu", "Lui donnai", "Grandeur naturelle", "Toujours est", "Une heure", "Bellesme par", "Bellesme prouve", "Lr\u00e8snergiquement m", "Cet animal"] 
+	false negatives : ["scorpio europ", "scorpio occilanus", "scorpio occitanus", "scorpio afer", "scorpio funestus", "buthus imperalor", "scorpio occitanus", "scorpio occitanus", "scorpio europ", "scorpio occitanus", "scorpio occilanus", "scorpio occitanus"] 
+	precision = 5.0 %
+	recall = 7.6923076923076925 %
+	F-measure = 6.060606060606061 %
+Evaluation of the article : Les_musaraignes_des_pyrenees_p90 :
+	true positives : [] 
+	false positives : ["Deux petits", "Daubenton sorex", "Trutat donne", "Jinn\u00e9enne pour", "Illiger not", "Daubenton para", "Marin sur", "Touch cette", "Luchon par", "Chelle plus", "L\u00e9zat cttout", "Parmi ceux", "Une esp\u00e8ce", "Portet cette", "Gette esp\u00e8ce"] 
+	false negatives : ["sorex areneus", "sorex fodiens", "arvicola arvalis", "auriculis absconditis"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_phoques_a_fourrure_p135 :
+	true positives : ["Phoca vitulina", "Cumetopias selleri", "Trichichus rosmarus"] 
+	false positives : ["Behring existe", "Cette station", "Pribylov est", "Paul sont", "Pribylov furent", "Compagnie russo", "Al\u00e9outiens qui", "\u00c9glise grecque", "Francisce pour", "Cette sage", "Jeunes veaux", "Cette belle", "Souvelopp\u00e9s par", "L\u00e9s traqueurs", "Mais aucune", "Aucune protection", "Apr\u00e8s avoir", "Cette fourrure", "Pribylov nul", "Cette esp\u00e8ce", "Pribylov deux"] 
+	false negatives : [] 
+	precision = 12.5 %
+	recall = 100.0 %
+	F-measure = 22.22222222222222 %
+Evaluation of the article : Les_poissons_fossiles_p115 :
+	true positives : ["Conus ponderosus", "Turritella triplicata", "Murex scabcr", "Trigla licat", "Triglida licat"] 
+	false positives : ["Notre confr\u00e8re", "Sauvage vient", "Paris grace", "Sicile par", "Alby consul", "France gr", "Meumer qui", "Sauvaget est", "T\u00e9l\u00e9ost\u00e9ens qui", "Sauvage tire", "Leur histoire", "Sauvage sont", "T\u00e9l\u00e9ost\u00e9ens issus", "Esturgeon par", "Iylodontes c\u00e8dent", "Gette d\u00e9termination", "Istrie etc", "Comme mterm\u00e9diaire", "Suisse devenues", "Plagiostomes mais", "Clupea soient", "Bolca \u00e9tage", "Agassiz pour", "London clay", "Chiavon celles", "Albyi voyons", "Sauvage para", "Heer pour", "Cette hypoth\u00e8se", "Cette terre", "Europe aux", "Am\u00e9rique remontant", "Cette communication", "Am\u00e9rique est", "Europe sont", "Am\u00e9rique lorsque", "Sauvage admet", "Erythr\u00e9e dans", "M\u00e9diterran\u00e9e par", "Atlantique puisqu", "Albyi m\u00e9moire", "Oran ainsi", "Sicile similaires", "Gruvitelli pr\u00e8s", "Messine tant", "Maravigna rapport\u00e8rent", "Gette opinion", "Ehrenberg avait", "Infusoires caract\u00e9ristiques", "Toutelois d\u00e8s", "Daubeny avait", "Hoffmann bien", "Pr\u00e9vost regarda", "Paillette faisait", "Seguenza qui", "Cette division", "Une copie", "Zancl\u00e9en par", "Messinien selon", "Licata sont", "Oran qui", "Ehrenberg qui", "Zanthe contemporain", "Ville ont", "Pomel vient", "Triglid sont", "Cuvier avait", "Scomber quoiqu", "Anapterus est", "Licata recueillis", "Cyprins dont", "Sauvage sur", "Sauvage rappelle", "Lartet avait", "Cyprins vivant", "Seille rivi\u00e8re", "Dieuze pr\u00e8s", "Tanches peuvent"] 
+	false negatives : ["Osmerus Albyi", "Anopterus Albyi", "Triglida Hirundo", "Osmerus Albyi"] 
+	precision = 6.024096385542169 %
+	recall = 55.55555555555556 %
+	F-measure = 10.869565217391305 %
+Evaluation of the article : Raisin_blanc_modifie_en_raisin_noir_p288 :
+	true positives : [] 
+	false positives : ["Carri\u00e8re notamment", "Koraiana produisant", "Flon qui", "Une grappe", "Morastel noir", "Mais ou", "Morastel blanc", "Notre gravure", "Compas lip"] 
+	false negatives : ["Podocarpus Koraiana"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : De_reproduction_du_phylloxera_p262 :
+	true positives : ["Lacanium vermilio"] 
+	false positives : ["Quel est", "Germain garrigues", "Tel est", "Am\u00e9ricains par", "Mais cet", "Sans ppliquer", "Graveleurs avec"] 
+	false negatives : ["Quercus Coccifera", "phylHoxera vastatrix"] 
+	precision = 12.5 %
+	recall = 33.33333333333333 %
+	F-measure = 18.181818181818183 %
+Evaluation of the article : La_commission_de_peche_p403 :
+	true positives : ["Spirorbis nautiloides", "Cirratulus grandis", "Cornutus autolytus", "Lucernia quadricornis", "Grratulus grandis", "Cancer irroratus", "Lucernia quadricornis"] 
+	false positives : ["Commission est", "Indien devenant", "Celui qui", "Puis aux", "Octopus selon", "Baird qui", "Lern onema", "Atlantique par", "Nouveau ver", "Certains naturalistes", "Pour bien", "Zo\u00e9 d\u00e9sormais", "Une cons\u00e9quence", "Zo\u00e9e qui", "Mouvel gctopus", "York fut", "Zu\u00e9e crustac\u00e9", "Etat pour", "Cette diminution", "Peau par", "Pour pr\u00e9venir"] 
+	false negatives : [] 
+	precision = 25.0 %
+	recall = 100.0 %
+	F-measure = 40.0 %
+Evaluation of the article : ACADEMIE_DES_SCIENCES_p318 :
+	true positives : ["Crocodilus depressifrons"] 
+	false positives : ["L\u00e9pidotus tertiaire", "Aunssiz dans", "Poissons fossiles", "Depuis celte", "Graves enmentionne", "Lamote pr\u00e8s", "Beley pr\u00e8s", "Muirancourt pr\u00e8s", "Noyon dans", "Aujourd hui", "Vasseur aux"] 
+	false negatives : [] 
+	precision = 8.333333333333332 %
+	recall = 100.0 %
+	F-measure = 15.384615384615385 %
+Evaluation of the article : Quelques_infusoires_p239 :
+	true positives : ["Trachelocerea olor", "Amphileptus margaritifer", "Kolpode capuchon", "Euplotes charon", "Stylonychia mytilus"] 
+	false positives : ["Non pas", "Quel est", "Une feuille", "Voil\u00e0 tout", "Venus mais", "Pour ceux", "Son corps", "Notre graveur", "Peuttre car", "Connuie typ"] 
+	false negatives : ["Param\u00e9cie Aur\u00e9He", "Stylonychia Icion"] 
+	precision = 33.33333333333333 %
+	recall = 71.42857142857143 %
+	F-measure = 45.454545454545446 %
+Evaluation of the article : La_commission_de_peche_p391 :
+	true positives : ["Stenotomus argyrops", "Pomatomus saltatrix", "Slenolumus argyrops", "Pentacta frondosa", "Cerianthus borealis", "Lophius americanus", "Torpedo occidentalis", "Dendronotus arborescens", "Lophothuria fabricii", "Pentacta frondosa", "Boltenia reniformis", "Cerianthus borealis"] 
+	false positives : ["Light furent", "Hassler avec", "Oc\u00e9an t\u00e9n\u00e8bres", "Cet accident", "Agassiz qui", "Une rang\u00e9e", "Lile consiste", "Cette disposition", "Boston ont", "Holes rendit", "Cholera banks", "Coryph\u00e8ne fig", "Cet ogre", "York m", "Poisson bleu", "Innombrable quanlit\u00e9", "Voil\u00e0 bien", "L\u00e8sent jusqu", "Yankee devenu", "Tels sont", "Mais pour", "Ayons surtout", "Passemaquoddy \u00e9tait", "Agassiz pr\u00e9tend", "Une remarque", "Conserv\u00e9e dans", "Boltenia offre", "Comme exemples"] 
+	false negatives : ["lomatomus sallatrix", "0phius americanus"] 
+	precision = 30.0 %
+	recall = 85.71428571428571 %
+	F-measure = 44.44444444444444 %
+Evaluation of the article : Graines_ayant_germe_p338 :
+	true positives : [] 
+	false positives : ["G\u00e9ographie bolanique", "Vovez aussi", "Ileldreich professeur", "Ath\u00e8nes ayant", "Laurium exploit\u00e9es", "Une chose", "Flora orientalis", "Glaucium actuels", "Heldreich pour"] 
+	false negatives : ["Glaucium Serpieri"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Les_Moas_ou_Dinornis_p369 :
+	true positives : ["Dinerais ingens", "Dinornis robustus", "Dinornis giganieus", "Dinornis casuarinus", "Dinornis ingens"] 
+	false positives : ["Br\u00e9vipennes qui", "Owen qui", "Z\u00e9lande par", "Autruches comme", "Owen proposa", "Depuis lors", "Ranges province", "Dinornis variant", "Cygne jusqu", "Autruche mais", "Ceuxci devaient", "Dinornis ont", "Edwards qui", "Dinornis qui", "Ranges province", "Dinornis giganteus", "Dinornis donn\u00e9e", "Poris par", "Quelque temps", "Otago avait", "Dinornis qui", "Cette circonstance", "Grey qui", "Hoast raconte", "Moaris parlent", "Moast comme", "Afoa est"] 
+	false negatives : ["D didiformis", "D elephantopus"] 
+	precision = 15.625 %
+	recall = 71.42857142857143 %
+	F-measure = 25.641025641025646 %
+Evaluation of the article : Du_voyage_du_challenger_p372 :
+	true positives : ["Scalpellum regium", "Sculpellum regium", "Scalpellum regium", "Ophioglyphe bullata", "Antennarius marmoratus"] 
+	false positives : ["Scalpella sont", "Capitule form\u00e9", "Oc\u00e9an pacitique", "Scalpellum poss\u00e8de", "Lel attache", "Bullata est", "Physostomes appartenant", "Sternoptychide \u00e9tait", "Une bande", "Thomson raconte", "Bermudes dit", "Ceci provenait", "Dans cette", "Wilsoni qui", "Une observad", "Sargassum bacciferum", "Chaque touffe", "Sargasse ont", "Lrouve plus", "Cette couleur"] 
+	false negatives : ["Scalpellum r", "Thalassidroma Wilsoni", "Lophius Piscatorius"] 
+	precision = 20.0 %
+	recall = 62.5 %
+	F-measure = 30.303030303030305 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p330 :
+	true positives : ["Dammara viliensis"] 
+	false positives : ["Fidgi passe", "Kava boisson", "Wilkes accost\u00e8rent", "Pickering dans", "Polyn\u00e9siens proprement", "Mais sur", "Pickering fut", "Fidgicns offraient", "Cal\u00e9doniens dessin\u00e9s", "Labillardi\u00e8re portraits", "Samoa suivant", "Cal\u00e9doniens ecux", "Fidgiens sont", "Nul loute", "Quant aux", "Fidgi leur", "Cet archipel", "Fidgi obtenait", "Cook confondirent", "Kaoris atteisnent"] 
+	false negatives : ["Peper Methysticum"] 
+	precision = 4.761904761904762 %
+	recall = 50.0 %
+	F-measure = 8.695652173913041 %
+Evaluation of the article : Faisan_d_elliot_au_jardin_des_plantes_p177 :
+	true positives : ["Phasianus lorquatus"] 
+	false positives : ["Chine par", "Cet oiseau", "Plus petit", "Revesit mais", "Chine par", "Cette nouvelle", "Chine est", "Perdicides qui"] 
+	false negatives : ["Calophasis Ellioti"] 
+	precision = 11.11111111111111 %
+	recall = 50.0 %
+	F-measure = 18.18181818181818 %
+Evaluation of the article : Les_amorces_des_squales_p80 :
+	true positives : [] 
+	false positives : ["Herinite bien", "Pagure tranquillement", "France plusieurs", "Linn qui", "Crangons nos", "Buceins habit\u00e9s", "Pagure par", "Une rang\u00e9e", "Hermite pris", "Squales qui", "Herimile dan", "Lessin r\u00e9duit", "Pagures permettent", "Squales dont", "Paris mais", "Granville par", "Tr\u00e8ves qui", "Pagures sont", "Roscoff pour"] 
+	false negatives : ["Pagurus Bernardus", "Luccin Lessin"] 
+	precision = 0.0 %
+	recall = 0.0 %
+	F-measure = -100 %
+Evaluation of the article : Guerre_au_phylloxera_p44 :
+	true positives : ["Phylloxera vastatrix"] 
+	false positives : ["Notre collaborateur", "Girard vient", "France notamment", "Charentes avec", "Duclaux pour", "Aphidien rendre", "Girard enverra"] 
+	false negatives : [] 
+	precision = 12.5 %
+	recall = 100.0 %
+	F-measure = 22.22222222222222 %
+Evaluation of the article : L_archipel_des_Viti_ou_Fidji_p307 :
+	true positives : ["Holothuria edulis"] 
+	false positives : ["Oc\u00e9an pacifique", "Australie orientale", "Fidai pour", "D\u00e9couvertes d\u00e8s", "Fidgi sont", "Comptes rendus", "Leur sol", "Leur flore", "Fidgt est", "Leur faune", "Settlers europ\u00e9ens", "Heros long"] 
+	false negatives : ["Macrotoma Heros"] 
+	precision = 7.6923076923076925 %
+	recall = 50.0 %
+	F-measure = 13.333333333333336 %
+Evaluation of the article : Le_bananier_a_paris_p144 :
+	true positives : ["Musa ensete"] 
+	false positives : ["Monceaux notamment", "Europe est", "Kew re", "Massouah par", "Plantes mais", "Barillet commen", "Notre gravure", "Lambertye qui", "Cinq mois"] 
+	false negatives : [] 
+	precision = 10.0 %
+	recall = 100.0 %
+	F-measure = 18.181818181818183 %
+Evaluation of the article : Les_maladies_de_la_vigne_p218 :
+	true positives : [] 
+	false positives : ["Cette maladic", "Cette couleur", "Jaune est", "Cette affection", "Cet ouvrage", "Garnier fr\u00e8res", "Gertains ceps", "Gette alt\u00e9ration", "Gette d\u00e9sorganisalion", "Jorsque enfin", "Uidium l\u00e8pre", "Cette alt\u00e9ralion", "Angleterre par", "Aujourd hui", "Marie m\u00e9decin", "Grison jardinier", "Charmeux propri\u00e9taire", "Marne chauffut", "Cette ann\u00e9e", "Thomery furent", "Moniteur constate", "Lalorgue propri\u00e9taire", "B\u00e9ziers est", "B\u00e9ziers ont", "Gette larve", "Cette op\u00e9ration", "Yonne cet", "Cette toile", "Cet appareil", "Altise bleue", "Dunal altica", "Geoffroy altise", "Jours apr\u00e8s", "Cet autre", "Fleur anovroabe", "Hannelon commun", "Cet insecte", "Quant aux", "Certains animaux", "Cette op\u00e9ration", "Romau\u00e8che est", "Breuil consacre"] 
+	false negatives : [] 
+	precision = 0 %
+	recall = 100 %
+	F-measure = 0.0 %
+Evaluation of the article : Oiseaux_des_Iles_Mascaraignes_p408 :
+	true positives : ["Athene murivora", "Ardea megacephala", "Psitlacus rodericanus", "Turtur picturatus", "Columba rodericana", "Numida tiarata", "Pteropus rubricollis"] 
+	false positives : ["Bretagne pour", "Solitaire \u00e9taient", "Leguat quand", "Telfair obtint", "Eudes quelques", "Soci\u00e9t\u00e9 zoologique", "Dodo avaient", "Desjardins secr\u00e9taire", "Maurice qui", "Melville publi\u00e8rent", "Solitaire donn\u00e9s", "Soci\u00e9t\u00e9 z", "Association britannique", "Glascow mais", "Edwards voulut", "Dodo d\u00e9couverts", "Desjardins lui", "Pigeons marcheurs", "Newton auditeur", "Newton professeur", "Diverses pi\u00e8ces", "Soci\u00e9t\u00e9 zoologique", "Melville est", "Dronte est", "Pigeon mais", "Pigeons dit", "Leguat sont", "Cet arbre", "Perroquets verts", "Leguat cite", "Hiboux qui", "Butors aussi", "Gelinottes qui", "Dodo and", "Gelinotte aussi", "Solitaire restaur\u00e9", "Plantes ennemie", "Pal ornis", "Afrique centrale", "Roussette probablement", "Pia gr\u00e9", "Quant aux", "Fous aux", "Fr\u00e9gates aux", "Plantes aujourd", "Cette population", "Bourbon permet", "Recherches sur"] 
+	false negatives : [] 
+	precision = 12.727272727272727 %
+	recall = 100.0 %
+	F-measure = 22.58064516129032 %
+Evaluation of the article : Coloration_artificielle_des_fleurs_p374 :
+	true positives : ["Hesperis matronalis"] 
+	false positives : ["Thlaspi violet", "Son appareil", "Lorsqueles leurs", "Une autre", "Soci\u00e9t\u00e9 centrale"] 
+	false negatives : ["1beris umbellata"] 
+	precision = 16.666666666666664 %
+	recall = 50.0 %
+	F-measure = 25.0 %
+Evaluation of the article : Le_gourami_p245 :
+	true positives : ["Pharyngiens labyrinthiformes", "Osphronemus olfax"] 
+	false positives : ["Gourami est", "Voisin par", "Thiersant rapporte", "Maurice ont", "Macropode qui", "Lrois ans", "Gommerson d\u00e9clare", "Plusieurs naturalistes", "Gommerson croit", "Thiersant qui", "France par", "C\u00e9r\u00e9 cette", "Desmasures introduisut", "Carbonuier nos", "Alo\u00e9rie pourront", "Australie cette", "Beatie put"] 
+	false negatives : [] 
+	precision = 10.526315789473683 %
+	recall = 100.0 %
+	F-measure = 19.04761904761905 %
+Evaluation of the article : Crustace_du_fond_de_la_mer_p68 :
+	true positives : ["Astacus zaleucus", "Astacus pellucidus", "Cambarus pellucidus", "Calliaxis adriatica", "\u00c0stacus zaleucus"] 
+	false positives : ["Edwards vient", "Mason dit", "Soci\u00e9t\u00e9 asiatique", "Macroure vit", "Europe mais", "Astaciens connus", "Bell trouv\u00e9", "Irlande par", "Heller qui", "Thomson chez", "Macroure dont", "Callianassides dont", "Westphalie rapport\u00e9", "Hoploparia longimana", "Voy premi\u00e8re", "Lezennes figur\u00e9", "Stewartii trouv\u00e9", "Nephrops allong\u00e9s"] 
+	false negatives : ["NEPHROPS STEWARTII", "Nephrops Stewartii", "Nephrops Norwegicus", "Calocaris Macandre", "Nephrops Stewartii", "Nephrops Stewartii"] 
+	precision = 21.73913043478261 %
+	recall = 45.45454545454545 %
+	F-measure = 29.411764705882355 %

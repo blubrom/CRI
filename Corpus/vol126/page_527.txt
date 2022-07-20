@@ -1,0 +1,757 @@
+504
+
+
+
+
+
+— CULTURE DE STEPPES
+
+
+
+
+
+
+
+ET ALCALINITÉ DES EAUX :
+DE L'ARGENTINE A L'ÉGYPTE
+
+On voit apparaître simultanément dans toutes les
+sciences des orientations communes qui semblent dépendre
+de l'état momentané des connaissances générales et
+de l’introduction de nouveaux moyens de mesure. La
+minéralogie et la géologie, malgré les disciplines presque
+exclusivement physique de l’une, paléontologique de
+l’autre, n'échappent pas à cette loi de la quantité. La
+minéralogie a vu l'optique physique lui apporter son
+aide, que la physique moléculaire est venue renforcer au
+moyen de la spectroscopie par les rayons X. La géologie
+a d’abord suivi la discipline des sciences naturelles; la
+
+
+
+
+
+
+
+Fig. 1, — Barrancos du fiv Colorado: alluvions fluvio-glaciaires
+cé cendres volcaniques provenant du volcan Tupungalo, en général.
+Eaux des pentes alcalines, eaux du rio, neutres, (Chili.)
+
+théorie des horizons de Haug a suppléé élégamment
+à l'absence du facteur temps dans les spéculations géolo-
+giques, bien que d’autres tentatives aient été faites
+d'utiliser les constantes de radiation des corps radioactifs,
+ou pour des âges plus récents, la recherche des sédiments
+alternés ou varves des alluvions glaciaires. Mais une
+autre géologie a tendance à se constituer, qui cherche à
+déterminer les conditions de formation des sols dans
+lesquels on se bornait jusqu'ici à doser les constituants
+ou à chercher quelques traces de vie, sans se demander
+s’ils représentent un état primitif.ou un état transformé,
+C’est souvent en apparence une géologie très superfi-
+cielle, puisqu'on ne peut l’observer qu’en surface, quand
+même les climats, les saisons ou une cause étrangère
+comme le Nil dans le désert Libyque, ne viennent pas
+rendre les observations extrêmement difficiles. Les
+effets des actions extérieures sont infiniment complexes,
+et il faudra longtemps encore analyser les facteurs du
+milieu qui conditionnent la sédimentation,
+
+C’est cependant la pratique de ces recherches qui
+
+amènera la chimie à définir les milieux où se sont formés
+ces dépôts que nous observons aujourd’hui, et leurs trans-
+formations ultérieures.
+
+Les pentes sud-ouest de notre Massif Central, par
+exemple, exposées depuis si longtemps aux pluies venues
+de l'Atlantique, sont constituées par des surfaces aux
+formes très adoucies de granites, de gneiss, encadrées
+par des schistes à séricites et coupées par des dykes de
+roches, tantôt métamorphiques, tantôt nettement vol-
+caniques. [1 semblerait qu'il soit impossible de trouver
+un plus merveilleux ensemble de conditions pour étudier
+les phénomènes d’altération des roches et les innom-
+brables variétés de kaolins et d’argiles qui s’étagent sur
+leurs pentes entre le plateau de Millevaches et les bords
+de FOcéan. On rattache les kaolins à des roches à orthoses,
+mais on ignore à quelles actions ou quelles origines
+il faut attribuer les différentes variétés d’argiles, depuis
+les formes cristallines jusqu'aux formes colloïdales qui
+jonchent les pentes ou tapissent les creux des vallées.
+Merril a tenté ce travail pour FKmérique du Nord tem-
+pérée et le plus curieux résultat qu'il a obtenu est que
+dans les gneiss, toute la chaux disparaît, alors que les
+diabases et les granites en perdgnt seulement le quart.
+
+On ne peut encore tirer awcune conclusion de ces
+résultats; les feldspaths ont rarement un caractère
+chimique défini; riches en inclusions, altérés plus ou
+moins, 1ls donnent des solutions dont le pEl, très variable,
+n'a jamais été observé.
+
+Les régions tropicales et subtropicales présentent une
+autre transformation qui s'apparente avec celle des
+feldspaths en kaolins, mais dans ce cas la molécule
+silicatée est désagrégée complètement, tous les éléments
+du feldspath sont libérés, le résidu est un mélange
+d’alumine et d’oxydes de fer.
+
+On peut être amené à considérer le même problème
+dans les terres situées dans les régions tempérées et
+tropicales, dans les steppes et les déserts.
+
+Les géographes, et à leur tête M. de Martonne, ont
+étudié les caractères du relief et les réseaux fluviaux
+de ceux-ci. De Martonne () a rapproché des variations
+de ce réseau les valeurs de l'indice d’aridité (?}. Ce coel-
+ficient représente la valeur du rapport des précipitations
+
+1, DE MaRTONNE et AUFRÈRE. L'eriension des régions privées
+d'écoulement vers l'Océan. Publ. n° 3 de l'Union géographique inter-
+nationale, Paris 1928.
+
+2, Indice d'aridité:
+
+P
+© T +10
+
+Pour les régions arides, P est la quantité de chaleur à fournir pour
+l'évaporation, T est là différence des températures avant et après
+l'évaporation.
+
+L'indice d'aridité pourrait donc récevoir une forme plus ration-
+nelle; on pourrait en isoler la chaleur d'évaporation de l’eau et ramener
+la formule de de Martonne à une équation de transmission de chaleur
+ou de rayonnement.
+
+Ar
+
+
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires
+d’eau à la température moyenne rapportée à un zéro
+arbitraire placé à — 100, Un certain nombre de points
+sont particulièrement intéressants dans ces régions
+privées d’écoulement (régions aréiques de de Martonne)
+où l'indice d’aridité est en général inférieur à 5. C’est
+le cas, entre beaucoup d’autres, de la région des chotts
+algériens, du Djouf du Sahara, entourés de mers chaudes
+et balayés par un vent à degré de saturation décroissant ;
+c’est le cas de la Libye traversée par le Nil, de la région
+saharienne traversée par le Niger Soninké, et aussi du bas-
+sin de la Caspienne, si complexe, entre [a région de la
+Volga et celle du Karaboghaz (1!) où les eaux d’une
+immense région, du Pamir à l’Altai, par voie superfi-
+cielle ou souterraine, viennent se concentrer après avoir
+suki nombre de précipitations, de doubles décomposi-
+tions tes qu'il ne cristallise que du sel de Glauber
+pur. L'Amérique du Sud présente des régions analogues;
+la pampa argentine est traversée par de nombreux rios
+à débit décr&ssazt, à salinité souvent croissante, qui lui
+sont étrangers (?}. Les uns parviennent jusqu’au Parana :
+ce sont les Rio Teuco-Bermejo et le Pilcomayo. D’autres
+comme le Rio Salado ne l’atteignent qu'après avoir
+perdu par évaporation la plus grande partie de leurs
+eaux, Au sud viennent deux bassins sans écoulement,
+celui des Salinas Grandes et celui du Mar Chiquito
+prolongés par une région riche en salars plus ou moins
+permanents jusqu'au Rio Salado-Rio Colorado qui
+débouche dans l'Atlantique au 40€ parallèle. Plus au
+sud les Rios abondamment fournis d’eau par les Andes
+boisées méridionales traversent des régions aréiques ou
+plutôt séparent des bassins sans écoulement extérieur
+parcourus par de faibles rivières (*) dont les sources
+sont faiblement alimentées par les vents du Pacifique.
+
+Or dans toute cette immense étendue qui depuis
+les frontières péruvienne, bolivienne et paraguayenne,
+s'étend. sur les pentes des sierras précordillériennes, dans
+le « monte », sorte de garrigue moins accidentée que la
+sierra et boisée de légumineuses et de cactées, l’évapo-
+ration rapide de quelques gouttes d’eau donne un résidu
+salin, et aux points les plus bas des dépressions, après que
+toutes les précipitations et cristallisations intermédiaires
+ont pu se faire, on n’obtient que du chlorure de sodium.
+
+Le cycle qui aboutit au Kara Boghaz est très com-
+plexe; les eaux qui se rassemblent dans les chotts algé-
+riens ont pu laver des marnes salifères et gypseuses;
+quant aux dépôts salins du Djouf, ce sont des fossiles
+chimiques récents qui depuis la capture du Niger ne
+recoivent plus aucun apport.
+
+Les sols de l'Amérique du Sud dans la région étudiée,
+sont au contraire assez homogènes; une grande partie
+de la Cordillère est constituée par des épanchements
+
+1, J. Corve. « La Mer saharienne. L'expérience du Turkestan. »
+La Naïure, n° 2919, 15 décembre 1938. ‘
+
+CLARKE. Daia of Geochemisiry, p. 169, donne deux analvses des
+eaux du Karaboghaz: 53 à 50 pour 100 de Cl?: 15 à 16 pour 100 de
+£O#; 12 à 25 pour 100 de Na; 6 à 7 pour 100 de Mg; 0 à 0,57 pour 100
+de Ca. La salinité est de 164 pour mille,
+
+9, J'ai déjà appelé ces rios qui nés sous des climats différents traver-
+sent des régions munies ou dépourvues d'un réseau hydrographique
+propre, rios allogènes.
+
+3. Appelés rios endogènes.
+
+505 ———
+
+
+
+
+
+Fig. 2. — Côte 701 du rerrc Colorado dans des cerros de Quilicura.
+Roches volcaniques en décomposition alvaline.,
+
+AU premier plan, cactées ou quistos.
+
+andésitiques et des conglomérats de même nature, stra-
+üifiés sur des centaines de kilomètres: les alluvions
+fluvio-glaciaires forment le piémont argentin et une
+grande partie du « valle » chilien, le loess de la pampa
+est constitué par des produits pulvérulents provenant
+de l’érosion de cette Cordillère et par des cendres volca-
+niques plus ou moins altérées que les volcans andins
+débitent en quantités considérables, comme si le flanc
+oriental du géosynclinal andin était un four de fusion
+migantesque des roches qu'un déplacement lent vers
+l’est des plis et des axes volcaniques amènerait à la
+fusion.
+
+Si on admet avec Clarke une teneur moyenne de
+0,07 pour 100 de chlore dans les roches volcaniques des
+Andes et un salar de 20 X 20 km et 0 m. 20 d'épaisseur
+de sel {les Salinas Grandes ont trois degrés de long et
+vingt minutes de large et reçoivent les solutions d’au
+moins huit degrés carrés de pays, c’est-à-dire une grande
+partie des provinces de Catamarca et de la Rioja), un
+« salar » de cette dimension contient :
+
+Fig. 3. — Santiago du Chili, dans la plaine alluviate du Valle Central,
+avec deux témoins d'érosion, de nature volcanique, le cerro Santa Lucia
+et le cerro San Cristobal analogues au cerra Blanco,
+
+
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires=== 506
+
+4019 %X 0,008 m° de NaCl
+1019 x 0,008 X 2.26 --
+101: X 0,018 t de NaCl.
+1010 x 0,0107 t de CI.
+
+A raison de 0,7 kg de chlore par tonne de roche,
+cela représente 101° X 1,557 t de roche de densité 2,2
+et en volume 41019 X 0,707 m°,
+
+Ce volume réparti sur la moitié d’une Cordillère de
+80 km de large et de même longueur, soit une surface
+planimétrique de 10% X 0,04 m?, représenterait une
+couche de 4,20 m d'épaisseur. Donc depuis que le lac
+des Salinas Grandes a cessé de déverser ses eaux soit par
+le Rio Desaguadero vers San Luis, soit par le Rio Dulce
+vers Salavina, il aurait suffi de l’érosion et de la décom-
+position de couches de roches d’une faible épaisseur pour
+constituer les accumulations de sel qui jalonnent la
+dépression préandine.
+
+Il ne s’agit pas ici de marquer des traits particuliers
+à l'Amérique du Sud {!},mais plutôt de montrer qu’elle
+présente tout un ensemble de caractères qui ont été
+signalés en des endroits très différents du monde, notam-
+ment dans certains pays de steppes et quis’expliquent
+par une simple réaction des éléments en présence. Il est
+bien connu que les eaux d'irrigation perdent une partie
+de leurs qualités après avoir circulé sur une certaine
+surface de terrain; il est également admis que ces eaux
+s’améliorent et se régénèrent en circulant dans un
+marais tourbeux ou dans des terres à humus. Cepen-
+dant, rien n’est plus frappant pour un méditerranéen
+que de voir au sud de Mendoza les marais bordés de
+plantes xérophiles qui bordent le piémont fluviogla-
+ciaire portant le beau vignoble de Mendoza. Il n’y a
+d’ailleurs pas d'exemple en Amérique du Sud, de vignes
+
+1. On trouvera les caractères particuliers des conditions argentines :
+in CHABANIER, « Buenos Aires et les conditions de la colonisation
+argentine », Annales de Géographie, 15 novembre 1928.
+
+Les relations entre le pH et la flore sont indiquées dans le Bulletin
+de l'Association des Géographes français, 1929 : Les facteurs secondaires
+de l'aridité dans l'Amérique du Sud.
+
+Fig. 4, — Hauie vallée de la Cordillère du Rio Volean
+au-dessus de Saint- Gabriel.
+
+Les eaux sont neutres, au pH 7, comme en France.
+
+
+
+
+
+
+
+
+
+subsistant dans les mêmes terrains sans irrigation, soit
+en plaine, soit en coteau, ce qui amènerait à supposer
+qu’il serait difficile d’établir des vignes sur le Pie Saint
+Loup (*) constitué par des basaltes et sans irrigation.
+Il y a évidemment, dans ces conditions, un facteur pluie
+et un facteur composition du sol qui jouent un grand
+rôle, Des phénomènes analogues se retrouvent en France,
+les eaux qui servent à l'irrigation de la Crau deviennent
+légèrement alcalines, assez pour qu’à l'automne, les
+eaux de l'étang d'Entressen aient, après lessivage des
+sols et cailloux de la Crau, un pH de 8,2, alors que la
+nappe profonde qui coule à 27 m en dessous du seuil
+de Lamanon a un pH de 7,0. Dans la même région
+les eaux de la source de Merveille qui sourdent, entre
+Saint-Chamas et Berre, des calcaires à hippurites du
+Santonien, se sont montrées inaptes à la culture maraf-
+chère et sont utilisées seulement en cas de grande séche-
+resse à l'irrigation de vignes de coteaux; ces eaux ont
+un pH égal à 8,0. Il est à peine nécessaire de rappeler
+que la plupart des terres à blé de l'Argentine et du Chili,
+situées sur des hauteurs (lomas) sont plus ou moins
+exposées au phénomène de la montée alcaline. Hilgard (2),
+sans s'occuper de l’alcalinité, a évalué dans des ter-
+rains analogues de l'Amérique du Nord les quantités
+de sels alcalins que peuvent supporter dans le sol les
+différentes plantes de culture. Pour le blé, en tonnes par
+hectare et pour 1 m 22 de profondeur, cette quantité est
+de 20 à 29t. En Argentine la région du blé est essentiel-
+lement atlantique, elle est conditionnée par les niveaux
+des couches aqueuses temporaires qui dissolvent les
+excès de sels et les évacuent à la mer, par le Rio Salado
+par exemple. Plus à l’est, les quantités de sel augmentent,
+on sait que la luzerne cultivée dans cette zone peut
+résister à des quantités de sel de 15 à 120 t par hectare
+sur la même profondeur de sol. La luzerne Medicago
+satiwa, originaire elle-même des terrains salins et alca-
+lins de la Médie (*), occupe en Argentine une zone inter-
+médiaire aux terres à blé et aux salars. Il est facile de
+vérifier que le pH de ces terres varie considérablement
+entre la période de germination et celle de maturation.
+Bien entendu on peut trouver en Argentine, par suite du
+caractère estival des pluies, des terrains parfaitement
+lavés par une pluie récente; on sait aussi avec quelle
+faveur ces pluies sont accueillies en Argentine, l’accrois-
+sement du grain qui semblait s'arrêter reprend brusque-
+ment et la récolte devient merveilleuse. Il est plus facile
+de suivre ces variations sur le versant pacifique, au Chili,
+où la germination du blé se fait durant un hiver pluvieux
+et la maturation durant un été sec. Au delà de la zone
+des luzernes, les terres sont trop salines pour supporter
+des plantes qui ne seraient pas halophiles ou xérophiles.
+C’est la zone où l’Atriplexz cachiyuyo, l’Atriplex semi-
+baccata fournissent encore un pâturage qui suffit au
+bétail criollo, infiniment moins intéressant toutefois
+que les beaux produits d’élevage de la région de Buenos-
+
+1. Montagne voisine d'Agde, constituée par des basaltes.
+
+2. HizearD. Soils, 1906. ‘
+
+3. Pierre LanuE. Les Zones luzernières, La Nalure, 1934, p, 992.
+Noter le virage de la couleur de la fleur de Medicago faleaia, qui jaune
+
+au printemps, devient bleue l'été, probablement par suite de l'alca-
+linité momentanée du sol.
+
+mm
+
+oo
+
+Droits reservés au Cnam et à ses partenaires0 507
+
+
+
+Aires. Les loess argentins et les dépôts pulvérulents
+analogues,que l’on trouve du côté chilien, sont les produits
+de l'érosion éolienne de la Cordillère, mélangés avec les
+produits de désagrégation d’alluvions fluvio-glaciaires,
+les produits pulvérulents des cienagas et des « volcans »
+de boue mélangés avec des cendres volcaniques que les
+volcans andins produisent parfois en très grande quan-
+tité. Tous ces éléments sont de composition analogue (1),
+moins éoliens et plus volcaniques ou fluvio-glaciaires
+au Chili et surtout moins remaniés. Le sol qu'ils four-
+nissent est un tchernozon de couleur rougeñtre due à
+l’oxyde de fer; à un niveau inférieur le carbonate de
+calcium se précipite, constituant une couche continue
+ou, dans les terrains remaniés et même dans le sous-sol,
+des concrétions ou poupées du loess.
+
+Encoulesco (?) a étudié les variations de caractères
+des tchernozon des loess de Valachie, d’Olténie, de la
+Dobroudja et de la Moldavie en fonction de la quantité
+d’eau de pluie annuelle. Les caractères d’alcalinité
+apparaissent nettement quand les pluies sont inférieures
+à 400 mm. On ne peut guère pousser les comparaisons
+plus loin, car les pluies de Roumanie sont des pluies
+d'hiver, alors qu’en Argentine les pluies sont presque
+totalement estivales. Le niveau calcaire est très carac-
+téristique en Argentine et au Chili; on le trouve commu-
+nément dans les terrains des collines cultivables, lomas,
+non irrigués ; l’alcalinité est très fréquente dans la couche
+supérieure au niveau calcaire, qu'on appelle tosca;
+il est souvent très grossier de texture comme l'indique
+son nom, j'en ai aussi rencontré des exemples très fine-
+ment cristallins et très purs.
+
+Darwin () a depuis longtemps signalé au Chih, la
+formation de dépôts de carbonate de chaux à la surface
+des roches andines, il les expliqua comme un dépôt
+marin, sans soupçonner qu'elles puissent être le résultat
+de la décomposition des roches sous-jacentes. Pendant
+la saison d’été qui au Chill est sèche, sous l’influence
+de la faible quantité d’eau des rosées, les roches andines
+sont corrodées lentement, libérant du chlorure de
+sodium et toute une série de bases provenant des feld-
+spaths calcosodiques qui constituent la plus grande
+partie des roches andines.
+
+Quand arrive la première pluie de l'hiver, les sels
+libérés par les réactions de l'été se mettent en solu-
+tion, et les eaux de pluie que l'on peut recueillir dans
+les esteros ou ruisseaux temporaires sont salines et
+alcalines.
+
+Ces solutions sont tout à fait analogues à celles qui
+circulent lentement en dessous des toscas; le carbonate
+de calcium reste à la surface des roches décomposées,
+à moins qu’entraîné par le vent et les eaux, il se disperse
+
+1. Dœrixc. Las Toscas calcareas i sus aplicaciones. Bull, Ac, de Sc.
+de Cordoba, t, XIII, p. 205. On y trouve un grand nombre d'analyses
+de Toscas argentines.
+
+9. Annales scientifiques de l'Acad. des Hauïes Études agron. de
+Budapest, 1929. Voir La Nature, 1930, 2° sem. Voir en outre, dans
+CLARKE, Data of Geochemistry, p. 174, les analyses des eaux du lac
+Sarat, en Roumanie. CI, 28 pour 100; SO, 87 pour 100; Na
+32 pour 100: Ca 0,4 pour 100 ; Mg, 2 pour 100.
+
+3. Relation du Voyage du Beagle. Santiago du Chili, 1906. Clarke
+ne cite pas d'analyses de dépôts de calcite de ce genre. -
+
+ro
+
+
+
+
+
+
+
+Fig. 5. — Toit dénudé d'une coulée de lave andésilique dans la vallée
+du Colorado: au premier rang quiseos dont les sues cellulaires ontun
+pH 7 dans des ierrains à pH 8,4.
+
+dans le loess. J'ai montré dans une revue chilienne (1)
+que l’on pouvait reproduire cette réaction dans un tube
+à essai, ni plus ni moins qu'une réaction chimique de
+laboratoire. Par quel hasard une réaction minéralo-
+gique peut-elle être rendue perceptible, alors qu'il est
+admis que le facteur le plus puissant des réactions géolo-
+giques est le facteur temps, cela vient évidemment du
+fait que la réaction d’hydrolyse qui libère tous les élé-
+ments des silicates calcosodiques libère de la soude
+caustique qui peut être décelée par les méthodes de
+détermination du pH. La simple condition préalahle
+à réaliser est de préparer par lavages successifs, des
+suspensions ou des solutions de carbonate de calcium
+et de silicate à mettre en réaction, jusqu’à ce que les
+eaux en présence aient un pH égal à 7. Il suffit alors de
+mélanger les deux solutions en présence de phénolsul-
+fonephtaléine pour voir virer le réactif colorant qui
+indique la mise en liberté de soude. L’alumine reste
+en place, la silice se retrouve parfois assez près de son
+point de libération, l’oxyde de fer est souvent transporté
+à la faveur des rares solutions organiques d’origine végé-
+
+1. Bclelin minero de la Sociedad nacional de Mineria, n° 340, août
+1927, traduite dans Rev. de Géographie physique et géol., t. VI, fase. 2,
+1983.. Voir dans LEGENDRE, La concentration en ions hydrogène de
+l'eau de mer, la liste d'observations antérieures à 1925, en relation
+avec cette réaction. ‘
+
+
+
+Droits reservés au Cnam et à ses partenaires=—— 508
+
+
+
+tale pour se précipiter de nouveau. La chaux se préci-
+pite sur place, prête à provoquer la décomposition des
+roches sous-jacentes.
+
+L'intérêt d’une pareille réaction ressort surtout des
+observations que l’on peut faire sur le terrain. De Lap-
+parent () dans un important travail sur les bauxites,
+admet une réaction de décomposition par hydrolyse
+de composés silico-alumino-calciques (roches volca-
+niques en Amérique, argiles de décalcification dans la
+France méditerranéenne selon lui) On peut déceler
+la production de latérites, ou isoler des éléments non
+décomposés et après lavage convenable vérifier qu'ils
+sont susceptibles de cette réaction. Certaines orthoses
+andines ne suhissent pas cette transformation, les anor-
+thoses par contre la fournissent. Il semble que la forma-
+tion de dépôts d’alumine exige une alternance de climat
+de steppe et d'hiver humide pour que les carbonates
+formés puissent être éliminés par les eaux. Les publica-
+tions égyptiennes d’Audebeau Bey, Aladjem, Scofield
+et Mosséri montrent que l'Egypte est le théâtre de réac-
+tons de ce genre exercées par les eaux carbonatées
+calciques du Nil sur les alluvions silico-calciques {?)
+d’origine volcaniques que les crues d'août du Nil Bleu
+et de septembre de l'Atbara apportent du plateau
+abyssin. Bien qu’Aladjem {) ne cite qu’une seule valeur
+de pH des eaux du Nil, on se rend compte de l’enrichis-
+sement des sols en sels, d’où la nécessité de lessiver
+ces sols qui avaient amené les populations anciennes de
+l'Egypte à une notion toute particulière de l’ordre et de
+la discipline d’état que nous soupçonnons difficilement
+aujourd’hui. Il est évident que la différence entre les pH
+des deux courants d’eau qui circulent dans le canal
+d’amenée des eaux du Nil et le canal d'évacuation per-
+mettrait de se représenter l'intensité des réactions effec-
+tuées. L'étude des sels éliminés suivant un plan que les
+tableaux d'analyse d’'Aladjem nous font entrevoir, per-
+mettrait presque de déterminer les quantités de feldspaths
+décomposés. Si les quantités d’eau dont l'Égypte dispose
+n'étaient pas si grandes, on pourrait presque concevoir
+le Nil dédoublé en deux bras dont un soigneusement
+colmaté transporterait à la mer des eaux salines et
+alcalines assez semblables à celle de ce canal de Farasqor
+près de Damiette que signale Aladjem. La pratique du
+lessivage (‘) des sols a depuis les époques les plus anciennes
+eu pour résultat de colmater les terrains de la valléeet
+de tendre à séparer de plus en plus le Nil superficiel du
+Nil souterrain. L'étude du décalage de la phase d’inon-
+dation dans les sous-sals le laisse soupçonner, il semble
+bien que la séparation des deux nappes soit complète
+dans le delta. Si on tient compte de ce que le débit du
+Nil est voisin de 600 m° sec en mai et de 9180 m' sec.
+en septembre et que les sels dissous sous forme de bicar-
+
+1. Les bauxiles de la France méridionale. Paris, Imp. Nat., 1930.
+
+2. Clarke, p. 501, donne une analyse du limon du Nil, d'après
+€. V. John. Verhendl. K. k. geol. Reichsanstalt, 1896 :
+
+SiO?, 45,10: M°Of, 15,95; FeOf, 13,25; MgO, 2,64; CaO, 4,85;
+K?20, 1,95; Na°O, 0,85; M?O—., 6,70; H?O +, 8,84.
+
+3. ALADJEM. Eaux d'irrigation d'Égypte. Terre, Air et Mer, sep-
+tembre-octobre 1933.
+
+4. AUDEBEAU BEv. Les irrigations dans le monde antique, Revue
+générale des Sciences, mai 1932.
+
+
+
+
+
+bonates sont en diminution à la période de crue, on
+admettra que le Nil transporte lentement, avec des
+arrêts dus à des précipitations par évaporation, les
+carbonates de chaux. Il doit donc se faire dans le sous-sol
+de l'Égypte cultivée et surtout du Delta des modifica-
+tions que l’on pourrait presque calculer si on connais-
+sait le débit du Nil souterrain. Si on peut attribuer en
+partie au poids des produits d’érosion des Andes l’affais-
+sement lent du sol des pampas argentines, ‘il est diffi-
+cile d'attribuer à une cause analogue la situation
+à 20 m en dessous du niveau de la vallée du Nil du
+gîte Villafranchien d’ossements d’ÆElephas meridionalis,
+d’hippopotame et d’antilope à Khartoum, la situation
+inférieure du Saintpriestien de Ouadi Halfa en Nubie,
+ou des ossements de la tombe d’Ensineh provenant d’un
+gîte d’Antacopolis disparu (1).
+
+L'hypothèse d'un affaissement du sol de la vallée
+égyptienne par dissolution et décomposition des élé-
+ments à silicates calcosodiques, qui comblent en partie
+la vallée quaternaire, pourrait expliquer l’abaissement
+lent de Ja surface du sol du delta que les hypogées
+romains d'Alexandrie, les ruines égyptiennes du lac
+Borollos mettent en évidence. Joleaud, sans conclure
+dans ce sens, note que la salinité des eaux du Delta est
+due aux apports du fleuve el non à une progression
+marine, et signale que la nappe du Nil souterrain a été
+reconnue au sondage de Bahr el Mandourah en dessous
+d’une couche d'argile de 0,50 à 3 m d'épaisseur. Il est
+évident que ces eaux transportent du carbonate de
+calcium, produit de la décomposition des silicates calca-
+sodiques des limons éthiopiens sous la couche colmatée
+qui sépare le Nil inférieur du Nil supérieur. Cette hypo-
+thèse réduirait à une très faible valeur celle d’un soulà-
+vement de la région de l'isthme, rendue nécessaire,
+puisque aux époques anciennes la partie située au nord
+et à l’ouest du seuil du Sérapeum recevait les eaux de
+crue du Nil par l'intermédiaire de l’oued Tumeilah
+et que le lac Timsah (lac des crocodiles) était un lac
+d’eau douce. Il est possible, en maintenant une nappe
+d’eau douce dans le sous-sol de terrains contigus à la
+mer, de réaliser les cultures les plus difficiles au point
+de vue du pl. Il existe sur les bords de l’étang de Berre,
+à la sortie du Vallon de Vélaux, près de Rognac, une
+vigne, dont la nappe souterraine d’eau douce à pH 6,9
+se superpose certainement à la nappe souterraine de
+l’eau salée de l'étang à pH supérieur & 8,
+
+On observe des phénomènes analogues en Argentine.
+Les nombreux sondages pratiqués dans ce pays ont fait
+ressortir le caractère de région d’affaissement de la
+région pampéenne entre les Andes et le massif brési-
+lien. Les nappes d’eau qui circulent dans le sous-sol
+ont effectué un lent travail de décomposition analogue
+à celui du Nil souterrain, mais iei les carbonates de
+chaux ne sont pas déplacés et entraînés par les eaux
+abondamment renouvelées, il se forme des mélanges
+complexes de marnes et d’argiles et les eaux qui sourdent
+des coûteux sondages sont le plus souvent tellement
+salines et alcalines qu’elle sont inaptes à arroser les
+
+1. JozxauD. Progrès récents de nos connaissances sur la préhis-
+toire de l'Égypte, Revue générale des Sciences, 1933.
+
+
+
+
+
+Droits reservés au Cnam et à ses partenaires
+terres dont elles seraient l'unique espoir. A l’ouest de la
+zone des haciendas de la région de Buenos-Aires, mer-
+veilles d'industrie moderne et résurrection des villas
+romaines antiques, un système de culture du blé et de la
+luzerne s’est établi qui a soulevé les critiques des éco-
+nomistes et des hommes d'état argentins. Les agricul-
+teurs que l’on accuse « d’absentéisme » effectuaient
+leurs opérations de semaille et de récolte en de rapides
+voyages, grâce à un outillage très moderne, sans se préoc-
+cuper de l'adaptation de la vie humaine à leur terre
+inhabitée. Seule une rare population de gauchos sem-
+blait pouvoir subsister sur ces immenses surfaces où
+une alimentation limitée au blé et à la viande, sans fruits
+
+509 ===
+du Rio Bermejo dans le nord argentin sont bien diffé”
+rents, l'absence de drainage des solutions salines par les
+pluies, la saturation des sols en matières salines empêche
+des cultures que le climat sensiblement plus humide
+que ceux de Catamarca et de Cordoba favoriserait
+beaucoup plus que ne peut le faire celui du Niger saharien
+ou du Nil libyque égyptien. De Martonne (1) a noté le
+contraste frappant qui existe entre l’aréisme de ces
+régions et l'importance relative des pluies d'été. « La
+faiblesse des pentes, dit-il, et la perméabilité du sol ont
+déterminé l’extension de l’aréisme en dehors de ses.
+limites chmatiques moyennes. » [1 semble que le Pileo-
+mayo ne pourrait pas fournir les eaux nécessaires pour
+
+
+
+ni légumes, répugne aux estomacs européens. Cependant
+cette zone et encore plus celle de l’Atriplez cachiyuyo,
+pourraient être améliorées et fournir des produits maraî-
+chers (chacrareros) nécessaires pour une population
+européenne ou argentine. Le problème est, au point de
+vue agronomique, plus facile à résoudre que l'irrigation
+des régions sahariennes du Niger moyen. Pour ce pays,
+les nappes d’eau usées s’élimineront probablement
+vers la dépression centrale du Djouf, surtout parce que
+les quantités d’eau à mettre en œuvre doivent assurer
+l'irrigation. Le canal qui part du barrage de Diamara-
+bougou doit avec 750 m° d’eau par seconde assurer les
+besoins d’une culture de coton sur 10000 km?. Les
+besoins des territoires argentins qui bordent la rive gauche
+
+Fig. 6. — Cordillère des Andes, vue de Santiago.
+Au premier plan, le cerro San Cristobal (andésites et conglomérats andésitiques en voie de décomposition alcaline),
+au fond la haute Cordillère. Cerro funcal, 6000 m, Nevado del Plomo, éte.
+
+effectuer un lessivage suffisant des sols; le Rio Grande
+ou Rio Guapay qui sort plus au nord de la Bolivie monta-
+gneuse à 450 m d'altitude pourrait fournir celles-
+ci (?)} Un canal de débit relativement faible pour-
+rait lessiver avec 20 m° d’eau par seconde 4200 km?
+par an et en dix ans une bande de 100 km au sud du
+Rio Bermejo; il est bien évident que ce dispositif de les-
+sivage devrait être accompagné d’un dispositif d’éva-
+cuation des eaux salines qui pourrait être provisoirement
+le centre de la région sans écoulement qui est au sud du
+Bermejo, ou plutôt un canal d'évacuation vers le Parana.
+
+1. L'extension des régions privées d'écoulement, p. 48.
+2. E. CHABANIER. Sur des pensers nouveaux... Revue de l'Amérique
+latine, octobre-décembre 1932.
+
+a LE IIS
+
+a
+
+
+
+Droits reservés au Cnam et à ses partenaires
+= IIS". —
+
+Il est à peine nécessaire de faire ressortir l'impor-
+tance des modifications que le lessivage des sols
+peut introduire dans la vie des peuples des régions
+steppiques. Alors que l'Argentine rêvait en 1900 de
+devenir une contrée de peuplement, en 1915-20, elle
+concevait déjà la nécessité de cultiver et surtout de
+moissonner au moyen d’une main-d'œuvre étrangère,
+en général italienne, qui traversait chaque année l’Atlan.
+tique. Il est évident que si les travailleurs italiens avaient
+pu concevoir la possibilité de s'établir en Argentine,
+il n’y aurait pas eu de règlement administratif capable
+de les faire retourner en Italie.
+
+Le développement du machinisme avait ensuite
+transformé l'Argentine en une gigantesque fabrique
+d'hydrates de carbone : blé, orge, maïs, sucre. Les bes-
+tiaux consommateurs de celluloses se spécialisaient
+bientôt en fixateurs d’azote et l'Argentine était devenue
+le partisan le plus enthousiaste et le plus convaincu de
+l’extrapolation économique chère aux Américains du
+Nord. Elle constituait un édifice unique parmi les nations
+civilisées et sa sécurité ne pouvait s'expliquer que par
+
+ses défenses naturelles : la mer,la Cordillère et le Chaco
+torride et marécageux. À côté du gigantesque organisme
+qu'est la région de Buenos Aires, l'Argentine ne possède
+cependant qu’une très faible proportion de véritables
+agriculteurs, malgré l'importance de son exportation
+agricole. Une modification dans les conditions de vie
+de la pampa pourrait transformer celle-ci en une région
+de peuplement et pourrait fournir une solution aux
+problèmes que pose l’aménagement du Chaco, en four-
+missant rapidement une population adaptée qui n’existe
+pas encore pour sa mise en valeur. Il est probable que
+ces mêmes avantages seront la récompense des grands
+travaux exécutés dans la région du Niger saharien,
+avec la seule différence que la France peut absorber le
+coton qui y sera produit. Il en serait de même en Égypte
+si sous l'influence des conditions actuelles, la culture
+industrielle était réduite quelque peu pour être remplacée
+par des cultures d’alimentation générale qui pourraient
+contribuer à constituer une très puissante population
+dans la région du Delta jusqu’au voisinage du Canal.
+E. CHABANIER,

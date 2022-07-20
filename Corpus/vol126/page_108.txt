@@ -1,0 +1,1324 @@
+Fig. 8-4, — Étude d'une poutre cantilever. La charge unique est en P.
+
+3. Distribution des tensions le long des rives externes des membrures inférieure et supérieure de la poutre.
+4. Distribution des tensions le long des rives internes le long des membrures inférieure et postérieure.
+
+théorie mathématique de l’élasticité — relativement
+récente — donne une réponse exacte au problème de la
+distribution des efforts internes. Tous ceux qui ont étudié
+la résistance des matériaux savent combien laborieux
+sont les calculs des tensions internes. Cette branche de la
+belle science que sont les mathématiques exige de grandes
+connaissances et de longs développements. Tous les
+ingénieurs n’ont pas toujours le temps nécessaire pour s'y
+consacrer. De plus il y a des cas où il est impossible de
+poser avec exactitude le problème. On est alors réduit à
+des hypothèses simplificatrices et pour être sûr de s’en
+
+Fig. 5. — Gourbes isostatiques (les deux systèmes orthogonaux à droile)
+el isoclines (à gauche), dans un mur de fondation en béton.
+
+ 
+
+tirer on multiplie les résultats obtenus par le coefficient
+6, 8 et même 10.
+
+Ainsi donc la théorie de l’élasticité est souvent impuis-
+sante à résoudre le problème qui nous concerne. Il ne
+reste plus à l'ingénieur qu’à demander à des études expé-
+rimentales — valables seulement pour le cas étudié —
+la distribution des tensions internes.
+
+LES PRINCIPES DE LA PHOTO-ÉLASTICIMÉTRIE
+
+C’est pour tourner ces nombreuses difficultés que fut
+étudiée la photo-élasticimétrie. Cette méthode permet la
+
+Fig. 6. — Demi-coupe verticale du mur précédent.
+
+À, B, C, courbes des contraintes principales tangentes au contour
+. a, b,c.
+D, E, F, G, courbes des 2? contraintes principales le long
+de la section b 6,
+
+       
+
+Droits reservés au Cnam et à ses partenairesFig. 7. — Cas d'un effori de freliage.
+
+détermination optique des tensions internes, ainsi que son
+nom l'indique. |
+
+Voici le point de départ de la méthode : le verre est
+une substance isotrope qui au point de vue optique se
+comporte sous l’action des compressions comme un cristal
+uniaxe, l’axe optique ayant la direction de la compres-
+sion, Le verre primitivement isotrope est devenu ani-
+sotrope sous l’action d’une compression, et 1l présente la
+symétrie autour de l’axe défini précédemment. Ce phéno-
+mène commun du reste à tous les corps isotropes fut
+constaté en 1813 par Seebeck. Brewster l'étudia 3 ans
+plus tard. Soumettant un bloc de verre à la compression
+on constate la naissance d’une double réfraction et si
+l’on examine le bloc de verre à la lumière polarisée entre
+deux nicols croisés on aperçoit des couleurs d’interférence.
+Ainsi, de la valeur de la biréfringence, on pourra
+déduire directement la pression à laquelle est soumis le
+bloc de verre. Actuellement on utilise pour mesurer la
+contraction deux nicols croisés entre lesquels on place
+l'échantillon. Pour obtenir des franges d’interférence
+d'intensité maximum on s'arrange pour que l’une des
+
+=
+in
+
+directions principales de la pièce fasse un angle © —-
+
+4
+
+avec la direction des vibrations de la lumière polarisée,
+Pour mesurer la différence des chemins optiques on
+
+Fig. 9, — Cas précédent lorsque la force langentielle atieint
+‘ sa plus grande valeur,
+
+ 
+
+compare les couleurs d’interférence à une échelle des
+couleurs de Newton et on en déduit la différence cherchée
+soit par estimation, soit par lecture directe sur un coin de
+quartz gradué. Connaissant la différence des chemins
+optiques (d) on en déduit de suite la biréfringence d'après
+la relation
+D, = d={(n, — n.)e
+
+où Dn désigne la biréfringence, e l'épaisseur du verre
+traverse et n, et n. les indices de réfraction des vibrations
+dans deux directions oy et oz rectangulaires.
+
+On peut donc de d déduire la force de compression F,
+car l'expérience montre que n, — n, est proportionnel à
+la pression p, c’est-à-dire à & où F désigne la force agis-
+
+sante et S la surface de l'échantillon. On a S= el.
+
+D'où : dS=(n —n)je= K+
+
+|
+
+Ceci montre en outre que la différence de marche est
+
+indépendante de l'épaisseur et n’est fonction que de 7
+
+c’est-à-dire de la force par unité de longueur.
+
+ 
+
+Fig. 8. — Cas d'un efjort de fretiage et d'une force langenlielle
+sur une dent.
+
+Brewster vit fort bien combien son étude était inté-
+ressante. Îl émit même l’idée que l’on pourrait utiliser
+les résultats précédents pour étudier les efforts internes
+de pièces de maçonnerie, en opérant sur des modèles en
+verre, Îl y a environ trente ans M. Mesnager, ancien
+directeur du Laboratoire des Ponts et Chaussées, reprit
+l’idée de Brewster. Il tenta l’expérience suivante : ilfit
+construire en verre un pont à arc, reproduction du pont
+à construire et il étudia optiquement la distribution des
+contraintes élastiques. En vingt jours son étude était
+terminée. Il avait d’autre part confié aux bureaux
+d’études le soin de faire les calculs d’après la théorie de
+la résistance des matériaux. Cette étude basée sur des
+hypothèses simplificatrices et arbitraires avait demandé
+des calculs pénibles, un temps considérable et n’apportait
+pas la certitude que les résultats trouvés correspondissent
+à la réalité.
+
+Ce simple exemple suffit, croyons-nous, à démontrer
+le rôle de plus en plus important qu'est appelé à jouer la
+
+Droits reservés au Cnam et à ses partenairesphoto-élasticimétrie dans la pratique. En effet elle permet
+d’abord d’avoir une idée exacte et immédiate des con-
+traintes internes, ensuite de contrôler les calculs faits
+par les mathématiciens.
+
+LE MÉCANISME DE L'EXPERIMENTATION
+
+Avant d'indiquer les différentes méthodes utilisées
+maintenant, nous allons rappeler brièvement — 1l n’est
+pas question d'entrer dans les détails des calculs, ce qui
+nous entraînerait trop loin — quelques lois fondamentales.
+
+Considérons une pièce à fibre moyenne, plane et sou-
+mise à la flexion. Supposons en outre que cette pièce soit
+transparente. Considérons ‘un point O de cette pièce et
+faisons tomber en ce point un rayon lumineux. D’après
+ce qui précède la pièce est anisotrope et 1l se produit une
+double réfraction accidentelle. L'étude expérimentale
+des rayons ordinaire et extraordinaire a montré que les
+plans de polarisation de ces rayons sont les plans isosta-
+
+ 
+
+Fig. 11, — Direction el grandeur des tensions ou compressions élastiques
+le long de À B.
+p == tension.
+q = compression.
+
+tiques de Lamé () au point O et que la différence de
+marche optique entre les deux rayons lumineux ordi-
+naire et extraordinaire est proportionnelle à la diffé-
+rence algébrique des deux contraintes principales et à
+l'épaisseur de la lame,
+
+Examinons maintenant entre 2 nicols croisés et en
+lumière rectiligne monochromatique la lame précédente
+soumise à certaines forces. Chaque fois que la différence
+de chemin optique entre les rayons ordinaire et extra-
+ordinaire sera nulle, l’image donnée par l’analyseur
+s’éteindra. Ceci aura évidemment lieu en chaque point
+de la pièce où les contraintes principales sont égales.
+Nous obtiendrons ainsi dans la pièce une ligne noire qui
+
+montrera — au sens exact du mot — la ligne neutre.
+
+1, D'une façon générale les plans isostatiques de Lamé en un point O
+de la pièce sont deux plans orthogonaux entre eux et perpendiculaires
+au plan de symétrie de la pièce. Sur ces plans les contraintes passent
+per leurs valeurs extrêmes. ‘
+
+Les contraintes tangentielles sont nulles.
+
+Les contraintes normales sont maxima sur un plan, minima
+sur l'autre.
+
+103 ==
+
+ 
+
+Fig, 10. — Les deux réseaux de lignes isoslaliques.
+
+[Il y aura encore extinction en tous les points de la
+pièce pour lesquels les plans isostatiques de Lamé sont
+parallèles aux plans de polarisation des nicols. Donc le
+lieu des points de la pièce pour lesquels le dièdre des plans
+de Lamé coïncide avec le dièdre des plans de polarisation
+apparaîtra en noir. Comme alors les directions des con-
+traintes principales restent parallèles à deux directions
+rectangulaires fixes, elles font toujours le même angle avec
+une direction fixe quelconque : aussi appelle-t-on les :
+courbes précédentes des isoclines. De ce qui précède il
+résulte immédiatement que, lorsque l’on fait tourner les
+nicols croisés d’un angle de 909, la courbe isocline balaye
+toute la pièce étudiée.
+
+Recommençons l’expérience précédente mais en utili-
+sant de la lumière blanche et non plus une lumière mono-
+chromatique, Par suite de la différence des contraintes
+principales on obtient outre la ligne noire précédente des
+lignes de couleur appelées isochromes. Nous voyons donc
+apparaître deux familles de lignes :
+
+19 Les isoclines noires qui dépendent de la direction
+des contraintes principales.
+
+29 Les isochromes qui dépendent seulement de la diffé-
+rence des contraintes principales. Remarquons en passant
+que la ligne noire n’est autre qu’une isochrome pour
+laquelle la différence des contraintes principales est nulle.
+
+Dans certaines expériences il y a intérêt à faire dispa-
+raître les isoclines. On peut y arriver de plusieurs façons.
+
+Fig. 12. — Disiribution des contraintes le long des sections radiales
+À À', B B'
+
+ 
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesSignalons celle qui consiste à faire tourner très rapide-
+ment l’ensemble analyseur-polariseur. On comprendra de
+suite ce qui se passe en se reportant à ce qui a été dit plus
+haut. En effet les isochromes sont, avons-nous dit, fonction
+de la différence des contraintes principales tandis qu’elles
+sont indépendantes des directions de ces contraintes. La
+rotation des nicols n'intervient pas sur les isochromes
+tandis qu’au contraire l'isocline initiale — c’est-à-dire
+celle que l'observateur observait, le système analyseur-
+polariseur étant fixe — occupera toutes les places pos-
+sibles dans:son faisceau. Nous avons une déformation
+continue de l’isocline initiale et la période de cette défor-
+mation correspond au temps mis par les nicols pour tourner
+T . . "
+de —- Mais si l’on imprime aux nicols un mouvement
+
+2
+de rotation suffisamment rapide pour que défilent devant
+l'observateur plus de 16 isoclines par seconde, par suite
+de la persistance des impressions lumineuses l’observa-
+teur n’'observera plus les isoclines séparées. Autrement
+dit il verra les isochromes sur fond gris.
+
+On arrive aussi à la suppression des isoclines par inter-
+position entre le polariseur et l’analyseur d’une lame
+quart d'onde {?) dont les axes sont inclinés à 459 sur le
+plan du polariseur. La différence de marche optique est
+proportionnelle à la différence des contraintes principales,
+ce qui fait que la lumière polarisée elliptiquement se
+rapproche d’autant plus du cercle initial que la différence
+des contraintes principales est petite. Si nous recevons
+
+1. On n'a ainsi qu'approximativement une lumière circulaire. En effet
+une lame quart d'onde ne répond à sa définition que pour une radiation
+bien déterminée. Pour celle-ci la lumière est polarisée circulairement
+tandis que pour les autres radiations le faisceau est polarisé elliptique-
+ment. L'approximation est du reste suffisante.
+
+Fig. 13. — Appareil de compression ulilisé dans le laboratoire
+de pholoélasticimétrie de l'Instilul d'optique.
+
+ 
+
+ 
+
+ 
+
+LE =
+
+le faisceau lumineux sur une seconde lame quart d’onde
+ayant ses axes orthogonaux aux axes homologues de la
+première la lumière elliptique reste elliptique. Seuls les
+rayons qui avaient traversé sans changement la lame
+étudiée se trouvent polarisés rectilignement dans une
+direction fixe. Il n’y aura jamais extinction complète
+pour les autres rayons. Nous comprenons alors que sur
+l’image fournie par l’analyseur nous trouvons les iso-
+chromes. Il ne reste qu'une seule ligne noire visible,
+celle qui est fournie par l’axe neutre. Mais, comme nous
+l'avons fait remarquer plus haut, cette ligne noire fait
+partie du faisceau des isochromes. Les isoclines ont donc
+disparu. MM. Coker et Kimball ont réalisé un appareil
+pour appliquer cette méthode.
+
+Une objection naturelle est celle-ci : Pourquoi cette
+méthode n'est-elle pas plus connue et pourquoi n'est-elle
+pas sytématiquement employée pour la résolution des
+problèmes de construction ? Nous avons dit au début de
+cet article que la photo-élasticimétrie était récente. C’est
+pourquoi elle est encore peu connue et c’est aussi la raison
+pour laquelle on ne peut pas encore l'appliquer à la réso-
+lution de tous les problèmes. Elle est utilisée dans l’étude
+des problèmes d’élasticité à deux dimensions (1)
+
+Dans ces problèmes on peut employer la photo-élasti-
+cimétrie parce que les tensions et compressions internes
+sont indépendantes des coefficients d’élasticité. (Il ne
+faut pas évidemment que les forces appliquées soient
+des fonctions de ces coefficients.) On peut donc remplacer
+une pièce par une autre pièce identique, homogène et
+isotrope. On pourrait craindre que les forces appliquées
+sur la pièce réelle provoquent la rupture du modèle de
+verre. Cette objection n'est pas valable, car par suite
+du « principe de superposition » on peut réduire dans un
+rapport À toutes les forces qui agissent sur la pièce origi-
+nale. Les forces appliquées au modèle transparent seront
+donc k fois moindres. La distribution des contraintes
+intérieures — si l’on a pris soin de ne modifier que l’inten-
+sité des forces appliquées sans changer ni leur direction
+ni leurs points d'application — ne sera pas changée. Seule
+l'intensité aura varié dans le même rapport k.
+
+LES DIVERSES MÉTHODES
+DE PHOTO-ELASTICIMETRIE
+
+La photo-élasticimétrie a rapidement attiré les expéri-
+mentateurs. De là diverses méthodes dues à MM. Mesnager,
+Fabry, Pilon, Favre, Coker, Il nous a paru intéressant
+de comparer ces méthodes si brièvement que ce soit.
+
+Nous avons parlé de modèles en verre. Il est bon de
+rappeler que le verre n’est pas la seule matière isotrope.
+C’est pourquoi les auteurs cités ci-dessus utilisèrent des
+modèles en verre, en poloppas, en xylonite, en bakelite.
+
+Pourquoi ces 5 méthodes ? Sans entrer dans aucun
+calcul rappelons que la détermination des contraintes
+intérieures demande la connaissance de 3 grandeurs. Dans
+chacune des méthodes indiquées 2 des grandeurs mesurées
+sont les mêmes : la différence relative de marche des
+
+1. Les problèmes d'élasticité à 2 dimensions sont ceux dans lesquels
+le solide étudié est un cylindre limite à 2? sections droites. En outre les
+charges extérieures appliquées au corps sont parallèles au plan de
+
+section droite du cylindre et réparties uniformément le long de chaque
+génératrice.
+
+ 
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesdeux rayons polarisés et l’azimut d’une tension
+principale. Par contre, chacun des auteurs me-
+surait soit une troisième grandeur différente,
+soit différemment cette troisième grandeur.
+M. Mesnager mesurait la variation de l’épais-
+seur du modèle, MM. Pilon et Coker font une
+intégration graphique. Mais tandis que le pre-
+mier fait son intégration le long des isoclines,
+le second intègre le long des parallèles aux
+axes d’un trièdre trirectangle, Enfin MM. Favre
+et Ch. Fabry mesurent la variation absolue de
+marche d’un rayon polarisé traversant la
+pièce étudiée parallèlement à l’une des ten-
+sions principales. M. Favre utilise un inter-
+féromètre et M. Ch. Fabry se sert des franges de
+lames argentées produites par le modèle lui-
+même que l’on argente quand il le faut.
+
+Cinq méthodes! La meilleure? Celle qui
+existe? Mais elles sont appliquées toutes les
+cinq! Quelles conditions doit réaliser une mé-
+thode, quelle que soit la branche de la science à
+laquelle elle s'adresse ? Elle doit être simple et
+précise. En ce qui nous concerne les méthodes
+doivent tenir compte de la difficulté qu'il y
+a à construire et surtout à retoucher un mo-
+dèle de la pièce étudiée. Les méthodes doivent en outre
+donner les contraintes internes avec une bonne précision.
+
+(Cette précision doit être supérieure à celle donnée par
+
+les mathématiques.) Aucune des cinq méthôdes indi-
+quées ne remplit ces deux conditions et l’on est tenté de
+dire que les deux conditions demandées sont incompa-
+tibles.… dans l’état actuel de nos connaissances, du moins.
+
+Les trois premières méthodes sont peu précises. Par
+contre, il est facile de faire et de retoucher des modèles en
+bakelte, pollopas, xylonite.
+
+Les méthodes purement optiques donnent une précision
+de beaucoup supérieure à celle obtenue par les trois autres
+mais l’utilisation de modèles en verre est très désagréable.
+
+Que faire alors pour arriver à un bon résultat? M. Favre
+
+conseille l'emploi de deux méthodes combinées : construire
+un modèle en bakelite, pollopas, xylonite, l’étudier par
+une méthode optico-mécanique ou une méthode optico-
+graphique de façon à avoir une représentation grossière
+de la répartition des tensions internes.’ Par retouches
+successives du modèle (retouches faciles par suite de sa
+composition) on arrivera .à une solution satisfaisante.
+Appliquant alors une méthode purement optique et en
+utilisant un modèle de verre, obtenu d’après le modèle
+précédemment retouché, on pourra mesurer avec une
+grande précision la valeur des tensions internes. On
+pourrait objecter que la combinaison de deux méthodes
+entraînerait une dépense considérable. M. Favre estime
+qu’il faut prévoir pour l'installation de deux méthodes un
+supplément de frais de 15 pour 100 sur la première.
+
+Après avoir lu toutes les restrictions qui précèdent,
+on pourra se demander si la photo-élasticimétrie est vrai-
+ment une méthode d’avenir. Nous croyons pouvoir
+répondre affirmativement. Certes, si l'on sait résoudre un
+nombre important de problèmes à deux dimensions, iln’en
+est pas de même pour l’élasticité à trois dimensions. On sait
+
+ 
+
+105
+
+|
+
+ 
+
+Fig. 14. — Phoioélaslicimètre Jobin-Yvon utilisé dans le laboratoire
+de phoioélasticimélrie de l'Institut d'oplique.
+
+déjà dans ce dernier domaine étudier des plaques planes,
+des coupoles, des pièces sollicitées à la torsion. On se rend
+compte de l'intérêt que présenterait pour l'ingénieur la
+mise au point d’une méthode permettant la résolution
+des problèmes les plus généraux tels que (pour fixer les
+idées) la détermination des contraintes dans les poutres
+principales des ponts aux points d'encastrement des entre-
+toises, dans les barrages, etc.
+
+Déjà la question est à l'étude. M. Favre a proposé la
+construction de modèle en verre de Pockels (1) à l'exception
+d’un petit espace entourant chaque point où l’on veut
+étudier la répartition des tensions. Dans ce petit espace
+M. Favre propose d’encastrer un petit bloc de verre qui
+par compression du modèle deviendrait biréfringent.
+Ajoutons que d’après M. Favre l'élaboration d’une mé-
+thode et son application sont relativement faciles. La plus
+urosse difficulté pour la détermination des tensions
+internes en élasticité à trois dimensions réside dans la
+confection des modèles.
+
+Avant de terminer, nous voudrions donner une idée du
+développement de la photo-élasticimétrie. Plusieurs
+industries — la General Electric Company, la Westing-
+house Electric and Manufacturing Company, ete. — uti-
+lisent la photo-élasticimétrie comme moyen d'investiga-
+tion. Plusieurs universités européennes possèdent des
+laboratoires de photo-élasticimétrie.
+
+La France en a un aussi. Il est question de l’agrandir.
+Ce serait à souhaïter ainsi que l’adjonction de laboratoires
+de photo-élasticimétrie aux laboratoires industriels {”}.
+
+R. Morar»o,
+
+1. Pockels a réalisé un verre qui reste isotrope même lorsqu'il est
+soumis à la compression.
+
+2, Nous remercions le « Génie Civil » et la « Revue d'optique » qui
+nous ont autorisé à reproduire les figures qui illustrent cet article.
+
+ 
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires106
+
+ 
+
+ 
+
+LES BORRORO
+
+ 
+
+ 
+
+ 
+
+PASTEURS NOMADES DU TCHAD
+
+Qu'il s’agisse de sommets réputés inaccessibles, de
+lacs perdus au centre des continents, d'îles lointaines,
+où de villes jalousement fermées à la pénétration étran-
+gère, —‘on peut constater qu'il y eut :toujours, essé-
+minés de par le globe, des centres mystérieux d'attraction
+qui ne furent pas sans influencer, à travers les âges, les
+grands mouvements de migrations et civilisations. C’est
+ainsi que le lac Tchad, — qui paraît avoit été connu dès
+Ptolémée et le fut certainement des géographes arabes, —
+exerça une étrange, irrésistible et indiscutable attirance
+sur tous les peuples qui eurent connaissance de son
+existence.
+
+L'homme aime, conduit par son désir avide de connaître,
+à se lancer sur des pistes désertes et périlleuses à la décou-
+verte des lieux inconnus que son imagination se plaît à
+
+ 
+
+Fig, 1. — Panorama du Maiïo-Kebbi pris des hauteurs
+du poste de Léré.
+
+nimber d’un fascinant halo de légende, Au début du
+xvine siècle, si ce n'est dès le xvif, les voyageurs euro-
+péens n’ignoraient pas la présence du lac au centre du
+continent africain ;les cartes de l’époque en témoignent (1).
+Toutefois, il y est représenté sous le nom de lac de
+Bornou, fort mal délimité et inexactement situé, ainsi
+d’ailleurs que la « rivière de la Gazelle » figurant le Bahr-
+el-Gazal, et d’autres lacs de moindre importance.
+
+En fait, toute l'Afrique blanche ou noire de la côte
+parlait alors de ce grand lac que l’on savait situé très
+à l’intérieur des terres, dans la contrée qui était depuis
+des siècles déjà « la plaque tournante de l'Afrique », le
+carrefour où se croisaient les grandes pistes transafricaines
+suivies par les caravanes des marchands et les hordes des
+envahisseurs. Les voyageurs en ayant ouï parler par les
+indigènes en divers points du littoral, les géographes le
+
+I. Entre autres celle de l'Afrique dressée sur des Relationset nouvelles
+découvertes de différents voyageurs conformes aux observations
+astronomiques, mise au jour par le $r G. Danet, 4 Paris, Pont Notre-
+Dame, à la sphère Royale, avec privilège du Roy, 1732,
+
+ 
+
+ 
+
+situèrent sur la carte d’après leurs relations, et cela
+d'autant plus approximativement qu’ils ne pouvaient se
+rendre compte si les renseignements recueillis par les uns
+et par les autres concernaient un seul et même lac; sans
+compter que si certaines indications pouvaient paraître
+effectivement se recouper, les autres par contre semblaient
+établir la présence, au centre du continent, d’autres lacs
+moins importants et peut-être même se rapporter aux
+grands lacs de l'Est Africain, découverts au xvi® siècle.
+
+L’attrait que ce lac, qu'aucun Européen n'avait encore
+vu, devait exercer sur tous les voyageurs et explorateurs
+jusqu'au début, du x1x° siècle, n’en fut que plus puis-
+sant. Enfin Oudney, Clapperton et Denham le virent en
+1823 et Barth en 1851; la même année et la suivante
+Overveg en fil le tour ct navigua deux mois sur ses eaux
+en explorant l'archipel; puis jusqu’en 1900, date de la mis-
+sion Foureau-Lamv quien acheva complètement l’explo-
+ration, divers explorateurs s'y succédèrent : Vogel, en
+1854, Rohlfs en 1866, Nachtigal en 1871-72, Monteil en
+1892, Gentilen 1899...
+
+Mais le Tchad — c’est-à-dire le lac et la contrée l’envi-
+ronnant à laquelle il a donné son nôm —- bien que connu,
+n'en continue pas moins d'exercer un extraordinaire
+attrait sur les Africains et les africanistes; de par sa
+situation même sur les uns, de par l'étrange et unique
+beauté de ses sites, la diversité et la profonde originalité
+de sa population sur les autres. Il semble bien même que
+ce soit le mystère qui entoure l’origine et le passé des
+peuples, nomades ou sédentaires vivant actuellement au
+
+Tchad, — et au sujet desquels nos connaissances sont
+encore peu étendues, — qui contribue le plus à la persis-
+
+tance du «mirage tchadien ». Aussi, l’étude de ces peuples
+est-elle extrêmement attachante.
+
+Nous savons que la plupart ne sont pas des autochtones,
+que certains même immigrèrent jadis venus d’autres
+continents pour se fixer en Afrique. Le lac qui se
+dessèche d'année en année eut vraisemblablement autre-
+fois, et cela dans un temps peu lointain, une étendue
+considérable. Ses rives, ainsi que celles du Bahr-el-
+Gazal, sans doute très fertiles, faisaient du Tchad
+une région extrêmement riche dont la renommée ne
+fut pas sans y provoquer, au cours des siècles, un
+afflux de peuples : nomades, pasteurs et pillards accou-
+rant de tous les coins de l’Afrique, principalement de
+l’est du continent et jusque de l’Asie.
+
+L’asséchement d’une part, les rivalités intestines de la
+population, le rapt et la traite des esclaves, les pillages de
+l’autre, appauvrirent la contrée. Ceux qui subsistèrent
+alors, poussant devant eux leurs troupeaux, continuèrent
+leur exode vers l’ouest, jusqu’à la limite des pâturages et
+l’orée de la grande forêt,
+
+On a beaucoup discuté de leur origine sinon nilotique
+du moins iranique, donc asiatique. Elle semble cependant
+certaine en ce qui concerne les Foulbès entre autres;
+opinion qui s'accorde d’ailleurs parfaitement avec la
+tradition orale indigène et qui est corroborée singu-
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesEE 0
+
+ 
+
+ 
+
+lièrement par l'étude des pasteurs nomades Borroro. Extrêmement prolifiques, recherchant volontiers des
+Les Foulbès se disent, en effet, originaires de la pres- unions avec l’étranger, les Foulbès surpeuplèrent rapide-
+qu'ile arabique qu’ils auraient abandonnée vers le ment ces régions. Les moins puissants d’entre eux durent
+
+ 
+
+Fig. à à 7 (de gauche à droite et de haut en bas.)
+
+Fig. à. — Si Didio, ex-chef des Borroro.de Léré. Fig. 8. — Si Bardé, chef des Borroro, en 1931. à Léré,
+Fig. 4. — Femme du lamido du Bindéré, race Foulbé. Fig. 5. — Jeune fille Foulbé à Bindéré-Foulbé.
+
+Fig. 6. — Fille du lamido de Bindéré-Foulbé. Fig. 7.— Jeune femme Borroro, marché de Léré.
+ve siècle, pour gagner, par la Cyrénaïque, le That et se retirer; ils refluèrent vers le sud du Tchad (Cameroun
+l’Aïr, l’ouest de l'Afrique où ils fondèrent un puissant et Maïo-Kebbi) où ils créèrent un royaume, l’Adamaoua,
+empire : le Massina, situé au sud-ouest de Tombouctou — — dont la capitale était Yola, — et des villes très floris-
+les deux Fouta du Sénégal : le Toro et le Djaloum. santes, dont Binder. | |
+
+22
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires—— 108
+
+Les Borroro que la tradition indigène donne comme
+étant, — ce qui paraît très vraisemblable, — des Foulbès,
+les y suivirent, portant jusqu’au milieu du xvini® siècle
+le nom de Firiankiriabé qu'ils échangèrent alors contre
+celui Haoussa, de Borroro…..
+
+Il serait intéressant de savoir si, antérieurement, ces
+pasteurs n’appelaient pas déjà, comme aujourd'hui,
+leurs bœufs {dont la race est très particulière et diffère
+de celles des autres bovidés de la région tehadienne) des
+Borroro, —- et quel put être le motif qui les amena à
+prendre ce nom qui était à cette époque (xvine siècle)
+celui d’un important royaume voisin du Tanganika.
+
+Les Foulbès, dont ils parlent la langue, les prétendent
+descendants de familles roturières, done « meskin » et
+comme tels les méprisent; ceux-ci le leur rendent bien, et
+non säns usure, entretenant avec eux des relations bien
+moins empreintes de cordialité que celles qu'ils nouent
+avec les aboïigènes.
+
+Ecartés systématiquement des riches pâturages et des
+régions à la population très dense, ne s’unissant stricte-
+ment qu'entre eux, les Borroro ont conservé remarqua-
+blement purs les caractères ethniques de leur race : le
+teint clair, les traits fins, le type nettement sémitique
+rappelant l’égyptien, à l'encontre des Foulbès qui doivent
+au métissage leur type bornouan aux caractères de jour
+en Jour plus accentués,
+
+ 
+
+Fig. 8, — Jeune danseur Borroro.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lorsque pour la première fois je les rencontrai, c’était
+en avril 1931, à Léré dans le Maïo-Kebbi, où quelques
+jeunes femmes de leur tribu forcèrent mon attention par
+leur étonnante beauté : grandes, minces, extrêmement
+racées, — l’air très Jeunes filles juives distinguées, — clles
+circulaient avec aisance, silencieuses et fières, à travers
+les groupes bruyants du marché indigène.
+
+Un long pagne de gabak indigo (1) qui plaquait sur la
+poitrine et les reins moulait leur corps qui apparaissait
+splendide. Le contraste de ce fruste tissu bleu acecusait
+la tonalité rougeâtre et la finesse de leur peau aux reflets
+cuivrés. Leurs bras nus étaient, — ainsi que leurs chevilles,
+— surchargés de bracelets d’argent, de laiton ou de cuir:
+et à chacune de leurs oreilles étaient suspendus cinq ou
+six grands anneaux de cuivre, passés chacun dans un trou
+différent du lobe: anneaux dont le diamètre était celui
+d'une soucoupe.
+
+Sur le sommet de la tête, du milieu du front à la nuque
+— où une grosse bague d'ivoire les liait en catogan, —leurs
+cheveux étaient disposés en cimier; au-dessus des tempes
+ils dessinaient de larges palmettes donnant naissance à
+deux lourdes nattes qui, encadrant le visage, descendaient
+jusque sur la poitrine où elles se mêlaient aux cordons
+d'énormes sachems de cuir. Elles étaient réellement
+belles malgré la repoussante couche de beurre qui oignait
+leur chevelure et leur corps; malgré la crasse et la poussière
+dont elles étaient couvertes. Belles, malpropres et sor-
+dides, avec je ne sais quoi de distant dans l'attitude et le
+regard, d'étranger surtout à cette Afrique où elles vivaient ;
+quelque chose de lointain, d’exotique, qui émanait de
+toute leur personne et posait avec force le problème de
+leur origine. |
+
+Les Borroro paraissaient alors assez nombreux aux
+alentours de Léré, — chef-lieu de circonscription du
+Maïo-Kebbi et y avaient comme chef Bardé. En janvier
+1912, le capitaine Varigault, qui commandait cette cir-
+conscription, les avait signalés comme étant fixés dans les
+villages de Dabalam, Gaïo, Figuil, et Maïo Ligam, et
+ayant séjourné précédemment — selon leur tradition
+orale qui remontait jusqu’au début du xvrr® siècle, —
+à Figuil, Lombel, Dabalam, Kano, Sokoto, Mallé.!.
+
+Sans cesse en dissension avec les Foulbès quand ce
+n’était pas entre eux, changeant de chefs aussi facilement
+que de résidences, nomades dans toute l’acception du mot,
+les Borroro, durant un siècle et demi, firent preuve d’une
+telle instahilité que l’on imagine la complication de l’itiné-
+raire qui les amena jadis dans cette ville de Mallé' que
+l'on n’a pu identifier et dont le souvenir imprécis rejoint
+la légende. cc
+
+La nécessité de posséder un abri pour la saison des
+pluies, qui est aussi celle où l’on ensemence-le- ml äleur
+a fait élever des villages partout où ils passèrent; la nature
+seule du terrain, qui devait être propice à la culture de
+cette céréale, en détermina les emplacements.
+
+C’est dans le village que résident le chef de la tribu et
+ses sarakijo, — ou notables qui le secondent. Chaque
+famille y construit plusieurs cases, — les femmes et les
+jeunes gens ayant chacun la leur, — et pour les bêtes de
+
+1. Tissu indigène de coton, tissé en bandes très étroites, de quelques
+doigts de large.
+
+|
+
+Droits reservés au Cnam et à ses partenairesgrandes zériba; paradoxalement, le chef de la famille
+qui n’a pas de logement personnel doit, chaque nuit,
+demander l'hospitalité à l’une des quatre épouses que la
+loi coranique lui octroie. Des lois du Prophète, c’est à peu
+près la seule d’ailleurs dont les Borroro ont bien voulu
+se souvenir, en dehors de celles qui proclament hautement
+la supériorité de l’homme sur la femme et qu'ils ne sau-
+raient, bien entendu, oublier.
+
+Mais la vie de village compte bien peu pour ces pasteurs:
+ils n’ont qu’un seul vrai souci, celui d'assurer l'existence
+de leurs troupeaux dont ils tirent toutes leurs ressources
+et qu'ils tiennent en haute estime.
+
+Dès la saison sèche, ceux qui ne vivent pas toute
+l’année dans la brousse, reprennent leur existence errante
+avec Joie.
+
+Ils s’en vont à travers le pays sans tenir compte
+des distances, de pâturages en pâturages, veillant seule-
+ment à éviter les mouches tsé-tsé, dont la piqüre est
+mortelle pour leurs bœufs, et à ne pas trop s’écarter
+d’un lahoré où, une ou deux fois par an, ils mènent les
+troupeaux s’abreuver d’eau natronée.
+
+Ï1 faut avoir vu ces troupeaux de plusieurs milliers de
+têtes, paissant dans les riches pâturages du Maïo-Kebbi
+ou de la savane tchadienne d’entre Logone ou Chari,
+pour comprendre à quel point ils peuvent justifier les
+soins attendris qui leur sont prodigués. De grande taille,
+bien musclés, taillés pour la route, teintés de roux et
+porteurs de longues cornes relevées en « Iyre », les bœufs
+Borroro sont en vérité des bêtes magnifiques. Je les ai vus
+sur les bords de la Kabbia, aux heures chaudes de la
+journée où les rayons implacables du soleil embrasent
+l'atmosphère, s’entassant les uns contre les autres à
+l'ombre des énormes arbres qui, de loin en loin, rompent
+la monotonie de la plaine que domine la « dent » de Fianga;
+sur les routes du Tchad, portant sur leur échine le matériel
+hétéroclite entier du campement, et les femmes, et les
+wosses, — bœufs porteurs d’une résistance surprenante;
+dans les pauvres campements de la brousse aussi là où
+leurs pasteurs semblent être véritablement eux-mêmes,
+plus étrangers encore qu'ailleurs à tout ce qui les entoure,
+plus énigmatiques que jamais.
+
+Je ne peux oublier l’un de ces misérables campements,
+rencontré un jour, quelque part entre Mousgoun et Logone-
+Gana. Nous descendions en baleinière le cours du Logone-
+et avancions entre deux petites falaises sablonneuses, au
+faîte frangé de graminées, qui ne laissaient rien entrevoir
+du pays environnant. Mes pagayeurs accostèrent une
+petite sente qui nous permit d’escalader la berge. La
+plaine s’étendait de tous côtés, jusqu’à l'horizon, désespé-
+rément plate et sans ombre. Perdus dans cette immensité,
+quelques Borroro paissaient leurs bêtes ; ils avaient dressé
+là deux « boukkharon », formés de quelques branchages
+entre-croisés et recouverts de paille, — dans lesquels on
+ne pouvait pénétrer qu'en marchant sur les genoux ;
+près de l’entrée d’une de ces huttes, les deux femmes
+étaient assises sur le sol, presque nues, un morceau de
+gabak ceint autour des reins, mais portant aux poignets
+et au cou d'innombrables sachems et gris-gris et leurs
+habituels bijoux de métal ou de cuir; auprès d’elles, le
+lait reposait dans de grandes calebasses jaunes: au loin
+
+ 
+
+ 
+
+mm PG
+
+ 
+
+= 199 =
+
+ 
+
+Fig. 9. — Bœufs du Tchad, à Fork-Lamy,
+
+l'homme, drapé d’indigo surveillait les quelques bêtes du
+troupeau...
+
+Mais c’est sans aucun doute le spectacle d’un lahoré,
+qui est de beaucoup le plus impressionnant. Celui de
+N'Gaoundéré, par exemple, qui est parmi ceux qui réu-
+nissent le plus de « buveurs », attire en moyenne dix à
+quinze mille bœufs — dont beaucoup sont Borroro —
+autour de ses eaux natronées. De quinzaine en quinzaine,
+tous les troupeaux abreuvés s’en retournent, cédant la
+place à de nouveaux venus.
+
+La source elle-même ne mesure guère (à N'Gaoundéré)
+que 15 mètres de diamètre et 2 m 50 de profondeur;
+aussi une multitude de pirogues, transformées en auges
+pour la circonstance, sont-elles amenées autour de la fosse
+bouillonnante. Lorsque les pasteurs les ont toutes rem-
+plies avec le précieux liquide, ils appellent à tour de rôle
+leur troupeau, éparpillé alentour, qui se précipite et
+doit souvent traverser la N’Vina à la nage pour atteindre
+la source: sur un deuxième signal, les bêtes s’en vont
+le ventre plein, pour être remplacées bientôt par d’autres.
+Et ce qui n’est pas le moins étonnant est bien l’ordre
+parfait dans lequel tout cela se déroule.
+
+J'ai dit peu de choses des lois et coutumes qui régissent
+la vie sociale des Borroro : les rites qui entourent la nais-
+sance, la circoncision, le mariage, la répression de l’adul-
+tère (1), le divorce et la mort, chez ces nomades, n’offrent
+pas de bien grandes particularités et le Capitaine Varigault
+leur a consacré une étude {?) dont l'autorité ne saurait
+être contestée.
+
+Tout porte à croire que les Borroro, — ainsi que les
+Foulbès le leur reprochent, — ont subi, à ce sujet, l’in-
+fluence des autochtones islamisés avec lesquels ils se
+trouvèrent successivement en contact au cours de leurs
+migrations.
+
+Ils ont la réputation d’être particulièrement hospi-
+talers; certes ils le sont, mais entre eux seulement. Au
+campement comme au village, le meilleur morceau du
+repas, la place d'honneur au logis seront toujours réservés
+
+1. En ce qui concerne la femme seulement.
+
+2. N° 8 des renseignements coloniaux du Comité de l'Afrique fran-
+caise : Cap"® Varigault « Une tribu nomade : les Borroro ».
+
+ 
+
+Droits reservés au Cnam et à ses partenairesà l'hôte de passage; pour lui on ira jusqu’à sacrifier parfois
+une bête du troupeau, ce qui ne se reproduit que pour
+fêter dignement les naissances ou les funérailles; mieux,
+la plus belle des femmes de la famille est à sa disposition
+durant son séjour et si quelque dix lunes plus tard un
+petit Borroro vient au monde pour perpétuer le souvenir
+de son passage au «boukkharon » c’est le comble du bonheur
+au foyer : le bébé ne saurait être que toute beauté et
+qualités.
+
+Mais si cette hospitalité se fait si large pourl’homme de
+la race, l'étranger ne saurait, en aucun cas, en bénéficier,
+— fùt-il le « grand Blanc ».
+
+On dit que l’homme, par contre, témoigne de mœurs
+assez dissolues; il faut convenir que les jeunes danseurs
+Borroro, qui ressemblent étrangement en cela aux équi-
+voques petits chleuh du Haut Atlas marocain, sont infi-
+niment plus parés et maniérés que les femmes de la tribu.
+Mais tenons-nous-en au doute, sans plus.
+
++
+
+ 
+
+Longtemps encore nous ignorerons beaucoup de Ja vice
+de ces pasteurs que l’on a coutume d'appeler: « les mysté-
+rieux Borroro ». Et lorsqu’à la tombée du soir, le voyageur
+les entendra lancer à leurs bœufs épars dans les pâturages
+tchadiens ces longs appels aux modulations bizarres,
+— qui n'appartiennent à aucun dialecte du Tchad, —
+qu'eux seuls connaissent mais ne savent pas traduire,
+ces appels qu'ils disent être « la langue des bœufs » et
+auxquels les bêtes obéissent, — il ne pourra se défendre
+contre cette émotion qui étreint l'homme, lorsque sa
+pensée se penche sur l'inconnu, et l’emplit du désir de
+connaître,
+
+G. Geo-Fourrier.
+
+P.-S. — Je tiens à remercier ici le capitaine Mahé, des
+forces de police du Cameroun, dont les précieux rensei-
+gnements m'ont aidé à mettre au point ces notes de
+voyage sur les « Borrora ». G. G.-F,
+
+LES CHARBONNAGES BELGES DE LA CAMPINE
+
+ 
+
+‘Échelle
+oo
+
+  
+ 
+  
+
+û 19
+
+FEindhoven
+
+ 
+
+ 
+ 
+     
+  
+ 
+ 
+  
+ 
+ 
+ 
+   
+
+SX
+
++
+
+ 
+
+  
+
+LÉGENDE
+
+Frontières... +++ || Canaux existants.
+Limite sud de | Canet Albert.
+la Cempine….—._.| Limite du bassin a
+Chemins de fer. K&
+
+ 
+
+Aouiller..…......
+
+ 
+
+Fig. 1, — La Campine belge.
+Ses limites et ses voies de communications.
+
+ASPECT DE LA RÉGION.
+
+La Campine estla pointe extrême sud de cetteimmense
+région de sables quaternaires et modernes qui couvrent
+l'Europe en bordure de la mer du Nord et de la Baltique,
+depuis le Nord de Bruxelles jusqu'en Finlande. En Bel-
+pique la zone campinienne occupe 4600 kilomètres carrés
+depuis sa limite sud de Maestricht, Louvain, Vilvorde
+jusqu’à la frontière des Pays-Bas. Améliorée aux environs
+d'Anvers et de Malines, la Campine dans le Limbourg
+
+ 
+
+ 
+
+  
+   
+
+SR e
+
+ 
+
+ 
+
+  
+
+(fig. 1) avait conservé, avant la découverte de la
+houille, son aspect primitif de désert rebelle à la
+pénétration agricole. C'était, et c’est encore en de
+nombreux endroits, suivant l'expression d'Edmond
+Picard, léminent juriste belge « un sol où la bruyère
+s'étale en nappes roses et odorantes, où s’endort, çà
+et là un marais » (fig. 2). En outre le pays, bien que
+non loin de la mer du Nord, a un chimat continental
+très prononcé aux hivers neigeux — la neige y
+atteint 70 em —et des étés très chauds, avec une
+moyenne de 170 en juillet, ce qui est excessif pour
+la Belgique, où il pleut environ deux jours sur trois !
+Ce pays pauvre n'avait qu’une maigre popula-
+tion agricole, vouée à une culture traditionnelle,
+que vint secouer de sa torpeur la découverte des
+richesses houillères du sous-sol.
+
+HISTORIQUE DE LA DÉCOUVERTE
+DU BASSIN HOUILLER
+
+La découverte du bassin houiller de la Campine
+n'est pas due au hasard ni à l’empirisme, mais bien
+aux travaux déductifs des géologues belges. A ce
+titre, elle constitue pour beaucoup de nos savants
+un des plus beaux couronnements de leurs laborieux
+efforts.
+
+Déjà au début du xrx® siècle, les frères Castiau
+défendirent l’idée.que le bassin houiller qui va de Valen-
+ciennes à Liége en passant par la vallée de la Sambre et
+de la Meuse devait être en liaison avec le bassin de West-
+phalie d’une part, et d’autre part, avec le bassin anglais
+de Swansea et de Cardiff. De plus, toujours selon eux, le
+bassin de Manchester-Sheffield devait avoir une jonction,
+par le Nord, avec ce fameux dépôt Westphalien. Leur
+conclusion était donc qu’un tronçon inconnu se trouvait
+dans la Campine. Leurs vues devaient recevoir une écla-
+tante confirmation ainsi que les recherches subséquentes
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesle prouvèrent. Parmi les nombreux savants
+que passionna ce problème, nous devons une
+mention spéciale au géologue belge André
+Dumont, professeur à l’Université de Louvain.
+Dès 1877 il défendit ardemment les vues des
+frères Castiau; malheureusement, par suite
+d’une crise industrielle intense, il lui fallut
+attendre l’année 1898, pour se livrer à des
+sondages systématiques. Après plusieurs ten-
+tatives infructueuses, M, Dumont, en 1901
+eut le bonheur de rencontrer le houiller à
+l'étage de 535 m. Dès lors, les sondages se
+firent nombreux, et en trois ans on en comp-
+tait plus de 150 qui permirent de délimiter
+grosso-modo, l'importance des nouveaux gise-
+ments.
+
+Notons en passant que M. André Dumont
+obtint la première concession houillère dans
+cette région en 1906. Notre photographie
+(fig. 3) représente le 127 sondage pour le creu-
+sement du puits André Dumont à Genck
+(fig. 1 et fig. 8).
+
+3
+
+ 
+
+Fig. 8,
+Le premier sondage de la Campine à Genck.
+
+IMPORTANCE
+ET CARACTÉRISTIQUES
+DU BASSIN |
+
+Ce bassin houiller est l’un des plus
+considérables de l’Europe. Débutant
+en Westphalie, il passe par la Rhénanie,
+le Limbourg hollandais, la Campine,
+le sud des Pays-Bas, s'enfonce sous la
+mer du Nord pour réapparaître dans
+le centre de la Grande-Bretagne et se
+continuer en Irlande,
+
+[1 aurait pour origine une suite inin-
+terrompue de lagunes littorales de
+l’époque houillère allant de la Russie
+méridionale à l'Angleterre en passant
+par la Silésie, la Westphalie, la Belgique
+
+fes
+
+ 
+
+Frontière.
+Limite du Bassin.
+Puits en exploitation.
+
+Fig.
+
+ 
+
+  
+
+LEGENDE
+
+  
+
+KT
+
+ 
+
+Re
+
+111 >
+
+ 
+
+2. — Paysage de bruyères en Campine avantles travaux.
+
+et le Nord de la France. Le Sud était limité par le massif
+liercynien. Toute cette immense région subit une suite
+d'affaissements compensés par l’apport des fleuves où
+s’est élaboré peu à peu l'immense gisement, qui nous
+intéresse. Pour la Campine belge, ses limites sont à l'Est
+la Meuse, à l'Ouest Lierre et Oostmalle: sa longueur
+est de 75 kilomètres avec 17 kilomètres et demi de lar-
+geur à l'Est. Cette bande va en s’amincissant dans la
+direction du Nord (voir fig. 4). La superficie totale est
+environ de 1100 kilomètres carrés. Les dépôts utiles sont
+légèrement plissés, rompus par de nombreuses failles de
+direction N-W — S-E et parfois dans un sens perpendi-
+culaire à cette direction initiale. L’ensemble des « veines »
+donne une puissance utile d'environ 15 m d'épaisseur.
+Certaines de ces veines ont jusqu’à trois mètres d’épais-
+seur, et ce gisement doit avoir bien près de deux kilo-
+
+Fig. 4. — Le bassin houiller de la Campine.
+
+ 
+
+ 
+
++ t.]
+NS Maest icht !
+
+$s
+
+ 
+
+ 
+
+ 
+
+Frincipaux sondages. .. à +
+Chemins de fer. Echelle Vers Liège, #,
+4 |] Canal Albert en constructif mm]  E ": tit, Z
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires112
+
+ 
+
+ 
+
+mètres et demi de profondeur. Le niveau des premières
+couches n’est, en règle générale, atteint qu'aux environs
+de 500 m. Suivant les estimations les plus sûres, Ja
+réserve de combustible exploitable atteindrait environ
+12 milliards de tonnes représentant un trésor de plus de
+100 milliards de franes.
+
+LA MISE EN EXPLOITATION
+
+Les concessions ont été accordées à des sociétés char-
+bonnières du Hainaut et de la province de Liége.
+
+On peut répartir les centres d'exploitation de la façon
+suivante : à Genck, 3 sièges, Winterslag, Liégeois-en-
+Campine et André Dumont (1906): à Eysden, le charbon-
+nage de Limbourg-Meuse, à Beerimgen le charbonnage de
+Beeringen et à Zolder le charbonnage de Helchteren et
+Zolder. De nouvelles concessions sont demandées à
+Sutendael, Houthaelen, ete. et l'Etat y a en outre ménagé
+des réserves pour l’avenir (fig, 4).
+
+Les travaux de creusement des puits ont rencontré de
+sérieuses difficultés par suite de l'épaisseur des mort-
+terrains (4 à 800 m), des roches meubles, des glissements
+et de coups d’eau redoutables. Il a fallu avoir recours à la
+congélation du sol, à la fixation de cuvelages métalliques
+dans les puits, ete... Le puits de Winterslag (à Genck) a
+nécessité 7 ans de travaux très pénibles et le premier
+charbon n’a été extrait qu'en 1916.
+
+Mais les ingénieurs n’ont pas reculé devant les plus
+grandes difficultés techniques. Tous les charbonnages sont
+équipés d’une facou ultra-moderne tant au point de vue de
+l’outillage que des procédés d'exploitation.
+
+Vu les grandes difficultés des transports, la Campine
+étant dépourvue jadis de voies de communications, chaque
+entreprise est un véritable organisme autonome possédant
+ses forges, ses briqueteries, ses fabriques de béton, ete,
+
+L’abatage de la houille est en général plus aisé que dans
+les bassins du Sud, l'épaisseur des fronts d'attaque étant
+plus grande. Malheureusement les terrains sont meubles
+et nécessitent de gros frais de soutènement.
+
+Fiy. 5. — Vue panoramique du siège André-Dumont.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Néanmoins la production a suivi une marche rapide si
+l'on en juge par le tableau suivant : |
+
+en milliers de tonnes
+
+1919..............., 140
+1924... , .. . . ., 4107
+1929... . ... . . ... . .., 3240
+1931...........,..., 4177
+1932. .............. , . . . 3996
+
+On constate une légère régression pour 1932, due à la
+crise et qui se maintiendra sans aucun doute pour 1933.
+
+Quant à la répartition. des charbons campinois au point
+de vue commercial, on peut l’établir comme suit :
+
+Charbons à gaz. , , . . . . . . . 33 %
+Houilles grasses maréchales. . . , 21,5 %
+Houilles à coke . . . . . . . . . . 20 %
+Charbons à longue flamme 18,5
+Houilles demi grasses, . . , . . . . 7 ©
+
+Notons en passant que ces différentes houilles sont très
+pures, ne contenant que 6 % en moyenne de cendres.
+
+Ces différentes houilles sont excellentes pour la fabri-
+cation du coke et conviennent pour de nombreux usages
+industriels.
+
+LA QUESTION DE LA MAIN-D'ŒUVRE
+
+Ce fut pour les patrons mineurs, une des questions les
+plus angoissantes que celle du recrutement de la main-
+d'œuvre, dans un pays pauvre, peu habité, dont la
+population était uniquement adonnée à l’agriculture. Il a
+donc fallu faire appel à l'étranger, pour un tiers, sur les
+20 000 ouvriers occupés en 1930, Les ouvriers spécialisés
+sont pour la plupart des habitants des anciennes régions
+charbonnières du Sud du pays. Dans un pays aride,
+dépourvu d’habitations, les cités durent s’improviser avec
+toutes les nécessités modernes, écoles, hôpitaux, églises,
+salles de spectacles, ete... D’heureuses réalisations ont
+ainsi vu le jour, ainsi qu’on peut en juger par les photo-
+graphies (fig. 5 et 6).
+
+Le problème de l’eau potable notamment
+a été résolu par le creusement de puits par
+groupe de maisons ouvrières et à Beeringen, on
+capte l’eau du crétacé qui jaillit jusqu’à 40 m
+au-dessus du niveau du sol, pouvant être
+refoulée par pression naturelle jusqu’au second
+étage des habitations. En plus de tout ceci les
+compagnies minières possèdent des services
+d'autobus allant littéralement cueillir l’ouvrier
+dans un rayon étendu.
+
+Comme ce gros problème de la main-
+d'œuvre est encore loin d’être résolu d’une
+façon satisfaisante, les différentes directions
+recherchent activement les méthodes de réduc-
+tion du personnel. Selon M. Charles Demeure,
+dans une étude récente sur la crise charbon-
+nière, c’est surtout sur la concentration des
+tailles, et des chantiers quel’on a réussi à.
+faire des économies, leur nombre est tombé
+de 98 à 68 pour les tailles, ce qui a provoqué.
+une diminution de 15 pour 400 du personnel
+tout en portant le nombre moyen de tonnes
+
+Droits reservés au Cnam et à ses partenaires

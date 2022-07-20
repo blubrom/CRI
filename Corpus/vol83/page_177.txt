@@ -1,0 +1,1026 @@
+POUR ÉVITER LES COLLISIONS EN MER
+
+Sir Hirarm Maxim, l'inventeur anglais bien connu,
+vient d'imaginer pour éviter les collisions en mer,
+‘rencontre de na-
+vires ou contact
+imprévu avec des
+icebergs, une mé-
+thode curieuse. Il
+a donné à son
+appareil le nom
+de 6° sens : cette
+dénomination in-
+dique bien la pen-
+sée qui à guidé
+l’auteur. Les
+chauves - souris
+possèdent, en
+cffet, selon sir Hi-
+ram, un sixième
+sens qui leur per-
+met de se guider
+dans l'obscurité,
+et d'éviter, même
+. poursuivant
+leur proie, les
+obstacles semés
+sur leur passage.
+Le 6e sens pour
+les navires con-
+siste en un appa-
+reil pour pro-
+duire et recevoir
+des ondes 50-
+nores. En effet,
+si, en quelque.
+endroit, surgit
+un “obstacle les
+ondes se réfléchi-
+ront partielle
+ment; l'appareil
+enre gistrera cette
+réflexionet signa-
+lera l'obstacle,
+ainsi que sa di-
+
+rection. et sa distance. L ‘appareil émetteur d'ondes
+
+est. une sirène alimentée par de la vapeur à haute
+pression : elle produit des ondes puissantes, mais
+
+
+
+L'appareil de sir Hiram Maxim pour révéler ja présence
+d'obstacles en mer, — En cartouche : r, le récepteur enre-
+
+gistreur de vibrations : À, tige vibrante ;
+papier enregistreuse; CO, électro-aimant de mise en narChe;
+D, diaphragme.—2,appareil avertisseur : À, ressorts fermant
+-des circuits électriques sur des sonneries ; D, diaphragme.
+
+correspondant à un très faible nombre de vibra-
+tions par seconde : 15. Gette fréquence est
+trop faible pour
+que le son émis
+soit perceptible à
+une oreille hu-
+maine ct puisse
+incommoder les
+passagers ou gé-
+ner les signaux
+acoustiques ordi-
+naires; mais,
+grâce à la puis-
+sance de l'appa-
+reil, ces ondes
+peuvent franchir
+de grandes dis-
+tances. |
+Le récepteur
+est une sorte
+d'oreille artif-
+cielle il con-
+siste en un dia-
+phragme de soic
+caoutchoutée de
+1 m. 20 de dia-
+métre environ,
+disposé de façon
+que la pression de
+l'air soit toujours
+la même des deux
+côtés; le dia-
+phragme est
+insensible au
+souffle de la si-.
+rène, et ne révé-
+lera que les ondes
+réfléchies ; Les vi-
+brations que
+celles-ci lui. im-
+priment produi-
+sent, selon leur
+intensité, la fer-
+meture de séries de circuits électriques différents,
+chacun de: ces circuits contient une sonnerie élec-
+
+B, bande de
+
+trique. Les ondes faibles, celles qui proviennent de la
+
+Droits reservés au Cnam et à ses partenairesLE FORÇAGE DES PLANTES PAR LE RADIUM
+
+réflexion sur un petit objet ou sur un objet lointain,
+communiquent au diaphragme de faibles vibrations,
+et fait fonctionner la première sonnerie, la plus
+petite. Des vibrations plus fortes fermceront un
+deuxième circuit et feront retentir une sonneric
+plus forte, et ainsi de suite.
+
+Ce récepteur est complété par un enregistreur qui
+donne un diagramme des perturbations de l'air. Ce
+dernier organe est constitué par une tige petite et
+légère, fixée au centre du diaphragme, et portant un
+crayon qui enregistre ses vibrations sur une feuille
+de papier déroulée devant lui d'un mouvement
+uniforme. Cette feuille de papier, par le jeu d'un
+“circuit électrique, se met en mouvement des que l’on
+envoie de la vapeur dans la sirène.
+
+Lorsqu'il n'y a d'autre ébranlement atmosphé-
+rique que celui dù à l'action du navire, ou aux
+vagues de la mer; la courbe enregistrée est faite de
+sinuosités bien régulières. Mais si les vibrations de
+la sirène, réfléchies par un obstacle, retombent sur
+le diaphragme, l'amplitude des sinuosités s'accroît,
+et l'étude du diagramme permettra d'estimer l'in-
+tensité de l'onde réfléchie.
+
+Du moins, l'inventeur espère que son. dispositif
+donnera ce résultat; .car pour l'instant,‘ il n'en est
+encore qu'aux expériences, et.il y a lieu de craindre
+que la complication des phénomènes atmosphériques
+de tous genres qui viendront s'inscrire sur la feuille
+ne rende difficile la mise ‘au point pratique du
+dispositif.
+
+
+
+
+
+173
+
+Voici, en tout cas, comment, en cas de succès;
+
+. sir Hiram Maxim prévoit l'atilisation de son appa-
+_ reil :
+
+la sirène est montée sur le pont, elle peut
+tourner en tous sens et explorer l'espace à la
+façon d'un phare. Les récepteurs sont montés sur
+des suspensions parfaites qui leur évitent toute
+vibration communiquée par le navire. Supposons
+que celui-ci marche à une allure de 50 kilomètres
+à l'heure et que la plus petite sonnerie de l'avertis-
+seur se mette à résonner : nous sommes avertis
+qu'un obstacle est dans le champ de la sirène : Le
+vibrateur envoie un souffle d'investigation; 20 se-
+condes après les récepteurs en enregistrent l'écho;
+le son ayant une vitesse de 500 mètres à la seconde ;
+c'est. donc que l'obstacle est éloigné de 6 kilo-
+mètres.
+Une minute après, on émet un nouveau signal ;
+
+les indications qui en résultent, comparées aux
+
+premières, permettent de se rendre compte de
+la marche de l'obstacle par rapport au navire,
+et d'en déduire ‘s’il est fixe ou mobile, et dans
+ce dernier cas, quelle est la direction de sa tra-
+jectoire.
+
+Faut-il répéter que la mise au point de cel appa-
+reil soulève une foule de problèmes concernant la
+structure interne bien mâl connue encore de l’atmos-
+
+. phère? Si même elle n'aboutissait qu’à élucider à
+* cet égard quelques points obscurs,
+
+l'invention de
+sir Hiram n'en aurait pas moins rendu un signalé
+service, K. VILLERS,
+
+re
+
+LE FORÇAGE DES PLANTES PAR LE RADIUM
+
+La merveilleuse influence: que le Radium exerce sur
+tous les corps soumis à son rayonnement. vient encore
+de se manifester dans le domaine horticole où l’a-fait
+pénétrer récemment M. le professeur D' Hans Mollisch,
+qui a présenté à son sujet une note à l'Académie : des
+sciences de Vienne. À la suite de deux années de recher-
+ches consacrées à l'étude de ec corps sur le règne végétal,
+ce savant a découvert qu'il influence la période de repos
+des plantes soit par irradiation, soit par émanation. Voici
+un résumé des très intéressantes expériences qui ont
+été publiées dans Oesterreichische Gar arien-Zoitung du
+mois de juin dernier. .
+
+Le D" Mollisch ayant. observé que,- si l'on: met en
+contact durant À à 2j jours les bourgeons terminaux de
+rameaux de lilas coupés dans la deuxième moitié de
+novembre, avec un petit tube renfermant des prépara-
+tions de radium d’une force déterminée, et si on les
+expose ensuite à la lumière dans une serre, ces bour-
+geons éclosent, tandis que ceux pris comme témoins et
+non irradiés ne s'épanouissent que beaucoup plus tard
+ou pas du tout.
+
+Partant de ce fait, il soumit alors, le 25 novembre,
+durant 24 heures, des bourgeons de lilas à l’action. d’un
+petit tube contenant 46 mgr 2 de chlorure de radium.
+Au bout d'un mois; ces bourgeons éclosent, tandis que
+les témoins, ce délai expiré ct même plus tard, n'avaient
+
+
+
+pas changé d'état. Mais l'irradialion des bourgeons au
+moyen d'un petit tube de radium a ce grand désavantage
+que ces organes sont très inég galement atteints par de
+rayonnement. Les éléments des bourgeons, se trouvant
+diversement éloignés -de la surface radiante, doivent,
+pour celte cause, subir un rayonnement d'une inégale
+intensité, sans parler de l'inégale absorption des rayons
+par les écailles des bourgeons, les folioles et les
+fleurs,
+
+C'est la raison pour laquelle le D° Mollisch a voulu
+examiner l'influence de l'émanation du radium sur la
+période de repos de la végétation, car l’on sait que ce
+corps. ainsi que ses combinaisons développent,, comme
+produit de transformation, une émanation, un gaz pourvu
+
+_de. propriétés radioactives. I a pensé qu'il devait en
+
+attendre une intensité d'action beaucoup plus régulière
+sur les bourgeons parce qu’elle les influence de tous les
+côtés et qu’elle peut pénétrer à l'intérieur entre les
+feuilles embryonnaires. Cette hypothèse s’est absolument
+réalisée, et les essais lui ont montré que l’infltence de
+l’émanation sur les bourgeons au repos est encore plus
+Îrappante que celle du rayonnement.
+
+La méthode suivie consistait essentiellement dans l'em-
+
+-ploi d'un vase cylindrique en. verre: hermétiquement
+
+clos, d'une contenance de 5: litres environ, qui recevait
+
+-par jour, ou tous les deux jours unei certaine: quantité
+
+Droits reservés au Cnam et à ses partenaires£
+
+174
+
+d'une émanation de radium s’élevant entre 1,8 el
+5,4 millicurie.
+
+L'auteur rapporte. deux expériences qui ont eu lieu
+dans Les conditions suivantes sur le lilas et le marronnier
+d'Inde.
+
+I. Lilas, Trois faisceaux de rameaux ont été
+soumis à l’émanation, le 27 novembre 1911, durant
+20 heures pour le n° 1,48 heures pour le n° 2,72 heures
+pour le n° 5;.le faisceau témoin, n° 4, a été constam-
+ment. maintenu dans l’air pur,
+
+Le. 10 décembre, le faisceau n° 5 avait seul poussé,
+Le 93 décembre, le témoin était encore inactif, alors
+que le.n° À avait poussé moyennement, le n° 2 très bien
+et lé n° 5 d'une façon remarquable. Le 50 décembre, le
+térnoïin n'avait pas encore donné signe de vie, tandis que
+les trois autres s'étaient très bien développés, et. d'autant
+mieux que li duréé de leur exposition ‘avait été plus
+longue. .
+
+IH. Marronnier : d'Inde, — Deux faisceaux formés
+de quatre rameaux de 15 centimètres de longueur ont
+subi l'émanation le 14. décembre 1941, le premier du-
+rant .un jour, le second 4 jours; un troisième faisceau
+est resté à l’air libre pour le contrôle. Le 15 janvier, les
+bourgeons des faisceaux 1 et 2, contrairement à ceux du
+témoin ‘qui ne faisaient "guère que: s'ouvrir, s'étaient
+largement épanouis, surtout sur le n° 1 qui n’avait été
+exposé que 24 heures. La longueur des pousses de ce
+faisceau atteignait en moyenne 6 cm 5, # em chez le
+n° 2 et 5 cm sur le témoin.
+
+Les deux procédés, px rayonnement ou par émana-
+lon, ne réussissent bien que dans une certaine phase
+de la période de repos, qui va de la deuxième moitié de
+novembre en décembre. Si l’on recourt déjà au rayon-
+nement en septembre ou en octabre, époque où ectte
+phase de repos n’est pas encore bien établie, le résultat
+est nul. De même si on l’emploie en janvier, ou encore
+plus tard, quand la période est déjà presque terminée,
+l'on ne constate aucune différence entre les bourgeons
+
+ACADÉMIE DES SCIENCES
+
+
+
+
+
+
+
+
+
+‘irradiés ou non, ou bien les premiers paraissent avoir
+
+été plus ou moins entravés dans leur développement, Ils
+se comportent, sous ce rapport, comme les rameaux
+éthérisés ou soumis au bain d’eau chaude.
+
+Le rayonnement doit durer un certain temps : il ne
+doit être mi trop court, ni trop long. Dans le premier
+cas, il n’exerce aucun effet ; dans le second, il à unc
+action retardatrice, préjudiciable où même mortelle,
+
+Le D" Mollisch a réussi à forcer, en dehors des deux.
+plantes précitées, le tulipier, le staphylier et l’érable
+plane.
+
+Par contre, il a échoué avec le ginkgo, le platanc,
+le hêtre et le tilleul; les deux derniers, d'ailleurs, se
+sont montrés, comme.on le sait, à peu près réfractaires
+au forçage par l’éther et par l'eau chaude.
+
+À la suite de ces expériences si concluuntes, peut-on,
+maintenant, recommander aux jardiniers cette nouvelle
+méthode de forçage comme ayant une grande importance
+pour cette industrie? L'auteur répond lui-même : non,
+actuellement. Elle n’a pas d'application, car le prix exces-
+sivement élevé du radium empêche absolument son emploi
+dans la pratique. Et il rappelle que l'on a, d’ailleurs, dans
+les bains d’eau chaude, un moyen dépourvu de tout
+danger, peu.coûteux et d’une facile exécution.
+
+Toutefois, comme la physiologie végétale et l’horticul-
+ture sont souvent en étroite relation, le jardinier mo-
+derne ne doit pas toujours s’enquérir exclusivement de
+utilité d'un phénomène, mais -s’intéresser aussi cons-
+tamment aux phénomèncs de la vie des plantes pour eux-
+mêmes.
+
+Cest à ec point de vue que les expériences du D° Mol-
+lisch relatives à la merveilleuse influence du radium sur
+les bourgeons d'hiver endormis, doivent présenter de
+l'intérêt à tout horticulteur, intérêt purement scienti-
+fiquè pour le moment, mais qui deviendra vraiment pra-
+tique dès qu’il sera possible d'obtenir à un prix abor-
+dable les sources de radioactivité : les sciences vont vite
+aujourd’hui ! A. TruELLE.
+
+Se
+
+oo | ACADÉMIE DES SCIENCES
+
+Séance du 5 août 1912. : — Présidence de MM. Boussinesq et Guyon.
+
+Caractérisation des sucres par l’action de la lumière.
+—"M. Guignard présente une Note de MM. Daniel Ber-
+thelot et Gaudechon montrant que les deux grandes
+catégories de sucres établies parles chimistes se “distin-
+guent facilement par l’action de la lümière. Les sucres-
+acétones, dont le prototype est la lévulose ou sucre de
+fruits, sont décomposés par la lumière solaire avec déga-
+
+gement d'oxyde de carbone pur, tandis que les sucres.
+
+aldéhydes dont le prototype est le glucose ou sucre de
+raisin, résistent à l'insolation, mais sont dissociés par la
+
+lumière ultra-violetté avec production simultanée d'oxyde
+
+de carbone et d’ hydrogène.
+
+Les rayons ultr a-violels el les corps organiques.
+M. Dastre dépose un travail de MM. Victor Henry et
+Wurmser sur l’action chimique comparée à la longueur
+
+
+
+d'onde. Ce travail a mis en. évidence une propriété
+
+des rayons: ultra-violets extrêmes dont il n’était pas de
+manifestation connue, Ces rayons agissent plus faiblement
+que les rayons moyens, En outre, M. Dastre: dépose un
+
+deuxième travail de M. Victor Henry exéculé en collaboration
+
+avec M. Bielewski sur l’absorption des rayons ultra-violets
+par les corps organiques, établissant une relation entre
+
+la constitution chimique de: la molécule et l'absorption.
+
+Le dosage de l'albumine. — M. Dastre présente un
+mémoire de M. Vallery sur la précipitation de l’albumine,
+Celle-ci se pratique par deux moyens, le chauffage du
+liquide albumineux additionné d’un acide — le plus sou-
+vent l'acide acétique — et le réactif de Tanret qui est
+l’iodomercurate de potassium. Or suivant que l’on emploie
+l'une ou l’autre méthode on obtient des résultals diffé-
+rents, et les écarts peuvent être fort importants. Cette
+particularité provient de ce que l'acide exerce une action
+hydrolysante sur l’albumine, action qui est variable avec
+l'acide et qui peut aller jusqu’à la transformation en
+peptone et termes_intermédiaires. L'auteur recommande
+d'employer un acide ne déterminant pas d’hydrolyse,
+l'acide caproïque à l’aide duquel on obtient une précipi-
+tation totale. Cu. ve Vizepeus.
+
+Droits reservés au Cnam et à ses partenairesSe
+TT LT.
+
+
+
+
+
+
+
+175
+
+
+
+LA GRAVITÉ ET LA LOCOMOTION
+
+Le monoruil système Kcarney
+«onfordu avec le monorail système Brennan dont
+nous avons entretenu nos lecteurs, il Ya irois ans,
+ct qui empruntait son principe au gyroscope.
+
+: Le système Kearney est basé, en grande partie
+
+ne doit pas être | résultats satisfaisants. -Vingt-trois secondes après
+
+son départ d'une station, le train atteint une vitesse
+de 80 kilomètres à l'heure qu'il maintient aisément,
+ct sans grande dépense de courant; jusqu'à la pente
+suivante. Au pied de celle- ce des moteurs supplé-
+
+
+
+F4 Modèle du monorail Kearney.
+
+Lout. au. moins, sur le. principe de I gravité, ct le
+courant électrique n'intervient que pour une faible
+part dans la traction, aux dires de l'inventeur, un
+ingénieur australien.
+
+Les voitures roulent sur un: rail unique, mais le
+terme de monorail nous parañt injustifié . puisque
+l'agencement
+comporte un $e-
+cond rail aérien
+qui ässure leur
+équilibre et trans-
+met le courant
+électrique aux ap-
+pareils moteurs;
+mais cette cri-
+tique ne saurait
+nous empêcher de
+réconnaître que
+le nouveau sys-
+ième .est digne
+d'attirer l'atten-
+tion des ingé-
+nieuts, quand ce
+ne serait qu'à
+titre de curiosité |
+
+“La voie de ce.
+monorail rappelle les.« montagnes-russes )
+fétes foraines. Elle n'est au niveau du sol qu au pas-
+sagc'des stations. Presque aussitôt après sa sortie
+de la gare, elle s'enfonce sous le sol par une pente
+rapide, entre dans un tunnel horizontal, et remonte
+
+au niveau de la station suivante par une nouvelle.
+
+pente.
+Les nombreuses expériences exécutées. par l'inven-
+Leur avec un modèle réduit ont donné, parait til, des
+
+
+
+5 É --Une-voie en montagne russe a
+- pour...le..monorail. Kearney.…...
+
+.mcntaires entrent ul juu automatiquement, et la
+pente est franchie sans cffurt. °
+
+L'inventeur réclame pour son système les avan-
+tages suivants : impossibilité-absolue ‘des déraille-
+ments; suppression des oscillations latérales ; réduc:
+tion notable des vibrations; marche réculière ct
+| doute ; ventila-
+tion parfaite des
+
+voitures grâce à
+la rapidité de
+marche; suppres-
+sion des escaliers
+ou ascenseurs
+dans les gares;
+grande diminu-
+tion du prix de
+revient tant pour
+la construction
+du réseau que
+pour l'outillage
+électrique.
+
+‘M. Kearney à
+fêté, ces jours- ci, |
+un premier suc-
+cès industriel : 1l
+a obtenu li con-
+
+) de nos ! cession d'une ligne de son système entre Nice ct
+
+Monte-Carlo. Il déclare: que sa ligne permettra aux
+passagers de se rendre de l’une .de-ces villes à
+l'autre en vingt minutes, alors que les trains express
+à. vapeur mettent trente-cinq. minutes. I} ajoute
+
+que son système, appliqué aux longues distances,
+
+permettra d'obtenir sans danger, comme sans fatigue .
+pour” les voyageurs, des vitesses de 200 à 250: kilo-
+mètres à LT heure. 24
+
+Droits reservés au Cnam et à ses partenaires176
+
+
+
+AAA Ÿ BE AA LE
+
+LE PATINAGE AQUATIQUE
+
+On s'ingénie, depuis longtemps, à marcher sur
+Veau ; les patins aquatiques, inventés en ces der-
+
+
+
+
+
+
+
+Au-dessous des patins sont attachées des na-
+geoires qui,
+
+s'ouvrant à chaque mouve-
+
+
+
+nières années sont nombreux.
+Toutefois, la plupart présen-
+taient l'inconvénient d’un poids
+
+trop considérable et de dimen- :
+
+sions exagérées. |
+Sur. le lac de : Grosswus-
+
+terwitz, dans la province de”
+
+Saxe, le patinage aquatique
+vient de faire une apparition
+des plus réussies. Les nou-
+veaux patins sont à air com-
+primé. et ressemblent extérieu-
+rement à des skis; grâce à
+
+leur poids: très faible et à
+
+leurs‘ petites dimensions, ils
+permettent : au. patineur de
+glisser très aisément sur
+l'eau.
+
+Un ‘autre avantage ‘de ces
+patins, qui, grâce à- eur. faible
+poids, sont “facilement trans-
+portables, c'est la
+possibilité de les re-
+plier, en-en faisant un
+petit colis parfaitement
+maniable, aprèsavoir
+chassé: l'air. ‘comprimé
+dés cylindres‘ de: caout- .
+
+3
+
+
+
+
+
+| ment, permettent au patineur
+
+de se déplacer avec une rc-
+. marquable facilité.
+
+Une autre particularité, qui
+augmente la : variété. de .
+sport, “c'est l'emploi alternatif
+ou simultané ‘d'une  pagaie
+légère. Ainsi équipé, le patineur
+circule facilement, : même au
+milieu des embarcations ‘de
+tous genres, .
+
+Ce nouveau sport, qui pa-
+rait. fort agréable, n'est nulle-
+ment dangereux.
+
+La quille attachée au-des-
+sous du patin - jui assure, en
+effet, une stabilité suffisante
+pour éliminer tout risque de
+chavirement.
+
+Dans le: cas où, par extra-
+ordinaire, le patineur ferait
+| une ‘chute, il ne serait
+exposé cependant à aucun
+
+danger. Tout a été prévu :
+
+le sportsman n'aura qu'à
+. exécuter une manœuvre
+bien ‘simple : . il déga-
+. gera ses pieds des pa-
+
+chouc entourés : d'une En haüt: Patinage agiatique sur le lac de Grosswusterivilz. +ins aquatiques. par un
+
+enveloppe ‘dè toile à
+“voile. : Inutile. d'ajouter.
+
+que les patins dégonflés sont remis avec : ta même
+ae UE, de sauvetage
+
+
+
+rapidité er en “état: Lo Servir.
+
+
+
+. Au milieu :
+
+Droits reservés au Cnam et à ses partenaires
+
+Un patin démonté pour la route,
+En bas i Le palin preumabique Monte. _
+
+mouvement, rapide et très
+facile, pour se sauver
+
+à -la nage, en se servant des patins . comme. bouées
+
+DA. GRADENWITZ.. |
+
++
+
+
+
+© Le Gérant. PMassox, — Imprimer LautRe, re de Fleurus, 9, à Paris,LA NATURE.
+
+Il est. clair que l’on diminuerait grandement la | masse de 1 kilogramme environ
+
+gravité de très
+
+nombreux acci-
+
+derits si l'on pou-
+vait empêcher les
+morceaux de
+verre de se sépa-
+rer, quelques-
+uns restant en-
+castrés dont les
+pointes et bords
+fort  tranchants
+_créent constam-
+ment de redou-
+tables blessures.
+
+On a, dans ce
+but, imaginé un
+verre dit « tri-
+plex » fabriqué
+de Ia manière
+suivante : on
+prend deux lames
+de verre dont on
+enduit une face
+d'une légère cou-
+che de gélatine ;
+on place les deux
+lames, gélatines
+vis-à-vis, en in-
+
+terposant une couche très mince
+de celluloïd ; on passe le tout sous
+la presse hydraulique pour obte-
+nir une bonne soudure.
+
+— N° 2047.
+
+LE VERRE TRIPLEX
+
+Fig. I, J De
+Expér ience de bris de verre à
+avec du verre triplex. Ë
+
+—
+
+| 7 Fig. 2.
+
+conditions, le
+verre crdinaire
+vole en éclais,
+
+
+
+La masse de verré qui sort de -
+la presse est aussi transparente, pour un œil non | Ilest évident qu'une pareille vitrerie est appelée à
+
+prévenu, qu'un verre ordinaire; mais, dans quelle
+
+mesure ces CoU-
+ches internes
+vont-elles souder
+et augmenter la
+solidité? C'est à
+quoi l'expérien-
+ce, seule, peut
+répondre.
+Pour  organi-
+ser. les  expé-
+riences, il suffit
+d'encastrer le
+verre. dans un
+
+_ châssis et, grâce
+
+à un mouvement
+
+pendulaire, : de
+
+faire tomber des-
+
+sus. une. boule’.
+
+métallique.
+Pour toute vi-
+
+trérie ordinaire, soit en. verre | simple glace ou .
+verte: -demi-double, ‘ Je verre vole en éclats avec une.
+
+49° année, — 2° semestre,
+
+Fig. 3, — — Poinçon et marteau enfoncés dans du verre iriplex.
+
+Droits reservés au Cnam et à ses partenaires
+
+- Dans les mémes .
+
+
+
+
+
+17 AOÛT (1912;
+
+tombant de 3. à
+4 mètres (fig. 2);
+
+‘le verre. triplex,
+
+lui, est légère-
+ment embouti,
+mais, il résiste à
+un parcil choc.et
+les morceaux. ne
+sont point : sépa-
+rés : l'énergie du
+boulet ‘est alors
+absorbée dans un
+beäucoup plus
+grand nombre:de
+fractures, mais
+les morceaux res-
+tent adhérents à
+cause de ces gé-
+latines intermé-
+diaires — et c'est
+ce qui importe le
+plus au point de
+vue des accidents
+(fig. 1).
+
++ D'une manière
+| générale, | dans
+
+toutes les expériences, le verre
+est ‘très “pulvérisé ‘au point de :
+
+. choc et aux environs, ce qui en-
+
+traîne une grande absorption d'é-
+nergie : on s'en rend très bien
+
+compte sur la figure 3
+
+; représen-
+
+tant l'effet d'un poinçon et d'un
+marteau dansune vitre de triplex.
+
+
+
+ï
+
+. ves blessures. L
+
+rendre les plus grands services dans les voitures,
+
+automobiles,
+voitures publi-
+ques, chemins de.
+fer ; car, outre le
+
+choc direct, le.
+
+choc en retour,
+ou arrêt brus-
+que, détermine
+
+la rupture dés
+
+verres : dans la
+
+plupart des ‘acei-
+
+dents, ‘et c'est
+
+aux morceaux de
+
+verre que sont
+
+dues, un grand.
+
+nombre de..gra-
+
+
+
+
+
+
+
+figure 4  repré-:
+sente une vitre
+de triplex qui a:
+
+_êté. lipidée de 4 ‘jets: on voit le résultat inté-
+ressant, puisque aucune pierre n'a réussi à travers
+
+42, — 11178
+
+ser la vitre ni
+à déterminer des
+éclats.
+Il est difficile
+de dire, dès à
+présent, quelles
+seront les con-
+séquences . d’une
+invention . aussi
+curieuse, et dont :
+les éffets dépas-
+sent, à Coup sûr,
+ce que l'on aü-
+rait pu prévoir
+en toute théorie ;
+les résultats
+intéressent, no-
+
+tamment, les. Compagnies
+
+Au-moment où les bains ‘de mer battent leur
+plein pour:le plus grand bien de tous, il est peut-
+être intéressant de ré quelques mots. des algues
+qui jonchent'les plages et’qui,-si on les connaissait
+mieux, pourr aient constituer pour beaucoup une at-
+traction de plus aux villégiatures estivales: La plu-
+part sont, en effet, d'une “élégance rare et affectent
+
+des formes que nous ne
+
+sorames pas accoutumés
+
+de rencontrer dans la
+floreterrestre. Mais, pour
+bien se rendre compte
+
+de leur délicatesse infi- .
+
+nie, il ne faut pas se
+contenter de les regarder
+
+telles qu'élles se trouvent
+
+sur la grève, c'est-à-dire
+en masses dépourvues du
+‘ moindre caractère esthé-
+
+tique I} faut-les mettre
+
+à flotter dans l'eau, après
+les avoir ägitées un peu
+pour permettre à leurs
+
+ramifications: enchevé-.
+
+trées de s'étaler. Pres-
+que toutes, en effet, sont
+
+. d’une grande mollesse et.
+
+. d’une. “densité égale à
+: celle de l’ eau, conditions
+favorables pour : donner
+
+à la flottaison un aspect
+
+léger.
+
+Pour conserver ces
+jolies algues et en faire,
+
+LES ALGUES MARINES
+
+
+
+Fig. 4 — Une vitre de triplex après une vigoureuse lapidalion
+
+(aucune pierre n'a traversé la vitre).
+
+d'assurances contre | enfants peuvent être
+
+
+
+les accidents el
+l'on peut dire,
+d'une manière gé-
+nérale, que c'est
+là unc invention
+utile, var c'est
+un bienfait réel,
+à tous les points
+de vue, qu'un
+procédé permet-
+tant de dimi-
+nuer la gravité
+“des accidents :
+bien des vitreries
+seront faites en
+triplex, là où,
+par exemple, des
+
+amenés à jouer.
+
+--k-peu-de frais, -une-magnifique-collection, rien n'est
+plus facile. En principe, voici comment l'on procède.
+On rapporte l'algue à la maison et on la met dans
+de l'eau de mer ou, mieux, dans de l’eau douce, en
+l'agitant un peu de manière à faire tomber le sable
+et les coquilles qui, généralement, adhèrent à leur
+surface, Ceci fait, si, comme cela est fréquent, la
+
+touffe est 1rop grosse, on
+en détache un fragment,
+choisi parmi les plus
+caractéristiques par leur
+forme et leur couleur.
+On place ensuite ce frag-
+ment dans une assiette,
+un large plat creux ou,
+
+mieux, une cuvette pho-
+
+tographique, le tout rem-
+pli d'eau -douce. et, au
+fond du récipient, . dans
+
+l'eau même, on glisse
+
+uñe feuille de papier éco-
+lier assez fort et de di-
+mensions suffisantes pour
+
+qu'elle soit entièrement
+
+immergée. C'est alors
+qu'on étale l’algue, soit à
+la main, soit avec un petit
+bout de bois:ou un pin-
+ceau, de manière qu'elle
+occupe lemilieu du papier
+et ait un aspect agréable.
+Ce résultat obtenu, on
+prend la feuille de papier
+par deux angles opposés et

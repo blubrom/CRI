@@ -1,0 +1,1990 @@
+RÉCRÉATIONS MATHÉMATIQUES
+
+TL 513
+
+SOLUTION DES PROBLÈMES PROPOSÉS DANS ‘ LA NATURE ‘
+DU 1* MARS 1934 (N° 2924)
+
+Reprenons l'énoncé des problèmes proposés et nous emprun-
+terons les solutions à M. Alban À, du Collège Champagnat,
+à Alep (Syrie).
+
+Problème A. On dispose de 5 corps de poids représentés
+par des nombres entiers de kg pour peser tous les poids de 1 kg
+à 421 kg inclus par combinaisons de ces cinq corps. Quels sont
+les poids respectifs de ces cinq corps ?
+
+Avec un poids de 4 kg on peut peser 1 kg. Pour peser 2 kg
+prenons un poids de 1 kg et un de 38 kg. Avec deux corps
+pesant 1 kg et 3 kg on peut peser tous les poids de 1 kg à 4 kg.
+
+Pour peser 5 kg mettons 1 kg et 3 kg dans un plateau et
+9 kg dans l’autre,
+
+Avec trois corps pesant 1 kg, 3 kg et 9 kg on peut peser les
+poids de 1 kg à 13 kg.
+
+Pour peser 14 kg mettons 1 kg, 3 kg, et 9 kg dans un plateau
+et 27 dans l'autre.
+
+Avec quatre corps pesant 1 kg, 3 kg, 9 kg et 27 kg on peut
+peser les poids de 1 kg à 40 kg.
+
+Pour peser 41 kg mettons 1 kg, 3 kg, 9 kg, 27 kg dans un
+plateau et 81 kg dans l’autre.
+
+Avec cinq corps pesant 1 kg, 3 kg, 9 kg. 27 kg et 81 kg on
+peut peser les poids de 4 kg à 121 kg.
+
+Remarque. — Les nombres 1, 3, 9, 27, 81...
+progression géométrique de raison 3 dont la somme des
+termes est 121.
+
+On peut établir la règle suivante :
+
+Avec les combinaisons des nombres formant la progression
+
+2 14:8:9:27 : 81: : gun t
+on peut obtenir par addition ou soustraction toute la suite
+
+311,
+des nombres de 1 à ou de À à —
+
+forment une
+
+Les poids renpectifs ‘dos cinq corps sont :
+1kg 3kg 9kg 27 kg et 81 kg.
+
+Problème B. — Lu hauteur d'un escalier est comprise enire
+3 m et à m. Sans atteindre le haut, on monte la moitié des
+marches, puis le tiers de ce qui reste, enfin le 1/8 du second
+reste. .
+
+Chaque marche mesure 0 m 16 de hauteur. Quelle est la
+hauteur totale de l'escalier.
+
+. . 1
+On monte la moitié des marches, il reste 3
+
+4 1 4
+
+On monte ensuite le 1/3 de ce reste 3 X 3 = s'
+: 1 _1
+il reste 5 — 2
+
+On monte ensuite le 1/8 de ce reste et on n'a pas encore
+
+atteint le haut.
+
+Cette dernière donnée indique que le tiers du nombre de
+marches est un nombre divisible par 8, donc le nombre de
+marches est divisible par 8 X 3 — 24.
+
+Le nombre de marches de l'escalier est 24 ou un multiple .
+
+de 24. .
+La hauteur de l'escalier étant comprise entre 3 m et # m
+
+ne peut être que 0 m 16 X 24 — 3 m 84.
+
+Problème C, — Ily a duns cette famille un grand-père, une
+grand'mère, un beau-père, une belle-mère, un gendre, trois
+filles, quatre fils, deux pères, deux mères, trois pelits- fils,
+
+deux petites-filles, quaire frères, trois sœurs, deux beaux-frères,
+deux maris, deux épouses, un oncle, trois neveux et deux nièces.
+En tout 40 personnes? Non, 10 seulement! On demande la
+composition de l1 famille,
+
+Le tableau généalogique suivant donne la solution
+
+Pierre — Marie
+
+IT.
+TT |
+Antoine Catherine — Louis
+——_ d ————
+!
+
+| | Î
+Lucien, Paul Joseph Elise Julie,
+
+M. Vassard, ingénieur-chimiste à Paris, traduit spirituelle-
+ment le sévère tableau généalogique ci-dessus,
+
+Monsieur et Madame affligés d'un garçon misopgyne eL
+d'une charmante héritière sans dot ont réussi autrefois à jeter
+celle-ci dans les bras d'un « beau parti » qu’elle a rendu père
+de ? jumelles et de 3 garnements.
+
+Beaucoup de nos correspondants ont envoyé des solutions.
+Plusieurs de ces correspondants sont des coloniaux que « La
+Nature » va instruire et distraire dans leur brousse,
+
+Ont résolu les problèmes À, B et C :
+
+Elèves de la classe de première du petit séminaire de Troyes,
+Abbé Chevallier, curé de St-Martin-le-Gaillard ($Seine-Infé-
+rieure), Biothet, professeur de sciences à Orléans; Marius
+Houlier, à Paris; Huber, ingénieur à Elisabethville-Katunga
+(Congo Belge); Melignon, ingénieur civil des Mines, à Jadol-
+ville (Congo Belge); Schielé, séminaire de Val, près le Puy
+(Haute-Loire); Gioux, ingénieur T. P, E. Aubière (Puy-de-
+Dôme); Croquennec, au port de Sucy-en-Brie; Paul Souret,
+au cercle Radio-France Section de Villechesnes (S.-et-0.);
+Ducôté, 2714, rue de Créqui, Lyon; René Tatou, Ecole normale
+Charleville: Jean Vessereau, à Chateauroux; Docteur Mon-
+thélie, Passy, Paris; Pierre Aussems, Woluwe Bruxelles;
+Alban B., collège Champagnat, Aiep (Syrie); Henri Moraud,
+Professeur institution Ste-Marie, Riom (Puy-de-Dôme);
+Merx, ingénieur à Ways; Chagnande, ingénieur à Thiais
+(Seine); Port, ingénieur-mécanicien, Brest; Mme Béguin,
+Neufchâtel (Suisse); Julius Sinu\en, à Barcelone (Espagne);
+Bodart, à Nice; Mocquais, lieutenant de vaisseau à Toulon
+(Var); Vène, élève de première, à Châlons-sur-Marne; Bouleau
+Jacques, Ecole nationale de Châlons-sur-Marne; G. Bloch-
+Lafon, pharmacien, Paris; Vincent Bieswal, ingénieur à
+Bruxelles, L. Emir al Cor, Vassard, ingénieur-chimiste, Paris;
+Hibon, à Paris: Louis Roller, juge honoraire, à Bordeaux.
+
+Les problèmes À et B. — MM. Maurice Cavalier, instituteur
+Frontignan (Hérault); Stolz, à Niederbronn les-Bains; Audi-
+bert Gustave, élève de 117 B, au lycée de Toulon.
+
+Les problèmes B et C. — MM. C. Baux, à Sarrebourg;
+J. Loubatien, élève de philosophie à Metz; D. Kakra, à
+Djebourat (Maroc); Mimoso Serra, lieutenant de cavalerie
+à Lisbonne; Roger Marin, instituteur à Artaix (Saône-et-
+Loire}; Docteur Cornet à Amiens; Houliez à Paris; Jean Gay-
+Chabannais (Charente); Commandant P. Schuetz, à Metz;
+Docteur Jean Marmey, Rabat (Maroc); R. Couez, étudiant
+à Mons (Belgique); Luc Lesage, Les Mureaux ($.-et-0.).
+
+Le problème À. — Lieutenant de vaisseau Fournage, com-
+mandant le sous-marin Joesel à Saïgon; M. Guénin, Collonges
+
+Droits reservés au Cnam et à ses partenaires=== 514
+
+ 
+
+Fig. 1.
+
+sous-Salève; Rob. d’Albignac, avocat, Paris; Roy, Cercle des
+Beaux-Arts, Nantes: Henri Jourdan, à Golat (Isère).
+
+Le problème B. — Mlle Gonsague du Breil de Pontbriant,
+élève de mathématique élém., Paris; Ledonne, à Lussault
+(Indre-et-Loire).
+
+Le problème C. — Mlle Monique Descamps Linselles;
+(Nord); M. Jacq. Heber, Caen (Calvados) (13 ans 1/2)..
+*#
+
+Voici maintenant les récréations proposées à nos sagaces
+lecteurs :
+
+ 
+
+PLIAGES DE PAPIER
+
+ 
+
+ 
+
+À, — Déterminer en nombres entiers les côtés d’un triangle
+rectangle tel que son périmètre soit égal au nombre qui exprime
+sa surface et que son hypothénuse et le grand côté de l'angle
+droit soient exprimés par des nombres consécutifs.
+
+M. Arnaud, de Marseille.
+
+B. — Un imprimeur avait à imprimer le produit de deux
+puissances a! c et le compositeur a imprimé simplement
+a be d, un nombre de # chiffres.
+
+Par extraordinaire ce nombre est le même que celui du
+produit ci-dessus. Quel est ce nombre ?
+
+La solution sera vraisemblablement beaucoup plus longue
+que ce court et insidieux problème. Il présente ce curieux
+caractère qu’il ne comporte aucun chiffre et que la solution
+est un nombre de 4 chiffres, (Le Sphinx).
+
+C. — Un problème ancien très facile que nous citons pour
+son ancienneté : il s'appelle problème de Léonard de Pise,
+
+Nous l’empruntons au très complet et intéressant ouvrage
+de M. Ghersi Halo, Mathematica dilettevole et curiosa (Milan,
+1929). |
+
+« Deux tours À et B, hautes l’une de 30 pas, l’autre de 40,
+sont distantes de 50 pas. Entre elles se trouve une fontaine F
+vers laquelle se dirigent deux oiseaux animés de la même
+vitesse et qui y parviennent en même temps. Quelle est la
+distance horizontale du centre de la fontaine à la base des
+2 tours? (Liber Abaci, 1202, Léonardo di Pisa) » (fig. 1).
+
+VinGize Branxpicour.
+
+ 
+
+ 
+
+LA BOITE A AIR
+
+Ce petit pliage est facile à faire et avec un peu d'attention
+on y arrive immédiatement, ce qui n'est pas toujours le cas
+pour certains pliages compliqués. Ce que celui-ci a d’intéressant
+c'est qu'avec une manipulation simple on arrive à un résultat
+curieux et imprévu.
+
+Il est bon de choisir un papier léger, mais souple; ici la
+résistance du papier n'a pas une grande importance car iln'y a
+pas lieu de plier et de replier en tous sens dans les mêmes plis
+comme cela arrive
+quelquefois.
+
+Prenez un papier
+bien carré et ainsi
+qu'il estindiqué dans
+la fig. 1 (premier état)
+pliez suivant les dia-
+gonales AB et BA en
+marquant fortement
+les plis. Ces deux plis
+doivent être faits sur
+une même face de la
+feuille, Retourenz
+celle-ci et sur l’autre face marquez le pli MM qui indique la
+ligne médiane du carré. Reprenez la feuille à plat et mettant le
+pli MM, le creux en dessus, rapprochez par en dessous les
+points MM. Les points AA rejoindront les points BB et vous
+aurez le triangle BCB du premier état.
+
+Dans le deuxième état (pour la clarté du dessin les propor-
+tions du début n’ont pas été gardées) le carré que nous obte-
+nons en relevant les quatre pointes BBAA sur C suivant PO
+doit être le quart du carré primitif. Amenons les quatre
+
+ 
+
+Fig. 2. — %* éiat.
+
+ 
+
+pointes PPPP vers le
+centre et appuyons
+fortement les plis.
+
+Les quatre pointes
+BB et AA qui sont en
+C vont nous servir à
+fixer tout l'appareil :
+au bas de chacune de
+ces pointes, vous
+voyez en PR un pli
+ouvert.  Introduisez
+chaque pointe dans son pli et vous aurez terminé la boîte à
+air.
+
+Pour produire l'effet curieux qu’elle peut donner, retournez
+le pliage de haut en bas. Le point C étant en bas et S en haut;
+vous apercevez en $ une ou-
+verture et vous constatez que
+le pliage terminé forme comme
+quatre ailettes. Dégagez un
+peu ces quatre ailettes en in-
+troduisant les doigts entre
+elles et soufflez dans l'’ouver-
+ture S. Vous verrez le pliage
+se gonfler, la base C s’aplatir
+et le tout prendre la forme
+cubique de la figure d'en-
+semble ci-contre.
+
+ 
+
+ 
+
+Fig. 1. — La boîle à air : 1% état,
+
+Fig. 3. Vue d'ensemble.
+
+Le prestidigituteur
+
+ 
+
+ALBER.
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesDes observateurs, chaque jour plus combattus par les faits,
+assurent que les bêtes ne sont dirigées que par leurinstinet et ne
+font donc preuve d'aucune espèce de psychologie person-
+nelle.
+
+D'autres observateurs, bien au contraire disent : « Les bêtes
+ont une intelligence et un cœur, elles sont psychologues, mais
+
+souvent nous sommes trop étourdis pour les comprendre »,
+
+Voilà où est la vérité. Des milliers de faïts le prouvent.
+
+Il est bien évident qu'il ne peut s'agir ici que des espèces
+animales dites supérieures, c’est-à-dire de celles ayant une
+masse cérébrale suffisante pour penser, réfléchir, agir et
+s'attacher.
+
+Pour les autres espèces, il est tout à fait juste de dire que
+l'instinct seul les guide, et même parfois un instinct tout à
+fait rudimentaire,
+
+Parmi les animaux supérieurs le chien et certaines espèces de
+singes semblent être ceux qui comprennent le mieux l’homme
+et s'adaptent le plus aisément à sa vie.
+
+Les fauves qui sont généralement mal observés apportent
+eux aussi à la documentation animale un nombre important
+de faits et de gestes dignes de remarques.
+
+Je ne citerai pas ici de faits qui m'aient été rapportés, mais
+simplement des faits que j'ai observés moi-même, directement
+sur des animaux m'appartenant, m'ayant appartenu, m'ayant
+été personnellement confiés, ou que j'ai eu loisir de longuement
+observer.
+
+Les chiens — les plus intelligents et les plus humains de
+tous — les chats, les lions, les hyènes, les tigres, les chim-
+panzés, les panthères, une guenon du Gabon formeront la
+base des faits que je vais relater ici.
+
+Entrons tout de suite dans le vif du sujet et commençons
+par parler des chiens.
+
+Kiki était un chien perdu, affamé, blessé gravement, rongé
+de gale, on allait l’abattre, je l'ai recueilli. Griffon bruxellois
+à poils durs, d'une intelligence remarquable, il est encorem on
+meilleur compagnon. Son histoire est simple et merveilleuse :
+elle commence par la méfiance, elle se termine par un amour
+absolu et un attachement aveugle, La voici : il y a deux ans de
+cela, Porte Maillot, un rassemblement. Qu’y a-t-11 ? Un chien
+perdu, affreux à voir. Les badauds l’observent. Il va, il va.
+Il court vers le boulevard Pereire, s'y engage, entre dans
+chaque porte cochère, le côté ouvert, couvert de sang, les
+yeux hagards, sentant la dureté du cœur des hommes. D'où
+vient-il? Comment a-t-il traversé le fourmillement des
+voitures de la Porte Maillot ? Nul ne le sait !
+
+Ce qu'il y a de sûr, c'est que les hommes ne veulent pas le
+sauver. Voici ce qu'ils disent :
+
+— Il faut le tuer!
+
+— Allons chercher un agent, la Fourrière n'est pas faite
+pour rien |
+
+— Il est pourri de vermine !
+
+— I] doit être enragé !
+
+— Le service de la Fourrière est: mal fait, on ne devrait pas
+laisser circuler des bêtes dans un état pareil |
+
+Je n'ai rien dit. J’ai simplement constaté que personne n'a
+proposé : « on pourrait peut-être essayer de le sauver ! »
+
+Je me suis approché du chien, il s’est enfui. Je l’ai appelé,
+il n’a pas répondu à mon appel. J’ai insisté, restant immobile.
+Il s’est assis.
+
+J'ai appelé à nouveau doucement, toujours sans bouger : le
+chien est venu boitillant, pauvre chose sanglante et perdue.
+
+Il m'a regardé, les veux effrayés, tremblant de tous ses
+membres, la langue désespérément pendante.
+
+Il a accepté que ma main le caresse.
+
+LA PSYCHOLOGIE DES BÊTES
+
+ 
+
+515
+
+ 
+
+ns
+
+Je lui ai dit « Viens ! » — Comme Je l'aurais dit à un être
+humain. Le chien m'a suivi, enveloppé de sa misère. Depuis,
+il ne m'a jamaiïs quitté.
+
+Il a été soigné, guéri, réconforté. Il est superbe et plein
+de santé : il vit à nos côtés à chaque instant de mon existence,
+il est doué d'une psychologie pénétrante, de dons d’observa-
+tion remarquables, d'une âme dont il est bien difficile de
+contester l'existence.
+
+Lorsqu'il arriva chez moi, il accepta sans cris les soins
+douloureux que je dus lui donner, refusa toute nourriture et
+toute boisson, mais brûlé de fièvre et fourbu, dormit vingt-
+quatre heures de rang. Lorsqu'on le mena chez le vétérinaire
+— car les soins de tous instants que nécessitait son état ne
+permettaient pas de le soigner à la maison —- il refusa toute
+nourriture en mon absence : première preuve d’attachement.
+
+Lorsqu'il eut pris l'habitude de mes visites il mangea, que je
+sois là ou que je n'y sois pas, car il avait la certitude que
+j'allais venir : première preuve de réflexion, de mémoire et de
+jugement.
+
+Guéri après six mois de soins, il s'installa chez moi. Il
+observa avec soin les habitudes de ses maîtres, explora l’appar-
+tement et se choisit un jouet : une enveloppe de ballon de
+water polo et un endroit pour dormir, un vieux fauteuil rond.
+Lorsque nous déménageâmes, Kiki. installé dans son nouveau
+domaine, chercha son enveloppe de ballon et son fauteuil
+parmi les colis et il ne se retrouva à son aise que lorsqu'on
+l'eut mis en possession des deux objets : deuxième preuve de
+mémoire, première preuve d'initiative.
+
+Je recueillis une chatte abandonnée et ses deux petits. La
+chatte se tua en tombant de mon balcon : je la remontai chez
+moi blessée, elle mourut malheureusement quelques jours
+après; Kiki la vit souffrir et lorsqu'elle partit pour toujours, le
+chien adopta les deux petits chats, les soigna, leur fit chaque
+jour leur toilette à grands coups de langue et chaque soir les
+força à dormir entre ses pattes. Je recueillis ensuite un Groen-
+landal, jeune et fort. Kiki se considérant à juste titre comme
+l’ancien mit le nouvel arrivant rapidement au pas, lui apprit
+à manger après lui, lui défendit l'accès de son fauteuil, lui
+interdit de bousculer les deux jeunes chats : Black qui n'aurait
+fait qu'une bouchée de Kiki lui obéit, dès le début, comme un
+soldat à son caporal : « L'Ancien » avait fait preuve en agissant
+ainsi, de qualités d'observation, d'initiative, d'autorité, de pro-
+tection des faibles.
+
+Attachement, réflexion, mémoire, jugement, initiative,
+autorité, protection des faibles ne sont-ce pas là des qualités
+qui sont à la base d'une bonne psychologie ? Et ne faut-il pas
+à une bête des qualités d'intelligence se rapprochant singu-
+lièrement de celles de l'homme pour faire preuve d'un tel
+discernement? En dehors de toutes ces qualités, Kiki possède
+une mémoire visuelle singulière. En voici une preuve. Pilotant
+pour mon plaisir je l’emmenai à l'aérodrome; l'ayant fait voler
+une fois je le laissai ensuite à terre un mois durant. Il n’a
+jamais confondu mon avion avec un autre et lorsqu'au ras
+du sol il voit l’appareil près de se poser, il manifeste sa joie
+en aboyant. Un autre avion atterrit-il ? Kiki ne bouge pas.
+Il connaît tous mes amis, mais il ignore volontairement les
+étrangers, les considérant comme des intrus. Et du matin
+au soir il nous étonne par mille traits qu'il serait trop long
+d'enregistrer ici.
+
+Avant lui j'avais mon chien de guerre. Le seul jour où ie ne
+le pris pas à bord de mon avion il sauta dans l’hélice au moment
+du départ de Béthune à la bataille d'Artois. Grièvement blessé,
+il mit six mois à se remettre. Revenu à l’escadrille, il reprit
+« joyeusement du service » et mourut de sa belle mort bien après
+
+ro
+oo
+
+Droits reservés au Cnam et à ses partenairesAus AE DRE ——_—_—_————"—_—_—_——
+
+la guerre, étant toujours resté indifférent aux obus et aux balles
+de mitrailleuses,
+
+Mes chats sont deux personnages réservés, intelligents, et
+très distants. Ils observent tout : ils savent entre autres choses
+que certains rideaux, solides, sont propres à leur gymnastique
+tandis que d’autres plus faibles ne s'y prêtent guère. Ils
+préfèrent donc les premiers aux seconds, ils savent l'heure à
+laquelle je rentre et m'attendent, ils savent parfaitement que
+lorsque je me couche tard ils ne doivent pas me réveiller de
+bonne heure; avant eux j'avais une chatte qui lorsque j'écri-
+vais mes articles journaliers après le dîner ne laissait jamais
+passer minuit sans flanquer tous les feuillets par terre : il était
+l'heure d’aller se coucher et elle me le faisait bien voir. Elle
+estimait que pour elle l’heure d'aller dormir avait sonné et
+qu'il était inutile que je veille au delà.
+
+Et nous voici maintenant arrivés aux fauves :
+peu observés, les dompteurs les dressent mécaniquement.
+Les fauves dressés sontle plus souvent des automates dont on
+n'a guère cherché à éveiller l'intelligence mais auxquels
+simplement on a appris à obéir.
+
+Avec mes camarades Thétard et Dalgara, je pense bien être
+le seul journaliste à avoir dressé des fauves et à les avoir
+présentés en public. J'avoue que ce n’est pas au cours de ces
+présentations que j'ai passé mes plus belles heures : c’est loin
+du public, même pas à l’entraînement, mais simplement
+lorsque je me trouvais dans la cage avec mes dangereux amis
+sans rien faire, assis sur un tabouret, simplement occupé à les
+observer. Plusieurs professionnels m'ont prédit un accident
+grave devant survenir un jour comme conséquence de ma trop
+grande confiance : l'accident n'est jamais arrivé.
+
+Pendant plusieurs mois Sarah Caryth et Gino Spiny (ce
+dernier prématurément disparu) m'ont confié deux lionnes et
+un lion. Des deux lionnes je ne dirai rien car elles étaient la
+douceur même. Le lion avait blessé plusieurs fois son dompteur
+et sa dompteuse, il avait rendu le même service à plusieurs
+garçons de cage, bref on l’avait pris en grippe. En dehors des
+heures du repas et de travail on le délaissait : la solitude
+l’amena à haïr les hommes qui le mettaient constamment en
+quarantaine. Je m'y intéressai. La première prise decontact à
+travers les barreaux fut plutôt froide, de jour en jour les
+choses se présentèrent mieux.
+
+Je sentais que le lion m'étudiait. Nous devinmes unjour
+suifisamment amis pour que je tente une entrée en Cage avec
+mon mystérieux partenaire. Elle se passa le mieux du monde :
+nous ne nous fîimes pas d’amabilités évidemment, mais enfin
+sans être chaud, l'accueil du roi des animaux fut correct.
+
+La seconde entrée de cage se passa sans fouet et Prince vint
+s’affaler à mes pieds où il s’endormit tandis que je lisais mon
+journal.
+
+Lors de la troisième entrée il vint boire son lait dans une
+jarre que j'avais disposée entre mes jambes.
+
+À la quatrième il posait son énorme tête sur mes genoux.
+
+À la cinquième nous commençâmes le travail qu'il faisait
+de mauvaise grâce avec son dompteur habituel.
+
+Cela se passa très bien. Nous vécümes ainsi en excellente
+intelligence jusqu’au jour où un commencement de paralysie
+empêcha Prince de travailler.
+
+Beaucoup de professionnels n'ont pas voulu admettre les
+faits cités plus haut, Sarah Caryth qui y assista peut cependant
+encore en témoigner. Quant à Prince on dut le tuer l’an dernier
+pour lui éviter de terribles souffrances aux mâchoires survenues
+à la suite d'un abcès inguérissable.
+
+Il est bien simple de comprendre ce qui s'était passé : le lion
+était délaissé, j'étais pour lui une distraction. Je ne l’ai jamais
+frappé, j'étais donc un ami, il s’était habitué à ma voix : il
+s'était tout naturellement attaché à moi. Il n’y a pas de
+
+on les a très
+
+mystère : le lion avait observé, jugé, compris, il avait adopté
+un ami, Psychologie élémentaire si l'on veut, mais psychologie
+tout de même.
+
+Bouky, la hyène était affreusement peureuse. Elle sautait
+fort bien la barrière sous la menace du fouet, c'était tout ce
+qu'elle savait faire. Comment un jour me suis-je aperçu qu'elle
+aimait le sucre ? Je n'en sais rien. Toujours est-il que sans
+que je lui ai jamais appris, elle venait prendre son morceau de
+sucre sur mes lèvres : elle ne m'a jamais mordu. Elle ne voulut
+jamais le faire à son dompteur.
+
+Explication : J’avais passé de longues heures seul avec
+Bouky, elle ne connut jamais de moi que des caresses, je lui
+avais donné le temps de m'observer.
+
+Bengali, le tigre meurtrier qui dévora deux de ses dompteurs,
+se montra doux comme un agneau le jour où on le confia à une
+dompteuse. Il ne la blessa jamais. Le jour où on le remit entre
+les mains d'un homme, il redevint dangereux sans toutefois
+mettre à son actif de nouveaux actes sanguinaires. Ce fauve
+qui était véritablement colossal ne pardonnait aucune faute
+de dressage et ratait rarement un homme qui lui tournait le dos.
+
+Homo le chimpanzé a vu chez son maître des ouvriers
+enfoncer des clous. Il a appris tout seul à en faire autant. On
+lui à acheté une pendule : il l'a entendue sonner. Près de lui
+on a installé un gong et comme il veut faire plus de bruit que
+la pendule, il tape sur le gong quand la pendule sonne. Un jour
+on lui a supprimé la pendule : à midi, depuis ce jour-là, :l
+tape sur le gong pour appeler tout le monde à table. Il ouvre
+ou ferme la porte, il ouvre aux invités et les prend par la main,
+il les conduit vers son maître. On ne lui.a jamais rien appris,
+on l'a laissé comprendre, observer et juger. Il s'est organisé une
+vie comme un homme : il est sensible et tendre, attentif et
+intelligent, observateur et sensitif.
+
+J'ai connu Pouny la Panthère toute petite, puis. je l'ai
+quittée. J'e l'ai revue à des intervalles de plus en plus éloignés :
+elle m'a toujours reconnu, elle a quinze ans maintenant, nos
+rencontres sont toujours aussi affectueuses que par le passé :
+mémoire el attachement,
+
+Grigri la guenon du Gabon a l'âme d’une courtisane et le
+palais d’un gourmet. Pour se faire offrir un petit verre de rhum
+elle embrasse plus que quiconque, et elle est tellement occupée
+à boire son rhum qu’elle méprise les lions qui rôdent autour de
+son maître tandis qu’elle est accrochée à son cou. La cage
+centrale est un paradis terrestre pour elle tant qu'il y a à boire :
+supprimez le rhum, elle s'enfuit à toute vitesse, s’infiltre à
+travers les barreaux et s’installe au premier rang des fauteuils.
+Chez elle la gourmandise est plus forte que la peur, elle le sait
+mais elle s'y adonne malgré les risques : discernement.
+
+Les quelques exemples qui viennent de passer sous vos
+yeux vous démontrent, je pense, qu’il existe bien une psycho-
+logie des bêtes. Il suffit de prendre la peine de l’observer.
+
+Sur chacun des cas que je viens d'exposer je me suis peu
+étendu, la place nous manque.
+
+Ce qu’on peut écrire sans crainte de se tromper c’est que les
+animaux sont beaucoup plus intelligents que nous ne le pensons
+généralement.
+
+On ne peut comprendre leur intelligence qu'en vivant
+constamment avec eux, en leur parlant, en leur permettant
+dans la plus large mesure du possible de vivre réellement notre
+vie,
+
+On comprend alors comment ils peuvent souffrir, connaître
+comme nous la joie et l'affection, les désespoirs et les désillu-
+sions.
+
+Avez-vous déjà regardé attentivement les yeux d’un chien
+qui revoit son maître après une longue absence ? Ne sont-ils
+pas humains ces yeux-là, et ne cachent-ils pas une âme ?
+
+Allons donc ! .
+RAYMOND SALADIN,
+
+6
+EJJo>YZYTYTY,- OZ
+
+Droits reservés au Cnam et à ses partenairesBULLETIN ASTRONOMIQUE
+
+ICT 517
+
+ 
+
+LA VOÜTE CÉLESTE EN JUILLET 1934 (1,
+
+Les nuits, en ce mois de juillet, sont courtes, mais un
+certain nombre de phénomènes célestes seront quand même
+observables. Citons la visibilité de Mercure et d'Uranus,
+un grand nombre de conjonctions de planètes, une belle
+occultation de & Sagittaire le 24 juillet, la lumière cendrée
+de la Lune, très belle du 21 au 23 juillet, le matin, et pour
+mémoire une éclipse partielle de Lune, le 26 juillet, réservée
+aux habitants de l'Amérique occidentale, de l'Australie et
+de l'Asie,
+
+I. Soleil. —- La déclinaison du Soleil, en juillet, diminue
+un peu et passe de + 280 9 le der à + 480 23° le 81. La
+durée du jour diminue également. Elle sera de 16" 4m Je
+4er et de 15% 9m le 31. Cette durée est celle de la présence
+du centre du Soleil au-dessus de l'horizon (voir le précédent
+« Bulletin astronomique »).
+
+Voici le temps moyen à midi vrai, c'est-à-dire l'heure exacte
+du passage du centre du Soleil au méridien de Paris :
+
+Dates.
+
+Juillet 1°
+
+Heure du passage.
+
+11% 54 114
+
+— 3 11 54 34
+— 5 11 54 56
+— 7 11 55 17
+— 9 41 55 36
+
+— 27 11 57
+— 29 11 56 5
+— 81 11 56 5
+
+Observations physiques. —
+
+L'apparition de quelques taches solaires à de hautes latitudes,
+en 1932 et surtout en 1933 semble indiquer une reprise de
+l'activité solaire {onze ans nous séparent bientôt du précé-
+dent minimum}.
+
+L'attention doit donc être portée sur l'apparition des
+taches à latitude élevée et on ne devra négliger aucune occasion
+d'observer la surface solaire, même avec de petites lunettes.
+Photographier cette surface aussi souvent que possible
+utiliser les plaques lentes pour positifs, qui donnent d'excel-
+lents résultats.
+
+Voici la suite des éphémérides pour l'orientation des dessins
+et des photographies :
+
+Dates (0* T, U.), P Bs Lo
+
+Juillet 5 — 19,17. + 30,38 160,32
+— 6 — (0,71 + 30,44 39,09
+— 10 + 42,10 + 39,86 310,15
+— 15 — 39,35 + 40,35 2439,98
+_— 20 — 50,57 + 40,82 177,82
+— 25 + 70,72 + 59,25 114,67
+
+1. Toutes les heures données dans ce « Bulletin astronomique »
+sont exprimées en lemps universel (T. U.) compté de Qt à 24h à partir
+de Ot (minuit). C'est le temps légal en France. Pendant la période
+d'application de l'heure d'été, ajouter 1h à toutes les heures indiquées ici.
+
+ 
+
+1
+9 Fig. 1, — Carte céleste montrant la marche de la planète Uranus
+5 sur le ciel pendant l'année 19384,
+
+Lumière zodiacale; lueur anti-solaire, — Les jours sont
+encore très longs et l'observation de ces lueurs célestes ne
+peut être entreprise ce mois-ci.
+
+II. Lune. — Les phases de la Lune, pendant le mois de
+juillet, se produiront comme suit :
+
+D. Q. le 3, à 201 28m | P. Q. le 19, à 181 53%
+
+N, L.le 11, à 17 6» | P. L. le 26, à 122 Qn
+
+Age de la Lune, le 1e juillet, à Or (T. U.) — 189; le 42 juillet,
+à 0 — 013. Pour avoir l’âge de la Lune, à une autre date du
+mois, ajouter À jour par jour écoulé depuis le 1 ou Je 12.
+Plus grandes déclinaisons de la Lune, en juillet : le 9, à 42»
+= + 270 7’: le 98 — — 9270 9°,
+
+On remarquera la faible hauteur de la Lune dans le ciel,
+le 24 juillet, lors de son passage au méridien, entre 10 et
+11% du soir.
+
+Apogée de la Lune (plus grande distance à la Terre}, le
+| 12 juillet, à 18 Parallaxe
+= 53" 57", Distance — 406 442
+km.
+
+Périgée de la Lune (plus
+petite distance à la Terre),
+le 26 juillet, à 10, Parallaxe
+— 6124", Distance — 357 132
+km.
+
+Occultation d'étoile par la
+Lune, — Le 24 juillet, occul-
+tation de l'étoile + Sagittaire
+(82,3) de 23 1,0 {immer-
+sion) à 23% 19,0 fémersion).
+L'Annuaireastronomique Flam-
+marion fait observer à propos
+de cette curieuse occultation
+que la Lune sera pleine le
+lendemain et qu’en raison de
+la faible durée de l'éclipse
+de l'étoile, il y aura simple-
+ment appulse vers la latitude de 389, Les observateurs du
+Sud de l'Italie (Calabre), de la Sicile, du Sud de l'Espagne
+(Murcie, Carthagène, Grenade, Cordoue, Séville) verront
+l'étoile frôler le bord de la Lune. L'observation sera encore
+très intéressante en Algérie et Tunisie.
+
+Pour les latitudes voisines de + 380, l'étoile restera plu-
+sieurs minutes en contact avec le bord de la Lune et on pourra
+assister peut-être à plusieurs occultations, l'étoile réappa-
+raissant dans les vallées lunaires et se trouvant cachée par
+les sommets.
+
+En France, l'étoile disparaîtra sur le limbe sud-sud-est,
+non éclairé et réapparaîtra 18 minutes après au limite sud.
+
+Très intéressant phénomène à observer même avec de petites
+lunettes.
+
+Eclipse partielle de Lune. — Une éclipse partielle de Lune,
+invisible en France, se produira le 26 juillet. Elle commencera
+à 9ù 51m et finira à 14 40%, Elle sera visible à l'Ouest de
+l'Amérique, dans l'Océan Pacifique, en Australie et en Asie.
+Sa grandeur sera de 0,667, le diamètre de la Lune étant pris
+pour unité.
+
+Marées, mascaret. — Les plus grandes marées du mois se
+produiront surtout à l’époque de la pleine Lune du 26.
+
+Voici quelques-unes de ces plus grandes marées pour Brest
+et le Havre
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires518
+
+Marée du matin. Marée du soir, Fraction du disque Magnitude
+
+Date, | TN 7 Dates. illuminée. Diamètre, stellaire,
+À Brest.| Au Havre.| Coeffic, || ,À Brest, | Au Havre.| Coeffie, —_ —_ — —
+| Juillet 5 0,044 11,6 + 2,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++ 9,4
+
+Juillet 26 | 3 27n | 8196 | 87 | 15: 590 | 20: 58 | 98 — 10 0,011 147,7 + 3,0
+— 971418 | 9 22 | 98 | 16 43 | 21 45 | 102 — 15 0,028 113 + 92,7
+— 9285 7 |10 9 |105 1417 29 | 22 31 | 106 — 20 0,083 10,4 + 2,0
+— 29/5 52 | 10 56 | 105 || 18 14 | 23 20 | 102 — 95 0,187 9,2 + 1,3
+— 3016 34 | 11 42 | 99/18 56 |: — 95 — 30 0,328 8”',0 + 0,6
+
+— 11718 |12 32 | 89 |19 39 o 7 | 8
+| Vénus est encore visible le matin dans l'aube. Elle présente
+maintenant une phase analogue au dessin n° 6 de la figure 1
+(« Bulletin astronomique », n° 2928, du 1er mai 1934).
+
+Voici un tableau analogue à celui-ci dessus, et se rapportant
+
+à Vénus :
+
+En raison de l'amplitude élevée des marées, le mascaret
+se produira comme suit :
+
+Arrivée du Mascaret à :
+
+|
+Coefficient |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pate. de la marée.| Quillebeuf. | Villequier. | Caudebec. Fraction du disque Magnitude
+—— | | nn Dates. illuminée. Diamètre. stellaire.
+1 ! 1 h mm h mm b m 1 TT TT TT
+Juillet 27 | 02 | 20% 45 20% 52 21 1 Juillet 5 0,803 13,2 3,4
+— 28 | 105 | 8 39 9 16 9 25 10 0 817 1918 34
+— 28 | 106 | 21 1 21 38 21 47 ni '
+= | — 15 0,831 12,6 — 3,4
+— 29 105 11 26 12 3 12 12 90 0 844 1913 34
+— 2 2 9 TT “ , ; TT dy
+29 10 21 50 | 22 27 22 36 __ 95 0.857 12/20 —_ 34
+À . — 30 0,869 111,8 — 3,4
+III. Planètes. — Le Tableau ci-après, dressé d'après les |
+renseignements publiés dans l'Annuaire Astronomique Flam- Mars est toujours inobservable, étant encore trop rapproché
+marion pour 193%, contient les données les plus importantes du Soleil. ‘
+pour rechercher et observer les planètes principales pendant Hébé, la petite planète n° 6, découverte par Encke le 1°
+le mois de juillet. | juillet 1847, est passé en opposition le 29 juin, comme nous
+Dates : Lever jte Coucher | Ascen- | Déclinai- | Diamètre Constellation.
+ASTRE à è de | à sion et VISIBILITE.
+Juillet. Paris. Pari Paris, | droite, son, apparent. étoile voisine,
+aris,
+| | TT
+5 3 59m | 112 Gäm 56%) 192 55m | 6 55m | + 29% 50'| 3130',8 Gémeaux
+Soleil 15 4 & |11 56 23119 49 7 36 |+ 21 36) 3131 2 Gémeaux »
+25 & 15 |11 57 0119 39 8 16 |+ 19 451 3132 8 Cancer }
+| 5 5 3 |12 32 20 1 7 34 |+ 17 51 11 6 Gémeaux
+Mercure . . 15 & 0 |11 28 18 55 7 9 |+ 17 35 11 2| À Gémeaux Le matin, à la fin dumois.
+25 3 6 |10 42 18 19 7 1 +19 8 9 2] À Gémeaux
+\ 5 | 146 | 9 27 |17 8 | 4 25 |+ 19 57] 13 8| e Taureau
+Vénus . 15 1 46 9 38 47 29 | 5 15 |+ 21 45 12 6 Taureau Le matin, dans l'aube.
+( 25 1 53 9 49 17 46 6 6 |+ 22 35 12 0! Gémeaux
+( 5 | 225 |10 29 18 32 | 5 28 |+ 23 39 3 8| C Taureau |
+Mars. . 15 2 14 | 10 19 18 24 5 57 |+ 28 57 3 8 Gémeaux ‘ Inobservable.
+{ 25 | 2 4 |40 9 18 14 | 6 27 |+ 23 55 3 8|u Gémeaux |
+Jupiter. . [45 11 36 | 17 17 22 57 [12 57 |— 4 45 33 6| y Vierge | Dès l'arrivée de la nuit.
+Saturne . 15 21 23 2 21 7 19 21 59 |— 13 46 16 6 Verseau Presque toute la nuit.
+Uranus. . | 15 |98 22 | 6 18 43 14 4 57 |+- 11 24 3 & Bélier Seconde partie de la nuit,
+Neptune. .| 15 8 27 | 15 8 21 50 |10 49 |+ 8 30 2 4 Lion Inobservable,
+| | Î |
+A ——— EE ——— — —…— —…—— —".—"…——"—…"…"…"…"…"…"… ……  — …." ….…. ….….—….…"—…  —— —…. _""_—" ——————" — _ _—_"—_—"—_—— —————_—_—_—_—_—_——"—— —
+Mercure sera en conjonction inférieure avec le Soleil le l'avons vu le mois dernier, et elle a atteint la magnitude 8,5.
+11 juillet à 12%. Il deviendra visible le matin à la fin du mois, Voici encore quelques positions où l’on pourra la rechercher
+dans d'assez bonnes conditions, sa plus grande élongation se en juillet :
+produisant le 1° août. Dates. Ascension droit ns
+Une petite lunette est nécessaire pour bien voir les phases —_ CÉRSO ro Péclnaison.
+de Mercure. Juillet 6 18 210,6 — 6045
+Voici un tableau donnant la phase, le diamètre et la gran- — 14 . 18 18 9 — DAQ
+deur stellaire de Mercure : — 22 18 7 1 — 8 44
+
+ 
+
+2
+1
+
+Droits reservés au Cnam et à ses partenairesHébé se trouvera en juillet dans la constellation du Serpent.
+
+Jupiter se trouvera en quadrature avec le Soleil le 7 juillet,
+à 3r, Pour l'observer, étant donné qu'il se couche à présent
+vers 23%, il conviendra de le faire dès l'arrivée de la nuit.
+
+Une petite lunette pérmet de bien voir Jupiter et ses
+quatre principaux satellites. Ceux-ci sont d’ailleurs bien
+visibles dans une bonne jumelle.
+
+On pourra encore observer quelques-uns des phénomènes
+produits par les satellites dans leur révolution autour de
+Jupiter, et dont voiei la liste pour juillet.
+
+Phénomènes du Système des Satellites de Jupiter.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date : | Satel- | Phéno- || Date: Satel- | Phéno-
+
+Juillet, : Heure. | jite. | mène. ||Juitlet. | Heure. | jite, | mène.
+20 47m IT P.f. 14 121 392! I P.f.
+20 53 II | P.c 19 121 9 II En.
+22 57 III ©. c 49 91 11 | IT
+
+| E. c.
+21 12125. I P.e.
+22 |20 49 | IIL | E.c.
+19 II | Im.
+28 20 25 II | O.f.
+
+ 
+
+ 
+
+EH 0 ©
+15
+a
+tS
+=
+
+ 
+
+ 
+
+t=
+
+a
+
+Æ
+
+>
+
+Hi
+
+mi
+
+as
+OR Om
+Bin LE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Saturne se trouvera en opposition le mois prochain et il
+est maintenant visible presque toute la nuit.
+Voici les éléments de l’anneau, à la date du 12 juillet :
+
+Grand axe extérieur. &1'',6
+Petit axe extérieur, . . . . . . . . . . . . . + 8,0
+Hauteur de la Terre au-dessus du plan de l'anneau, + 110,07
+Hauteur du Soleil au-dessus du plan de l'anneau. + 190,59
+
+Titan, le plus lumineux des satellites de Saturne, est
+visible aux époques de ses élongations maxima.
+En voiei la liste pour j'uillet :
+
+Dates. Elongation. Heure.
+Juillet 4 Orientale 215,7
+— 13 Occidentale 25,7
+
+— 20 Orientale 19,6
+
+— 29 Occidentale Où,4
+
+Uranus va se trouver, le 25 juillet, à {", en quadrature
+occidentale avec le Soleil. Il est visible dans la seconde partie
+de la nuit. La petite figure 1 représente sa marche sur le ciel
+pendant l’année. Une bonne jumelle suffit pour voir Uranus
+et certains observateurs, doués d’une bonne vue, parviennent
+à le suivre à l'œil nu.
+
+Neptune est maintenant pratiquement inobservable.
+
+ 
+
+ 
+
+ 
+
+NETTOYAGE DU MERCURE
+
+M, Callot, dans le Bulletin de l'Union des Physiciens, décrit le pro-
+cédé suivant qui donne, dit-il, de bons résultats.
+
+Verser sur la surface du mercure quelques gouttes de collodion, puis
+diluer avec de l'éther. Remuer la masse de mercure avec une baguette
+
+RECETTES ET PROCÉDÉS UTILES
+
+IV. Phénomènes divers. — Conjonctions :
+
+Le 5, à 13%, Uranus en conjonction avec la Lune, à 6° 7' S.
+Le 8, à 17, Vénus — — à 6° 1’ S.
+Le 9, à 19%, Mars — — à 3013’ S.
+Le 11, à 15%, Mercure — — à 6054’ S.
+Le 11, à 21t, Vénus — !: Taureau(4n,8)à 0 13" S.
+Le 16, à 5, Neptune — la Lune, à 30 57° N:
+Le 19, à 8*, Jupiter — — à 6°38' N:
+Le 25, à 21%, Vénus — ‘1 Gémeaux (3,7) à O 5° N.
+Le 27, à 108 Vénus — 4 Gémeaux (3%,2) à O0 5° N.
+Le 28, à 32, Saturne — la Lune, à 8011! S-
+
+Etoile polaire; Temps sidéral. — Voici quelques passages
+
+de l'Etoile polaire au méridien de Paris.
+Temps sidéral
+
+Dates. Passage. Heure (T. U.). à 0" (T. U.j (?).
+Juillet 10 Supérieur 62 19% 458 19 8n 55:
+— 20 — 5 40 37 19 48 21
+— 30 — 5 1 31 20 27 46
+Etoiles variables. — Minima d'éclat de l'étoile Algol, (8
+
+Persée}, variable de 27,2 à 3,5 en 2i 201 48m : le 19 juillet,
+à 22 24m; le 21, à 28% 13m,
+
+Maximum d'éclat de T Baleine, variable de 5,9 à 6,0,
+en 156 jours : le 19 juillet.
+
+Etoiles filantes. — Le mois de juillet marque une recru-
+descence du nombre des étoiles filantes, notamment par Je
+début, vers le 7 Juillet, de la chute des Perséides. Le radiant
+initial est situé vers « Cassiopée.
+
+À observer, du 25 au 30, les Aquarides qui donnent des
+météores lents, à longues trajectoires. Radiant vers à Verseau.
+
+Voici, d'après M. Denning, la liste des radiants actifs en
+juillet :
+
+Epoque, Ascension droite, Déclinaison, Etoile voisine.
+— _ —_ — 4
+Juillet 23 au 25 48° + 439 fi Persée 3
+— 25 au 28 3350 -+ 260 1 Pégase
+— 26 au 29 342 — 3% à Poisson Austral
+— 27 7° — 13% à Andromède
+— 25 au 30 3410 — 13 6 Verseau
+— 27 au 31 2% + 36° 8 Triangle
+— 81 3100 + 449 x Cygne
+V. Constellations. — L'aspect de la voûte céleste le
+
+1er juillet, à 282 ou le 15 juillet à 226 est le suivant :
+
+Au Zénith : le Dragon; la Lyre: Hercule.
+
+Au Nord : La Petite Ourse; Cassiopée; Andromède: le
+Cocher (à l'horizon).
+
+A l'Est : Le Cygne; l’Aigle; le Dauphin; Pégase; le Verseau;
+les Poissons.
+
+Au Sud : Le Sagittaire; le Scorpion; Ophiuchus,
+
+À l'Ouest : La Couronne: le Bouvier; La Grande-Ourse.
+
+Eu. Toucrxer.
+1. Pour le méridien de Greenwich,
+
+ 
+
+ 
+
+ 
+
+de verre, en particulier le long des bords de la cuvette. Quand Ja
+pellicule de collodion est suffisamment résistante, la décoller des
+parois et l'enlever avec précaution et régulièrement. Elle entraîne
+avec elle les poussières, oxydes, amalgames et l'on a un miroir parfai-
+tement propre au moment de faire l'expérience voulue, Le collodion
+entraîne quelques gouttes de mercure qu'il est possible de récupérer,
+
+ 
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires530
+
+ 
+
+ 
+
+Cours de mécanique physique, par G. BRUHAT, 1 vol.
+708 pages, 605 fig. Masson et Cie. Paris 1984, Prix : 100 fr.
+
+Ce volume constitue avec les trois volumes précédemment publiés
+{électricité, thermodynemique, optique), un cours complet de phy-
+sique générale, d'une belle ordonnance et d'une claire sobriété. Ici
+l'auteur a tout d'abord résumé la matière traditionnelle des cours de
+mécanique rationnelle; c'est là un enseignement généralement réservé
+aux mathématiciens dans nos établissements d'enseignement supé-
+rieur; l’auteur, physicien, s'excuse avec modestie d'avoir empiété
+sur un domaine voisin. Mais son exposé, très classique du reste, de la
+cinématique, de la statique et de la dynamique, a le mérite de rester
+toujours en contact avec la réalité physique, en particulier pour la
+définition de la force; l'apprenti physicien $e rend mieux compte ainsi
+du degré jusqu'auquel il convient de pousser la rigueur des raison-
+nements mathématiques appliqués au monde physique. On trouve
+en outre dans ce volume plusieurs chapitres du plus haut intérêt pour
+le physicien ou l'ingénieur appelés à pratiquer des observations et
+des mesures. Signalons l'étude de la métrologie, des notions sur les
+évaluations et calculs d'erreurs, les mesures de longueurs, l'étude de
+la balance, l'étude de la mesure des temps, l'étude des mouvements
+pendulaires et son application à l'amortissement des instruments de
+mesure. Une partie importante de l'ouvrage est consacrée à la méca-
+nique des fluides; l'auteur a réussi à donner en quelques pages, au
+moyen d'exemples bien choisis, un aperçu des méthodes propresà cette
+branche de la mécanique, de leurs difficultés d'application et des
+voies fécondes dans lesquelles se sont engagées les recherches modernes.
+L'ouvrage se termine par l'étude des vibrations dans les fluides et
+dans les solides. L'auteur y dégage en physicien les notions fonda-
+mentales de l'acoustique et de la théorie de l'élasticité.
+
+Précis d'électricité théorique, par Léon BLocx, 2° édi-
+tion, revue et corrigée, 1 vol., 478 pages, 18 fig. Gauthier Villar,
+Paris 1934, Prix : 50 fr.
+
+La physique moderne prend son point de départ dans l'électricité
+théorique et il est impossible d'en aborder l'étude avec fruit si l’on
+ne saisit pas clairement l'enchaînement logique des faits, des défini-
+tions et des principes qui aboutit aux théories de Maxwell, de Hertz
+et de Lorentz. On ne peut trouver à cet égard de guide plus lucide et
+plus sûr que l'ouvrage de M. Léon Bloch, dont voici la 2e édition, peu
+différente de la première. Le point de départ réside dans les notions
+expéringntales acquises en électrostatique et en magnétisme; l’auteur,
+laissant délibérément de côté toute étude expérimentale, montre
+comment la généralisation progressive de ces notions conduit jus-
+qu'aux équations de l'électrodynamique des corps en mouvement;
+celles-ci, comme on le sait, ont conduit à leur tour aux théories de
+la relativité. L'auteur fait grand usage des notations élémentaires du
+calcul vectoriel qui abrègent les formules et les rendent plus claires.
+Cet ouvrage qui a déjà rendu de signalés services à de nombreuses
+générations d'étudiants, continuera longtemps son utile carrière.
+
+Traité de géodésie, par le Capitaine P. Tarpr. 2 volumes.
+Tome !. Généralités sur la géodésie, géodésie mathématique. Trian-
+gulations, 422 p. 101 fig.
+
+Tome II. Astronomie géodésique de position. Géodésie dynamique.
+
+La figure de la Terre. 807 p., 74 fig. Gauthier-Villars. Paris, 1983 et
+
+1934. Prix : 80 et 70 fr.
+
+La géodésie comporte en principe un domaine pratique et un
+domaine théorique; le premier Comprend la détermination précise
+des positions d'un certain nombre de points soigneusement repérés
+sur le terrain, détermination qui s'effectue soit par triangulations
+(géodésié mathématique), soit par mesures astronomiques des coor-
+données géographiques (astronomie géodésique de position). . Au
+second se rattache la géodésie dynamique qui a pour but la mesure
+de l'accélération, de la pesanteur et de sès variations, La synthèse de
+ces données d'expériences pour aboutir à des conclusions sur la forme
+de la Terre constitue la géodésie théorique. La littérature française
+ne possédait jusqu'ici que deux traités généraux consacrés à cette
+science, ceux de Francœur et de Puissant, ouvrages excellents, mais
+centenaires ou plus que centenaires, du reste épuisés, Depuis cette
+époque, les méthodes ont fait de grands progrès et de nouveaux pro-
+blèmes se sont posés. Pour étudier les uns et les autres, le lecteur fran-
+çais était obligé de recourir à des ouvrages ou à des publications
+dispersés, et souvent écrits en langue étrangère.
+
+Le capitaine Tardi, un jeune et savant officier du Service géogra-
+phique de l'Armée, à la fois théoricien et praticien expérimenté, vient
+de faire une œuvre extrêmement utile en rédigeant ce traité général,
+dont plusieurs parties sont entièrement neuves, qui comble une lacune
+de notre littérature scientifique et où l'on trouve l'exposé des méthodes
+les plus récentes consacrées par la pratique.
+
+Signalons entre autres l'étude des appareils en invar pour la mesure
+
+LIVRES NOUVEAUX
+
+ 
+
+ 
+
+ 
+
+des bases, de nouveaux procédés de calcul des coordonnées géogra-
+phiques dus à l'auteur, l'exposé de la méthode des variations de
+coordonnées .pour le calcul de la triangulation primordiale, la déter-
+
+-Mmination de l'heure et des différences de longitude par les instruments
+
+méridiens à micromètre impersonnel et par les signaux radiotélégra-
+phiques; en géodésie dynamique, l'étude des pendules Holweck-
+Lejay et Vening-Meinesz. Dans la partie consacrée à la figure de la
+Terre, il convient de signaler un lucide exposé des théories isostatiques
+et une intéressante étude de la rigidité du globe terrestre.
+
+Manuel de graissage, par M. Ancrau. L vol. 336 pages.
+100 fig. J.-B. Baillière et fs, Paris, 1934. Prix : 22 fr.
+
+L'auteur a rassemblé ici les notions pratiques essentielles relatives
+au graissage par les huïles minérales : aperçu rapide sur la fabrication
+des lubrifiants, caractéristiques et essais des huiles et des graisses,
+exposé élémentaire de la théorie du graissage rationnel, description des
+principaux types de graisseurs, et des appareils de récupération des
+huiles usagées, étude du graissage de différentes machines indus-
+trielles, etc,
+
+Manometric methods as applied tothe measu-
+rement of cell respiration and other pro-
+cesses, par MaLcozm Dixon. 1 vol. in-16, 122 p., 19 fig. Cam-
+bridge University Press, London, 1934, Prix : cartonné toile, 5 sh,
+
+Le développement des méthodes de micro-analvse chimique a con-
+duit en ces dernières années à la création d'appareils fort ingénieux
+destinés à mesurer d'infimes quantités de gaz, spécialement d'oxygène
+et d'acide carbonique, par les changements de pression que provoquent
+leur dégagement et leur absorption dans de petites enceintes exacte-
+ment calibrées, Ces méthodes ont trouvé aussitôt d'importantes utili-
+sations en physiologie, en bactériologie, en chimie biologique et elles
+sont devenues assez sensibles pour mesurer les échanges respiratoires
+de simples cellules, même isolées. Naturellement, elles nécessitent une
+habileté, une finesse à la limite de nos moyens. l’est pourquui tous les
+travailleurs de lahoratoire seront heureux de trouver dans ce petit
+manuel, écrit par un expérimentateur avisé, la théorie complète et tous
+les détails pratiques des nouveaux moyens d'analyse, aux applications
+si nombreuses et importantes,
+
+The mammalian red cell and the properties of
+haemolytic systems, par Eric Ponper 1 vol. in-8, 811 p.,
+52 fig. Protoplasma. Monographien. Vol. VI. Gebrüder Borntraeger,
+Berlin, 1934. Prix : cartonné toile, 22,50 marks.
+
+Peu de cellules ont été plus étudiées que le globule rouge des mammi-
+fères ; petit disque flottant dans le plasma, il montre toute la complexité
+des phénomènes biologiques. On a beaucoup écrit en ces dernières
+années de sa naissance et de sa formation, de sa fonction respiratoire
+et de son pigment à base de fer, l'hémoglobine. L'auteur, professeur à
+l'université de New York, limite cette monographie à l'étude de sa
+structure, de ses échanges et surtout de sa destruction qui constitue
+l'hémolyse. Il précise la numération, les mesures, l'observation des
+changements de forme, la composition chimique, le métabolisme, puis
+aborde la perméabilité et l’hémolyse osmotique qu'il examine particu-
+lièrement. C'est une question encore obscure qui conduit à la sérologie,
+aux actions de défense et de sensibilisation de l'organisme. L'auteur
+analyse les systèmes hémolytiques, les conditions empêchantes ou
+activantes, la résistance globulaire, les agents sensibilisateurs, les
+formes d'hémolyse et leurs particularités. Basée sur ses recherches per-
+sonnelles, appuyée sur une vaste bibliographie, cette étude est des
+plus complètes et si elle ne résout pas le problème, elle montre exacte-
+ment son état actuel et les voies où l'on peut le poursuivre.
+
+Manuel du conducteur de machines agricoles,
+{(B. Machines}, par A. Gouers. 2° édition revue et mise au point par
+A. Gou&is Fils. 1 vol. in-16, 246 p., 104 fig. Librairie agricole de la
+Maison rustique, Paris 1933. Prix : 15 fr. |
+Le présent volume expose surtout là conduite et l'entretien des
+
+diverses machines agricoles prises en particulier. Cette partie de
+
+l'édition précédente a été complétée par des chapitres consacrés aux
+
+machines nouvelles {moteur à huile lourde, draineuse, semoirs à
+
+disques, râteau javelotteur, moissonneuse-batteuse, etc.)
+
+Le plan général de l'ouvrage comporte: machines motrices (à
+vapeur, à essence, à huile lourde); instruments aratoires : labours,
+cultivateurs, extirpateurs, etc., herse, houes, draineuses; épandage
+des engrais et semences: distributeurs d'engrais, pulvérisateurs,
+semoirs à graines en lignes et à la volée; récolte des fourrages et céréales:
+faucheuses et autres instruments; battage et pressage; instruments
+d'extérieur de ferme. Etabli pour des praticiens, constructeurs de
+machines agricoles, il renseigne sur l'usage et la conservation des
+instruments utilisés en culture.
+
+0 mm
+a
+
+Droits reservés au Cnam et à ses partenairesTÉLÉVISION
+
+Un système remarquable de télévision cathodique
+° L'appareil de Zworykin.
+
+L'emploi du tube cathodique en télévision semble suscep-
+tible d'assurer, du moins dans les conditions actuelles du
+problème, la réception et même la transmission pratique
+d'images de petite surface, mais suffisamment détaillées, en
+utilisant comme ondes porteuses des ondes hertziennes de
+courte longueur d’onde. Des essais réguliers à 180 lignes,
+et sur une longueur d'onde de 6 à 7 m, ont, d'ailleurs, lieu,
+dès à présent, en Angleterre et en Allemagne,
+
+L'ingénieur Zworykin, appartenant aux laboratoires de la
+R. CG À. Victor Cy à New-Jersey, a présenté en France, dans
+le courant de l'été dernier, un système émetteur de télévision
+à oscillographe cathodique baptisé par lui Iconoscope, et qui
+paraît, en tous cas, fort ingénieux,
+
+Jusqu'à présent il était fort difficile d'établir un système
+émetteur à oscillographe cathodique, en raison surtout de la
+faible intensité lumineuse que permettait d'obtenir le fais-
+ceau cathodique. Le principe essentiel de l'appareil Zworykin
+consiste à utiliser une cellule photoélectrique spéciale montée
+dans le tube cathodique lui-même, et sur laquelle un objectif
+photographique projette l'image à transmettre. Cette cellule
+comporte un nombre considérable d'éléments photosensibles
+distincts, et pourrait donc être comparée à la rétine de l’œil
+humain.
+
+Le dispositif comporte une anode commune formée d'une
+plaque métallique sur laquelle se trouve une feuille de mica
+extrêmement mince; la couche de métal photosensible com-
+posée d'argent et de cæsium est disposée en gouttelettes solides
+très fines sur la feuille de mica (fig. 1).
+
+Le tube analyseur comporte donc une plaque photosen-
+sible de ce type, sur laquelle vient se former l’image à télé-
+viser, et le balayage de l’image est obtenu par un pinceau
+électronique. Le spot explorateur à ainsi un diamètre bien
+supérieur à celui des éléments photosensibles, et le nombre
+des cellules élémentaires dépasse de beaucoup celui des élé-
+ments élémentaires en lesquels est décomposée l’image.
+
+Fig. ?. — Les systèmes « émetteur » el « récepieur » de l'appareil Zworykin.
+
+Chambre icanoscapique
+
+28 amplificat®
+14
+commandes
+
+ 
+ 
+
+; énérats de ba:
+ayage horizon
+ES de y”
+chranisation
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Balayageve
+tical et syn-
+chronisat "
+
+  
+    
+ 
+   
+
+   
+
+|| Pécept! de Commandes
+[| TSF. et LL 7 d'intensité et
+amplificat: de Fond
+
+ 
+ 
+   
+
+  
+   
+
+Balayage ho.
+rizontal et .
+Synchranisat”
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTES ET INFORMATIONS
+
+ 
+
+ 
+
+  
+  
+
+  
+ 
+    
+    
+ 
+ 
+ 
+ 
+ 
+
+Oscillateuret
+CC] Modulateur|_amniificat!de
+
+  
+    
+
+   
+  
+  
+ 
+ 
+  
+ 
+  
+  
+  
+
+ 
+
+521
+
+ 
+
+ 
+
+ 
+
+   
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mosaïques d'éléments
+| photo-électriques
+£--- | Plaque
+a Objet photaseneïble
+{ ns \
+1 Sn
+É Fe mage de
+de — l'objet |
+I = a téleviser |
+De
+Objet ä Faisceau électronique
+téléviser explorateur
+è Un des bobinages cammanaf
+la déviation du faisceau de balayage
+Fig. 1. Principe de l'« Iconoscope » de Zworykin.
+
+On peut ainsi constituer une véritable petite «camera »
+de radiovision, de volume réduit et à fonctionnement unique-
+ment statique, avec un bon objectif projetant l’image de
+l'objet télévisé sur la plaque sensible.
+
+Le récepteur prévu ou kinescope comporte également un
+tube cathodique analogue au tube émetteur, mais muni d’un
+écran fluorescent comme le montre la figure 2. Le diamètre
+utile du tube est d'environ 28 cm, et permet la reproduction
+d'une image de 14 X 16 crm. La modulation du faisceau inté-
+grateur est obtenue de la manière classique au moyen d'une
+grille. P. H.
+
+TRAVAUX PUBLICS
+La drague « Pas-de-Calais IT ».
+
+Si Cherbourg est le premier port d'escale de France, Bou-
+logne, notre premier port pour la pêche maritime en est
+le second, et son emplacement, à l'entrée de la mer du Nord,
+en a fait l'escale préférée de nombre de compagnies étrangères
+de navigation.
+
+Mais il est de toute nécessité de procéder en ce port à de
+très importants travaux. La surface de la partie réservée aux
+paquebots transatlantiques, qui n’est que de
+60 ha, doit être portée à 145 ha; sa profon-
+deur, de 9 m 50, sera portée à — 18 m, avec une
+première étape à — 11 m, D'autres travaux : endi-
+guement, construction de terre-pleins, et de môles,
+sont également nécessaires.
+
+Déjà, et uniquement pour conserver au port sa
+profondeur actuelle, on estime qu'il faut enlever,
+chaque année, environ 2 millions de m° de sables
+et de vase. Pour lui donner une profondeur de
+— 11 m., il faudrait, en plus de ces 2 millions
+d'apports annuels, en enlever, une seule fois,
+8 millions.
+
+Les engins de dragage dont disposait le port ne
+permettant d'extraire, annuellement, que deux
+millions 1/2 de mÿ, il aurait fallu, théoriquement,
+16 ans, — délai évidemment exagéré, — pour
+donner au port la profondeur de 11 m.
+
+C'est pourquoi l'administration de ce port, ap-
+pelé à prendre de plus en plus d'extension, fit appel
+aux « Ateliers et Chantiers de France », de Dun-
+kerque, qui, Le 29 septembre 1952, — jour du lan-
+cement du contre-torpilleur Vauquelin — posaient
+le premier rivet d’une drague marine à godets de
+850 litres.
+
+    
+
+PUISSaNCE
+
+Hinéscope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Droits reservés au C
+
+nam et à ses partenaires== 522
+
+ 
+
+Fig. 4. — La drague « Pas-de-Caais TI n»,
+
+Avec une longueur totale de 72 m., une largeur hors cein-
+ture de 13 m 45, et un creux sur quille de 5 m 95, cette drague
+à godets, avec élinde à l'arrière, d'un rendement supérieur
+à tous les autres engins de même destination, peut assurer
+une profondeur de dragage de 28 m, ce qui semble constituer
+un record.
+
+La chaîne à godets en comporte 49, en acier moulé d’une
+seule pièce, et d’une capacité unitaire de 850 litres.
+
+Les tourteaux supérieur et inférieur, le premier à 5 pans,
+le second à 6 pans, sont en acier moulé ordinaire, mais les
+parties susceptibles d'usure sont en acier au manganèse
+fixé électriquement,
+
+Pour empêcher les chocs dus au dragage de se propager
+dans la coque, l’élinde est supportée par une suspension
+élastique.
+
+Cette drague, la « Pas-de-Calais IT », est commandée par
+machine à vapeur à surchauffe légère (600). Les chaudières
+sont chauffées au charbon pulvérisé que fournit, pour chaque
+
+Fig. 4. — Le fonctionnement de la drague.
+
+ 
+
+ 
+
+ 
+
+ 
+
+chaudière, un pulvérisateur indépendant com-
+mandé électriquement, un ventilateur d'air se-
+condaire refoulant aux brüleurs le mélange d'air
+chaud et de charbon pulvérisé.
+
+Cet air chaud est lui-même fourni au pulvérisa-
+teur par un ventilateur d'air primaire, qui aspire
+l'air frais dans le compartiment des machines et
+le refoule à travers un réchauffeur d'air. L'allumage
+se fait par chauffe au mazout. Il est prévu une
+installation permettant de chauffer uniquement au
+mazout.
+
+Les deux machines double Compound de l'appa-
+reil moteur développent normalement 1040 ch à
+160 tours. Pour le dragage, l'une quelconque
+des machines suffit. Par renvoi d'angle, elle en-
+traîne un arbre transversal portant deux poulies
+qui, à l’aide de courroies, actionnent la trans-
+mission sur le beffroi. Pour un débit horaire nor-
+mal de 600 mÿ, la vitesse de dragage est de 15 go-
+dets par minute,
+
+En propulsion, les deux machines sont utilisées.
+
+Si tous les treuils de dragage sont du type à
+vapeur, les appareils de chauffe, ainsi que de nom-
+breux auxiliaires, sont à commande électrique, Île
+courant étant fourni par groupe à vapeur et par
+groupe Diesel de secours. -
+
+Ce superbe engin fut lancé le 7 novembre 1933, moins d'un
+an après sa mise en chantier.
+
+À lui seul, et pour un prix moyen inférieur à celui des
+dragages anciens, il permet d'extraire, annuellement, en-
+viron 2 500 000 m° dans la vase et le sable, doublant ainsi
+la capacité de travail des dragues dont disposait le port de
+Boulogne avant son emploi. |
+
+Ainsi pourront être effectués, dans le plus bref délai, les
+travaux d'approfondissement du port de Boulogne, travaux
+qui permettront l'accession à ce port, par tous les temps,
+et à toute heure de marée, des transatlantiques du plus fort
+tonnage. ‘
+
+AGRICULTURE
+
+Repiquage de la pomme de terre.
+
+La plantation de la pomme de terre constitue un bouturage
+d’organe adulte.
+
+On réserve le mot de repiquage à la plantation définitive
+d'une jeune plante provenant de semis en pépinière.
+
+En Algérie, un planteur du littoral a pratiqué une autre
+variété de repiquage, celle de tubercules jeunes de pomme de
+terre.
+
+Il plante en automne des pommes de terre sélectionnées
+en France. À la fin de l'hiver, il a de petits tubercules dont il
+vend les plus gros comme primeurs et dont il envoie les plus
+petits pour être plantés à l'altitude de mille à douze cent mètres
+dans l'Atlas à la fin du printemps.
+
+En vallée irriguée, il obtient d'énormes pommes de terre à
+l'automne.
+
+Sur cette culture régénérée, il prélève les semençaux à
+planter de suite sur le littoral et ainsi de suite sans faire appel
+à de nouveaux plants européens.
+
+Il y a là une indication pour les primeuristes qui péuvent
+ainsi faire deux récoltes par an: l’une sous châssis, l’autre en
+montagne, |
+
+Même sans plantation en montagne, la tenue des tuber-
+cules au frais durant l'été empêche la dégénérescence des
+pommes de terre de primeur. L'expérience en a été faite entre
+Rabat et Ifrane (altitude 1600 m). Prerne LARuE.
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenairesMÉCANIQUE E
+
+Le plus grand excavateur tournant
+du monde.
+
+On vient de procéder, à Neurath, près Cologne,
+à l'installation d'un remarquable engin, qui, dans
+sa catégorie détient le record de grandeur et de
+puissance, mais qui, par de nombreux autres dé-
+tails de construction, mérite de fixer l'attention
+des ingénieurs et des profanes; il s’agit d’un exca-
+vateur gigantesque à godets, servant, dans une
+mine de lignite exploitée au jour, à enlever les dé-
+combres.
+
+Pour donner une idée de la puissance de cet
+excavateur, signalons l'énorme capacité 1100 litres
+— de chacun des 41 godets que comporte sa chaîne;
+il est donc capable d'enlever, en une heure, jusqu’à
+1000 m de terrain, dont le transport, autrement,
+exigerait l'emploi d'un train de chemin de fer de
+1,7 km de longueur.
+
+Les piliers du double portique de l’excavateur
+sont disposés à environ 8 m de distance les uns des
+autres; la hauteur intérieure du portique est de
+4,8 m. La chaîne de godets, longue d'environ
+951 m, permet de creuser un terrain de 40 m de hauteur,
+mi-partie en profondeur et en talus élevés, Ün moteur élec-
+trique de 600 kw actionne la chaîne de godets.
+
+Le poids de la machine — 820 t — est réparti sur les rails par
+80 roues porteuses, constituant 10 bogies à quatre essieux,
+40 roues sont destinées au creusement en profondeur et 10 au
+creusement en talus élevés; quatre moteurs, chacun de
+30 ch, actionnent la moitié de ce nombre de roues. De nom-
+breux dispositifs sont actionnés par l'air comprimé engendré
+
+ 
+
+Fig.®. — Ülilisation de l'élai « Adria ».
+
+ 
+
+INVENTIONS ET NOUVEAUTES
+
+  
+
+ 
+
+523
+
+ 
+
+nt
+
+ 
+
+ 
+
+ 
+
+Fig. 1. — Le plus grand excavateur tournant du monde.
+
+par deux compresseurs à gradins d'un rendement, chacun de
+1300 litres.
+
+Trois grues tournantes à flèche permettent de faire tous
+les travaux de réparation éventuels,
+
+Constructeur : Maschinenfabrik Buckan R. Wolf, à Magdebourg.
+
+TRAVAUX PUBLICS
+
+Étai de fouilles « Adria ».
+
+Lorsqu'on a à exécuter une fouille devant être par la suite
+comblée, les parois de l’excavation sont coupées autant que
+possible verticalement ou sous un talus très raide de manière
+à réduire le cube des terres, En certains cas, tels que tranchée
+profonde, terres à faible consistance, il est indispensable de
+prévenir les éboulements au moyen de boisages en bois qui se
+composent le plus souvent de plats-bords {pièces de bois
+horizontales) et de semelles ou couches {pièces verticales).
+lesquelles à leur tour sont maintenues par des étrésillons
+sensiblement horizontaux et arc-boutés en travers de la
+fouille, contre les semelles d'une paroi à l'autre.
+
+Généralement, ces étrésillons sont tirés de rondins,d'éco-
+perches usagées, dont il faut parfois modifier la longueur, les
+fouilles n'étant pas toujours de même largeur, amineir les
+
+. extrémités pour pouvoir insérer des cales, etc., d'où dépense
+
+onéreuse de matière et de main-d'œuvre.
+
+Pour remédier à ce double inconvénient — d'importance
+pour les entreprises de terrassement — on a songé à établir
+des étrésillons métalliques dont « l'Adria » est un des derniers
+modèles, |
+
+Son fonctionnement est aisé à comprendre (fig. 2). Un
+seul homme et un seul mouvement suffisent pour le placer
+et le fixer contre les plats-bords ou les semelles, et cela à la
+longueur voulue. Pratiquement, il est inusable, par conséquent
+son amortissement est minime. Il est facilement transportable
+et n’occupe que peu de place dans le dépôt du matériel,
+
+Il se fabrique en 4 grandeurs: 0 m 40 fermé, 0 m 58
+développé; 0 m 60, 0 m 95; 0 m 80, 1 m 30 et 1 m, 1 m 67.
+
+Constructeur : L. Nordmann, 16, rue de Monceau, à Paris (8°),
+
+ 
+
+ 
+
+Droits reservés au Cnam et à ses partenaires= 524
+ÉLECTRICITÉ
+
+L'appareil à souder électrique « Solor ».
+
+Si le fer à souder électrique rend de grands services
+à l'amateur pour les quelques soudures nécessaires
+à ses montages, il présente de grands inconvé-
+nients pour les monteurs-constructeurs profession-
+nels : le fer à souder électrique doit, pour rester
+prêt. à fonctionner, être perpétuellement branché
+depuis le matin jusqu'au soir, d'où grosse consom-
+mation de courant électrique, et par conséquent,
+usure desrésistancesetoxydation des bornes de cuivre.
+
+Il faut, de plus, tenir compte du temps perdu pour
+chauffer le fer et le rendre utilisable.
+
+L'appareil à souder « Solor » supprime raditale-
+ment tous ces ennuis, il est immédiatement prêt à
+l'emploi et il n’y a plus de temps perdu pour chauffer
+le fer. La soudure demande quelques secondes et
+la consommation réelle de courant correspond à la
+durée de cette courte utilisation, alors qu’un fer à
+souder d'atelier consomme 200 watts, l'appareil à
+souder Solor ne consomme que 30 watts à l'heure.
+
+ 
+
+Fig. 8.— Poste à souder Solor utilisant le pistolet distributeur de soudure.
+
+L'appareil se compose de deux électrodes spéciales ali-
+mentées par bas voltage : l’une des électrodes doit être en
+contact avec la pièce ou l’objet à souder, l’autre est composée
+d'un charbon de composition résistante et spécialement
+tréfilé pour cet usage. À l'endroit où le charbon touche la
+pièce, une chaleur intense se dégage immédiatement, il
+suffit d'y déposer de la soudure à l’étain et la pièce est sou-
+dée instantanément, pour ainsi dire brasée.
+
+Pour activer encore l'opération dans le cas de soudures
+par série ou de soudures délicates à l'intérieur du poste, l’em-
+ploi du «pistolet » est recommandé : c'est un outil en forme
+de pistolet {d’où son nom) qui comporte une molette (à la
+place de la gachette) entraînant le fil de soudure au fur et à
+mesure de son usure. Son but est donc double : il sert de con-
+tacteur et de distributeur de soudure.
+
+L'appareil à souder « Solor » ne nécessite aucun entretien
+ni aucune réparation.
+
+En vente chez Lefébure et Gie, 5, rue Mazet, Paris (6°).
+
+PHYSIQUE
+
+Le stormoguide, baromètre à cadran intelligent.
+
+Le baromètre permet de prévoir le temps, mais ses indica-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 4. — Le Stormoguide.
+
+tions dépendent plus du sens et de l'allure des variations en
+hausse ou en baisse, que de la pression actuelle en millimètres
+de mercure. Aussi a-t-on pris l'habitude de doter les baromètres
+anéroïdes d’une seconde aiguille folle qu’on place au-dessus de
+telle liée à la chambre barométrique: on observe ensuite le
+sens de la déviation de l'aiguille mobile par rapport à celle
+immobile. Cela nécessite une opération nouvelle à chaque
+observation et si on l'oublie, on reste incertain du sens des
+variations et l’on est empêché de tout pronostic.
+
+Le « stormoguide » évite cet ennui par son cadran « intelli-
+gent ». Il présente au bas deux ouvertures carrées entre
+lesquelles se déplace un signal rouge; celui-ci apparaît-il à
+gauche, la pression est en hausse; à droite, elle est en baisse.
+Quand le baromètre monte, les prévisions données par la
+pression actuelle sont inscrites sur un cadran supérieur; quand
+il baisse, elles se lisent sur un autre cadran situé au-dessous.
+
+Ce cette façon, on sait à tout instant, sans aucune manœuvre
+personnelle, l'allure des variations de pression en même temps
+que la pression en millimètres de mercure.
+
+La pression normale est de 760 mm de mercure au niveau
+de la mer, mais elle diminue avec l'altitude. Pour tenir compte
+de celle-ci, un cadran est disposé sur la face arrière, gradué en
+mètres d’élévation. Il suffit de connaître l'altitude du lieu où
+l’on observe pour
+faire la correction né-
+cessaire et ramener
+les lectures au niveau
+
+Fig. 5. — Le cadran arrière réglable
+selon l'altitude.
+
+ 
+
+de la mer.
+Le baromètre
+« Stormoguide » est
+
+ainsi réglable pour
+tous lieux et donne
+l'indication directe de
+l'allure et de la pré-
+vision du temps.
+C'est un réel pro-
+grès sur tous les ap-
+pareils existants,
+
+Le « Stormoguide
+est en vente chez Jules
+Peter, 11, rue de la
+République, Lyon.
+
+ 
+
+ 
+
+EEE
+
+ 
+
+Droits reservés au Cnam et à ses partenaires

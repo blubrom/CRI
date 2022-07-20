@@ -1,0 +1,755 @@
+HU LES MÉTAUX POREUX
+
+“Un savant danois, M. Hannover, xient de. réaliser
+
+d'üne.façon extrêmement ingénieuse, des. métaux .
+
+poreux, véritables éponges métalliques, qui sem-
+
+blent susceptibles d'intéréssantes . applications. in-.
+
+dustrielles. Il obtient, ainsi, très simplement, des
+
+“plaques de plomb .poreux...qui. paraissent : devoir.
+
+rendre de grands services pour les. accumulateurs.
+L’inventeur a. songé aussi à remplir les vides du
+métal avec des. corps étrangers non métalliques :
+résines, graisses, émaux, ele. , de. façon à former
+de nouvelles séries d'alliages susceptibles d'emplois
+
+industriels, dans les soudures notamment.
+
+Droits reservés au Cnam et à ses partenairesVoici comment M. Hannover expose son invention
+dans une Note communiquée à l'Académie des
+Sciences, le 10 juin dernier, par M. H. Le Chà-
+telier :
+
+« Les alliages métalliques jouissent de la pro-
+priété bien connue d'achever leur solidification dans
+un intervalle de température plus ou moins étendu.
+
+« Par exemple, un alliage de plomb et d'anti- |
+
+moine à 50 pour 100 de chacun de ces métaux
+commence à se solidifier à 4500 en laissant déposer
+des cristaux d'antimoine, dont la grosseur croît
+
+progressivement au fur et à mesure du refroïdisse-,
+
+ment jusqu'à la température de 225°; à cette tem-
+pérature, la portion de l’alliage restée liquide, qui
+contient 87 parties de plomb pour 13 d'antimoine,
+se solidifie entiérement en donnant un enchevêtre-
+
+ment très fin‘de cristaux des deux métaux. Ce der- |
+
+
+
+LES METAUX POREUX o1
+
+expulsant la partie restée liquide par la pression
+d'un gaz non oxydant comme l'acide carbonique,
+par celle d'un liquide comme l'huile ou, mieux
+encore, par l’action de la force centrifuge. J'obtiens
+ainsi un métal poreux dans lequel le volume des
+vides dépend à la fois de la proportion relative des
+métaux dans l'alliage initial et de la température de
+la masse au moment de l'élimination des parties
+liquides; la proportion d'antimoine en excès dissous
+dans l'alliage eutectique croît, en effet, jusqu'au
+point de fusion complète. Le volume des vides ne
+doit pas être trop considérable, si l'on veut que la
+masse poreuse conserve une solidité convenable.
+
+« La figure 1 représente au grossissement de
+90 diamètres la structure de cet antimoïne poreux ;
+on voit encore dans certaines régions les canaux
+séparant les cristaux d'antimoine remplis par l'alliage
+
+
+
+Fig. I. — Atlimoine.
+. (Portes à moilié remplis d'eulectique.)
+
+nier alliage à point de fusion minimum et tempéra- |
+
+ture desolidification constante est ce qu'on appelle
+un alliage eutectique. Après solidification complète,
+l'alliage à poids égaux des deux métaux est donc
+constitué par de gros cristaux de première consoli-
+dation formant un réseau continu, dans lequel se
+trouvent enfermés des canaux remplis de l’alliage
+cutectique.
+
+« Aux températures intermédiaires entre le point
+de solidification commencante et celui de solidifica-
+tion du mélange eutectique, l'alliage présente une
+consistance plus ou moins plastique ; il est constitué
+par des cristaux d’antimoine baïgnés dans une partie
+encore liquide. H. Bessemer avait déjà utilisé la
+plasticité de ces alliages à demi solidifiés pour obtenir
+par compression des empreintes de médailles d'une
+très grande finesse, +: . : -
+
+“4 J'ai songé à utiliser d'une facon différente
+
+Fig, 2. — Élain.
+(Pores vides d’eutectique.)
+Photographies micrographiques de métaux poreux (grossissement 5a fais).
+
+pour 20 de plonb, on obtiendra de
+
+Fig. 3, — Plomb.
+(Pores remplis d'eutectique.)
+
+eutectique; l’action de la force centrifuge n'a: pas
+été prolongée assez longtemps pour expulser Ja tota-
+té de la partie liquide.
+
+( En employant, au contraire, un alliage renfer-
+mant plus de plomb que l’eutectique : 90 de plomb
+pour 10 d'antimoine, par exemple; on obtient de la
+même façon du plomb poreux. Avec les alliages de
+plomb et d'étain renfermant 80° parties d'étain
+‘étain po-
+reux (fig. 2). Dans l'échantillon d'étain représenté
+ici, la totalité de la partie liquide a été expulsée
+
+des cânaux existants entre les cristaux du métal en
+
+excès.
+« La réalisation de cé procédé est: évidemment
+
+. d'autant plus compliquée qu'on veut l'appliquér à
+
+des alliages à points de fusion plus élevés. On peut
+cependant préparer. par -un procédé ‘détourné -les
+métaux peu fusibles à l'état poreux; on remplit: par
+
+cette hétérogénéité des alliages à demi -fondus,.en. | éleétrolyse lés vides du | plomb poreux avec du cuivre
+
+Droits reservés au Cnam et à ses partenaires92 ee me DANS LE CRATÈRE DU VÉSUVE
+
+ou'de l'argent, puis on centrifuge le plomb à une
+température un peu supérieure à son point de fusion ;
+il reste une éponge de cuivre ou-d’argent. »
+
+On comprend - de :suite quels avantages offrent
+ces, métaux poreux. Considérons la fabrication des
+plaques d'accumulateur. :
+
+Les procédés mécaniques de plissage et de perfo-
+ration permettent difficilement de décupler la sur-
+face d'une lame de plomb; on pe sans difficulté
+la multiplier dans le rapport de 4 à 150 par l'emploi
+de métal poreux; on peut donc ainsi obtenir des
+plaques d'accumulateur à grande capacité sans
+recourir aux inclusions d'oxydes dont le décolle-
+ment est difficile à éviter. On peut néanmoins bour-
+rer les vides du métal poreux. avec des oxydes, si
+l'on désire augmenter plus encore la capacité.
+
+La centrifugation d’un métal à unc.température
+où sa masse est plastique exige l'emploi d'un sup-
+
+
+
+
+
+
+
+port solide, mais perméable, s'opposant aux défor-
+mations d'ensemble tout en permettant aux parties
+liquides de s'éliminer; on supporte dans ce but
+l'alliage par une toile métallique appuyée sur une
+
+grille. Ce mode opératoire permet très facilement de
+
+laisser aux plaques d'accumulateur un encadrement
+plein plus solide; il suffit de mettre entre la toile
+métallique et l'alliage une mince lame de clinquant
+qui s'oppose à l'écoulement du métal liquide.
+
+Ces plaques sont assez perméables pour qu'après
+les avoir imbibées d’eau, on puisse expulser le
+liquide en soufflant avec la bouche, les lèvres ap-
+
+‘puyées contre le métal.
+
+-On. peut entrevoir d' autres applications de ces
+métaux poreux, par exemple la construction de cous-
+sinets à travers lesquels on ferait pénétrer l'huile de
+graissage, la préparation de baguelles d'élain impré-
+gnées de résine pour la soudure, ele,
+
+ane
+DANS LE CRATÈRE DU VÉSUVE
+
+On sait que, depuis sa dernière éruption, survenue
+en: 4906, la configuration du Vésuve a subi de radi-
+cales modifications. Le cratère présente maintenant la
+forme d'un cylindre large d'environ 600 mètres à sa
+partie supérieure, et d'une profondeur de 260 mètres.
+Les parois de .
+cette immense Renan
+cuve sont taillées nt
+à pic; elles pré-
+sentent même, en
+certains endroits,
+des falaises rigou-
+reusement  per-
+pendiculaires
+d'une hauteur de
+10 à 15 mètres.
+Dans ces condi-
+tions, on com-
+prend qu'une des-
+cente dans le cra-
+tère actuel du
+Vésuve n'ait pas,
+jusqu'ici, soulevé
+un vif enthou-
+siasme parmi les
+nombreux touris-
+tes qui vont visi-
+ter la: crête du
+volcan en em-
+pruntant le con-
+fort du Circonve-
+
+suviana -qui les
+_traîne jusqu'à la
+. gare d'Éramo,
+“vis-à-vis l'Obser-
+vatoire royal, d'où:
+un funiculaire les
+hausse jusqu'à
+
+Fig. JT
+
+
+
+
+
+
+
+, — Vue du bord dujcratère.,
+
+50 mètres de la margelle même du cratère.
+La difficulté de la. descente est considérablement
+augmentée par la constitution des parois dont la
+terre tres friable n'offre aucune résistance au talon,
+ct LE s'en | détache constamment des pierres de toutes
+grosseurs qui,
+par leur nombre
+même, pour-
+raient causer des
+accidents mor-
+tels.Ajoutons.que
+les parois (celles
+du sud) qui se
+prêtent le mieux
+à la descente et à
+à Ïla remontée
+sont coupées de
+nombreuses. cre-
+vasses d'où s'é-
+chappentenabon-
+dance les vapeurs
+pestilentielles des
+fumerolles.
+Trois person-
+nes seulement ont
+triomphé de ces
+multiples obsta-
+cles, Le Dr Cor-
+rado Gappello,qui
+mourut. quelque
+temps après son
+exploit, donna
+l'exemple le 7 dé-
+cembre 1911.
+Cinq mois plus
+tard, soit le 44 mai
+| 1919,le distingué
+“ sous-directeur de
+
+Droits reservés au Cnam et à ses partenairesl'Observatoire
+royal du Vésuve,
+I. Alessandro
+Malladra, descen-
+dait à son tour au
+fond du cratere.
+Enfin, quelques
+jours plus tard,
+un journaliste an-
+glais, M. À. Con-
+sole, attaché au
+Daily Mirror, de
+Londres, parve-
+nait à une pro-
+fondeur de 9250
+mètres, avec
+l'aide de M. Mal-
+ladra, qui s'était
+généreusement
+offert à l'accom-
+pagner. Nous
+sommes heureux
+depublier ici deux
+desremarquables
+photographies
+prises par M. Con-
+solc an cours de
+l'excursion.
+Nous  regret-
+tons que l'espace
+nous manque, car
+nous aurions
+voulu emprunter
+plus de détails à
+l'intéressant récit
+
+DANS LE CRATÈRE DU VÉSUVE
+
+
+
+Fig. 2. — Vue du fond du cralère et des fumerolles.
+
+
+
+93
+
+
+
+Un détail, rap-
+porté par M. Con-
+sole, montre bien
+que l'exploration
+du fond du cratère
+constitue une eri-
+treprise dange-
+
+_reuse : comme il
+mettait au point
+son objectif pour
+prendre une vué
+d'ensemble, le
+sol s’entr'ouvrit
+sous lui, et il dis-
+parut jusqu'à la
+ceinture dans la
+cendre brûlante.
+M.Malladra s'était
+éloigné pour pren-
+dre la tempéra-
+ture au-dessus de
+la fumerolle, et
+notre photogra-
+phe se tira de ce
+mauvais pas grâce
+à la corde “dont
+l'extrémité était
+rostée à sa portée.
+
+Durantles vingt
+minutes : passées
+sur le fond du cra-
+tère, M. Console,
+resté assez près
+de la base de la
+paroi, fut atteint
+
+que M. Console a eu l'obligeance de nous eommu- ! plusieurs fois par des pierres qui tombaient en abon-
+
+niquer. Les deux voyageurs s'étaient munis d'une
+corde longue de 260 mètres, et, pour lui donner un
+point d'appui, ils avaient enfoncé de solides piquets
+sur le bord même du cratère. Six hommes sur-
+veillaient cette corde, qu'ils ne lâchaient que pouce
+par pouce, à mesure que.les deux voyageurs, qui
+s'y cramponnaient, effectuaient leur descente.
+
+Dès la fin des premiers-cent mètres, la chaleur |
+devenait intolérable; - le thermomètre de” ‘précision :
+que M. le professeur Malladra ‘avait emporté indi- .
+quait déjà plus de 50, et M. Console dyouait à son :
+
+compagnon que « les pieds lui rôtissaient ». La tem-
+
+pérature augmentait. rapidement jusqu à : accuser
+
+820 CG. au point le plus bas atteint.
+Finalement, les explorateurs. s'arrêt taient: à. quét
+
+ques mètres de la Fumerolle Mercalli, ainsi. nommée
+en l'honneur du directeur de l'Observatoire ‘du -Vé- !
+
+_suve. Cette fumerolle, qui sert’ probablement d'échap-
+
+pement, à la cheminée que les déblais ont presque CONL- :
+plètement-obstruée, émet sans interruption: uné abon- :
+
+dante fumée blanche et jaune qui rend l'air ambiant |
+
+“irrespirable.. Alentour,. le: sol:est constitué par: une |
+poudre blanche, semée de graviers, et très chaude, où
+les voyageurs enfonçaient Jusqu'au milieu du mollet,
+
+
+
+dance de tout le pourtour ; ‘il fut blessé légèrement.
+L'excessive chaleur et les gaz échappés du sol lui
+causèrent un étrange malaise : il chancelait sur ses
+jarrets comme un homme : ivre et son cœur battait
+rapidement et violemment ; sesforcesl'abandonnaient.
+Quant à M: Malladra, resté trop longtemps dans.le
+voisinage immédiat de la fumerolle, une violente
+quinte: ‘dé ‘toux le sccoua jusqu'à la remontée.
+‘On pense bien que celle-ci fut beaucoup plus pé-
+nible ‘que la descente. Epuisé, à bout de force,
+M. Console fut «plusieurs jois sur le point de s'éva-
+nouir, notamment après avôir. gravi uné façade de
+roche haute de‘huit mètres et absolument perpen-
+‘diculaire: Ün peu plus fard, une avalanche de terre
+et de pierrés-passa près: des: excursionnistes jusqu'à
+Jes éclabouséer… :: : : :
+
+Ces incidents montrént; en : somme, qu'une: visite
+
+‘’au-fond'dù cratère du: Vésuÿce: n'est à la portée ni de
+
+‘tous les' courages ni ‘dé toutes les endurances phy-
+‘siques. Au point de vüe sciëntifique, de tels exploits
+‘ont “uñe. utilité évidente : C ‘est. en examinant de près
+
+
+
+ja Fumorolle Mercalli que le distingué sous-directeur
+
+del’ Observatoire royal a puse renseigner sur l'état d'ac-
+tivité actuel du redoutable volcan. . Ve Forgix.
+
+Droits reservés au Cnam et à ses partenaires94
+
+NY,
+A NA NUE NU UE NU
+
+VENTE
+
+
+
+SE, NE, NT, NT
+
+
+
+L'AVIATION MILITAIRE ET LA SÉCURITÉ EN AÉROPLANE
+
+La mort continue à faucher sans pitié parmi nos cou-
+rageux pilotes. Sans doute, les deuils répétés qui frappent
+la nouvelle arme, n’émeuvent ni nos officiers, ni nos
+soldats: : les vides qui se: creusent chaque jour sont
+aussitôt comblés avec un héroïque empressement. Mais,
+Topinion publique commence à s’émouvair de semblables
+hécatombes; elle se préoccupe ardemment des moyens
+de réduire les périls que nos aviateurs acceptent de si
+grand cœur. Les autorités militaires responsables du ser-
+vice de l'aviation se sont, elles aussi, inquiétées du pro-
+blème de la sécurité et ne sont pas restées inactives.
+
+M. le colonel Hirschauer, inspecteur permanent de
+l’Aéronautique militaire, le 27 juin dernier, exposait à la
+Chambre des Députés, avec une netteté remarquable, l'état
+actuel de la question. D’après le bref résumé qui suit,
+on se rendra compte du sens dans lequel s’exercent les
+efforts de l'autorité militaire ainsi que des progrès accomplis.
+
+Tout d’abord, il convient de constater que sile nombre
+total des accidents n'a pas diminué, la proportion de
+ceux-ci, eu égard au nombre des aviateurs et des vols,
+s'est sensiblement améliorée. Dans le 2° semestre 1941,
+le nombre des aviateurs militaires, pilotes ou élèves-
+pilotes, était de 120. Ils ont parcouru une distance de
+300 000: kilomètres. Le nombre des accidents mortels
+s’est élevé à 9. Même total d'accidents pour le premier
+semestre 1912; mais nous avons 250 aviateurs ‘et le total
+des parcours atteint 650 000 kilomètres.
+
+Quoi qu’il en soit, 9 morts en 6 mois, sans parler des
+accidents graves, c'est encore un chiffre excessif et qu’il
+faut absolument réduire.
+
+La plupart des accidents peuvent se ranger en 3 grandes
+catégories : 1° ceux qui proviennent d'une construction
+défectueuse des appareils ; 2° ceux qui peuvent être attri-
+bués à l'inexpérience, à l’imprudence, ou à-une faute du
+pilote ; 5° ceux qui sont dus à des perturbations atmos-
+phériques contre lesquelles le pilote ne peut manœuvrer
+à temps.
+
+Il importe donc, à ce triple point de vue, de vérifier
+avec soin la solidité des appareils, de vérifier avec un
+soin au moins égal l'instruction des pilotes en éliminant
+impitoyablement tous ceux qui ne présenteraient pas,
+physiquement ou moralement, toutes les aptitudes néces-
+sares; enfin il importe de simplifier la tâche du pilote
+en améliorant les appareils, et en s'orientant franche-
+ment vers la recherche de la stabilité automatique.
+
+La fabrication des appareils est maintenant très étroite-.
+ment surveillée en usine par un personnel technique,
+-composé d'officiers spécialisés, de contremaîtres et de
+sous-officiers mécaniciens. Les matériaux sont examinés
+avec le plus grand soin et poinçonnés.-Les appareils ter-
+minés, on soumet certains d’entre eux pris au hasard,
+à un essai statique, fait au moyen de charges de sable et
+ayant pour but de déterminerle coefficient de sécurité
+et qui peut être poussé jusqu’à la rupture de l'appareïl.
+Les coefficients de sécurité, qui étaient de 2 au début
+de l'aviation, atteignent aujourd'hui 8, 10 et 12.
+
+-Le cahier des charges à imposer à un constructeur
+
+est arrêté par une commission préparatoire de 3: ingé-.
+nieurs et de 6.officiers aviateurs montant la marque en
+question. Il est ensuite examiné par le constructeur qui
+voit si on ne lui a pas posé un problème insoluble.
+
+Les essais au rèpos, au moyen de charges de sable, ne
+portent que sur un petit nombre d'appareils et-‘ne
+prouvent que la résistance au repos. C’est évidemment
+
+
+
+
+
+insuffisant. Actuellement, il n’y a, pour les essais réels,
+d'autre méthode que de monter les appareils : les four-
+nisseurs sont tenus, à chaque appareil livré, de faire
+effectuer dans un grand centre d’aviation, des vols d'une
+certaine durée dans des conditions déterminées de rapi-
+dité et de montée.
+
+« Gette méthode, dit le colonel Hirschauer, est à la
+fois barbare et insuffisante. ». Car on essaye les appareils
+en temps convenable : comment en déduire leur tenue
+dans les remous et la tempête ?
+
+On vient d'installer, à l’établissement d’ariation mili-
+taire de Vincennes, un cäble de 500 mètres. de long.
+Il permettra de « faire des essais de grande vitesse, de
+produire des remous, de faire naître des actions diverses,
+et de déterminer la résistance, non plus seulement sta-
+tique, des appareils, mais bien leur résistance dynamique
+et leurs conditions d'équilibre non seulement en air
+calme, mais en air agité »
+
+Enfin, le commandant Raibaud étudie, aux environs de
+Pau, l'installation d’une voie ferrée de 6 à 7 kilomètres,
+où l’on étuüdierait la résistance des aéroplanes, placés sur
+des wagons mus électriquement et courant à la vitesse
+de 200 kilomètres à l’heure, L'installation absorhera
+2000 chevaux et coûtera plus d’un million.
+
+Ajoutons, pour en finir avec la question solidité, que
+l'entretien des appareils fait l’objet de règlements très
+
+| stricts, et qu'à cet égard une discipline sévère est au-
+
+jourd’hui imposée dans tous les centres d'aviation. Uné
+preuve de l’efficacité de ces mesures est la durée des
+moteurs. Des moteurs datant -de 1910 sont encore en
+service, après 2000 heures de travail.
+
+Les appareils de fabrication récente sont consacrés aux
+grands voyages et aux meilleurs pilotes. Les. appareils
+plus âgés, mais offrant encore toutes garanties, servent
+sur les aérodromes où l’on ne vole que par des temps
+maniables et sur terrain propice aux atterrissages.
+
+Quant au personnel, on--élimine d'office tous les offi-
+ciers que leurs notes signalent comme nerveux ou im-
+pressionnables. En cours d'instruction, on élimine éga-
+lement ceux qui ne paraissent pas, pour une raison
+quelconque, posséder les qualités indispensables au pilote.
+Tous les candidats aviateurs sont examinés médicalement
+au triple point de vue de la'vue, du cœur, des poumons.
+
+-Il importe surtout d'ivoir un recrutement très jeune,
+
+La question dela stabilisation des appareils fait l’objet
+de recherches nombreuses, que les services de l’aviation
+
+militaire suivent avec la plus grande attention. Nos lec-
+
+teurs connaissent le stabilisateur Doutre (Voy. n° 1994).
+Cet appareil, basé sur les principes appliqués dans la
+marine pour stabiliser ‘les torpilles, a donné, affirme le
+colonel Hirschauer, d'excellents résultats. L'État a acheté
+3 stabilisateurs;. en outre, M. Doutre, dans sa: propre
+école, forme actuellement 6 officiers et. sous-officiers
+pilotes. Il faut signaler, en: outre, l'emploi sur:chaque
+aéroplane de deux indicateurs de vitesse (or: n° 2026)
+et d'un compte-tours.
+
+Dans un autre ordre .d’idées, l'aviation militaire, de
+
+‘ concert avec l’Académie de Médecine; organise des expé-
+
+riences pour évaluer la vitesse maxima avec laquelle des
+animaux peuvent atteindre le. sol sans accident grave et
+sans traumatismes profonds. On comprend de suite l’in-
+téret de ces études. Déjà les casques protecteurs et les:
+ceintures élastiques qui retiennent, contre les remous,
+Vaviateut sur son siège, ont sauvé bien des exislences,
+
+Droits reservés au Cnam et à ses partenairesTS 8<<<<
+
+
+
+95
+
+à
+
+
+
+ACADÉMIE DES SCIENCES
+
+Séance du 1* juillet 1912. — Présidence de M. Lippmann.
+
+M. Stroobant, savant astronome belge, professeur ‘à
+l'Univeraité de Bruxelles, assiste à la séance,
+
+École polytechnique. — Appelée à désigner deux
+membres du Conseil de perfectionnement de l’École po-
+lytechnique, l'Académie présente à l'unanimité des suf-
+frages : MM. Leauté et Henri Poincaré.
+
+Le manganèse de l'organisme. — En continuant leurs
+recherches sur le rôle du-manganèse dans l'organisme,
+MM. Gabriel Bertrand et Medigreceanu ont reconnu la
+présence de ce métal en très petites-proportions -dans le
+corps de tous.les animaux. D'une manière générale, ces
+proportions sont beaucoup plus petites que chez les
+plantes, de sorte que, à ce point de vue particulier, il y
+a une différence importante entre le régime carnivore
+et le régime végétarien.
+
+Les mouvements de la tour Eiffel, — Les mouvements
+horizontaux du sommet. dela tour Eiffel ont été étudiés,
+il y a quelques années, par le Service géographique de
+l'armée. Mais on ne connaissait pas encore l'allure de ses
+mouvements verticaux. M. Ch.-Ed. Guillaume a entrepris
+leur étude au moyen d’un enregistreur dont l'élément
+essentiel est un fil d’invar, alliage non dilatable de fer et
+de nickel, établissant, entre le sol et l’appareil, une dis-
+tance indépendante de l1 température. Un levier porté
+par la deuxième plate-forme de la tour, et dont une
+extrémité est attachée au fil, inscrit, sue un tambour
+Richard, avec. une amplification convenable, toutes les
+dilatations des deux premiers étages de la tour, Ces dila-
+tations, mises en regard des thermogrammes du bureau
+central météorologique, montrent, avec ces derniers, une
+concordance remarquable, qui témoigne de la rapidité
+
+avec laquelle la tour prend la température de Pair, Dans :
+
+les jours de forte variation de la température, les dila-
+tations totales sont de l’ordre de 3 centimètres. Le vent
+fait dévier le fil, et produit, lorsqu'il est intense, des
+crochets dans les diagrammes ; mais Les fréquentes accal-
+
+mies séparent là courbe de dilatation des accidents dus
+
+au vent. Celui-ci s'enregistre indépendamment, de tellé
+sorte que l'appareil constitue, en même temps qu'un
+hermographe sensible, un anémographe marquant, avec
+beaucoup de détails, les variations de la vitesse du vent.
+Les expériences seront bientôt. poursuivies jusqu’au som-
+met de la tour. :
+
+Sérothérapie. — Le professeur Bouchard communique
+un travail du D° Camus intitulé : Immunisation vaccinale
+passive el sérothérapie. Comme étude préliminaire à la
+sérothérapie de la variole, l’auteur a cherché à. préciser
+les ‘conditions de l’immunisation au moyen du sérum des
+animaux vaccinés. Il a d’abord déterminé le degré d’acti-
+vité de ce sérum'et l'influence du temps sur l’immunité
+
+. passive ; il a établi ensuite, en tenant compte du début
+de l'infection, la valeur préventive et curative de Ja séro-
+thérapie, Le sang et le sérum des animaux vaccinés en-
+travent l’évolution du virus, la démonstration en est
+facile à faire sûr Le lapin. Un lapin qui a reçu 10 centi-
+mètres cubes par kilo de sang ou de-sérum d'un lapin
+vacciné ne prend-plus que très faiblement. la viccine, et
+
+l'on peut constater qu'il n'est pas nécessaire que l’injec-
+tion soït faité longlemps avant la vaccination, Il suffit
+d’injecter ce sérum au moment même où l’on vaccine
+l'animal pour faire avorter l’éruption. L'expérience Ia
+plus intéressante est la suivante, elle permet d'apprécier
+la valeur relative de la-sérothérapie préventive et. dela
+sérothérapie curative. Huit animaux ont été inoculés
+avec le même virus et au même moment. Parmi ces ani-
+maux, deux ont reçu une injection de sérum, cinquante
+deux heures et vingt-huit heures avant linoculation ; un
+a été injecté au moment de l’inoculation ; quatre ont été
+injectés respectivement vingt heures, cinquante ct une
+heures, soixante-douze heures et quatre-vingt-seize heures
+après l'inoculation ; enfin, le huitième a été inoculé ct
+n’a pas reçu de sérum, Les trois premiers animaux ont
+eu une éruption très avortée, fous ceux qui ont été in-
+jectés après l’inoculation, mème longtemps avant le début
+de l’éruption, ont eu une éruption aussi intense que
+celle de l’animal qui n'avait pas reçu de sérum. La séro-
+thérapie anti-variolique employée préventivement est
+active, mais si la maladie est déclarée elle n’entrave plus
+l’éruption. En somme, la vaccination préventive est le
+
+seul moyen efficace pour combattre la variole.
+
+La restauration d'énergie chimique. — M. Daniel
+Berthelot, professeur à l’École de pharmacie de Paris,
+éludie, dans une Note communiquée par M. Jungfleisch, le
+mécanisme de la restauration d'énergie chimique par la
+lumière. On sait que, dans la nature, cette restauration a
+pour organes les plantes vertes au soleil, qui jouissent
+du privilège de « se nourrir de l’air du temps » suivant
+une- expression populaire, c’est-à-dire de reformer leurs
+lissus aux dépens du gaz carbonique et de la vapeur d’eau
+
+| de l’air, tandis que les animaux ont besoin d’une nourri-
+
+lure organique solide ou liquide empruntée aux débris
+d'êtres ayant vécu avant eux : plantes ou autres animaux.
+MM. Daniel Berthelot et Gaudechon ont réussi récemment
+à réaliser la reproduction vainement tentée jusqu'ici des
+phénomènes fondamentaux de l'assimilation gazeuse des
+plantes, et cela en dehors de toute substance vivante,
+8râce aux rayons ullra-violets, Ils montrent aujourd’hui,
+par une étude approfondie dés réactions, photochimiques
+de l’aldéhyde formique, le plus simple des hydrates de
+carbone et des sucres, que si la réaction se produit dans
+les plantes avec la lumière solaire, c’est grâce aux fer-
+ments et diastases qu’elles renferment. La lumière visible
+est insuffisante avec ces corps inorganiques seuls, mais la
+réaction réussit parfaitement avec les rayons ultra-violets,
+qui nous apparaissent ainsi comme jouissant de propriétés
+analogues à celles des rayons visibles mais encore plus .
+puissantes. : ,
+
+Communications diverses. — M. Lemoine développe
+un travail sur la vitesse de décomposition de l’eau
+oxygénée étendue sous l'influence de la chaleur. M. Dastre
+
+_ présente une Note de M. Frossard sur la dispersion d’une
+
+onde sonore. M. Moureu analyse un travail de M. André
+sur l'action de lhydrogène sur .les aminocétones.
+M. Termier. fait l'exposé de divers travaux géologiques
+de M, de Lappurent.
+En. DE Virbeuir.
+
+Droits reservés au Cnam et à ses partenaires
