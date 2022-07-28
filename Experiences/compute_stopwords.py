@@ -106,3 +106,4 @@ with open(args.output, "w") as out:
             break
     result = result[:-1] + r")"
     out.write(result)
+    out.write(f"\nnumber of words : {args.number}")
