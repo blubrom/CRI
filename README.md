@@ -23,6 +23,8 @@ It is arranged as follows:
 +   the script **classifier.py** is the main script, it has a command line interface that documents it.
 +   the script **compute_stopwords.py** is used to set the rare-frequent threshold and puts the regex to filter
     the most frequent words in **stopwords.txt**
++   the script **concatenate__concatenante_pages.py** was used to create the articles in **Corpus**
+    by calling **concatenate_pages** with the starting and ending page number of each article retrieved from the oracle
 +   the script **concatenante_pages.py** was used to create the articles in **Corpus**
 +   the script **convert_truth.py** is used to convert the oracles with just the binomial names into the oracles
     with the positions.
