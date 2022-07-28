@@ -16,7 +16,7 @@ It is arranged as follows:
 +   the folder **Experiences** contains all the scripts. typically scripts were launched from the CRI folder itself and not the Experiences folder.
 For instance, if one would like to call the classifier, she would proceed as follows : `python3 Experiences/classifier.py -i <file_to_classify> -o <file_of_the_output> -m <mode>`
     -   the folder **Expected_results** contains the oracles for the anotated volumes. It consists of one
-    python file for each volume that contains a dictionary named expected with keys 
+    python file for each volume that contains a dictionary named expected with keys
     being the starting page of the articles and values being the list of all binomial names in the article
     -   the folder **Expected_results_position** contains the oracle for the corpus but with the positions of the binoms
     added. It is this oracle that is used in our evaluation procedure
@@ -25,6 +25,8 @@ For instance, if one would like to call the classifier, she would proceed as fol
     -   the script **classifier.py** is the main script, it has a command line interface that documents it.
     -   the script **compute_stopwords.py** is used to set the rare-frequent threshold and puts the regex to filter
     the most frequent words in **stopwords.txt**
+    -   the script **concatenate__concatenante_pages.py** was used to create the articles in **Corpus**
+    by calling **concatenate_pages** with the starting and ending page number of each article retrieved from the oracle
     -   the script **concatenante_pages.py** was used to create the articles in **Corpus**
     -   the script **convert_truth.py** is used to convert the oracles with just the binomial names into the oracles
     with the positions.
