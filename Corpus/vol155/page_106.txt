@@ -1,0 +1,542 @@
+2 lez. (EN)
+ve eut)
+SE 259
+
+Wotatron
+4976 2
+4927
+4928 ©
+1929 X .
+
+ 
+
+d'abord depuis le sol jusqu'à un maximum pour décroître
+ensuite; l’aititude de ce maximum varie entre 20 et 30 km,
+ou mêmé davantage, suivant la latitude; enfin, épaisseur réduite
+et répartition verticale subissent des variations en fonction du
+temps, et parmi les variations d'un jour à l’autre. on a pu
+mettre en évidence une variation saisonnière de l'épaisseur
+réduite présentant un maximum au printemps et un minimum
+en automne (fig. 2). Les variations journalières, elles, sont nel-
+tement liées aux variations de la situation météorologique,
+comme l'ont montré les travaux de Dobson, en Angleterre.
+
+Propriétés optiques de l'ozone. — L'ozone possède des pro-
+
+priétés optiques remaïquables, grâce auxquelles on a pu l’étu-
+.dier, et qui commandent son rôle en biologie, en géophysique
+et en -astrophysique. Ïl absorbe dans presque tous les domaines
+de radiations depuis l'infrarouge jusqu'à l'ultraviolet extrême;
+le maximum se situe .à 2 550 À où le coefficient (pour 1 cm)
+atteint la valeur considérable de 125 qui ne se compare qu'à
+l'absorption. des métaux; cela veut dire qu’une épaisseur de
+24 p.suffit pour. réduire l'intensité du rayonnement 2 550 À
+à la moitié de sa valeur (fig. 3). De plus, certaines bandes
+d'absorption, celles de Huggins (fig. 4) vers 3000 À, celles
+de Chappuis dans le visible, sont sensibles à l'action de la tem-
+
+‘péräture, d’où la possibilité d'atteindre ainsi la tèmpératuré
+
+de ce gaz; d’autres bandes, telles celle de 9,6 He dans l'infra-
+rouge (fig. 5), sont sensibles à la pression, ce qui ouvre encore
+: d'autres: possibilités d'étude dés régions de- l'atmosphère où se
+‘trouve l'ozone, Grâce à ces. précieuses propriétés, l'ozone est
+: donc ‘un: indicateur des conditions de température et de pres-
+
+‘sion des: ‘régions de F'atmosphère : où il se trouve concentré.
+
+Ajoutons enfin que la quantité d'ozone présente résulte prin-
+cipalement d° un équilibre photochimique dû aux rayonnements
+
+   
+
+ 
+
+ 
+
+F Fig. 2 (ci-contre), — Variations saison-
+& nières de l'épaisseur réduite de l'ozone
+atmosphérique au-dessus de diverses
+
+stations.
+
+to
+. ©
+
+— Coefficrent d'absorption —+
+
+ 
+
+8 & &8 65 5 à 6%
+
+5
+
+OT 2900 2800 2700 2600 2500 2400 2300
+—À— (AJ
+
+Fig. 3 — Coefficient d'absorption de
+l'ozone entre 2 300 et 2900 angstræms
+(bande de Hartley).
+
+{D'après Vicroux). ‘
+
+     
+ 
+   
+ 
+
+fütatian
+1926 À
+4927 ©
+4928 ©
+
+ 
+
+5 0,25
+à
+4 020
+ü
+Fig. 4. — Coefficient D 01
+d'absorption de l’ozone à
+entre les longueurs
+d'onde 3250 et 3450 0,10
+angstræms (bandes
+de Hugaïns).
+(D'après Vicnoux). 005
+000
+
+   
+
+3400 2300 .
+(À) —-Longueurs d'onde —
+
+Transperence.
+
+ 
+
+ë pement Fe . i . |
+Fig. 5. — Transparence de l'ozone pour l'infrarouge entre 1 et 20 l:.
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig, 6. — Oronomètre
+Vassy.
+L'air ozonisé, issu du
+compteur volumétrique
+que l’on voit à droite,
+traverse la petite cuve
+à réaction (un peu à
+gauche du centre de la
+photo) contenant de
+l'iodure de potassium,
+qui provient du flacon
+surélevé ; l'iode libéré
+par la réaction polarise
+une paire d'élecitrodes
+dont le courant déclen-
+che le mécanisme d'en-
+registrement.
+
+2 000 À) et pour sa destruction
+(2 56o À) dont la pénétration dans l'atmosphère est différente.
+
+actifs pour sa formation {vers
+
+Rôle de l'ozone en géophysique. — Il en résulte que l'in-
+térêt des recherches sur l'ozone est double. On peut d’abord
+l'étudier pour lui-même, voir comment il se répartit dans l'at-
+mosphère et étudier ses variations, afin de rechercher comment
+il se forme et se détruit sous l'influence du rayonnement
+solaire, car on ne possède pas encore de théorie approfondie
+de la formation de l'ozone atmosphérique qui puisse rendre
+compte de toutés ses variations et en particulier de celles de
+la répartition verticale, De plus, il ne faut pas oublier les autres
+sources de production d'ozone dans l'atmosphère. $i l’on a
+renoncé à faire appel aux électrons aurofaux, par contre les
+orages, ainsi que je l'ai montré il y a quelques années, sont
+une source importante, bien que locale, et la question demande
+à être encore examinée.
+
+On peut ensuite utiliser l'ozone comme indicateur et le
+
+champ des recherches météorologiques ainsi ouvert est très
+vaste. L'ozone permet d'abord de connaître la température et
+la pression de la haute atmosphère, Si aujourd'hui d’autres
+méthodes sont utilisables, grâce aux fusées d’une part et à
+l'amélioration des ballons-sonde d'autre part, il ne faut pas
+oublier qu'il n'y a. pas si longtemps (en 1936), c'est grâce
+
+à l'ozone qu'Étienne Vassy a pu confirmer et préciser l'exis-
+q Ya pP
+
+terice d'une couche ‘chaude vérs 50 km d'altitude. Nous avons
+pu ensuite découvrir les importantes variations de température
+que subit la stratosphère dans l'Arctique entre l'hiver et l'été,
+variations confirmées récemment à l'aide d'engins mixtes
+‘rockoons).
+Les propriétés de l'ozone inclus dans une masse d'air se
+conservant pendant quelques jours, l'ozone permet de suivre
+les grands mouvements atmosphériques, invasions d'air polaire,
+déplacement du front intertropical, et même dans certains cas
+de prévoir ces mouvements 48 heures d'avance, comme c “est
+de cas dans les invasions d'air saharien.
+
+Enfin, le problème dés échanges verticaux peut s'éclairer
+grâce à l'étude comparée de la concentration au sol et de
+l'épaisseur réduite; une telle étude, faite au laboratoire de Phy-
+
+ 
+
+103
+
+ 
+
+sique de l'Atmosphère de la Faculté des Sciences de Paris, a
+netternent mis en évidence le rôle des inversions de tempéra-
+ture,
+
+Nous voyons donc tout l'intérêt que présente l'étude de
+l'ozone en géophysique et en météorologie.
+
+N'oublions pas non plus que l'ozone, en arrêtant toutes. les
+longueurs d’ onde plus courtes qué 3 000 À, joue le rôle d'écran
+protecteur pour tout ce qui vit sur la planète, et le rôle d'écran
+nuisible pour les astrophysiciens désireux de connaître les
+rayonnements de courte longueur d'onde émis par les astres,
+
+Méthodes et instruments. — Le problème ainsi posé, voyons
+rapidement quels instruments ont été utilisés pendant l'Année
+géophysique internationale.
+
+Dans le cas de la concentration au niveau du sol, concentra-
+tion très faible, qui au niveau, de la mer est de l'ordre de
+1078, les instruments en usage sont tous basés sur la même
+réaction : chimique. : destruction de l'iodure de potassium par
+l'ozone avec libération d'iode. Seule cette réaction a été récon-
+nue utilisable pour ces faibles teneurs: en effet, si le dosage
+de l'ozone en proportion plus forte, 107%, 10-4, ne pose depuis
+longtemps aucun problème, pour des concentrations de 107$
+les chimistes ont dû faire de longues recherchés avant de trou-
+ver une méthode correcte. Ce dosage peut se faire sur des pré-
+lèvements individuels comme le: faisait le docteur Ehmert, en
+Allemagne. Plus -intéressants sont les instruments qui fonc-
+tionnent automatiquement et de manière à peu près continue;
+tels sont les ‘ozonomètres réalisés indépendamment par le doc-
+teur V. Regener aux États- Unis, et par moi-même pour les sta-
+tions françaises (fig. 6).
+
+‘Pour mesurer l'épaisseur réduite, ou épaisseur . totale, ‘de
+l'ozone contenu dans l'atmosphère, de toute évidente. nous
+devons employer unëé méthode optique utilisant l'absorption
+d'un rayonnement extra- terrestre par: l'atmosphère, en choi-
+sissant un domaine "spectral. où l'absorption est ‘surtout due à
+l'ozone, Le domaine spectral pratiquement utilisé, en fait le
+seul utilisé pendant l'AG. L, est celui des bändés de “Hüggins
+qui limitent le spectre des astres; les sources ‘utilisées sont :le
+Soleil, la Lune, les étoiles, directemént, ou encore la lümièré
+
+“
+
+Droits reservés au Cnam et à ses partenaires
+
+104
+
+solaire diffusée par le ciel zénithal. Toutes les. méthodes déri-
+vent de la méthode de Bouguer-Langley, employée par Ch. Fabry
+lors des premières mesures qui ont permis de connaître l’épais.
+seur réduite de l’ozone atmosphérique.
+
+La méthode consiste à obtenir des spectres de l'astre choisi
+pour différentes distances zénithales de cet astre; et par des
+mesures photométriques on peut obtenir à la fois l'énergie du
+rayonnement de l’astre en dehors de l'atmosphère et l'absorp.
+tion atmosphérique pour différentes longueurs d'onde et pour
+un parcours vertical (autrement dit pour la « masse d'air »
+. unité). Dans cette absorption, on fait la part de l'ozone et celle
+‘des autres facteurs, aérosols, diffusion moléculaire, absorption
+propre d’autres éléments présents dans l'air. Connaissant les
+coefficients d'absorption de l'ozone, on en déduit son épaisseur
+réduite et aussi sa température moyenne, À partir de ce prin-
+cipe on a pu élaborer des méthodes dites « courtes », plus
+rapides, ne nécessitant. qu'une seule observation sous la réserve
+«de gonserver des conditions instrumentales bien déterminées,
+et qui ne peuvent. être précisées et contrôlées que. par l’emploi
+de la méthode de Bouguer-Langley dans toute sa rigueur,
+
+Deux sortes d'instruments mettent cette méthode en œuvre:
+
+un appareil photoélectrique qui donne le résultat immédiate-
+“ment, le spectrophotomètre Dobson, dont les nombreux exem-
+plaires constituent un important réseau à eux seuls; et des spec-
+trographes à optique de quartz qui enregistrent sur plaque
+photographique > ils exigent un physicien qualifié et'un dépouil-
+lement plis long, mais peuvent apporter des résultats plus
+complets et surtout entièrement à l'abri des causes d'erreur
+dues aux conditions atmosphériques (nuages, brume, etc.);
+c'est pour cela que nous avons choisi des spectrographes pour
+la station de la Terre Adélie. |
+
+Ajoutons pour être complets que nous avons réalisé un appa-
+reil simple et léger, à filtres optiques, pouvant denner une
+précision de quelques pour-cent, et qui est en service dans
+certaines stations françaises pour la prolongation de l’A.G.I.,
+appelée « Coopération géophysique internationale »,
+
+Mais si nous examinons le problème de la répartition verti-
+cale de l'ozone, la plus grande variété règne encore dans ce
+domaine où l'expérience n'a pas encore eu le temps de faire
+la décantation nécessaire,
+
+Dans une méthode, historiquement la première utilisée, la
+mesure est indirecte. On utilise le phénomène curieux appelé
+effet Gôtz, qui.se présente lorsque l’on observe le ciel zénithal
+(par temps clair) au moment où le Soleil descend sur l'ho-
+rizon et en dessous, .entre 75 et 05 degrés de distance zéni-
+thale; ce phénomène dû à la variation d'altitude de la couche
+diffusante permet, par tâtonnements successifs, d'obtenir une
+approximation de la répartition de l'ozone en altitude, La
+méthode est longue et peu précise, mais peu coûteuse et n'exige
+qu’un spectrographe ou un spectrophotomètre ; malheureuse-
+ment, elle n'est guère capable de déceler les répartitions sin-
+gulières.
+
+Üne autre méthode indirecte, toute récente, utilise le fait que
+la. bande infrarouge à 9,6 ke. ‘possède un. coefficient variant avec
+la pression; si l'on connaît par ailleurs l'épaisseur réduite au
+moment de la mesure et la quantité de vapeur d'eau (nécessaire
+pour introduire un terme correctif), on peut, également par
+tâtonnements et en. décomposant l'atmosphère en tranches
+comme dans le cas précédent, obtenir une répartition approxi-
+mative de l'ozone. atmosphérique. Cette méthode, très pérfec-
+tionnée par Adel aux États-Unis, exige des observateurs entrai-
+nés, mais elle a l’avantage d'éliminer | les. corrections de
+diffusion. Cette méthode à pu.encore être perfeclionnée el
+
+: Vigroux, qui a beaucoup. étudié, en collaboration avec Migeotte,
+* l'absorption infrarouge de l'ozone, a montré que l'on peut
+obtenir une répartition. verticale. tout aussi satisfaisante que par
+des méthodes directes; la .comparaison a été. faite à Arosa et
+Ja. méthode de. Vigroux : a, permis de. mettre: en. évidence les
+
+sente l’ensemble sonde osone et sonde météo prêt à
+
+ 
+
+ 
+
+ 
+
+Fig. 7. — Radio-sonde pour la mesure de la répartitian verticale
+de l'ozone dans latmosphère.
+
+Au-dessous de la sonde à ozone, la sonde météorologique. Une affichette
+
+donne les indications nécessaires aux personnes qui trouveront le ballon-
+
+sonde eb son chargement quand ils seront revenus à terre, en vue de la
+récupération éventuelle du matériel.
+
+variations de la répartition verticale au cours d'une même
+journée.
+
+Les autres méthodes en usage durant L’A.G.I. utilisaient des
+radiosondages; deux types en ont été mis au point : des
+sondes optiques (utilisant des filtres) et des sondes chimiques.
+Pour les sondes optiques, deux modèles voisins ont été réali-
+sés, celui que j'ai mis au point pour les stations françaises,
+et celui du docteur Paetzold, en Allemagne. Pour les sondes
+chimiques, l'une a été réalisée en Angleterre par Brewer,
+l’autre aux États-Unis par V. Regener. Nous dirons quelques
+mots de notre réalisation. On utilise comme source la lumière
+du Soleil qui, après diffusion sur une sphère creuse de silice,
+traverse un filtre qui isole l'extrémité de l’ultraviolet puis
+tombe sur une cellule photoélectrique; un deuxième filtre per-
+met de couper .cet intervalle en deux et du rapport on déduit,
+après étalonnage, l'épaisseur réduite; la valeur du courant de
+cellule est transmise au sol par le moyen de l'émetteur de la
+radio-sonde météo à laquelle la sonde ozone est associée, et
+l’on obtient ainsi en même temps la température et la pression
+indispensables pour restituer l'altitude. L'instrument donne à
+chaque instant l’ épaisseur réduite d'ozone au-dessus dela sonde,
+d'où l’on déduit la distribution verticale. La figure 7 repré-
+être lancé.
+
+Bien que ces méthodes n'aient pas été utilisées pendant .
+l’A.G.I., nous signalerons encore deux autres méthodes directes
+
+-de. mesure
+
+Droits reservés au Cnam et à ses partenaires
+
+1° L'utilisation des fusées qui ont permis de connaître la
+répartition jusqu'à 80 km d'altitude;
+
+2° L'envoi d’un ballon équipé d’un spectrographe qui enre-
+gistre le spectre solaire à différentes altitudes et que l’on récu-
+père en fin de descente.
+
+Premiers résultais, — Nous avons vu que la plupart des
+mesures sur l'ozone atmosphérique sont des mesures optiques
+et il est.donc nécessaire de connaître les coefficients d'absorp-
+tion avec précision et exactitude, De nombreuses recherches
+avaient été faites depuis le début du siècle et à plusieurs repri-
+ses un effort a été déployé pour que, dans les différents domaines
+spectraux, les résultats fussent cohérents. Maïs cela ne suffi-
+sait pas car les bandes d'absorption de l'ozone n'étant pas réso-
+lues en raies, la dispersion de l'instrument modifie le coefficient
+à utiliser. Il importait particulièrement pour l'A.G.I. d'avoir
+des résultats homogènes en divers points du globe, et au pro-
+gramme d'ozone de l’A.G.I. figurait la comparaison de divers
+types d'instruments. Ce travail sans gloire était la condition
+même de Ja valeur des résultats obtenus; il a été'fait par diver-
+ses équipes. Nous pouvons maintenant voir ce que Î'A.G.I.
+
+nous à apporté, du moins dans la mesure où les dépouillements
+
+sont avancés.
+
+En effet, il est encore bien tôt pour se faire une idée d'en-
+semble des résultats obtenus; les données brutes sont rassem-
+blées dans un centre mondial qui doit les publier; maïs toutes
+ne sont pas encore parvenues, car les données recueillies dans
+les stations antarctiques et sub-antarctiques, quand elles ne
+sont pas transmises par radio, ne sont rapportées en France
+qu'une fois par an: ensuite les résultats, lorsqu'ils sont enre-
+gistrés sur émulsion sensible, doivent être dépouillés, et cela
+peut être long, avant de connaître le nombre qui exprime Ja
+concentration ou l'épaisseur réduite. Ceci n'est pas encore
+achevé pour certaines stations.
+
+Puis, une fois les données brutes obtenues, on doit en faire
+l'analyse et comparer avec d’autres phénomènes géophysiques
+
+pour rechercher s'il existe des corrélations; c'est un travail.
+
+de quelques années. Et cependant, en raison de l'intérêt extrême
+que l'on attache actuellement à ces régions antarctiques, c'est
+un des points sur lesquels l'effort de dépouillement a été le
+plus grand et quelques résultats ont déjà été exposés au dernier
+
+symposium sur l'ozone atmosphérique, à Oxford en juillet
+
+dernier. La deuxième question d'actualité était les résultats
+apportés par les radio-sondages. C'est donc à ces deux domaines
+que. nous nous liruiterons.
+
+. Disons tout de suite que si l'Arctique ne nous a pas apporté
+de grandes surprises, sans doute parce qu'il avait déjà été
+exploré assez longuement, l’Antarctique, par contre, semble
+présenter de nombreuses anomalies.
+
+C'est ainsi qu'à Halley Bay, l'épaisseur réduite présente un
+maximum important à la fin dé novembre, c'est-à-dire seule-
+ment un mois avant le solstice d'été; le maximum de printemps
+serait donc plus fardif que dans les autres régions du globe.
+Les mesures de surface présentent un maximum en ‘plein été
+avec. maximum secondaire en juin, soit au cœur de. l'hiver.
+Mais à la station française, dont la latitude est un peu plus
+basse, nous avons un fort maximum de septembre à décembre,
+
+avec des teneurs très importantes qui -atteignent en moyenne.
+
+6.10-8; un maximum secondaire s’observe en mars. Une autre
+station de l'Antarctique observe un maximum de surface en
+pleine nuit polaire. Il:est donc nécessaire de. mettre de l'ordre
+dans ces résultats; mais leur variété montre tout l'intérêt que
+présente la poursuite de recherches dans les régions antarcti-
+ques: c'est pourquoi l'A.G.I. se continue actuellement sous une
+
+nouvelle forme, la « Coopération géophysique internationale »,
+
+et qu’un comité spécial pour les recherches antarctiques a été
+créé, à la fois sur le plan national et sur le plan international.
+On ne saurait en effet déduire une variation annuelle d’obser-
+
+105
+
+vations échelonnées sur une seule Année géophysique, fût-elle
+de 18 mois.
+
+Dans le domaine de la répartition verticale, un résultat qui
+apparaît immédiatement est le suivant : les mesures directes
+montrent que la répartition type (avec un maximum entre
+20 et 30 km) ne s'observe que dans la moitié environ des cas;
+on observe souvent deux maximums nets, le maximum secon-
+daire se situant dans la troposphère ou plus exactement au-des-
+sous de 18 km; ce maximum peut se réduire à un épaulement
+marqué; les mesures indirectes ne pouvaient le mettre en évi-
+dence, la méthode d'analyse étant basée sur l'existence d’un
+seul maximum; elles ne peuvent que montrer l'insuffisance de
+l'hypothèse faite, done l'existence possible d'un accident sur
+la courbe.
+
+Signalons à ce propos que la méthode de Vigroux, utilisant
+l'émission infrarouge, est capable d'indiquer nettement l'exis-
+tence d’un maximum à une altitude anormalement basse mais
+ne permel pas de voir plus haut, la couche elle-même faisant
+en quelque sorte écran. Les mesures directes ont donc un très
+net avantage sur les mesures faites à partir du sol.
+
+Le nombre de sondages d'ozone actuellement effectués, s'il
+peut paraître important au total, n’est pas encore suffisant pour
+des études statistiques car les sondes ont été lancées en diffé-
+rentes stations, Ce qui ressort clairement c’est la supériorité
+de cet instrument sur les anciennes méthodes; ainsi la sonde
+chimique n'’exigeant pas le concours du Soleil, on peut obtenir
+une répartition verticale en pleine nuit polaire. De plus, les
+
+‘ sondes optiques fonctionnent aussi bien par temps couvert que
+
+par temps clair car les nuages ne dépassent guère 10 km de
+hauteur et c’est dans la stratosphère surtout que la connaissance
+de l'ozone présente de l'intérêt.
+
+Jusqu'à présent les sondages n'ont pu que confirmer et pré-
+ciser la variation de la hauteur du maximum avec la latitude:
+à l'équateur le maximum se situe vers 27 km, dans les régions
+polaires vers 22 km.
+
+On doit s'attendre à une relation entre la variation jour-
+nalière de la répartition verticale et la situation météorologi-
+que, mais pour cette-étude les sondages doivent être faits en
+série; les séries sont encore très peu nombreuses et l'on ne
+peut conclure,
+
+Aussi en considérant l'ampleur de la tâche qui reste encore
+à accomplir dans le domaine de l'ozone, et le précieux auxi-
+liaire que ce gaz peut être pour la météorologie, l'Organisation
+météorologique mondiale a décidé de lui consacrer une partie
+de son activité; un de ses services s'occupe de concentrer les
+résulfats et de veiller à l'homogénéité des mesures et des publi-
+cations. Des réunions périodiques permettront la continuation
+de l'effort dans ce domaine.
+
+ARLETTE Vassv,
+
+: … Maître de recherches au CNRS.
+Laboratoire de Physique de l’Atmosphère
+de la Faculté des Sciences de Paris,
+
+ 
+
+Pendule miniature à quartz
+
+La Société Patek Philippe, à Genève, 8 construit une pendule
+miniature à quartz dont les dimensions (484 x 94 x 66 mm, soit
+un volume inférieur à 4 dm‘) font probablement la plus petite
+pendule de ce type dans lé monde. Le cristal: de quartz utilisé
+
+comme étalon de fréquence a une précision de + 4.10-° é&ur une
+“période de 24 h,' dans un domaine de température de Q° à 500 C :
+
+la fréquence de ce cristal, de. l’ordre dé 10 kHz, est divisée par 600
+pour. l'alimentation de l'amplificateur “qui fournit à son tour la
+puissancé nécessaire pour: commander un micromoteur synchrone.
+La. pendule comporte 46 transistors, sa consommation totale est
+de 45 mW sous 1,25 V fourni soit per un accumulateur incorporé,
+soit par une batterie solaire ou toute autre source d'enerele. La
+
+précision de cette pendule est de 0,1 s en | 24 b,
+
+Droits reservés au Cnam et à ses partenaires
+

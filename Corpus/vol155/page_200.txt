@@ -1,0 +1,528 @@
+196
+
+La production de l’eau lourde
+
+dans l’usine pilote de Toulouse
+
+éloignée puisque c'est un peu avant 1914 que différents
+
+auteurs ont, pour la première fois, soupçonné que la plu-
+part des éléments ou corps simples étaient en réalité des mélan-
+ges de plusieurs :corps.
+
+Ce furent d'abord les trois plombs de poids atomique 206,
+207 et 208, termes ultimes des chaînes de désintégration natu-
+‘relle, qui intriguèrent les physiciens et les chimistes; peu
+après, le physicien anglais Soddy, après plusieurs essais infruc-
+tueux, parvint à acquérir la certitude que le néon naturel était
+un mélange de deux « variétés » distinctes de poids atomique 20
+et 22. Les recherches se poursuivirent de plus en plus active-
+ment de 1919 à 1939 mais il fallut attendre la découverte du
+neutron pour que le phénomène de l'isotopie fût expliqué de
+façon satisfaisante : les atomes des isotopes d’un élément donné
+comportent le même nombre de protons et d'électrons plané-
+taires et diffèrent seulement par le nombre de neutrons de
+leurs noyaux.
+
+Tout le monde sait maintenant qu'il existe trois variétés
+ou isotopes de l'uranium; il en existe de même quatre du fer,
+dix dé l’étain, etc., pour ne parler que des isotopes stables.
+Il existe en effet, en plus, un nombre important d'isotopes
+radioactifs d'origine naturelle ou artificielle.
+
+La plupart, mais non la totalité, des éléments sont des mélan-
+ges de deux ou de plusieurs isotopes. L’hydrogène ne fait pas
+exception à cette règle. Il existe deux isotopes stables de l'hy-
+drogène : l'hydrogène léger, appelé parfois « protium » ou
+« protonium », dont le. noyau se compose d'un proton et dont
+la masse atomique est de 1, et l'hydrogène lourd ou deutérium
+dont le noyau se compose d'un proton et d'un neutron et dont
+la masse atomique est approximativement de 2. En raison de
+son importance particulière, le symbole chimique D a été attri-
+bué au deutérium.
+
+ll existe en outre un hydrogène extra-lourd radioactif : le
+tritium de masse 3, dont le noyau se compose d’un proton
+et de deux neutrons. Le tritium est produit naturellement en
+quantité très faible dans l'atmosphère par l’action des rayons
+cosmiques. Il se désintègre en donnant ua isotope de l’hélium
+de masse 3.
+
+De même que l'hydrogène combiné avec de l'oxygène forme
+de l’eau, l'hydrogène lourd combiné avec de l'oxygène forme
+l'eau lourde; la masse atomique de l'eau ordinaire est égale
+à 18, celle de l’eau lourde est égale à 20. La densité de l’eau
+lourde est d'environ 1,1 par rapport à l’eau légère, On négli-
+gera dans cet article les complications introduites par le fait
+qu'il existe trois isotopes de l'oxygène, de masses respective-
+ment égales à 16, 17 et 18, qui permettent, par combinaison
+avec les différents hydrogènes, de produire six variétés stables
+d'eau dont la plus lourde 2D1#0 a comme masse atomique 22.
+
+La découverte de l'hydrogène lourd remonte à 1932 envi-
+ron. Bien que l'existence de cet isotope fût soupçonniée depuis
+plusieurs années en raison des discordances constantes entre
+les diverses méthodes de mesure de la masse atomique de l'hy-
+drogène, son existence ne fut prouvée définitivement qu'à la
+suite des trävaux remarquables du physicien Ürey qui parvint,
+par distillation-fractionnée de l'hydrogène, à obtenir un produit
+suffisamment enrichi en deutérium pour qu'aucun doute ne
+subsistât sur son existence. Le prix Nobel de Chimie devait
+récompenser ses travaux.
+
+L' découverte des isotopes ne remonte pas à une date bien
+
+Il n'est pas surprenant que la mise en évidence du deuté-
+
+ri ait été délicate quand on ‘sait que l'hydrogène naturel
+n'en contient que 150 parties par million environ (150 ppm)
+
+ou, ce qui revient au même, que l'eau ordinaire contient en
+volume 150 ppm d'eau lourde, soit 1/7 ooo environ. Toutefois,
+et ce n’est pas un de ses moindres paradoxes, le deutérium
+est un des éléments les plus abondants de notre planète : il
+en existe des milliards de tonnes sous forme d'eau lourde diluée
+à 150 ppm dans l’eau des océans.
+
+Dès sa découverte, le deutérium suscita un intérêt très vif
+parmi tous les chercheurs en raison du rôle éminent de l'hy-
+drogène dans la physique et la chimie.
+
+Un procédé de production d'eau lourde fut rapidement mis
+au point dès qu'on se fut aperçu que l’électrolyse de l’eau est
+particulièrement sélective et que l'hydrogène qui s'échappe à
+la cathode d'un électrolyseur du type filtre-presse contient sept
+fois moins de deutérium que l'eau qui reste dans le bac. Dès
+1934, l'usine d'électrolyse de Rjukan, appartenant à la Société
+norvégienne de l'Azote, produisait quelques kilogrammes par
+an de cette eau lourde, alors simple curiosité de laboratoire.
+
+La découverte du phénomène de la fission en 1939 devait
+conférer à l’eau lourde une importance beaucoup plus consi-
+dérable : le brevet français pris dès 193g par MM. Francis Per-
+rin, Halban et Kowarski faisait déjà mention du rôle des
+ralentisseurs de neutrons et, en particulier, de l’eau lourde pour
+la réalisation des réacteurs nucléaires,
+
+Aussi, dès 1941, les Américains décidèrent-ils la création d'im-
+portantes usines d'eau lourde. Deux procédés furent alors
+retenus :
+
+— La distillation de l'eau (il existe un écart de 1,49 C entre
+les points d’ébullition de l'eau ordinaire et de l'eau lourde à
+la pression atmosphérique) ;
+
+— Une électrolyse avec échange isotopique entre la vapeur
+d’eau et l'hydrogène (le deutérium ayant en effet tendance à
+passer préférentiellement de la phase hydrogène dans la phase
+vapeur).
+
+Mais ces procédés devaient se montrer si coûteux et si dif-
+ficiles à mettre en œuvre que la production de l'eau lourde
+par distillation fut interrompue dès 1945 et que celle ulilisant
+le procédé d'échange isotopique (mise en œuvre à Trail, au
+Canada) fut arrêtée vers 1955.
+
+Procédés modernes de production de l’eau lourde.
+— En plus de son emploi comme traceur ou comme moyen
+d'étude dans les laboratoires de physique et de chimie, et
+comme modérateur d'un certain nombre de réacteurs nucléai-
+res, l’eau lourde ou plutôt le deutérium est un des matériaux
+de choix des bombes thermonucléaires. Aussi, n'est-il pas sur-
+prenant que les Américains aïent décidé, vers 1950, la créa-
+tion de très importantes usines d’eau lourde destinées à fournir
+ce produit stratégique.
+
+Les études en vue de déterminer le meilleur procédé de
+production d’eau lourde n'avaient jamais été interrompues aux
+États-Unis depuis 1941. Lorsque le gouvernement américain
+eut pris la décision de construire une usine de production d’eau
+lourde de grosse capacité, deux procédés se trouvèrent en com-
+
+_ pétition :
+
+— La distillation de l'hydrogène liquide ;
+
+— L'échange isotopique à deux températures entre l'hydro-
+gène sulfuré et l'eau.
+
+Diverses considérations déterminèrent la décision de l'Atomic
+
+Droits reservés au Cnam et à ses partenaires
+
+197
+
+Fig. 1. — Vue extérieure de l’usine pilote de la C.F.E.L. à Toulouse,
+{Photo GC. LacnEeroy, aimablement communiquée par L'Air Liquide).
+
+Energy Commission des États-Unis pour le procédé à l'hydro-
+gène sulfuré. Parmi ces considérations, il faut en citer notam-
+ment deux,
+
+Tout d'abord, ce procédé permet une production d’eau lourde
+aussi grande qu'on le désire car il utilise comme matière pre-
+mière l'eau. L'eau lourde produite par distillation d'hydragène
+liquide, au contraire, doit être considérée (on le verra dans
+la suite de cet article) comme un sous-produit d'une usine de
+synthèse d’ammoniaque, ce qui limite la capacité de produc-
+tion de ce procédé.
+
+La deuxième raison du choix de l'Atomic Energy Commis-
+sion fut le manque de pratique dans la technologie des très
+basses températures : il n'existait en effet à cette époque, aucune
+usine traitant de grandes quantités de gaz à des températures
+inférieures à celles de l'azote liquide (— 196° C).
+
+Lés Américains mirent en œuvre le procédé à l'hydrogène
+sulfuré et construisirent de 1950 à 1952 deux énormes usines
+à Dana et à Savannah River. La capacité totale de ces deux
+usines est de 900 t/an d'eau lourde à 99,8 pour 100. Gette
+eau lourde servit principalement à des usages militaires : réac-
+teurs plutonigènes à eau lourde de Savannah River, production
+de tritium, etc.
+
+L'existence de ces usines et la méthode de production
+employée furent tenues soigneusement secrètes jusqu’à la pre-
+mière Conférence pour l'Utilisation pacifique de l'Énergie ato-
+mique, tenue à Genève en août 1955. C'est à cette date seu-
+lement que les Américains, dont la capacité de production d’eau
+lourde était supérieure à leurs besoins, commencèrent à propo-
+
+ser, sous certaines conditions, la fourniture d’eau lourde au prix
+alors extraordinairement bas de 28 dollars la livre (environ
+o,81 NF le gramme).
+
+L'effort français pour la production de l’eau
+Icurde. Toutefois, bien avant cette date, le C.E.A. fran-
+çais avait ressenti la nécessité pour la France d’avoir la possi-
+bilité de produire de l’eau lourde en quantité industrielle au
+cas où les réacteurs de puissance à eau lourde présenteraient
+un réel intérèt économique. On sait, en effet, qu’un réacteur
+de puissance à eau lourde devrait comporter une tonne d'eau
+lourde environ par MW électrique produit.
+
+Un réacteur de 100 000 KW électriques devrait donc avoir
+une charge d’au moins 100 t d’eau Jourde comme modéra-
+teur; bien entendu, cette eau lourde n’est pas consommée et
+demeure dans le réacteur, aux fuites près. Il n’en demeurait
+pas moins que la construction d’un tel réacteur ne pouvait se
+concevoir, à l’époque, avec la seule production norvégienne
+qui était alors de 10 à 15 t/an (ce chiffre étant d’ailleurs pure-
+ment estimatif, puisque aucune indication officielle à ce sujet :
+n'a été donnée par la Société norvégienne de l'Azote avant
+1059). Le prix de cette eau lourde norvégienne était d’ailleurs
+très élevé, de l'ordre de 1,50 NF/g. Le C.E.A. jugea donc inté-
+
+ 
+
+-ressant d’entreprendre.l'étude et.la mise.au.point d'un procédé
+
+permettant à la fois une production supérieure et un prix de
+revient plus bas. | . Lo
+
+Diverses considérations l'amenèrent à penser que la distil-
+lation fractionnée de l'hydrogène liquide pouvait permettre
+
+Droits reservés au Cnam et à ses partenaires
+
+198
+
+d'obtenir ce résultat: aussi, dès la fin de 19b7, il prit contact
+avec la Société L’Air Liquide que cinquante années d’expé-
+rience dans le domaine de la liquéfaction et de la distillation
+aux basses températures qualifiaient tout particulièrement pour
+une telle entreprise.
+
+Le problème à résoudre était Je suivant : amener à des tem-
+pératures très basses {de l’ordre de — 250° C environ) des mas-
+ses importantes d'hydrogène; liquéfier ces masses et distiller
+le liquide obtenu, en mettant à profit l'écart de température
+entre — 252,8° environ, point d’ébullition de l’hydrogène léger,
+et — 251,19 GC environ, point d'ébullition de la molécule
+mixte HD (hydrure de deutérium), qui est la forme sous laquelle
+‘on trouve le deutérium aux très basses concentrations (300 ppm
+environ de HD dans l'hydrogène ordinaire).
+
+L'hydrure de deutérium doit ensuite être « cracké » suivant
+la réaction : |
+
+2 HD — H, + D,
+
+sur un catalyseur approprié, et une colonne de distillation per-
+met de recueillir, en pied de colonne, du deutérium (D,) au
+degré de pureté voulu; ce deutérium peut, soit être stocké en
+bouteilles; soit être brûlé pour oblenir de l'eau lourde suivant
+la réaction :
+
+2 D, + 0, — 2 D,O.
+
+‘La différence (1,74° C} entre le point d'ébullition de l'hydro-
+gène léger H, et celui de l'hydrure de deutérium HD est
+exceptionnellement élevée pour deux isolopes; la distillation est
+donc, en principe, tout à fait réalisable.
+
+Le procédé présentait toutefois deux inconvénients graves,
+comme on l'a déjà indiqué plus haut : en premier lieu, sur
+le plan technique, il n'existait aucune expérience industrielle
+à des températures aussi basses, de sorte que toute üne techno-
+logie était à inventer; en deuxième lieu, sur le plan écono-
+mique, le procédé ne pouvait être qu’un procédé « dépendant »,
+branché en dérivation sur une usine de synthèse d'ammoniaque.
+
+.Un calcul économique rapide montre en effet qu'il ne sau-
+rait être question de produire de l'hydrogène uniquement pour
+en extraire le deutérium. La séparation du deutérium par dis-
+tillation de l'hydrogène ne peut donc être qu'un procédé dépen-
+dant, dans une usine utilisant cet hydrogène à quelque autre
+fin industrielle.
+
+La seule industrie qui emploie de larges flots d'hydrogène
+est celle de la synhèse de l’ammoniaque :: hydrogène utilisé
+pour cette synthèse peut être produit de diverses manières,
+suivant les ressources disponibles et suivant le coût de l’éner-
+gie : électrolyse; gaz à l'eau; cracking de fuel lourd, de gaz
+naturel ou d’autres hydrocarbures; gaz de fours à coke.
+
+Suivant la méthode de production, l'hydrogène contient divers
+types d’impuretés à des taux variables; en outre, sa teneur
+isotopique peut varier sensiblement et descendre de 148 + 2 ppm
+(teneur naturelle de l'hydrogène H, en deutérium D,) jusqu’à
+115 ppm, ce qui a une influence considérable sur le coût du
+deutérium, c’est-à-dire de l’eau lourde produite.
+
+Les ressources françaises en hydrogène destiné à la synthèse
+de J'amoniaque perrnettraient de produire 100 à 200 t/an
+d'eau lourde.
+
+Îl fut décidé d'entreprendre la construction d'un pilote indus-
+triel traitant ‘4 ooo m%/h de gaz de synthèse N, + 3 H, (soit
+3 000 mm°/h d'hydrogène) et susceptible, par conséquent, de
+
+-prôduire 2'à 8 t d’eau lourde par an suivant lé taux de marché,
+là teneur en deutérium du gaz traité et le taux d'extraction.
+
+Une telle unité paraissait aux techniciens de L'Air Liquide
+d'une taille suffisante pour une mise au point définitive du pro-
+cédé à l'échelle industrielle, au cas où le C.E.A. jugerait inté-
+
+‘ressant de créer une industrie importante de l’eau lourde en
+. France. L'étude du proc édé et la construction de ce pilote indus-
+
+triel furent faites à. - Toulouse dans la plus importante usine
+
+ 
+
+ 
+
+de synthèse d'ammoniaque : celle de l'Office national industriel
+de !’Azote (O.N.I.A). Une société fut créée, la Compagnie
+française de l'Eau lourde, dont le capital fut souscrit à
+5o pour 100 par l'O.N.I.A, et 5o pour 100 par L'Air Liquide.
+
+La mise en œuvre du procédé et les marches d'essai, sur
+une unité de plus petite taille, traitant 5a à 200 m° de gaz de
+diverses compositions, permirent de mettre en évidence et de
+surmonter toute une série de difficultés nouvelles, inhérentes
+généralement à l'emploi des très basses températures,
+
+Les principales difficultés rencontrées furent les suivantes
+
+— Nécessité de purifier l'hydrogène traité d’une manière
+absolument rigoureuse : toutes les impuretés du gaz deviennent
+solides à la température de l’hydrogène liquide (sauf l’hélium)
+et bouchent les tuyauteries et les colonnes de distillation, cau-
+sant l'arrêt de l'appareil au bout d'un délai très court; en fait,
+l'azote contenu dans le mélange gazeux qui alimente l'unité
+(N, + 5 H,, gaz de synthèse de l’ammoniaque NH,) doit être
+rigoureusement éliminé à une fraction de millionième près;
+
+— Mise au point de nouvelles méthodes de dosage pour
+déceler des traces d'impuretés aussi faibles que celle citée plus
+haut, pour doser en continu des réactions isotopiques (comme
+le craquage de la molécule HD), les teneurs isotopiques du gaz
+ainsi que la forme de la molécule de l’hydrogène (celle-ci se
+présente sous deux formes : l' « ortho-hydrogène » et le « para-
+hydrogène », dont les propriétés différentes doivent être prises
+en considération) ;
+
+— Tenue mécanique des matériaux et des soudures à des tem-
+pératures aussi basses;
+
+— Étanchéité de l’appareil, isolé sous vide, et des vannes;
+
+— Calorifugeage de l'appareil, etc.
+
+La récente mise en route du pilote industriel de Toulouse,
+en janvier dernier, signifie que ces difficultés ont été surmon-
+tées. Cet appareil, qui est abrité avec ses compresseurs et ses
+accessoires dans un bâtiment de 80 x 25 m et de 10 m de
+haut (fig, r), correspond, dans son principe, au schéma suivant
+
+(lig. 2).
+
+Mélange N,+3H (gaz de
+
+synthèse d'ammoniaque
+
+contenant du deutérium)
+
+Gaz de synthèse épuisé de son deutérrum
+vers la synthèse de l'ammoniaque) |
+
+   
+ 
+     
+
+  
+
+PITITI@II II
+
+   
+
+Es
+
+T Jydrogéng
+Ta1% de HD
+
+   
+
+D, pur à 999%
+
+ 
+
+Fig. 2. -— Schéma de principe de l’usine d’eau lourde de la C.F.E.L.
+
+1, Appareil de séparation de l'hydrogène et de l’azôte du gaz de synthèse
+
+ét échangeur pour récupérer les frigories des gaz froids ; 2, Colonne de
+
+concentration primaire ; 3, Colonne double de concentration finale ; 4, Cata:
+
+lyse pour craquer la molécule HD en H, et en.D, ; à, Synthèse finale de
+l'eau lourde, conditionnement, etc, ; 6, Vannes de détente.
+
+Le gaz d'alimentation, en provenance de l'atelier de cracking
+de l'O.N.I.A. arrive, sous forte pression, dans l'ensemble (x),
+où il est refroidi par détente avec travail extérieur, débarrassé
+de ses impuretés et séparé en ses deux constituants : azote et
+
+“hdrogène. L'azote sert à fournir une partie des frigories néces-
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 3. — À lusine pilote de la C.F.E.L.
+
+Vue prise pendant le montage d’une. partie
+
+des échangeurs de chaleur, à l’intérieur de
+
+l'enveloppe sous vide qui abritera toute la
+
+partie froide, dans une colonne de 12 m
+de hauteur et de 3 m de diamètre.
+
+{Photo C. Lacnenoy, aimablement commu-
+niquée par L'Air Liquide).
+
+saires à la marche de l'installation et
+l'hydrogène est envoyé à la colonne
+de distillation primaire (2), au tra-
+vers d'une vanne de délente (6), qui
+lui permet de se liquéfier.
+
+Un produit enrichi, contenant
+1 pour :00 environ de HD 5e ras-
+semble sous forme liquide au pied
+de la colonne, tandis que le produit
+plus léger, l'hydrogène pur H.,
+épuisé de son deutérium, est retourné
+vers l'ensemble (x) et, de là, à l'ate-
+lier de synthèse d’ammoniaque,
+
+Le produit enrichi est envoyé à la
+parlie supérieure d'une colonne dou-
+ble (3) au pied de laquelle, par une
+nouvelle distillation, se rassemble
+l'hydrure de deutérium pratique-
+ment pur,
+
+L’hydrure de deutérium est alors
+craqué dans la partie (5) et, de là, Le
+produit de ce craquage, qui est un
+mélange de I,, de D}, et de HD, est
+admis dans la partie inférieure de la
+coionne (4), au pied de laquelle on
+recueille du deutérium à plus de
+99,9 pour 100 de pureté.
+
+Le C.E.A. disposera donc, après
+quelques mois de marche de cette
+usine, d'un procédé bien mis au
+point et des diverses données écono-
+miques qui lui permettront d’en éva-
+
+luer l'intérêt industriel. Il est en
+tout cas raisonnable d'affirmer dès
+
+maintenant que le procédé de pro-
+duction d'eau lourde par distilla-
+tion d'hydrogène provenant de gaz
+de synthèse de l’ammoniaque pré-
+sente un réel intérêt économique,
+tout au moins quand il s’agit d'usi-
+nes d'une capacité de l'ordre de 10 à
+20 t/an. Les conditions américaines, en effet, sont irès diffé.
+rentes de celles qui prévalent en France (taux d’amortissement
+des capitaux, coût de l'énergie). Elles concernent en outre. des
+usines d’une taille beaucoup plus considérable (la capacité de
+produclon américaine est de goo t/an environ), ce qui rend
+les comparaisons délicates. .
+
+On peut en outre citer, parmi les avantages du procédé mis
+en œuvre à Toulouse, la possibilité d'obtenir à un taux de
+pureté très élevé divers produits tels que le deutérium exempt
+de tritium, l’eau légère, etc. qui présentent un grand intérêt
+pour les laboratoires (chambres à bulles, etc.).
+
+*
+* +
+
+Outre la production d'eau lourde, l'hydrogèrie liquide com-
+mence à trouver d’autres applications industrielles ou scienti-
+fiques. En particulier son emploi comme comburant:de-fusées
+
+-spatiales fait l'objet d'études très
+
+199
+
+ 
+
+ 
+
+approfondies dans divers
+pays. oi |
+
+Comme dans d’autres domaines scientifiques, la mise au
+point de nouvelles techniques et de nouveaux produits suscite
+des besoins nouveaux et des développements industriels impré-
+visibles au premier abord. Il est raisonnable de penser que la
+mise en service de cette usine d'eau lourde sera un pas décisif
+vers l'emploi à lPéchelle industrielle des températures égales
+ou inférieures à — 250° C (23° K). | |
+
+Il convient de souligner l'aide constante que les laborataires
+des services des isotopes stables du C.E.N. de Saclay ont apportée
+aux techniciens de L’Air Liquide, dans divers domaines parti-
+culièrement délicats, tels que ‘celui de l'analyse des gaz, ou
+celui du cracking de la molécule HD, et.la collaboration eff-
+cace du service de génie chimique et des laboratoires de
+VONIAS D |
+
+| . PHILIPPE AKAR, |
+
+‘Ingénieur des Mines de Paris,
+
+L'Air Liquide.
+
+Droits reservés au Cnam et à ses partenaires
+

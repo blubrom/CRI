@@ -1,0 +1,1263 @@
+N° 3301
+
+   
+ 
+
+LA NATURE
+
+TIROS 1!
+
+Mai 1960
+
+prélude à un réseau de satellites météorologiques
+
+L' lancement, le 1° avril, du satellite américain Tiros I mar-
+que le franchissement d'une nouvelle étape sur la voie qui
+fera des engins circumterrestres des appareils d'une utilisation
+couränte, |
+
+Tiros [ (Television and Infra Red Observation Satellite) est
+en effet destiné à l'observation des formations nuageuses. Il
+est donc équipé de manière à pouvoir recueillir des images et
+les transmettre au sol. Ce n'est pas la première fois qu’un dis-
+positif de télévision est placé à bord d'un engin spatial : la
+station automatique interplanétaire soviétique (Mas) était déjà
+munie d’une caméra de télévision, Ce n'est pas non plus la
+première fois que les Américains essayent d'observer la Terre
+du haut d’un satellite artificiel : le Vanguard IT était déjà muni
+
+de cellules sensibles aux infrarouges, destinées à mesurer
+l'albedo de notre planète. Mais le Mas a photographié la face”
+
+inconnue de la Lune et le Vanguard LE n’a pas donné satis-
+
+faction à ses constructeurs. D'autre part, des caméras ont été”
+
+placées à plusieurs reprises à bord de fusées à grand rayon
+d'action, mais les films qui ont été pris ainsi ne donnent que
+des images localisées dans le temps et dans l'espace. Tiros I est
+le premier engin à pouvoir prendre de façon continue des vues
+sur une fraction importante du globe terrestre.
+
+Mener à bien une telle opération suppose que trois problèmes
+ont reçu des solutions satisfaisantes : la précision de la trajec-
+toire, l'orientation de l’engin par rapport à la Terre, enfin
+l'équipement de radio et télévision.
+
+La précision de la trajectoire. — Il faut que l'orbite effec-
+livement suivie par le satellite soit la plus conforme possible
+aux prévisions faites. Faute de quoi, naturellement, les super-
+ficies pholographiées ne correspondront plus aux calculs. D'au-
+tre part il y a avantage à ce que l'orbite soit circulaire, de
+façon à rendre les vues comparables.
+
+Ces conditions ont élé remplies : Tiros | parcourt une orbite
+qui est presque parfaitement circulaire et qui se situe à quelque
+650 km du sol, soit à une distance qui ne diffère pas de plus
+de quelques dizaines de kilomètres de celle qui avait été pré-
+vue. Cette performance n'a été rendue possible que grâce à
+l’accomplissement de sérieux progrès dans le guidage des fusées
+porteuses. En l'occurrence il s'agissait d'une Thor Able, ana-
+logue à celle qui avait élé utilisée pour le lancement de l'engin
+circumsolaire Pionnier V. Autre détail qui a son importance :
+le poids de Tiros I est de 122,5 kg. Il est donc assez sensi-
+blement supérieur à celui des précédents satellites américains.
+L’engin porteur a donc également gagné en puissance. |
+
+L'orientation de l'engin. — Il ne suffit pas, pour prendre
+des photographies de la Terre qui puissent être utilisables, de
+faire tourner une caméra de télévision autour de notre globe.
+Les premiers engins (la même remarque vaut pour les satel-
+lites soviétiques et américains) étaient animés d'un mouvement
+de pivotement sur eux-mêmes, qui aurait rendu toute prisé de
+vues absolument impossible. Comment procéder ? Deux solu-
+
+ 
+
+Fig. 1. — Lancement du Tiros 1, le 1° avril 1960, à Cap Canaveral.
+
+Le satellite, qui pèse 122,5 kg, a été placé sur une orbite circulaire dont
+
+l'apogée est à 759 km de la surface terrestre, et le périgée À 435 km, La
+
+durée de révolution est de 99 mn 15 s, l'inclinaison sur l'équateur est
+
+de 48°3. Tiros Î pourra continuer À tourner pendant plusieurs dizaines
+
+d'années, mais son dispositif de télévision ne fonctionnera .pas plus de
+‘ trois mois. . : .
+
+(Photo aimablement communiquée par le Centre culiurel américain).
+
+Droits reservés au Cnam et à ses partenaires
+
+186
+
+ 
+
+ 
+
+ 
+
+Fig, 2. — Les instruments contenus dans le satellite Tiros 1.
+
+1, une des deux caméras 1,8 em de télévision (Vidicon) :
+gistreurs à bande ;
+5, émetteur de télévision :
+8, dispositif électronique des enregistreurs à bande ;
+mandes auxiliaires ; 11,
+lateur de voltage : 13,
+
+synchronisation pour: là télévision ;. 15, antennes émettrices ; 16,
+
+17, dispositif pour mesurer la position du satellite par rapport au Soleil ; 18,
+. Tes s (au: nombre de -9:000, réparties sur les flancs et l'une des faces planes) ;
+
+_contre-rotationnel ; 21, fusées rotationnelles.
+
+3, objectif grand angle ;
+4, chronométreur électronique pour l'enchainement des opérations ;
+6, batteries chimiques ; 7, dispositif électronique des caméras ;
+9, circuits de commande ;
+convertisseur d'énergie pour enregistreur à bande; 12,
+régulateur de charge des batteries : 14, générateur auxiliaire de
+antenne de réception ;
+cellules solai-
+20, dispositif
+
+3, enre-
+
+10, com-
+régu-
+
+(Document aimablement communiqué par le Céntré eulturel américain).
+
+“tions se présentent aussitôt à à L'esprit : on peut soit stabiliser
+le satellite, soit lui donner une orientation fixe.
+
+Stabiliser un satellite consiste à lui donner une position
+
+déterminée par rapport au sol. L'engin se comporte alors,
+toutes proportions gardées; comme un avion ordinaire. Cette
+
+solution est la seule-qui puisse convenir à un engin destiné à --
+
+‘à la portée que des gros satellites. IL faut en effet loger à
+un-système automatique de pointage qui comporte un & œil »
+
+être monté par un homme. Elle est évidemment la plus satis-
+faisante aussi pour un satellite chargé de photographier le sol
+puisque ce dernier se trouvérait toujours à la même place par
+rapport à lui. Mais elle présente un inconvénient : elle n'est
+bord
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 3 — Une des photos transmises par Tiros I
+le 8 avril 1960.
+
+On voit nettement, coupés par des bandes nuageuses,
+les contours de la Mer Rouge (1}, le golfe d'Akaba (2),
+la vallée du Nil en Égypte (3), la Méditerranée orien-
+tale (4), Des nuages couvrent l'Arabie séoudite (5).
+
+(Phota National Aeronaulics and Space Adminislralion,
+communiquée par THE AssOCrATEn Press Lrn.).
+
+chargé de suivre la ligne d'horizon et de peti-
+tes fusées d'appoint capables de modifier la
+position du satellite dans l’espace, le tout étant,
+comme il se doit, accompagné d'un système à
+programme capable d'interpréter les indica-
+tions recueillies par l’ « œil » et de transmet-
+ire les ordres voulus aux réacteurs d'appoint.
+
+Cette solution a déjà été utilisée dans deux
+circonstances. C'est à elle que les Soviétiques
+ont fait appel pour saisir dans l'objectif de
+leurs caméras la face inconnue de la Lune,
+Une seule différence avec le dispositif décrit
+plus haut : le Mas était muni de deux « yeux »
+qui étaient chargés d'effectuer un pointage par
+rapport au Soleil, puis par rapport à la Lune.
+Les Américains, d'autre part, v font régulière-
+ment appel dans leurs essais préparatoires au
+lancement d'un homme dans l’espace (projet
+Mercure) : les satellites Discoverer sont stabi-
+lisés par rapport au sol.
+
+Maïs un Discoverer est en fait constitué du
+second et dernier étage de la fusée porteuse,
+une Agena, auquel est adaplée une capsule
+récupérable. Il pèse plusieurs centaines de kilo-
+grammes tandis que les performances de la
+Thor Able limitaient à un chiffre sensiblement
+inférieur le poids du Tiros. Aussi les spécia-
+listes américains se sont-ils tournés vers la seconde formule
+l’orientalion.
+
+Le principe en est très simple : on anime l'engin d'un mou-
+vement de rotation autour de son axe et, sitôt lâché dans
+l’espace, le satellite se comporte à la manière d’un gyroscope
+il garde une orientation fixe par rapport aux étoiles. Cela
+implique qu’à tout moment durant sa rotation autour de la
+Terre, il change d'orientation par rapport au sol. C'est cette
+solution qui avait été adoptée sur le satellite « météorologique »
+Vanguard IT.
+
+L'inconvénient de cette deuxième solution saute aux yeux
+la bande de terrain balayée par la caméra de télévision revêt
+une forme des plus complexes puisqu'elle dépend à la fois des
+effets de la rotation du satellite autour de son axe, de la trans-
+lation du satellite par rapport au sol et enfin de la modification
+continuelle de l'angle que fait l'axe du satellite avec un plan
+tangent à la surface du sol. Dans le cas du Vanguard, la situa-
+tion se compliquait encore du fait de la disposition des deux
+cellules sensibles aux infrarouges : l'engin avait une forme
+sphérique. et les deux cellules « regardaient » dans des sens
+opposés, leur axe commun faisant un angle de 45° avec l'axé
+de rotation de l'engin. À supposer, par exemple, que cet axe
+fût parallèle à la surface du-sol, ce qui se produisait deux fois
+par révolution, l’une des cellules « regardait » vers l'avant et
+l'autre vers l'arrière et éhacune balayait une bande de terrain
+qui revêtait la formé d’un feston. À supposer au contraire que
+l'axe de rotation fût perpeñdiculaire à la surface du sol, ce qui
+se produisait également deux fois à chaque révolution, l'une
+des cellules balayaïit le sol suivant la courbe composante d’un
+mouvement de rotation et d'un mouvement de translation (une
+cycloïde) tandis que l’autre ne « voyait » que le ciel. Naturel-
+lement, dans. les deux cas, les rôles des deux cellules étaient
+inversés à chaque fois : celle qui pointait vers l’avant alors
+
+ 
+
+187
+
+ 
+
+ 
+
+ 
+
+que l'axe de rotation était parallèle au sol regardait vers
+l'arrière après une demi-révolution; de même, la cellule qui
+« voyait » le sol lorsque l'axe était perpendiculaire au plan
+
+tangent à la Terre n’apercevait plus, une demi-révolution plus
+tard, que le ciel.
+Encore s'agit-il là des positions les plus simples qu'ait pu
+
+avoir le satellite par rapport au sol. Dans les positions inter-
+médiaires, on obtenait des surfaces déformées dont le repérage
+par rapport au sol était des plus délicats. .
+
+Les constructeurs de Vanguard II étaient parfaitement cons-
+cients des difficultés qui résulteraient de cette disposition.
+Aussi élail-il convenu que seules, en principe, seraient prises
+en considération les « impressions » recueillies lorsque l'axe de
+rotation serait parallèle au sol. Cette disposition correspondait
+nécessairement, soit au périgée, soit à l'apogée de l'orbite. Un
+satellite est largué dans l’espace lorsque la trajectoire du der-.
+nier étage de la fusée porteuse est parallèlé au sol et il est
+impensable que son axe de rotation sur lui-même puisse alors
+ne pas être confondu avec cette trajectoire. Encore fallait.il que
+lors de ces passages à l'apogée ou au périgée, les altitudes où
+devait se trouver le satellite fussent compatibles avec des obser-
+vations, en d’autrés termes que ces altitudes fussent suffisam-
+ment basses pour que la ligne d'horizon se trouvât dans le
+champ balayé par les deux cellules pendant leur mouvement
+de rotation autour dè l'axe. Seul, dans l'orbite choisie, le péri-
+gée répondait à ces conditions. Vanguard II ne recueillait doné
+des « impressions » qu’une fois par révolution.
+
+Le système adopté sur le Tiros, quoique beaucoup plus sim-
+ple, permet d'aboutir au même résultat. L'engin revêt, cette
+fois, la forme d'un tambour. L'axe de rotation est perpendicu-
+laire aux deux faces planes du tambour et les deux caméras dé
+
+“télévision sont disposées toutes deux d'un même côté de
+
+l'engin sur l’une des deux faces planes, leür axe optique étant
+
+Droits reservés au Cnam et à ses partenaires
+
+138
+
+ 
+
+ 
+
+parallèle
+sol pendant un laps de temps inférieur
+satellite à effectuer une demi-période de révolution; plus pré-
+cisément : pendant le temps que mettra le satellite à décrire
+sur sa trajectoire le plus petit des deux arcs définis par l’inter-
+section de cette trajectoire avec deux plans menés : 1° tangen-
+tiellement à la surface de la Terre aux deux extrémités d’un
+diamètre du grand cercle défini lui-même à un moment donné
+par l'intersection du globe terrestre avec le plan de révolution
+du satellite; et 2° parallèlement à l’axe de rotation de l'engin.
+On peut, en toute première approximation, évaluer l'angle au
+centre de cet arc « ulile ».à 130°.
+
+Quant à la zone qui peut être observée, elle couvre en théorie
+la moitié du grand cercle « survolé » par le satellite durant une
+révolution. Maïs pratiquement, aux extrémités de cet arc, les
+caméras ne peuvent avoir qu'une vue oblique de la surface ter-
+restre et c’est seulement lorsque l’angle que fait l'axe de rota-
+tion de l'engin avec un plan tangent à la surface de la Terre
+‘est proche de go° que l’on peut prendre des clichés à la verti.
+cale, donc obtenir des vues plus précises. La rotation de la Terre
+fait naturellement qu'à chaque révolution, la zone où les prises
+de vues sont les meilleures varie,
+
+De toute façon, les caméras ne peuvent pas alors enregistrer
+‘l’image d'une bande continue de terrain puisqu'elles sont soli-
+daires d’un engin qui est animé d’un mouvement de rotation
+relativement rapide sur lui-même (12 tours par minute). Aussi
+a-t-il été prévu qu'elles ne prendraient qu’une vue toutes les 405.
+Mais l’engin‘est doté d'une « mémoire » magnétique qui peut
+enregistrer 32"mages. Ce sont ces 32 images qui se rangeraient
+sur une cycloïde si tout au long de ces prises de vues on pouvait
+considérer que l'axe de rotation de l'engin était rigoureusement
+perpendiculaire à un plan tangent à la surface du sol; ce qui,
+de toute évidence, n’est pas le cas.
+
+Le dépouillement des images recueillies par Tiros I, quoique
+simplifié de façon appréciable par rapport à celui prévu pour
+Vanguard IT, ne sera donc pas des plus aisés, mais il exisle
+entre les deux expériences une différence importante qui est de
+nature à faciliter la tâche des spécialistes américains : Van-
+guard II ne devait recueillir. que des « impressions », tandis
+que Tiros enregistre des images. Or, il est impossible, en étu-
+diant les « impressions », de les localiser : seul le calcul peut
+dire à quelle portion du globe correspondent les variations du
+pouvoir réfléchissant enregistrées par les cellules. Au contraire,
+l'examen d'un lot de photographies peut fournir nombre de
+points de repère identifiables.
+
+Les Américains envisagent dès à présent de lancer un satel-
+lite qui, comme Vanguard IT, serait équipé exclusivement de
+cellules sensibles aux infrarouges ; d'où, d'ailleurs, le nom
+donné à l'engin. |
+
+À la lumière de ce qui précède, on comprend mieux qu'ils
+aient préféré d’abord acquérir une certaine expérience dans ce
+domaine en lançant un engin qui, tout en fournissant des
+résultats plus spectaculaires, permettait de « tester » le matériel.
+Pourquoi n'avoir pas opéré de même avec le Vanguard? La
+réponse n'est pas moins évidente : ce dernier n'était pas
+suffisamment lourd pour que l’on pût songer à y loger tous
+les appareils nécessaires à la réception, à l'enregistrement et
+à la transmission des images. | |
+
+-Notons en passant que, pour prendre des vues de la Terre, il
+-est possible d'imaginer une troisième formule : celle qui repo-
+serait sur l'envoi d’un satellite muni de caméras récupérables.
+L'engin, après avoir effectué un certain nombre de fois le tour
+de la Terre et pris grâce aux appareils perfectionnés dont. on
+dispose, des vues extrêmement précises, ferait retour sur terre
+où l'on développerait à loisir la pellicule. Cette méthode ne
+serait guère utilisable pour l’étude des phénomènes météorolo-
+
+3
+
+-giques, car le temps d'exploitation des résultats doit pouvoir.
+
+être bref : on estime qu'une image recueillie par le Tiros I
+
+à-l’axe- de rolation. Les deux caméras voient ainsi le.
+à celui que met Île.
+
+ 
+
+ 
+
+»
+
+peut se trouver à l’élat de photographie entre les mains des
+spécialistes 30 mn après avoir été enregistrée. Cette troisième
+méthode, bien plus précise mais beaucoup moins rapide, semble
+surtout adaptée à la reconnaissance militaire.
+
+L'équipement, — 11 est naturellement déterminé par la mis-
+sion qui lui est confiée, Il comprend
+
+— Deux caméras de télévision dont les axes optiques sont
+parallèles à l’axe de rotation du satellite. L'une de ces caméras
+peut prendre. des photographies dont la superficie est celle d'un
+carré de 160°km de côté. L'autre prend des vues dont la super-
+ficie est égale à celle d’un carré dont le côté mesurerait
+1 6oo km. La qualité des vnes dépend naturellement de la dis-
+position de l'engin par rapport au sol et il est bien évident
+que les vues prises en oblique et embrassant une plus grande
+superficie seront moins nettes. Il a élé dit que la caméra dotée
+du plus fort grossissement pouvait permettre de distinguer,
+mais non d'identifier, un objet de 350 m de long. Cette” pré-
+cision ne semble pas avoir été confirmée de source officielle.
+
+— Un poste radio récepteur et deux postes émetteurs. Le
+premier est destiné à recevoir les instructions lancées du sol :
+Tiros I, en effet, ne prend que des photos sur commande, mais
+il est équipé d'un mécanisme électronique qui lui permet de
+garder en mémoire les instructions reçues et de n'exécuter le
+programme qui lui a été imparti que le moment venu. Le
+premier poste émetteur sert à la transmission au sol des signaux
+représentalifs des images filmées. Cette transmission peut
+s'effectuer au fur et à mesure de la prise de la photographie,
+"mais elle peut aussi être différée; aussi l'engin est-il muni
+d'une seconde « mémoire » qui lui permet de conserver les
+images jusqu’à ce qu'il se trouve dans une position favorable
+pour transmettre au sol les signaux recueillis. Quant au second,
+il sert à localiser l’engin et à transmettre au sol des indications,
+notamment sur sa température intérieure.
+
+— Les poëtes radio sont alimentés par des batteries solaires.
+Ces batteries sont alimentées par des cellules, au nombre de
+9 000, disposées sur les flancs de l'engin et sur celle de ses
+faces planes qui ne porte pas de caméras.
+
+— Un dispositif qui permet, lors du largage dans l'espace,
+de réduire la vitesse de rotation de l'engin sur lui-même : de
+186 t/mn, cette vitesse est ainsi ramenée à 12 t/mn.
+
+— Quant au dispositif à terre, il repose essentiellement sur
+l’utilisation de deux stations : Fort-Monmouth dans le New
+Jersey, et Kaena Point dans les Iles Hawaïi. Ce sont ces stations
+qui donnent à l'engin les instructions voulues et recueillent ses
+signaux.
+
+L'expérience semble, jusqu'à présent, se dérouler confor-
+mément aux prévisions. La qualité des images qui ont été ren-
+dues publiques satisfait les techniciens et il faut noter l’insis-
+tance qu'ont mis les dirigeants américains de l'opération à
+expliquer que Tiros Ï n’était en aucune manière un satellite
+de reconnaissance. Le but de ce premier lancement, expli-
+quent-ils, est essentiellement d'essayer un nouveau matériel.
+Si cet essai et si celui du Tiros Il se montrent concluants, ils
+envisageront de lancer tout un réseau de satellites météorolo-
+giques. Tiros TI ne décrit pas une orbite polaire (surtout, sem-
+ble-t-il, pour ne pas survoler tout le territoire soviétique) mais
+les satellites météorologiques devraient logiquement décrire des
+orbites qui coupent l'Équateur à angle droit. Ce réseau, pour
+être complet et fournir à tout moment.tous les renseignements
+voulus, devrait comprendre sept engins.
+
+Quant, aux travaux de reconnaissance militaire, ils seraient
+confiés à des engins spécialisés dont on connaît déjà les noms :
+Midas et Samos.
+
+Das : Nraoras Vionney.
+
+Droits reservés au Cnam et à ses partenaires
+
+Le rôle des pigments photosensibles
+
+dans
+
+origine dans l'absorption de la lumière par des récep-
+
+teurs, cônes et bâtonnets, dont la couche garnit le fond
+de la rétine, à l’endroït où elle est soudée à la sclérotique par
+l'intermédiaire de l'épithélium pigmentaire de la choroïde.
+
+En 1855, Treviranus découvrit les cellules visuelles réceptri-
+ces, H. Müller (1853) fournit la preuve que ces cellules consti-
+tuent bien la couche photosensible de la rétine. En produisant
+un éclairage transscléral, à l'aide d’une lource lumineuse mo-
+bile, Müller mesura la parallaxe de l’ombre d'un vaisseau san-
+guin rétinien. Le calcul montra que la distance entre ce vaisseau
+et la couche photosensible dans l'œil est de l’ordre de 0,2 rm,
+ce qui désigne comine couche réceptrice celle des cônes et
+bâtonnets.
+
+L'épithélium pigmentaire est constitué par une couche unique
+de cellules plales dont la longueur égale quelque 3 à 5 dia-
+mètres de cellules réceptrices. Une telle cellule est donc en
+contact avec un cerlain nombre de récepteurs. Elle les entoure
+même partiellement de ses franges qui peuvent descendre jus-
+qu’à la membrane limitante externe. Les cellules épithéliales
+contiennent un pigment appelé mélanine qui semble être inerte
+à l'égard de la lumière, Ses grains sphériques d’un brun très
+foncé enlourent le noyau de la cellule, tandis que des grains
+contenant un pigment plus clair se trouvent vers le bas de la
+cellule et dans ses franges. Ce pigment, d'une nature chimique
+inconnue, est partiellement décomposé par la lumière. Il se pré-
+
+O sait depuis fort longlemps que l’acte visuel prend son
+
+ 
+
+Fig. 2 et 3. — Coupe histologique d'une rétine de singe (à gauche)
+
+et coupe schématique d’une rétine humaine (à droite),
+
+: G, chôroïde ; B, membrane de Bruch; 1, cellules de l'épithélium pigmen-
+taire (double rangée) ; 2, couche des segments externes des bâtonnets ; 3, limitante interne ;
+
+De haut en bas :
+
+ 
+
+189
+
+la vision
+
+  
+    
+   
+    
+ 
+   
+  
+
+Côté
+temporal
+
+Ora serrata
+
+Fetine
+
+  
+
+séallin ‘
+Cris fores
+
+Humeur
+aqueuse
+
+  
+
+Corps ritre
+Papiie
+
+    
+   
+ 
+
+Co re Hya loide
+
+Choroide
+
+Sclerotique
+
+Fig. 1. — Coupe schématique de l'œil.
+La choloïde est insérée entre la rétine et la sclérotique, à l'extérieur de
+l'épithélium pigmentlaire figuré ici par une couche noire.
+
+sente sous forme de fines aiguilles orienlées dans le sens de
+l'axe visuel de l'œil, donc aussi dans le sens de la lumière inci-
+dente. Des observations anciennes de Rählmann laissent penser
+que ces aiguilles pourraient être constituées de pourpre rétinien
+(rhadopsine) à l'élat solide, mais on manque de preuves défini-
+lives à ce sujet.
+
+Les biochimistes spécialisés ne doutent pas
+que les pigments photosensibles contenus dans
+les récepteurs (rhodopsine dans les bâtonnets
+et deux pigments à structure encore inconnue
+dans les cônes de la fovéa) dérivent de la même
+substance-mère. En ce qui concerne la rhodo-.
+psine, on connaît le cycle de sa dérivation à
+partir de la vilamine À, de sa décomposition
+par la lumière et de sa recombinaison in situ,
+et, grâce au biochimiste Wald, de l'Université
+de Harvard (U.S. À.),on sait même la produire
+par synthèse. D'autre part, seule l'irrigation
+sanguine peut fournir aux récepteurs rétiniens
+les pigments élaborés en dehors d'eux, ou la
+vitamine À susceptible de servir à la synthèse
+in situ des pigments visuels du type rhodopsine.
+
+Le métabolisme des récepteurs visuels est tri-
+butaire de la choroïde fortement vascularisée et
+l’épithélium pigmentaire constitue l’intermé-
+diaire entre ces deux tissus, d’où l'intérêt par:
+ticulier qu’il revêt à nos yeux (fig. 2 et 3). Il y
+a de fortes chances pour que ses cellules assu-
+rent des fonctions très diverses et bien plus
+importantes que celles d’absorber passivement
+la lumière qui arrive à leur niveau après avoir
+traversé toutes les couches réliniennes, y com-
+
+ 
+
+ER — pris celle des récepteurs. Si Le rôle de l’épithé-
+
+QE
+
+lium pigmentaire a élé-sous-estimé pendant
+longtemps, il est probable que des recherches
+modernes dans ce domaine permettront bientôt
+d'en estimer l'importance réelle pour la vision.
+
+4, couche des noyaux des .bâtonnets comprenant également les segments internes des bâton-
+
+nets ; 9, couche plexifarme externe comprenant les cylindraxes et les pieds des bâtonnets ;
+6, couche des noyaux internes comprenant les cellules bipolaires et les cellules d'association
+(cellules horizontales et amacrines).; 7, couche plexiforme interne formée par les cylindraxes
+couche des cylindraxes des
+cellules ganglionnaires formant le nerf, oplique ; 10, limitante interne.
+
+des cellules bipolaires ; 8, couche des cellules ganglionnairés ; 9
+
+Le cycle photochimique de la rhodo:
+psine. — La vitamine À, substance-mère des.
+pigments visuels, existe sous deux formes,
+vitamines À, et A,, qui se distinguent l’une de
+
+Droits reservés au Cnam et à ses partenaires
+
+: cs Ê 2
+SSSK LINE ETS ER
+rer s 4 À À H Tout trans
+viterune À
+H3C? 1 C-CHy ss
+é 7 CH 14
+#o SEEN
+H retirène
+CH Hi CHs “ us
+c € € € 4 L
+— Se Ne ST Se Ne res
+S ' : h
+H x
+CH CH, OH
+Hal 7 CHs
+S Sr ès
+la
+CF3 H e°
+€ €
+TNT NT Set
+7 1 H | 9 -cs
+| | [150 - 8)
+Ha C C-CH; 4"
+2 Neon, Se"
+He |
+! .
+SR .H
+CH3 |
+CH
+a" ce £ © CH OH
+Pé ST ST Net
+2 b | 913- os
+| | c {iso - b}
+H3C C-CHs :
+? Ses H Ser
+Ha |
+€ CHo OH
+PK TT
+CH €
+C#3 H CH5 ë
+€ Û Ê
+TN Ne Se De
+HaQ C €
+? ñ H | H- cs
+| t {neo -b]
+2€ c'es Th
+Ten CHs C
+Ha |
+CH90H
+Fig. 4. — Les isomères de la vitamine À, et du rétinène..
+
+Les structures correspondantes de la vitamine A, et du rétinène À, s'en
+
+distinguent par une double liaison entre les atomes de carbone 3 et 4.
+
+Bien que l'isomère 1Îl-cis (néo-b) constitue l’isomère dont l'existence est
+
+a priori la moins probable, c'est lui dont dérivent tous les pigments visuels
+connus,
+
+l’autre par une double liaison présente dans le seul cycle de la
+première. Leurs aldéhydes correspondants sont appelés rétinène,
+et rétinène, (1). Dans les récepteurs visuels, Wald a pu trouver
+deux familles de protéines visuelles spécifiques appelées par lui
+opsines, les opsines des bâtonnets et celles des cônes, Les deux
+ rétinènes se combinent avec les deux opsines, donnant aïnsi
+naissance à quatre pigments visuels. L'un de ces pigments est
+lé pourpre rétinien que Wald a appelé rhodopsine. Voici le
+schéma, d’après Wald, de sa synthèse
+
+ 
+
+enzyme lumière
+{1} Vitämine 4, © Z. Rétinène, + Opsine TT rhodopsine.
+‘ coenzyme
+
+La vitamine À se transforme en rétinène, en présence d’une
+enzyme (catalyseur); mais le processus inverse est également
+
+LC 'É Rappelons que d’après la nouvelle nomenclature (La Nature, mars
+‘1956, p.115) les vitamines À, et À, doivent être appelées respectivement ”
+
+rétinol. et. déhydrorétinol, les rélinènes correspondants devenant le rétinal
+eb le :déhydrorétinal (N.D,L.R:) ‘ © .
+
+.
+
+possible, grâce à un autre catalyseur qualifié de coenzyme. La
+structure chimique de ces enzymes est connue, En présence de
+l’opsine appropriée le rétinène se transforme en rhodopsine, Je
+pigment photosensible des bâtonnets. Son maximum d'’absorp-
+tion se trouve dans le vert bleu {couleur complémentaire du
+pourpre), à boo my.
+
+Sous l’action de la lumière, la rhodopsine se décompose,
+ainsi que l'indique la direction de La flèche dans le schéma.
+Néanmoins, la reconstitution de la rhodopsine peut avoir lieu
+également dans ces conditions. Ainsi, un équilibre tend à 5e
+produire tel que le nombre des molécules décomposées par unité
+de temps égale le nombre des molécules de rhodopsine reconsti-
+luées.
+
+La figure 4 montre les isomères de la vilamine A,. Ce sont
+des molécules identiques du point de vue de leur composition
+atomique et même de leur structure, mais qui diffèrent entre
+elles par leur disposition dans l'espace, On distingue les confi-
+gurations cis et trans. Les formes cis peuvent être interprétées
+comme dérivant de l'isomère tout trans par une rotation de
+180°, en partant d’une des quatre doubles liaisons de la chaîne
+latérale. Des inversions successives sont également possibles.
+Wald et collaborateurs ont pu démontrer que le seul isomère de
+vitamine À capable de former des rélinènes se combinant avec
+
+-les opsines des récepteurs visuels est Le rr-cis. Comme on peut
+
+le voir, cet isomère présente une inversion à l'endroit de la
+double liaison après le 11° atome de carbone de la molécule.
+Par analogie avec d'autres molécules organiques, il était à pré-
+voir que cet isomère serait très instable et n'existerait pas à
+l'état naturel. I n'en est rien : les organismes ont choisi
+comme base de leur substance visuelle cet isomère qui est le
+seul el unique corps chimique nalurel connu de ce type isomé-
+rique,
+Le schéma suivant montre le cycle complet de la rhodopsine
+
+Rhodopsine
+
+Lumière
+Us . “ ——————————— 1 “is à “
+Rétinène riscis + opsine TL Tout-frans rétinène+opsine
+
+Enzyme | î
+Co-enzyme | |
+
+I}
+
+Vilamine A 11-ci8
+
+> Tout-frans vitamine A.
+
+Les doubles flèches indiquent que les réactions peuvent se faire
+dans les deux sens. Ceci est lié au fait que les formes trans sont
+plus slables que les formes cis.
+
+La figure 5 illustre le cycle supérieur du schéma : on mélange
+une solution d'opsine extraite d'yeux de bœuf avec du réti-
+nène 11-cis (que Wald a baptisé néo-b). Dans un spectromètre
+enregistreur, des courbes d'absorption lumineuse en fonction de
+la longueur d'onde sont tracées (entre 300 my et 650 my), au
+fur et à mesure de la progression de la réaction à l'étude. Con-
+naissant les spectres d'absorption de la substance qui entre dans
+
+la réaction et de celle qui en sort, on peut suivre quantitative-
+
+ment la réaction, en fonction du temps. |
+
+Dans l'enregistrement du haut, on suit la synthèse de la
+rhodopsine et en bas, son blanchissement par la lumière,
+La courbe h, montre le maximum du rétinène à 380 my, mais
+bien qu'elle ait été tracée en l'espace de 20.s suivant le
+mélange du rétinène et de l’opsine, on distingue déjà une petite
+bosse vers 500 mu qui indique la présence d’une faible quan-
+tité de rhodopsine. Toutes les courbes À jusqu'à k, sont. obte-
+nues dans l'obscurité totale. Après 2 h, le rétinène a complète-
+ment disparu. La petite bande d'absorption à gäuche est, en
+effet, caractéristique de la rhodopsine; c’est la bande £ située à
+350 my én plein ultraviolet.
+Les courbes b sont obtenues par exposition brève à la lumière
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 5. — Synthèse et dé-
+composition par la lurnière
+de la rhodopsine en solu-
+
+ 
+
+de bœuf est constitué dans
+l'obscurité. Les spectres
+d'absorption spectrale du mé-
+lange sont enregistrés auto-
+matiquement aux temps sui-
+vants (après la constitution
+
+du mélange) : 1 après
+1 mn; 2 : après 2,5 mn;
+3: 7? mn; & : 16 mn: 5:
+26 mn; 6 41 mn; 7
+
+60 mn. — En bas : 7 : iden-
+tique à la courbe 7 du
+haut ; 8, après un bref et
+
+intense éclairage, Interpré-
+
+tation dans le texte (D'après
+
+une communication person.
+nelle de Wap).
+
+ 
+
+de la solution de rhodopsine synthétique. Le contenu en rho-
+dopsine de la solution diminue au fur et à mesure de ces irra-
+diations, mais on a l'impression de récupérer davantage de réti-
+nène qu'on n'en a introduit dans la cuve (comparer la hauteur
+des bandes d'absorption 380 my en haut et en bas). La cause
+en est qu'on récupère du rétinène tout-trans dont l'absorption
+spécifique est sensiblement plus forte que celle du rétinène
+néo-b.
+
+Bases photochimiques de la vision des couleurs, —
+Si notre compréhension des mécanismes de la vision non colo-
+rée progresse lentement, ceux de la vision des couleurs com-
+mencent tout juste à nous dévoiler leur inextricable complica-
+tion. |
+
+Les faits bien connus de la trichromie suggèrent que trois
+systèmes récepteurs rétiniens fonctionnent selon un principe
+
+que la technique moderne emploie dans le film en couleurs. :
+
+L'un des systèmes, plus sensible dans le rouge que les deux
+autres, « prendrait un cliché rouge », le second, particulière-
+ment sensible dans lé vert, un cliché vert, et le dernier un
+
+cliché bleu, Les messages nerveux qui émanent des trois sys
+
+tèmes créeraient dans le cortex cérébral la sensation colorée avec
+toute la gamme de ses nuances et saturations.
+
+De nombreuses tentatives de vérification de ce schéma ont
+été entreprises... Dans cette intention, on a choisi les rétines
+d'animaux à activité exclusivement diurne, contenant des cônes
+seulement. Jamais on n’a réussi à en extraire des pigments
+photosensibles qui puissent correspondre à ceux dont la présence
+dans les récepteurs cadrerait avec les propriétés de vision colorée
+des espèces étudiées, qu'il s'agisse de propriétés contrôlées par
+des expériences de dressage ou, au laboratoire, par les réponses
+bioélectriques des éléments ‘rétiniens à des stimulations en
+
+lumière monochromatique (expériences éléctrophysiologiques)..
+
+Au contraire, Wald a réussi à à extraire de la rétine de la poule
+
+tion.
+En haut : un mélange de :
+rétinène néo-b et d’opsine
+
+ 
+
+191
+
+un pigment photosensible appelé par lui iodopsine..C'est. une
+combinaison de rétinène néo-b avec l’opsine spécifique contenue
+dans les récepteurs visuels de la poule. Ge pigment présente un
+maximum d'absorption à 562 my et sa courbe d'absorption cor-
+respond à la sensibilité en vision diurne d'un grand nombre.
+d'espèces d'invertébrés et de vertébrés, y compris l'Homme. Il
+est évident que la question de la vision des couleurs n'est pas
+élucidée pour autant. Des expériences spectaculaires dues à
+Rushton (Cambridge, Angleterre) et à Weale (Londres) ont per-
+mis de découvrir la présence dans l'œil humain in situ de deux
+pigments photosensibles localisés dans la partie centrale de la
+rétine, la fovéa. Celle-ci ne contient que des cônes, récepteurs
+diurnes indispensables à Ja vision des couleurs. La figure 6
+montre qu’un mélange des deux pigments peut présenter une
+courbe d’absorption qui cadre avec celle de l’iodopsine. Mais
+que dire du récepteur du bleu? Et pourquoi n'’a-t-on jamais
+
+100
+
+  
+
+80
+ë
+u 60
+3
+5
+#
+5 40
+2
+3
+£ 20
+4
+n
+0
+«00 500 600 700 mp
+Longueur d’onde
+Fig. 6. —— Absorptions comparées des pigments fovéaux
+et de l’iodopsine.
+Courbe 1 sensibilité du système récepteur fovéal du vert (Rushton).
+Courbe 2 :
+
+sensibilité du récepteur. fovéal du rouge (Rushton). Courbe 3 :
+absorption spectrale de l'iodopsine (Wald)}. Les cercles sont des éléments
+de la courbe d'absorption de l’ensemble des pigments fovéaux (Ruhston) ;
+
+cette courbe semble pouvoir coïncider à peu de chose près avec la courbe
+
+d'absorption de l'iodopsine.
+
+réussi à extraire l’iodopsine ou tout autre pigment photosensi.
+ble d'une rétine dépourvue de rhodopsine ? Questions troublan-
+tes auxquelles aucune réponse satisfaisante ne peut être donnée
+à l'heure actuelle.
+
+On a constaté que les spectres d'absorption de solutions extrai-
+tes des rétines étudiées se distinguent souvent significativement
+des spectres observés in situ ou dans des suspensions de cônes et
+de bâtonnets intacts. Gela s'explique par des faits d'ordre anato-
+mique et physique. En effet, les récepteurs in situ reçoivent la
+lumière à travers des couches rétiniennes aux qualités souvent
+filtrantes et la réflexion par le fond rétinien peut également
+influer sur la courbe d'absorption. Ces déformations de Ja
+courbe d'absorption’ spectrale propre au pigment photosensible
+lui-même n'ont pas lieu lorsque le spectre d'absorption ‘est
+déterminé à l’aide d'une suspension des récepteurs. Mais Jors-
+qu'on opère avec un extrait de pigments en solution, une nou-
+velle déformation se présente. On l'attribue au fait que les pig-
+ments se trouvent dans les récepteurs sous forme cristalline ou
+quasi-cristalline; l'orientation spatiale de leurs molécules (à ne
+pas confondre avec leur isomérie, qui concerne l'orientation
+spatiale intra-moléculaire) semble: influer sur. leur. spectre
+d'absorption: Il convient de rappeler à ce sujet que Ségal,
+ancien collaborateur du professeur Piéron, a prouvé, il y a déjà
+dix ans, qu'aucun récepteur du rouge ne peut exister dans
+
+- quelque. rétine que ce soit s’il ne contient que des pigments
+liquides. |
+
+Droits reservés au Cnam et à ses partenaires
+
+192
+
+Revenons-en à la relation (1). En remplaçant la vitamine A,
+par la vitamine À,, on peut écrire :
+
+ 
+
+ 
+
+lumière
+(2) Vita- enzyme opsine des bâtonnets #75 porphyropsine
+mine À4s © > Rétinènes
+coenzyme lumière
+opsine des cônes TT 3 cyanopsine,
+
+Dans les yeux de poisson d'eau douce (perche, tanche), on a
+constaté la présence de la porphyropsine, pigment photosen-
+sible des bâtonnets dont la sensibilité maximale se situe à
+522 my, et de la cyanopsine, pigment de cônes, au maximum
+situé à 620 my.
+
+Il existe une parfaite analogie entre la cyanopsine el l’io-
+dopsine, en ce sens que ces pigments reflètent très bien la sen-
+sibilité diurne globale des organismes dont les cônes les
+contiennent. Mais la cyanopsine, pas plus que l'iodopsine, ne
+peut expliquer la vision des couleurs.
+
+La porphyropsine accuse un spectre d’absorplion qui suit
+l'évolution spectrale de la sensibilité crépusculaire des poissons
+d'eau douce en question, mesurée par Granit à Stockholm (mé-
+thode électrophysiologique). Une différence légère (10 mu) entre
+les mesures d’absorplion faites respeclivement par Wald et
+Dartnall (Londres) subsiste.
+
+ 
+
+L'adaptation à la lumière. — Sans entrer dans le détail
+d'un mécanisme complexe et encore controversé, effleurons
+pourlant ici le problème de l'adaptation à la lumière. C'est un
+fait d'observation que la sensibilité de l'œil diminue lorsqu'il
+est exposé à la lumière.
+
+On sait bien que l’une des causes en est le passage de la
+vision crépusculaire (bâtonnets) à celle dite diurne (cônes) et
+que la configuration des liaisons nerveuses entre bâtonnels les
+rend beaucoup plus sensibles que les cônes. Mais une fois la
+vision diurne établie, la sensibilité baisse tout de même au
+cours d'une adaptalion qui dure quelques minutes. D’auire
+part, le niveau de sensibilité qui est atteint au bout du pro-
+cessus d'adaptation dépend du niveau lumineux choisi,
+
+Nous avons bien appris dans les livres que ce processus est
+déterminé par le taux des pigments photosensibles contenus
+dans les cônes, taux qui baïsse au fur et à mesure qu'augmente
+le niveau lumineux utilisé pour l'adaplation. Or, s'il est vrai
+que ce laux y est pour quelque chose, on s'est rendu compte
+qu'il faut également considérer bien d’autres facteurs, Au cours
+de l'adaptation à la lumière, la section pupillaire diminue.
+Entre la pupille grande ouverte dans l’obscurité totale et celle
+qui est adaptée à une lumière de jour radieux, le rapport de
+seclion est de 16 environ, ce qui divise par autant la sensibilité
+apparente.
+
+Plus la coopéralion entre récepteurs rétiniens voisins est
+étroite et plus la sensibilité du système est élevée: Or on peut
+montrer que celte coopération diminue de façon très sensible
+lorsque augmente le niveau d'adaptation,
+
+Mais ce n'est pas tout, On sait que l'absorption de la Jumière
+se fait par quanta lumineux et qu'elle est un événement de
+caractère statistique. Si. 100000 quanta sont absorbés en
+moyenne par unité de temps et d'aire rétinienne, cela signifie
+que des absorptions de gg 000 ou de 107 000 quanta sont chose
+très courante, que l'absorption de 98 000 où de 102 000 quanta
+‘est peu fréquente (cette fréquence est de 5 pour 100, c’est-à-dire
+que, si l'on faisait 100 expériences, 'on constaterait 5 fois des
+écarts supérieurs à 2 000) et que des écarts supérieurs à 3 oo0
+ne.se produisent guère (<< 1/1.000).. Il est évident que le cer-
+veau ne perçoit pas. cés variations dont l'existence physique est
+hors de doute: Cela signifie que la sensibilité globale est affec-
+fée d'un: facteur de correction biologique dont. ‘l'évaluation
+
+approximalive . est possible et montre que l'adaptation à la.
+
+lumière n'est guère d'ordre photochimique, tant que le niveau
+
+ 
+
+ 
+
+d'adaptation ne dépasse pas celui d'une pièce d'habitation
+modérément éclairée.
+
+Or, lorsqu'on fait encore augmenter le niveau d’adaptation,
+les trois facteurs mentionnés finissent par atteindre des valeurs
+peu variables, mais la sensibilité continue à diminuer. C'est à
+ce stade qu'intervient l'adaptation phoiochimique. Elle s'ex.
+prime par le déplacement continu de l'équilibre établi entre la
+décomposition des pigments pholosensibles et leur recombinai-
+son, selon les schémas (1) et (2). Le mécanisme biochimique de
+production des pigments photosensibles ne peut plus suivre le
+rythme de décomposition de ces pigments par une lumière deve-
+nue trop intense et ainsi un équilibre plus bas de concentration
+des pigments s'établit, ce qui fait diminuer la sensibilité.
+
+Vision et carence vitaminique. — Une étude très
+récente retrace l'histoire d'une carence vitaminique d’un
+groupe de rats blancs : maladie expérimentale et sa guérison
+(fig. 3). Des rats sevrés sont mis à un régime pauvre en vila-
+
+100
+
+ 
+
+L
+3 €
+S
+-
+o .S
+— €
+o 5 «0.
+v >
+V €
+_ Ÿ 0
+5
+Lu € 20
+J L
+a ©
+& cc
+
+o
+
+Semaines de regime
+
+Fig. 7. — Variations de concentration de différents éléments biochi-
+
+miques dans un groupe de rats blancs mis à un régime très pauvre
+en vitamine À.
+
+: taux de vitamine À dans le sang ;
+
+: taux d'opsine dans la rétine.
+
+1 : taux de vitamine À dans le foie ; 2
+3 : taux de rhodopsine dans la rétine ; 4
+
+mine À. D'abord, les réserves de vitamine À accumulées par le
+foie diminuent el atteignent des valeurs minimes au bout de
+quelques semaines. À partir de ce moment, la concentration de
+vifamine A dans le sang commence à baisser très rapidement et
+tombe à zéro. À ce point, le contenu en rhodapsine de la rétine
+commence à baisser à son tour et détermine le début d’une
+héméralopie caractérisée (défaillance de la vision crépusculaire).
+Qbjectivement, le degré d’héméralopie peut être déterminé par
+l'étude de l'électrorétinogramme (ERG), réponse électrique de
+la rétine à une stimulation lumineuse.
+
+Durant deux à trois semaines, la concentration en rhodopsine
+baisse, mais le contenu en opsine demeure stable. Puis l’opsine
+disparaît également et cela marque le début d'une détérioration
+
+Heures après injection
+
+ 
+
+Fig. 8. — Retour à la normale de Pélectrorétinogramme de rats blanes
+héméralopes, après injection de vitamine À.
+
+Après 3 jours à peine, l'ERG est redevenu normal. À noter que l'ampli-
+
+tude de l'ERG est proportionnelle au logarithme de. la sensibilité de
+
+l'organisme : l'importance physiologique est donc plus grande que ne
+peut le refléter cet enregistrement (D'après Dowzine et Wan).
+
+Droits reservés au Cnam et à ses partenaires
+
+———_————— © 2 2
+
+a 1
+
+biologique des tissus rétiniens. En effet, le contenu en opsine
+des segments externes des bâtonnets et des cônes des Vertébrés
+est considérable, ce qui explique que sa disparition modifie his.
+tologiquement les tissus. Jusqu'à ce niveau extrême, les trans-
+formations sont réversibles. Deux à trois jours de traitement
+à la vitamine A, de préférence par injections intrapéritonéales,
+suffisent à rétablir complètement la concentration en rhodopsine
+de la rétine et à faire traverser à l'ERG toutes les phases de
+détérioration en sens inverse (fig. 8).
+
+Systèmes photochimiques et électrogenèse. -— Le
+caractère photochimique de l'excitation visuelle, c'est-à-dire du
+début de la chaîne de processus qui mène à la sensation, a été
+suffisamment mis en lumière. Néanmoins, nous n'avons pas
+encore touché le cœur du problème, à savoir de quelle manière
+les événements photochimiques initiaux dans les cônes et les
+bâtonnets peuvent déterminer une excitation nerveuse,
+
+On sait par expérience que l'excitation quelconque d'un élé-
+ment nerveux produit une réponse électrique dès que son inten-
+sité dépasse un certain seuil. Il nous faut donc découvrir grâce
+à quel mécanisme la décomposition par la lumière d'un pigment
+peut provoquer des varialions d'ordre électrique. Une étude
+expérimentale de Wald et Brown montre que la synthèse de la
+rhodopsine à partir du rétinène néo-b et de l'opsine devient
+impossible en présence de traces infimes de p-chloromercuri-
+benzoate. Cette substance est un poison puissant pour les grou.
+pes — SH; on en conclut que la présence de radicaux — SH
+libres est indispensable à la synthèse de la rhodopsine. Wald et
+Brown ont démontré que le blanchissement de chaque molécule
+de rhodopsine libère 2 à 8 radicaux — SH, qu'il s'agisse de
+rhodopsine du Bœuf, de la Grenouille ou du Calmar.
+
+Le groupe — SH est l'un des plus réactifs sinon le plus réactif
+des radicaux qu'on rencontre en biochimie et ses propriétés
+spécifiques sont potentiellement électrogènes. Il est faible-
+ment acide, réducteur et avide d'ions métalliques. IL s'ensuit
+que la libération de radicaux — SH par la décomposition de Ja
+rhodopsine offre tout un faisceau de possibilités d’électrogenèse.
+Wald considère qu'une organisation physique appropriée est
+fournie par la microstructure très particulière du bâtonnet.
+Nous y reviendrons un peu plus loin.
+
+L'action de la lumière sur une solution acide de rhodopsine
+détermine immédiatement une hausse du pH, c'est-à-dire une
+baisse de l'acidité, par suite d’une raréfaction des ions d'hydro-
+gène libres. Un tel processus constitue évidemment une autre
+possibilité d'électrogenèse, sans qu il soit possible, à l'heure
+actuelle, de fournir d’autres précisions.
+
+On peut cependant affirmer que de tels phénomènes ne peu-
+vent constituer la source même des variations électriques obser-
+vées dans la rétine, variations qui déclenchent dans les cellules
+ganglionnaires l'envoi d’influx nerveux aux centres supérieurs.
+Entre l'électrogenèse massive observée et la décomposition des
+molécules de pigments photosensibles par la lumière, il doit
+exister un mécanisme amplificateur qu'il s'agit de trouver.
+
+Il a été prouvé de façon certaine que l'absorption d'un
+seul quantum lumineux dans un bâtonnet peut stimuler, sans
+toutefois déterminer l'éveil d’une sensation lumineuse. Or une
+telle absorption ne peut provoquer que la dissociation d’une
+seule molécule du pigment et ainsi libérer + ou 3 radicaux — SH
+ou neutraliser un seul ion H+. De telles variations électriques
+ne constituent même pas un millième de ce qui apparaît
+comme le minimum susceptible de déclencher un seul influx
+nerveux. ‘
+
+Revenons sur le contexte physique, la microstructure des
+bâtonnets. La figure g montre qu'elle est lamellaire. Depuis
+longtemps on s’en doutait, mais seul le microscope électronique
+pouvait en fournir la preuve objective. On pense que cette
+structure correspond à des couches alternées de rhodopsine et
+de lipides. La décomposition d’une seule molécule de rhodopsine
+
+ 
+
+pourrait provoquer un trou dans ce qui constitue peut-être une
+membrane. Un tel trou pourrait provoquer un flux ionique
+assez important, surtout si les couches stratifiées corres pondent.
+à des éléments isolés électriquement (les lipides sont des iso-
+lants).
+
+Ce n'est qu'une image, l'esquisse d'une hypothèse, mais
+faute de mieux, cela constitue un point de départ qui paraît
+prometteur. Une autre possibilité vient à l’idée par comparaison
+avec la photographie et le rôle catalyseur qu'y peut jouer une
+seule molécule de bromure d'argent qui, réduite en ion d’ar-
+gent métallique par l'absorption de quelques quanta lumineux,
+sert comme catalyseur pour la réduction du grain entier dont
+elle fait partie.
+
+Ne pourrait-on pas imaginer, suggère Wald, qu'un pigment
+visuel constitue une enzyme en jpuissance qui, activée par
+l’absorption d’un quantum de lumière, se comporte comme le
+grain de bromure d'argent de la couche photographique sen-
+sible P La molécule de pigment serait « bouchée » par le
+chromophore (le rétinène). Le rétinène étant parti lors de
+l’absorption d'un quantum de lumière, un centre catalyseur
+de l’opsine pourrait être mis à jour et provoquer ainsi une
+catalyse active intéressant des quantités très importantes de
+molécules de pigment. Un tel processus ne constitue pas
+entièrement une vue de l'esprit, car toute activation enzymo-
+gène connue à ce jour implique l'ouverture d'une brèche dans
+une molécule de protéine, du fait de la séparation d’un petit
+fragment de la longueur d'un ou de quelques acides aminés
+seulement. Une telle brèche découvre le centre catalyseur de
+la molécule et la rend hautement active. C'est ce qui se produit,
+par exemple, lorsque la pepsinogène se transforme en pepsine
+et la trypsinogène en trypsine.
+
+Fig, 9 (à gauche), —
+Microphotographie
+électronique de bâton-
+nets de Cobaye.
+Partie supérieure’ : seg-
+ments externes ; partie
+inférieure : segments in-
+
+ternes. Grossissement
+x 18 500
+
+(D'après SIÜSTRAND).
+
+ 
+
+Cependant, l'hypothèse de la catalyse se heurte pour l'ins-
+tant à une difficulté sérieuse méconnue par son auteur. Une
+telle action en cascade paraît inconciliable avec le fait que le
+contenu en rhodopsine des bâtonnets demeure quasi-constant,
+même aux éclairements assez élevés qui provoquent des mil-
+liers d'absorptions de quania par seconde et par bâtonnet.
+Puisqu’un bâtonnet contient seulement quelques dizaines de
+millions de molécules de rhodopsine, il subsiste une contra-
+
+diction qu ‘il faudrait pouvoir éliminer.
+
+Droits reservés au Cnam et à ses partenaires
+

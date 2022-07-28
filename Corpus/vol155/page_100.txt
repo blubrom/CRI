@@ -1,0 +1,453 @@
+% LA VISION DES INSECTES
+
+différences anatomiques considérables. Dans l'œil des Ver-
+‘ébrés, un cristallin ajustable permet l’accommodation,
+mise au point automatique de l’image rétinienne projetée sur
+les récepteurs, cônes et bâtonnets. Ceux-ci sont très nombreux,
+de l'ordre de 100 millions dans l'œil humain, Dans la seule
+fovéä, partie centrale de la rétine, plus de ro oco cônes, cou-
+vrant environ 0,04 mm?, assurent une discrimination extraor-
+‘ dinairement fine des détails. Les yeux de tous les Vertébrés res
+semblent, grosso modo, à l'œil humain,
+Le pouvoir de résolution de l'œil de l’Insecte, qui ne possède
+qu'une fraction infime du nombre des récepteurs de l’œil du
+
+Es l'œil des Insectes et celui des Vertébrés, il existe des
+
+Vertébré, paraît à première vue très inférieur à celui de la plu-
+
+ 
+
+Fig. ‘1 —.Schéma d'un œil composé d'Insecte.
+La coupé montre les sections médianes des ommatidies.. La distance -d
+définit ‘deux points pouvant être tout juste distingués par l'œil immo-.
+bile. Ge pouvoir de résolution est (exprimé en angle visuel) l'angle : d’ou-
+verture. de l'ommatidie, GC, cornée ; Cr, cône cristallin ; P, couche pigmen-
+DE taire ; R,.rétinule.
+
+part.de ces deruiers. Néanmoins, des considérations grossière-
+ment anatomiques ne suffisent pas nécessairement pour nous
+permetlré de savoir comment voient les Insectes; il est indis-
+pensable d'analyser également du point de vue physiologique et
+psycho-physiologique le fonctionnement de cet œil, si fonciè-
+
+rement différent de celui des vertébrés,
+
+ 
+
+‘Les yeux primitifs. — Depuis longtemps, on a constaté
+que lés performances visuelles de certains insectes sont bien
+meilleures que ne le ferait supposer l'anatomie peu complexe
+de. leurs yeux. Un exemple particulièrement frappant de la
+simplicité anatomique d'un appareil visuel est fourni par les
+yeux de l'écrevisse Copilia, décrits déjà par Exner, à la fin
+du dernier siècle. La petite rétine de cet œil contient quelques
+céllules réceptrices seulement, probablement trois. Elle se
+
+trouve dans le plan de focalisation d'un. gros cristallin, à une
+
+distance relativement grande de celui-ci. La quantité de lumière
+p'ojetée sur: la rétine est donc assez élevée, mais une discri-
+mination même rudimentaire serait impossible sans un dispo-
+sitif d'exploration dynamique, La rétine de Copilia exécute
+des moüvements de va-et-vient de grande amplitude, tandis
+qüele cristallin deméure immobile. Si l'information instan-
+
+tanée, recueillie par cet: œil est insuffisante, l'exploration spa-.
+
+tiale rapide pérmet: de la multiplier en mettant à profit le
+
+témmps. Le sysième‘neïveux central de Copilia doit ainsi.
+synthétiser des. messages sensoriels successifs pour obtenir un .
+
+- équivalent de l'information qu'une rétine plus différenciée peut
+trafl
+
+rieurs, |
+
+:Ï] “existe. des: yeux d'insectes encore moins différenciés. que
+
+_céux' de Copilit. Ên effet, presque toutes les larves d'insectes
+
+sméttre instantanément au cerveau des’ animaux supé-
+
+possèdent 6 à 8 oceiles dont chacun ne peut fournir qu'une
+
+. seule information, à un moment donné, Les ocelles sont dispo-
+
+sés de telle manière que leurs axes longitudinaux forment
+entre eux un très grand angle solide (généralement proche de
+2 x). L'animal possède donc un champ visuel très étendu qui
+lui permet de saisir toute proie mobile qui passe à proximité.
+Le processus employé- ici consiste donc à signaler le passage
+d'une ombre d’un champ visuel partiel à un autre. Cette
+signalisation est bien visuelle mais non plus oculaire, car elle
+se produit au système nerveux central,
+
+Hundertmark a étudié une chenille (Lymantria monacha)
+qui, à la sortie de l'œuf, dispose déjà d’une rudimentaire vision
+des formes. Si cet animal possède 12 ocelles disposés systéma-
+tiquement à droite et à gauche de la tête, il est pourtant établi
+que chacun d'eux ne peut fournir qu’une seule information à
+la fois. On pourrait qualifier de prodigieuse la vision des
+formes de cette chenille, vu la simplicité anatomique de son
+appareil oculaire, En effet, un certain rapport longueur/lar:
+
+a
+
+geur d'objets rectangulaires est apprécié à 25 pour 100 près]
+
+L'œil composé. — Anatomie, — La figure 1 constilue un
+schéma de principe de la constitution d'un œil composé
+d'Arthropode (Insecte, Crustacé ou Arachnide). Chacune des
+
+‘ommatidies qui le composent peut recevoir de la lumière
+
+provenant d’un angle solide très grand, mais sa constitution
+interne est telle que la stimulation lumineuse maximale des
+rétinules qu'elle contient (fig. 2 et:3) ne se produit que lors-
+que cet angle est égal ou inférieur à l'angle solide qui renferme
+l’ommatidie en question. La distance d qui définit sur la
+figure 1 le seuil de la discrimination visuelle de l'insecte
+possède en réalité un caractère très académique, car l'insecte en
+
+   
+  
+   
+ 
+
+FA—— Cellule
+W 2'gmentaire
+
+Ahatdome
+
+Rétinule
+
+ 
+
+Fig. 2 (à gauche). — Les huit rétinules de l’ommatidie de l’Abeille
+| (schéma).
+Rh, rhabdome ; R, rétinule ; N, noyau ; F, fibre nerveuse, Le rhabdome est |
+la partie centrale de l'œil ; il se compose de 8 rhabdomères.
+
+Eig. 3 (à droite). — Deux ommatidies en coupe longitudinale (schéma).
+Chaque ommatidie, élément fondamental des yeux des Arthropodes (Însec-
+tes, Crustacés, Arachnides), contient plusieurs cellules (rétinules) groupées
+autour d'üuné formation centrale, le rhabdome. Le nombre des rétinules
+varié d'espèce en espèce mais est toujours petit, souvent 6 ou 8. La fibre
+nérveusé sortant de l'ommatidie se compose de fibres plus fines provenant
+des rétinules, au moins dans certaines espèces. Pour. d'autres espèces, la
+question. de ‘savoir si là fibre nérveuse centrale ést où non la prolongation ,
+du. rhabdome est encore controversée, car souvent une cellule dite excen-
+trique mélange son axone aux fibres qui terminent les rétinules,
+
+Droits reservés au Cnam et à ses partenaires
+
+vol reçoit des informations plus détaillées que l‘insecte au
+repos. Pour l’Abeille, d correspond à un angle visuel de 1,60.
+Cela signifie que l’Abeille au repos peut certainement perce-
+voir à r m de distance la structure d'un réseau dont les barres
+seraient distantes de 3 cm. Cela est peu par rapport à l’acuité
+de l'œil humain qui permet de faire largement 100 fois mieux.
+La fibre nerveuse qui relie l'ommatidie aux centres nerveux
+supérieurs est d’ailleurs composée de 8 fibres individuelles pro-
+
+venant des rétinules, cellules dont chacune possède un noyau
+
+individuel.
+
+On croit que le rhabdome, partie centrale de l'ommatidie,
+est Le lieu où se produit la réaction photochimique qui est à la
+base de l'excitation’ visuelle, Par la suite, des signaux électri-
+ques atteignent le noyau optique du système nerveux central
+qui interprète leur ensemble. Des études sur le crustacé Limu-
+lus faites par ‘Hartline montrent que des voies nerveuses,
+formant un plexus, lient entre elles les ommatidies.
+voies se branchent sur la fibre nerveuse de l'ommatidie, après
+sa sortie de cette dernière. Il demeure donc que l‘ommatidie
+constitue bien un œil complet de l’Arthropode.
+
+La figure 3 montre comment des cellules pigmentaires aident
+— avec la disposition des éléments optiques (cornée et cône
+cristallin) — à limiter l'angle de réception visuelle de l’omma-
+tidie isolée. L'ensemble paraît constituer un véritable système
+de guidage canalisant la lumière vers le rhabdome, mais Ja
+preuve n’en.est pas faite,
+
+Les yeux composés des Insectes possèdent bien moins de
+récepteurs que ceux des Vertébrés. Celui de l'Abeïlle, par
+exemple, contient environ gooo ommatidies. Ces veux sont
+généralement bien plus petits que ceux des Vertébrés, mais
+c'est surtout la taille de leurs récepteurs qui limite leur pou-
+voir de discrimination au repos.
+
+Vision des couleurs. — Les remarquables travaux de
+von Frisch sur le comportement de l'Abeille nous ont appris
+qüe cet insecte distingue assez finement les couleurs. Il est
+vrai que la gàamme des radiations électromagnétiques perçues
+par l’Abeïlle n’est que partiellement superposable à celle de
+l'Homme, par exemple, Ainsi, l’Abeille et en général beaucoup
+d'insectes voient l'ultraviolet qui nous est invisible et sont
+même particulièrement sensibles à cette radiation. Au contraire,
+le rouge n'existe plus dans leur gamme des couleurs. Si à
+l'Homme un mélange de rouge et de bleu fournit la sensation
+du pourpre, couleur qui ne correspond à aucune radiation pure
+contenue dans le spectre solaire, l’Abeïlle et beaucoup d'au-
+tres insectes perçoivent un mélange de jaune et d'’ultraviolet
+comme une qualité nouvelle qu'on a appelé pourpre d'abeille.
+La couleur complémentaire existe également dans le registre
+des sensations des Insectes; deux couleurs spectrales mélangées
+peuvent produire une sensation d’ absence de couleur, que nous
+appelons le blanc.
+
+Pourquoi l’Insecte peut-il voir l'ultraviolet auquel nos yeux.
+
+sont insensibles : > L'œil. composé n'accommode pas, l’image
+n'est pas mise au point. Dans l'œil des Mammifères, la mise
+au point est opérée par le cristallin et c'est lui qui absorbe la
+lumière ultraviolette. C'est pourquoi un récepteur de l’ultra-
+violet ne servirait à rien dans un tel œil. Au contraire, cette
+réception est possible dans l'œil des Arthropodes et s'y pro-
+duit effectivement. 7
+
+Vision des formes. — À cause de la directivité de la, récep-
+tion lumineuse par l’ommatidie, le pouvoir de séparation
+dépend peu de la distance entre l'œil et l’objet. En effet, Ja
+‘ seule information possible reçue par l'ommatidie consiste en
+une variation de la quantité lumineuse qui la frappe au. cours
+d'un élément de temps At donné. Cet œil est particulièrement
+apte à la vision du mouvement des objets, ou encore à la
+vision au cours du mouvement. Plus le passage de la stimula-
+ation d’une ommatidie à celle d'une autre est rapide et plus
+
+l'inverse du carré de la distance entre l'œil et l’objet.
+
+Mais ces
+
+ 
+
+l'impression de mouvement relatif s'accentuera chez l'insecte.
+Or, la vitesse apparente du passage d'un objet ennemi en puis-
+sance diminue avec sa distance de l’insecte, car diminue égale-
+ment le nombre d’ ommatidies stimulées par élément de temps
+AË.
+
+D'un autre côté, toute information parvenant à l'Insecte de
+loin a peu de chances d'attirer son attention. Puisque ses
+ommatidies ne peuvent réagir qu’à la variation de la quantité
+de lumière reçue, l'intensité de la stimulation varie avec
+Cela
+explique pourquoi, par exemple, la Mouche ne réagit guère aux
+mouvements des objets qui sont éloignés de ‘quelques : déci-
+mètres. Lorsque la main approche de la mouche, elle lui paraît
+de plus en plus claire et stimule un nombre croissant de ses
+ommatidies. C’est alors la variation rapide du nombre et de
+l'emplacement des ommatidies stimulées qui ont une signifi-
+cation pour l'insecte. |
+
+Nous approchons là un problème fondamental de la vision
+lout court. Pour les animaux supérieurs, mais également pour
+nombre d'animaux inférieurs, la vision des formes est une
+nécessité vitale. On sait que l'œil humain n'est jamais immo-
+bile mais exécute des mouvements de va-et-vient de faible
+amplitude. On a cru longtemps que ces mouvements devaient
+améliorer l'acuilé visuelle, mais des recherches récentes ont
+montré qu'ils servent à empêcher une adaptation nerveuse, En
+effet, on a réussi à stabiliser l’image rétinienne par rapport à
+l'œil, par un dispositif de type feed-back comportant un miroir
+collé sur le globe oculaire. Résultat : l'image s'évanouit rapi-
+dement. La perception d'une forme est donc liée à un mou-
+
+vement relatif entre l'œil et l’objet.
+.
+us
+x
+sun
+
+Fig. 4. — Vision des formes chez
+l'Abeille.
+Les dessins de gauche sont distingués
+spontanément par les Abeilles; mais
+celles-ci confondent les dessins de droite
+et -il n'est même pas possible de les
+dresser à les distinguer, On remarque
+que la longueur des contours des trois
+dessins de droite est identique.
+
+Bien que la vision des formes de.l’Insecte paraïsse très diffé-
+rente de celle de l'Homme, dans l'essentiel les deux visions
+reposent sur le même principe + perception de l'image mue sur.
+la mosaïque des récepteurs visuels. : |
+
+Les nombreuses expériences de dressage exécutées surtout
+avec des abeïlles ont permis d'analyser assez correctement la.
+vision des formes chez l'Insecte (bien entendu, nous parlons
+d'insectes pas trop différents de l'Abeille, car ce phylum
+compte des espèces extrêmement différentes les unes. des
+autres). Un type d'expériences consiste. à offrir aux abeilles
+des dessins (associés, bien entendu, à de Ja nourriture) de
+formes différentes, en leur laissant la liberté du choix. On peut
+aussi bien les dresser à chercher leur nourriture sur ou
+près de l’un de deux dessins présentés. Si l'animal préfère
+systématiquement l'un des dessins à l'autre, ou s’il est possible :
+de le dresser à le faire, c'est évidemment qu'il peut les distin-.
+guer. :Le résultat de.ces expériences nous paraît étrange. La:
+figure 4 montre, à droite, trois dessins que les abeilles confon-
+dent spontanément. Au contraire, elles distinguent les trois
+
+dessins de gauche, car ilest possible de les dresser à se diriger
+toujours sur l’un d'eux. Il est, par contre, impossible d’obte:
+
+Droits reservés au Cnam et à ses partenaires
+
+98
+
+nir ce résultat avec les trois figures de droite. On remarque que
+les contours des dessins de droite ont la même longueur; cette
+longueur diffère pour chacun des dessins de gauche. La lon-
+gueur des contours n’est pas seule à. influencer J'Abeiïlle.
+Lorsqu'il s’agit de choix spontané, elle accuse une prédilection
+-pour les contours Jlongs et pour une structuration interne
+
+Fig. 5 — Le choix
+spontané des formes
+par l'Abeille.
+
+Les Abeilles préfèrent
+spontanément, approcher
+des dessins très strüctu-
+rés. Aussi bien la lon-
+güeur des contours que
+la discontinuité du des-
+sin jouent, Lorsque cette
+dernière est à peu près
+constante, le dessin aux
+contours très longs em-
+porte leur choix. Mais
+lorsque longueur de con-
+tours et discontinuités
+” sont en compétition, cel-
+lés-ci l’emportent sur la
+première.
+
+À : Ces trois dessins atti-
+rent également les
+Abeilles,
+
+B : Le dessin de damier
+en attire 15 fois plus
+que le carré plein.
+
+C : Les dessins de droite
+attirent les Abeilles da-
+vantage que ceux de gau-
+che, bien que leurs con-
+tours soient moins longs
+que ceux de gauche (les
+nombres indiquent les
+longueurs des contours).
+
+ 
+
+0 0
+2808 © ©
+6 ©
+
+accusée des dessins; la figure 5 montre que ces deux principes
+peuvent entrer en opposition. Ce comportement des abeilles
+nous arnène à l'étude du mécanisme nerveux sous-jacent et
+particulièrement aux relations spatio-temporelles,
+
+(©) 50
+
+Relations spatio-temporelles, — Autrum a étudié le pouvoir
+de résolution temporelle des Insectes et surtout de la mouche
+Cailiphora. Il constate que les réponses électriques fournies
+par l'œil à la suite de stimulations lumineuses rythmiques
+demeurent distinctes jusqu'à des fréquences de stimulation
+très élevées (de l'ordre de 300 par seconde). On appelle fré-
+quence de fusion cette fréquence limite. La fréquence corres-
+pondante pour l'œil humain n'est que de l'ordre de Bo/s, ce
+qui signifie que l'inertie de l'œil d'insecte est bien plus faible
+“que. celle de l'œil humain. La figure 6 montre le résultat
+d'une série. d'expériences sur Call liphora, Tous les insectes ne
+possèdent pas un œil aussi dépourvu d'inertie. Cette qualité
+est réservée aux insectes qui se déplacent rapidement et ne se
+“retrôuive-pas-chez ceux qui 'se meuvent lentement sur le sol ou
+dans l'eau: |
+
+Autrum.a vérifié que les réponses: électriques rapides de l'œil
+d'insectes du typé Abeille, Mouche, Libellule, etc., sont dues à
+la constitutién particulière de l'appareil nerveux post-récepteur
+et que le fonctionnement photochimique des cellules réceptrices
+de l'œil de l'Insecte ne se distingue pas. essentiellement de
+cela qu’on observe dans L'oeil des Vertébrés.
+
+La transposition: spatio: temporelle dans la vision:
+
+des insectes volants. Considérons les signaux lumineux
+
+qui frappent: une ommatidie . bien déterminée 4 un insecte en.
+
+vol et les messiges nerveux qui s'ensuivent. Supposons que
+
+l'axe de’ cette ommatidie ne soit pas dirigé selon la direction
+; mais ‘Tatéralement, ce qui simplifie notre démonstration.
+
+ 
+
+du ve l
+Un “objet survolé. par l'insecte envoie un maximüm. d’ énergie
+
+lumineuse pendant un laps de temps qui dépend de l’ouverture
+angulaire de l'ommatidie, de la vitesse de vol et de l'angle
+visuel sous lequel l'objet est vu par l'ommatidie. Cet angle
+dépend de la taille de l’objet et de sa distance de l’insecte. Pour
+qu'un tel objet puisse être perçu individuellement et ne soit
+pas confondu avec un autre objet proche, il est nécessaire
+que le temps qui s'écoule entre le début de l'entrée dans
+le champ de vision du premier objet et le début de l'entrée
+du second objet soit suffisamment long. Si la cadence de pas-
+sage d’un dessin, disons de barres parallèles, devient trop
+rapide, il y a fusion des excitations visuelles individuelles à
+l'intérieur de l’ommatidie; le niveau de l'excitation demeure
+alors constant pendant le passage au-dessus du dessin et
+l'insecte n’én peut percevoir la structure. La figure 7 A illustre
+ce cas. La stimulation exercée sur l'ommatidie en question par
+une barre survolée forme un trapèze sur l'axe du temps; elle
+croit avec la quantité de lumière rayonnée (ou soustraite si
+l'objet est plus foncé que les alentours) dans l'ommatidie et
+elle diminue lorsque l’objet sort progressivement du champ de
+vision de célle-ci, La ligne verticale en traits-points indique le
+temps {, critique; c'est le temps de sommation totale, approxi-
+mativement l'inverse de la fréquence de fusion. Nous admettons
+que le vol de l’insecte est assez rapide pour que t, soit un peu
+supérieur au temps durant lequel l'image d'une barre traverse
+
+O/s
+
+ 
+
+133,5
+
+A ——
+
+ 
+
+M , ——
+
+Fig, 6 '— Réponses électriques de l'œil de la mouche Callibhora
+à là stimulation lumineuse à intensité constante (a) _ek à intensité .
+| rythmiquement interrompue (papillotement).
+
+Sous chaque enregistrement figure le tÿpe de stimulation. lumineuse qui a
+provoqué la réponse électrique. Le début de la stimulation est marqué
+par ‘un crochet vers le haut, sa fin par un crochet vers le bas. Les points
+sont distants de 0,1 s. On ‘constate qu'en d la fréquente de fusion n'est
+
++ tout juste pas encore atteinte, .
+
+perf (D'après AUrR UM).
+
+Droits reservés au Cnam et à ses partenaires
+

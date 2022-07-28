@@ -2,12 +2,13 @@ import argparse
 import os
 import regex as re
 import experience_functions as ex
+from experience_functions import SmartFormatter
 from progress.bar import Bar
 from multiprocessing import Pool
 import numpy
 
 parser = argparse.ArgumentParser(
-    description="scans trough a volume and finds the binoms")
+    description="scans trough a volume and finds the binoms", formatter_class=SmartFormatter)
 parser.add_argument("-v", "--volume",
                     help="if provided, the volume number in wich to do the operation, else scans trough the whole archive")
 parser.add_argument(
@@ -15,9 +16,9 @@ parser.add_argument(
     help="if providied, the results will be printed in this file")
 parser.add_argument("-p", "--path", help="the path to the volumes",
                     default=ex.volumes_path)
-parser.add_argument("-m", "--mode", choices=ex.modes,
+parser.add_argument("-m", "--mode", type=int,
                     default=ex.default_mode,
-                    help="choose the mode of recognition")
+                    help=ex.help_mode, choices=ex.mode_choices)
 
 args = parser.parse_args()
 
@@ -40,10 +41,10 @@ punctuation_spaces = re.compile(r"\W|\s", flags=re.IGNORECASE)
 
 
 # given a page, returns the list of matches
-def scan_page(p):
-    with open(p, 'r') as page:
-        res = ex.handle_mode(args.mode, page)
-    return [r + " extracted from: " + p for r in res]
+# def scan_page(p):
+#     with open(p, 'r') as page:
+#         res = ex.handle_mode(args.mode, page)
+#     return [r + " extracted from: " + p for r in res]
 
 
 def scan_volume(volume_path, mode):
@@ -64,7 +65,7 @@ def scan_volume(volume_path, mode):
             #     bar.next()
             if entry.is_file():
                 with open(entry, "r") as page:
-                    res = ex.classify(page.read(), context=True)
+                    res = ex.classify(page.read(), context=True, mode=mode)
                     matches += [r[0] + " in: " + entry.name + " context: " + r[1]
                                 for r in res]
     #         count = (count + 1) % percent

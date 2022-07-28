@@ -1,0 +1,519 @@
+Une optique révolutionnaire :
+
+_L'optique à fibres
+
+Une tige souple de verre qui conduit les images comme un tube conduit l’eau
+
+S': l’on croit la légende, le héros gaumais (1 connu sous le
+nom de « Djean de Mâdy » (2) possédait un fusil dont le
+canon était courbé, ce qui, dit-on, lui pérmettait de tirer dans
+les « tournants »...
+
+Gette fois, il ne s'agit plus de léscende ni de plaisanterie,
+mais. de la réalisation et de l’utilisation effectives d'une nou-
+velle arme, non militaire, mais scientifique : la vision à l'aide
+de faisceaux de fibres de verre flexibles! De même que l’eau
+coulant dans un tube de caoutchouc ou de substance plastique
+peut être conduite par une voie courbe et que son jet peut
+être orienté à volonté par l'utilisateur, les rayons lumineux
+pénétrant par l’une des extrémités d’une tige de verre courbée
+sont capables, sous certaines conditions, de suivre cette tige et
+de sortir par l’autre extrémité.
+
+Cetté simple image, visant à familiariser avec le phénomène
+nouveau, nécessite quelques précisions. Il y a longtemps déjà,
+le physicien belge Plateau avait songé à utiliser la particularité
+optique suivante : la lumièré qui pénètre par l'une des extré-
+mités d'une tige de verre est incapable de s'en échapper laté-
+ralement du fait qu'elle y subit une réflexion totale interne;
+en fin de compte, elle ressort par l'autre extrémité. Pour les
+besoins de certaines expériences qu'il entreprenait, Plateau -se
+servait de fibres de verre courbes comme auxiliaires d'investi-
+gation, ce qui lui permettait de regarder le déroulement de
+phénomènes en des endroits difficilement accessibles par vision
+directe ou par des dispositifs optiques habituels,
+
+La question a fait bien du chemin depuis lors. Les étonnants
+progrès acquis dans certaines branches de la technique ont
+incité des chercheurs à recourir à la curieuse optique dont le
+principe vient d’être décrit; à force de méditations, de tâton-
+nements el d'essais pratiques, ces chercheurs sont arrivés à
+de curieux résultats dont l'intérêt est tel qu'il doit être porté
+‘à la connaissance non seulement d'utilisateurs éventuels, mais
+des personnes cultivées. : |
+
+Dès qu’apparurent les possibilités d'emploi de la houvelle
+optique, des brevets furent pris : un, par l'Anglais J. L. Baird,
+
+en 1927, et un autre par l'Américain C. W. Hansen, en 1930.
+Des travaux furent aussi publiés sur le même sujet par l'Alle-:
+
+mand H. Lamm, en 1930, par le Hollandais A. C. Van Heel,
+en 1953 et 1954, etc. Actuellement, la bibliographie sur cette
+matière est déjà longue. |
+Pour éviter de nous étendre trop longuement, contentons-
+. nous de présenter un aperçu. de l’état actuel de la question.
+Un rayon lumineux, tombant sous un angle d'incidence i
+sur la face constituant l’une des extrémités d’une tige de
+verre, est réfracté dans celle-ci sous un angle de Téfraction r
+puis réfléchi sous un angle h un grand nombre de fois sur les
+baroïs internes de la tige et ainsi finalement conduit vers la
+face constituant l'autre extrémité de ladite tige, d’où il émerge
+sous un angle d'émersion égal à l'angle d'incidence primitif,
+en. vertu de la possibilité dé réversibilité du rayon: lumineux
+. Le processus optique. envisagé est le même dans üne tige
+de vèrre de très petit diamètre; la seule différence réside dans
+l'augmentation du nombre de réflexions totales internes.
+En réalité, le: diamètre de la tige utilisée. peut ‘être réduit
+
+1. Gaume-: région accidentalé de la Lorraine. Belge.
+2: Jean .de Montmédy (département de la Meuse).
+
+” Gaine de verre Fibre ce verre
+
+   
+
+C7ZTLTIZITLT OT TITI TITI I ITIITTI TT TT TA
+
+  
+    
+
+COLLE LL LC LL TELL LLT TTL TL TT TT TTA
+
+Rayon lumineux incident
+
+Fig. 1. — Trajet suivi par un rayon lumineux cheminant, d'après le
+principe de la réflexion totale, à l’intérieur d’une fibre de verre entou-
+
+‘rée d’une gaine de verre d’indice de réfraction moindre que celui
+
+‘de la fibre.
+
+jusqu'à 5 à 10 w et être comparable à la longueur d'onde de
+la lumière; une tige de verre aussi mince est appelée fibre.
+Dans une fibre de 50 x (0,05 mm), le nombre de réflexions
+totales internes est de l'ordre de 100 par centimètre.
+
+De telles fibres ne constituent toutefois chacune qu'un élé-
+ment optique : elles sont placées l’une contre l'autre et ras-
+semblées en un faisceau compact, offrant ainsi un aspect ana-
+logue à celui d’un groupe de nombreuses tiges fines de
+graminées formant la tige d'un bouquet.
+
+Une précaution supplémentaire doit être prise, En effet,
+lorsque les fibres régulièrement disposées en un faisceau devien-
+nent très fines, il y a risque de fuite d'une certaine quantité
+de lumière de l'une à l'autre. Pour éviter cét inconvénient,
+chacune d'elles est entourée d’un manchon de matière trans.
+
+ 
+
+Fig. 2. — Microphotographie de l'extrémité d’un faisceaur
+ci de fibres de verre, ‘ .
+Lorsque les fibres très fines de verre, entourées d'une mince gaine égale-
+ment de verre, maïs d'indice de réfraction quelque peu plus faible, sont
+fondues ensemble de manière à former un faisceau compact, elles sont
+
+. fortement presstes les unes contre les autres. et leur section transversale
+
+offre l’éspect d’un hexagone ou d’un pentagone.. En dépit de cette défor-
+mation, la transmission dé la lumière n'ést pas affectée. Si l'image est
+quelque peu dégradée, cela ést simplement dû aux dimensions des fibres
+et. au défaut: d'alignement de celles-ci, ainsi qu'il ressort de cette micro-
+photographie. Les fibres ont ici un diamètre moyen de 0,075. mm.
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 3. — Un périscope d’un nouveau genre,
+Au cours de la 5° Conférence de la Commission internationale d'Optique,
+réunie du 24 au 30 août 1959 à Stockholm, une éxposition a présenté les
+diverses possibilités actuelles de l'optique à fibres. On voit ici, dans la cour
+de l’Institut royal de Technologie de Stockholm, le professeur J. Verhaege,
+de l'Université de Gand, président du Comité belge d'Optique, contemplant
+à l'aide d'un « fibrescope » le paysage situé derrière lui. Il put aussi exa-
+miner lui-même l'intérieur de son oreille, L'appareil peut être plié de
+“n'importe quelle façon sans que les images en soient affectées.
+
+parente don£ l'indice de réfraction est quelque peu plus faible
+que celui de la fibre même (une différence aussi minime que
+1,1 pour 100 suffit). Chaque fibre est ainsi isolée dans son man-
+chon protecteur. Le faisceau de fibres ainsi constitué s'appelle
+un faisceau de fibres enrobées.
+
+Comment fonctionne un tel dispositif ? Toute. image exa-
+minée par un bout du faisceau est décomposée en autant d'élé-
+
+Fig. 4. — . Agrandis-
+sement ou réduction
+des images.
+
+: Des fibres de verre nota-
+blement plus grosses à
+- l'une de leurs extrémités
+qu'à l’autre peuvent être
+fondues en un bloc
+
+ceau effilé, lequel peut
+servir comme dispositil
+
+_: rapetisserhent. La let-
+
+“sur- la petite fâce est
+- réduite: dans ‘le. rapport.
+de: 5: fois. (en diamètre)
+
+!
+
+RZOUMCkKSNDU
+
+ 
+
+offrant l'aspect d'un fais.
+
+d'agrandissement ou de:
+
+tre N ‘apparaissant’ “ici
+
+utilisée dans des cas. | appropriés.
+
+ments qu’il y a de fibres, qui se chargent de transmettre la
+lumière desdits éléments à l’autre extrémité; si la disposition
+des fibres est. la même à l'émergence qu'à l'incidence, c’est-
+à-dire aux deux bouts du. faisceau, il est clair que célui- ci
+donnera une reproductioni sans distorsion et non brouillée de
+l’image examinée. : | ù
+
+Quëlles sont les matières. prérnières employées dans. l'optique
+à fibres? Il va de soi que l’on a songé à-utiliser les matières
+plastiques transparentes, mais en général leur structure insuffi- ”
+samment homogène les rend impropres à une transmission à
+travers des longueurs assez importäntes. Il a été constaté qu'en:
+définitive c'est le verre optique qui, en raison de sa transpa-
+rence “eristalline et de sa constitution fine, sans bulles et sans
+défauts, est le mieux approprié tant pour les fibres que pour
+leurs petites gaines protectrices.
+
+Les fibres couramment utilisées ont 5o x de diamètre et
+elles ont l'aväntage de pouvoir servir à la constitution de fais-
+ceaux flexibles. Des fibres plus fines sont moins robustes et leur
+arrangement offre plus de difficultés : on en fabrique néan-
+moins, mais alors pour réaliser des faisceaux non flexibles.
+Enfin, des fibres plus grosses que 50 u en diamètre sont éga-
+lement employées.
+
+ 
+
+Fig. 5. ——— Fibrescope: flexible.
+La lentille photographique montée à l'une des ‘extrémités d'un faisceau |
+de fibres de verre engendre une image qui peut. être examinée à l'aide
+d'un oculaire placé à l'autre extrémité. Le faisceau, entouré d'üne gaine
+protectrice en matière plastique, a 1-m de longueur : il comporte
+60 000 fibres de. verre et sa section transversale .a une surface. de 1,6 cm”,
+
+1
+
+L'optique à fibres est déjà assez: développée. ‘Des | machines
+
+et un outillage importants sont mis en œuvre. T° expériencé em
+
+la matière est en pleine expansion:
+
+Quelques applications. — Une loupe à: “bon marché.
+—— ILest temps que nous indiquions quelqües applications dans
+cé: domaine nouveau. Voicil'une des plus: simples. Tl ‘est pos-
+
+_sible-de:fabriquer des fibres dont le diamètre diminue progres-
+
+sivement- sur toute leur longueur.:L'’assemblage de pareilles
+fibres :en-un ‘faisceau effilé, dont les faces ‘extrêmes sont apla-
+nies-et polies,'se présente sous: la forme d’une:sorte de tronc
+de cône pouvänt nori seulement. servir: à concentrer où à dis-
+peïser:la lumière, mais aussi convenir comme dispôsitif d'agran:
+dissement ou de ‘rapetissement des imagés (fig: 4); D'où la pos.
+sibilité d'emploi d'une: loupe à ‘bon marché, -susceptible d'être
+D'autres: aspécts. sont plus
+
+   
+
+impor tanis
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 6. — Optique à fibres en photographie.
+
+Un objectif auquel correspond une surface focale courbe offre certains avan-
+tages optiques, mais une photographie prise sur un film plan à l’aide d'un
+tel objectif apparaît floue (à gauche). Si l'on fait intervenir, comme inter-
+médiaire, un faisceau de fibres de verre dont J'une des extrémités est
+taillée et polie de façon à épouser la surface focale courbe de l'objectif,
+tandis que l'autre extrémité est parfaitement rendue plane de manière à
+s'appliquer sur la pellicule sensible, on oblient unc image bien meilleure
+. : (à droite).
+
+Images plus petites | mais plus lumineuses. — Imaginons
+qüe la lentille d'une caméra projette une image sur la grande
+face d'un faisceau de fibres optiques effilé; il apparaitra à
+l'autre, face, la plus petite, une image réduite, mais plus
+lumineuse, On conçoit tout de suite l’ importance d’un tel appa-
+reillage pour la prise de certaines vues aériennés, par exeniple.
+. Dès. Jos, on ne s’élonnera pas d'apprendre que la Compagnie
+américaine d’Optique s ‘occupe actuellement de semblables réa-
+lisations sous les auspices du Laboratoire de* reconnaissance
+aérienne de l'Armée de l'Air américaine.
+
+: Fibrescope flexible ; endoscope. - — Un faisceau de fibres
+optiques flexible peut servir à constituer ce que l’on appelle un
+« fibrescope flexible ». Il suffit que l'une des extrémités du
+faisceau soit pourvue d'une lentille chargée de produire une
+image sur celle extrémité et que l'observateur examine l’image
+transmise à l’äutre extrémité, munie d’un oculaire agrandis-
+sant cetie image. Un tel fibrescope, dont le faisceau de fibres
+
+flexibles est entouré d'une gaine protectrice en matière plas-
+
+tique et est pourvu de ses deux pièces optiques terminales, est
+
+montré par les figures 3 et 5. Des appareils construits d'après
+le même principe peuvent servir d’ « endoscopes » aux fins
+d'examen à l'intérieur du corps humain.
+
+Brouillage, codage et décodage des images. — Il est
+possible de donner aux fibres flexibles d'un faisceau une dis-
+position. de sortie différente dé. la disposition d'entrée; en
+d’autres termes, si, à l'une des extrémités, l’arrangement des
+fibres correspond à un certain ordre, à un certain modèle,
+il est permis de procéder à un arrangement selon un autre
+. modèle: à l'autre extrémité. La configuration peut même.y être
+complètement arbitraire et, dans ce cas, l’image captée à l'en-
+trée doit apparaître, à la sortie, tout à fait déformée, « brouil-
+lée ». Voilà un dispositif de brouillage optique assez inattendu,
+ou simplement un: moyen de codage intéressant, car. on .ne
+pourra procéder au décodage que si l’on possède, un faisceau
+de fibres flexibles identique, mais utilisé à 1° ‘envers du précédent
+pour reconstituer :l’ image. déformée | Sans. aller aussi. loin que
+la production -d’un. brouillage, voici.une application astrono-
+mique susceptible. d'être importante. :.si les. fibres. flexibles du
+faisceau sont disposées, à l'entrée, selon uné-configuration cir-
+culaire de façon à assurer la réception dela lumière -provenarit
+d’une étoile, on aura la faculté de placer lés fibres de la face
+
+ 
+
+de sortie selon un petit segment de droite couvrant la fente
+d’un spectrographe.
+
+Les fibres optiques en photographie. — L'optique à fibres
+peut intervenir avantageusement en photographie. . On sait que
+l’ütilisation d’un objectif possédant ‘une surface focale courbe
+offre certains avantages au point de vue optique: Toutefois, si
+à l’aide d'un tel objectif, une photographie est prise sur un
+film plan, l’image ne sera pas bien au point dans toutes ses
+parties. Pour remédier à. cet inconvénient, il est possible de
+se servir d’un faisceau de fibres de verre comme intermédiaire
+« redresseur » : il suffit de tailler et de polir l’une des faces
+du faisceau de façon qu'elle épouse la forme courbe de la
+surface focale, tandis que l’autre face sera plane et correspon-
+dra au plan ‘de la pellicule sensible réceptrice. La figure 6
+
+“illustre les résultats obtenus par ce procédé.
+
+‘Emploi dans les tubes à rayons cathodiques. — La plus
+importante application de l'optique à fibres de verre est pro-
+bablement celle qui en est faite aux tubes à rayons cathodiques.
+Bien souvent, il convient de photographier les images qui, au
+cours de mesures ou d’investigations, sont engendrées sur les
+écrans de pareils tubes. La documentation ainsi constituée est
+utile, soit comme telle, soit pour le besoin d'études ou de
+confrontations ultérieures, Le procédé classique consiste à pho-
+tographier l'écran phosphorescent (dont la face est interne)
+à l'aide d’une caméra munie d'un objectif. Mais si la face du
+tube à rayons cathodiques est constituée de faisceaux, fondus
+ensemble, de fibres de verre perpendiculaires à la surface
+réceptrice, il est possible de procéder à la photographie sur
+film simplement par contact : le film reçoit environ 20 fois
+plus de lumière que par l'intermédiaire d'une lentille, ce qui
+est.particulièrement efficient (fig. 7).
+
+Phosphore Film
+
+Système de lentilles
+
+ 
+
+Faisceau de fibres
+de verre
+
+  
+
+Phosphore
+
+  
+
+Fig. 7. — Optique à fibres associée à un. tube à rayons s éathodiques.
+
+Dans un tube à rayons cathodiques classique (TRC), la couche de phosphore
+sur laquelle. le. signal est formé se trouve sur la face interne du tube.
+Habitüellement, la photographie d'une image: qui apparaît sur cette face
+interne est effectuée grâce à ün système de lentilles (figure du haut). Si-la
+partie terminale (appelée vulgairement écran) du, tube À rayons cathodi-
+
+ques est fabriquée à l'aide d'un faisceau de 100 000 fibres de verre :ét
+
+. que la face interne courbe-de ce faisceau est recouverte de phosphore,
+‘tandis que la face externe est aplanie, il est possible de photographier par
+
+contact l'image qui apparaît sur l'écran. L'efficacité optiqué dé ce second
+système est supérieure, car environ 20 fois plus de lumière parvient sur
+le fm (figure du bas) (D'après le D''KAPANE). ‘
+
+Droits reservés au Cnam et à ses partenaires
+
+Fibres multiples ; avenir de l’optique à fibres de
+verre. — L'optique à fibres se développe. Il reste maints pro-
+blèmes à traiter et maintes difficultés à vaincre. Le nerf optique
+
+ 
+
+«
+
+Fig. 8. — Faces de tubes à vide, constituées à l'aide de faisceaux
+de fibres de verre et permettant une vision nette.
+
+Celle du céntre donne une image à l'échelle 1; celle de gauche fournit
+une image quelque peu plus petite, tandis que celle de droite agrandit,
+L'épaisseur de ces trois pièces est de 2 cm.
+
+ 
+
+ôl
+
+ 
+
+de l'œil humain possède environ un million d'éléments-images,,
+
+un écran de télévision habituel en a environ 275 000. Or, les
+
+faisceaux de fibres flexibles ne contiennent guère que 35 000 fibres
+simples. Pour augmenter ce nombre, on à eu recours à un
+autre système de fabrication : des fibres simples, d'un diarnètre
+de 2 n et irop fragiles pour pouvoir être enrobées séparément,
+sont groupées et ‘entourées d'une gaine de verre.de plus faible
+indice de réfraction de façon à former un ensemble rigide
+appelé « fibre multiple ». Les fibres multiples servant à leur
+tour d'éléments constitutifs, il en résulte un gain appréciable
+de pouvoir de résolution (100 à 200 lignes par millimètre) en
+sorte qu’une place d'avenir peut être réservée à l'optique à
+fibres de verre, appelée à intervenir dans beaucoup de systèrhes
+optiques de haute précision et à offrir vraisemblablement cer-
+taines possibilités révolutionnaires. |
+
+Nous sommes redevables au D' W. Lewis Hyde, de l’Ame-
+rican Optical Company, à Southbridge (Massachusetts), de la
+documentation qui nous a servi de base pour cet article ainsi
+que de certaines photos qui l'illustrent,
+
+$S. AÂREND,
+
+. Docteur ès Sciences,
+Astronome à l'Observatoire Royal de Belgique,
+Vice-Président du Comité Belge d'Optique. |
+
+ 
+
+ 
+
+Découverte de la vapeur d’eau sur Vénus
+
+Il avait été impossible jusqu’à ces derniers temps de mettre
+en évidence les bandes d’absorption de la vapeur d’eau dans le
+spectre de la lumière solaire diffusée par l'atmosphère de Vénus.
+Ces bandes, si elles existent, coïncident en effet avec les bandes
+extrêmement intenses qui sont produites par la vapeur d'eau de
+notre propre atmosphère, au travers de laquelle toutes les obser-
+vations avaient été effectuées. Pour déceler la vapeur d’eau sur
+Vénus (et sur les autres planètes) les astrophysiciens du Mont
+Wilson avaient donc été amenés à rechercher si les bandes de
+la vapeur d’eau atmosphérique terrestre sont renforcées dans le
+spectre de la planète, et si leur profil est élargi (par effet
+Doppler-Fizeau) lorsque la planète se rapproche ou s'éloigne
+de la Terre. Pour Vénus, le résultat de ces mesures extrêmement
+délicates avait été négatif. On en avait déduit un peu vite qu'il
+n'y a pas du tout de vapeur d’eau dans la haute atmosphère
+vénusienne (la seule qui soit accessible aux observations spectro-
+graphiques par suite de l’opacité de la couche nuageuse sous-
+jacente). En fait, il eût été plus sage de conclure que, s’il y en
+avait, c'était en assez faibles quantités.
+
+De nouvelles mesures viennent d'être réalisées aux États-
+
+Des composés organiques auraient été trouvés dans une météorite
+
+Au cours d'une récente conférence scientifique rapportée par
+Science News Letters, de Washington, le docteur Melvin Calvin,
+de l’Université de ‘Californie, a déclaré avoir trouvé, dans
+l'épaisseur d'une météorite pierreuse, des molécules d'une sub-
+stance organique relativement évoluée, Nous transcrivons une
+phrase de cette déclaration : « Nous pensons raisonnablement
+
+avoir mis en évidence la présence de molécules du type aro-
+matique hétérocyclique, analogues âux pyrimidines et purines
+
+figurant dans le matériel génétique terrestre ». Le docteur Cal-
+vin a rappelé que les composés hétérocycliques n existent plus
+sur la Terre, en tant que molécules indépendantes, mais .qu ils
+
+se trouvent incorporés dans les nucléotides qui, eux-mêmes, -
+
+entrent. dans la constitution chimique des chromosomes.
+L'idée communément admise est qu’au cours de l’évolution
+
+biochimique les atomes de carbone, d’hydrogèné, d' oxyéène et"
+
+Unis en novembre 1959, par le D' John Strong et son équipe,
+dans la nacelle d'un ballon libre ayant atteint l'altitude de
+24 000 m, de façon à s'affranchir en grande partie de l'absorp-
+tion par la vapeur d’eau atmosphérique terrestre, Le résultat de
+ces mesures indique avec certitude qu’il y a de la vapeur d’eau
+dans la haute atmosphère de Vénus, mais le dépouillement des
+observalions en vue de déterminer l'abondance de cette vapeur
+d'eau demandera naturellement un certain temps. . ,
+S'il se confirme que la température au sol de Vénus est aussi
+élevée que les récentes mesures radioastronomiques le laissent
+supposer, il demeure exclu qué l’eau puisse exister à l'état
+liquide sur la surface de la planète (voir La Nature, janvier 1960,
+p. 16). Par contre, il n’apparaît plus impossible que les nuages
+de Vénus soient de même nature que les nôtres. Leur couleur
+plus jaune pourrait peut-être s'expliquer en ce cas par lés fines
+poussières en suspension dans l'atmosphère vénusienne et dont
+l'existence est révéléè, tout comme celle des fines goutteléttes
+dont sont faits les nuages, par les mesures polarimétriques.
+
+.P. G.
+
+d'azote se sont liés en molécules d'une complexité croissante,
+sous l'action de diverses sources d’ énergie. Ce Processus aurait
+eu lieu dans le milieu terrestre. :
+
+- Une autre théorie, celle dela pañspermie, fait au cofitraire
+
+intervenir un apport extra-terrestre. Jusqu'ici cette théorie ne
+se fondait que sur la présence, dans les météorites, de corps
+
+hydrocarbonés, apparentés au pétrole. Si la découverte du: doc-
+teur Calvin est. confirmée, ce seraient des matériaux prébioti-
+ques bien plus aväncés dans l'évolution biochimique qui
+
+auraient été véhiculés jusqu'à notre planète par lés bolides
+célestes, Il faudrait admettre èn ce-cas (ce: que le ‘savant amé-
+
+ricain déclare possible) que les substances organiques, protégées
+
+‘par la masse de la météorite, ne subissent aucune modification
+
+chimique, . du fait de l’intense chaleur. produite à ‘à
+
+là surface
+du bobie; pendant} la lraversés de l'atmosphère. LE)
+
+Droits reservés au Cnam et à ses partenaires
+

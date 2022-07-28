@@ -1,0 +1,152 @@
+10:
+
+10
+
+107
+
+10+
+
+10-+
+
+Amplitude d'oscillation liminaire (cm)
+
+  
+
+10
+1066 200
+
+400 800 400
+
+4000 8000 c/s
+
+Fig. 1. — Seuil d'excitation de l'organe chordotonal de la Blatte
+
+Periplaneta americana en fonction de la fréquence de la vibration.
+
+Échelles logarithmiques. L'extraordimaire sensibilité du système est limitée
+
+à une étroite bande de fréquences autour de 1400 cycles/s (D'après
+AUTRUM).
+
+Amplitude d'escillation liminaire
+
+ 
+
+20c/S 5 400 200
+
+500 ‘1000 2000 5000 10000
+
+Fig. 2. — Amplitude d’oscillation du tympan humain au seuil de la
+sensation sonore, en fonction de la fréquence du son (cercles).
+
+Pour comparaison, on a produit en trait plein l'amplitude d'oscillation
+des molécules d'air calculée à partir des pressions au seuil de l'audition
+(D'après WiLsxa),
+
+#
+
+mulation agissant au seuil sur cet organe est de l’ordre de
+6 x 10717 watt.
+
+Des intensités tout à fait comparables suffisent à exciter
+l'organe du type auditif du Criquet. Ces appareils se trouvent
+dans les pattes antérieures, juste au-dessous du genou, et
+comprennent des tympans de très faibles dimensions. A cela
+correspond une fréquence de résonance très élevée, de sorte
+que l'optimum de l’excitabilité de l'organe se place dans le
+domaine ultrasonore, Autrum a constaté qu'à go ooo c/s l’ani.
+mal entend encore très bien. L'intensité liminaire se trouve
+dans le domaine ultrasonore et est égale à 5 x 10717 watt.
+
+Cette valeur extrêmement faible est pourtant plus élevée
+que l'intensité liminaire auditive chez l'Homme, qui est de
+l'ordre de 107217 watt. Il est remarquable qu'au seuil visuel cor-
+respond une intensité comparablé. Des mesures datant de 5o ans
+aussi bien que des plus modernes, répétées dans des conditions
+de plus en plus rigoureuses, montrent que le seuil visuel peut
+ne pas dépasser 6 x 10717 watt, Ce qui frappe n'est pas seu-
+lement l'extraordinaire petitesse, maïs également la quasi-
+identité des intensités liminaires relevées, qu'il s'agisse de
+l’Insecte ou de l'Homme, du sens vibratoire, auditif ou visuel.
+
+ 
+
+333
+
+Une lampe de poche débite approximativement 1 watt, Cha-
+cun des stimulus précités représente une intensité inférieure à
+10715 watt, durant un temps de l'ordre de la seconde. Dès lors,
+faire marcher une lampe de poche pendant une seconde
+consomme au moins autant d'énergie que faire agir un des sti-
+mulus liminaires en question pendant au moins ro!f s, soit plus
+de 200 millions d'années !
+
+La question se pose de savoir si ces performances sont compa-
+tibles avec nos connaissances en matière de Physique et de
+Chimie et, pourvu qu'elles le soient, si elles constituent une
+limite supérieure de la sensibilité de la matière vivante aux
+sollicitations qui lui viennent de son ambiance.
+
+Dans le domaine des sensibilités chimiques (goût, odoral), des
+interprélations relativement aisées de l'intensité liminaire et
+de la structure physique et chimique du stimulus sont possibles.
+La finesse de l’odorat du Chien a donné lieu à des études très :
+poussées et les résultats obtenus dans ce domaine par Neuhaus
+en Allemagne sont particulièrement instructifs, Cet auteur a
+mesuré sur le Chien les dilutions liminaires d'un certain nom-
+bre de corps chimiques odorants à structure bien connue. Ces
+expériences ont été menées de manière irréprochable et toutes
+les précautions ont été prises pour que les résultats numériques
+obtenus puissent être considérés comme définitifs.
+
+L'un des corps particulièrement bien perçus par le Chien est
+l'acide butyrique qui se trouve dans les sécrétions des glandes
+sudoripares, Connaissant la dilution liminaire à laquelle le
+Chien réagit (6 oo molécules par cm# d'air) on peut cal-
+culer le nombre approximatif de molécules d’acide butyrique
+qui entrent en contact étroit avec les récepteurs de l’épithélium
+olfactif. Pour ce faire, il faut mesurer la vitesse d'aspiration
+d'air, la durée d'un reniflement, le volume des cavités nasales
+(les épithéliums ne se trouvent pas sur le passage du courant
+
+d'air. aspiré, mais dans les cavités latérales), la surface de
+
+l’épithélium olfactif, etc. Le résultat de ces calculs très com-
+plexes n'est évidemment plus aussi bien assuré que la mesure
+du seuil même, On peut cependant conclure avec certitude
+que l’adsorption sur les récepteurs d'un très petit nombre de
+molécules, vraisemblablement d’une seule, par reniflement, suf-
+fit à l'animal pour distinguer la présence de l'acide butyrique
+de son absence.
+
+En effet, autre chose est de distinguer deux odeurs ou de dis-
+tinguer une odeur de son absence. Au seuil absolu de la per-
+ception, la qualité de celle-ci s'évanouit et fait place à une
+sensation tout court, c'est-à-dire une présence sensorielle oppo-
+sable à sa non-présence seulement.
+
+Pour ïllustrer cette situation inhabituelle, souvenons-nous
+que les couleurs s’évanouissent dès que l'éclairement baisse
+au-dessous d’une certaine valeur, Au contraire, lorsque l'aurore
+approche, des couleurs commencent à émerger de la grisaille
+nocturne. Cela signifie qu'en vision la qualité ne peut être
+distinguée de la stimulation qu'à partir d'un certain niveau-
+d'intensité. Il en est ainsi pour beaucoup et probablement ‘pour
+toutes les sensations des êtres organisés, d'où la conclusion
+qu'au seuil absolu de l'olfaction du Chien, quelques molécules
+suffisent pour lui permettre de distinguer entre odeur et non-
+odeur, mais non pas de distinguer une odeur d’une autre,
+
+.….  Odorat.: l’Anguille
+
+sensible à une seule molécule
+L'Anguille, poisson migrateur mystérieux, est un autre abjet
+de choix dans le domaine des performances sensorielles parti-
+culièrement poussées. Teichmann, en Allemagne, l'a étudiée
+au point de vue de son odorat et dans une importante publica-
+tion récente il présente des données numériques appuyées soli-
+dement sur des expériences sans faille. Il ne peut être question
+ici d'entrer dans les détails. Mentionnons seulement que les
+
+Droits reservés au Cnam et à ses partenaires
+

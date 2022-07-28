@@ -1,0 +1,1906 @@
+282
+
+ 
+
+ 
+
+Fig. 4. — L'un des miroirs paraboliques de l’interféromèêtre de Nança
+{branche Nord-Sud). -
+
+(Photo Ohservatoire de Nançay).
+
+à la longueur d'onde utilisée. Durant les dernières années, les
+efforts de la radioastronomie solaire ont été orientés sur le plan
+technique vers la mesure exacte des positions et des dimensions
+des sources et, par ailleurs, vers une meilleure analyse spectrale
+de leur rayonnement; des observations avec une meilleure
+résolution dans le temps ont aussi été effectuées, permettant de
+
+ 
+
+. s 10 15
+JANUARY. 1959
+
+ 
+
+ 
+
+détecter individuellement des signaux solaires durant moins
+de o,r s.
+
+Durant toute l’Année géophysique, les physiciens de Sydney
+ont obtenu des « radiohéliogrammes », c'est-à-dire des cartes
+journalières de l’émission solaire sur 20 em de longueur d’onde.
+Ces documents montrent de manière frappante la distribution
+des condensalions coronales au bord et en avant du disque
+solaire, et leurs relations avec les centres d'activité, L’instru-
+ment d'observation est un interféromètre radioélectrique com-
+prenant 32 miroirs paraboliques. L'ensemble est équivalent à
+une antenne unique très directive dont Je lobe principal a une
+ouverture angulaire de 3 minutes. C'est avec cette précision
+que les sources d'émission solaire peuvent être localisées (rap-
+pelons que le diamètre apparent du Soleil « optique » est
+32° environ).
+
+À la Station de Nançay en Sologne les radioastronomes
+français ont achevé durant l’A.G.I. le grand interféromètre qui
+fonctionne sur 1,77 m de longueur d’onde. Sur 20 cm, l’émis-
+sion solaire est « thermique » ; autrement dit les mouvements de
+charges électriques qui produisent les ondes hertziennes sont
+des mouvements désordonnés dus à la haute température du gaz
+ionisé. Au contraire sur 1,77 m il existe différents types
+d'émissions « non thermiques », dues à des mouvements orga-
+nisés et cohérents de charges électriques. Les mécanismes de
+
+‘la plupart des émissions non thermiques sont encore obscurs.
+
+Un seul est établi avec certitude, celui des sursauts de type IV,
+dont J. Denisse et ses collègues de l'Observatoire de Paris ont
+montré l'importance : il s’agit du rayonnement émis par des
+électrons (et protons) accélérés à de très grandes vitesses dans
+un champ magnétique. On donne à ce phénomène qui se pro-
+duit dans les grands accélérateurs de particules de la physique
+nucléaire le nom «d'effet synchrotron ». Une partie des charges,
+échappant au champ magnétique, sont éjectées loin du Soleil
+sous forme de rayons cosmiques. Effectivement, les radioastro-
+nomes français ont trouvé une étroite corrélation entre les
+sursauts de type IV observés durant certaines grandes éruptions
+solaires et les rayons cosmiques primaires détectés en ballon
+
+Fig. 5. — Carte réca-
+pitulative de l’activité
+radioélectrique du So-
+leil pendant un mois,
+établie à laide des
+observations du grand
+interféromètre de Nan-
+çay.
+En abscisses la temps,
+en ordonnées la longi-
+tude des sources Tadio-
+solaires dont une échelle
+de teintes permet d'ap-
+précier l'intensité. Re-
+marquez que les cen-
+tres s'étendent fort loin
+au delà des lignes hori-
+zontales marquées E et
+W, c'est-à-dire au delà
+des bords du Soleil
+“ optique »,
+
+(Document Observatoire
+de Paris-Meudon).
+
+25 - 30
+JANUARY
+
+Droits reservés au Cnam et à ses partenaires
+
+quelques dizaines de minutes ou quelques heures après ces
+mêmes phénomènes.
+
+Cette découverte de la radioastronomie solaire jette un jour
+nouveau (surtout si on la rapproche des interprétations simi-
+Jaires avancées pour des sources radioélectriques telles que la
+célèbre Nébuleuse du Grabe (5)) sur le problème, resté mystérieux
+pendant trente ans, de l’origine des rayons cosmiques.
+
+Un problème de la physique des centres d’activité
+
+Pendant une centaine d'années, les astronomes ont étudié
+l’activité solaire : taches, protubérances, éruptions, etc., d’un
+point de vue de « naturalistes », se bornant à enregistrer, à
+classifier, à mesurer les phénomènes sans bien comprendre les
+mécanismes en jeu. Aujourd’hui cette situation est changée,
+car i est universellement admis que l'on a affaire essentielle-
+ment à des forces électromagnétiques. Pour comprendre les
+mouvements d’une protubérance qui s'envole malgré la gravi-
+tation, ou pour expliquer qu'une tache est plus froide de 1 000°
+que le reste de l'atmosphère solaire, il faut faire intervenir
+l'énergie présente sous forme de champ magnétique, et ses
+interactions avec l'énergie thermique ou mécanique des gaz
+solaires.
+
+Les problèmes théoriques posés sont d'autant plus difficiles
+que la physique « terrestre » des gaz ionisés en est encore à
+ses débuts. L'électrodynamique classique est surtout celle des
+corps solides non conducteurs, ou médiocres conducteurs, de
+l'électricité : le cas astrophysique est différent car il s’agit de
+gaz presque infiniment conducteurs (à cause de leur très haut
+degré d'ionisation), très peu denses, avec des dimensions énor-
+mes et des champs magnétiques souvent forts. Actuellement
+les physiciens s'intéressent beaucoup aux gaz ionisés,. appelés
+souvent plasmas, en particulier dans le cadre des efforts entre-
+pris pour domestiquer l'énergie thermonucléaire. Les progrès
+dans ce domaine, qui touche à la fois à la physique et à l'astro-
+physique, sont très rapides, ce qui a conduit en particulier au
+développement d'observations solaires nouvelles, celles des
+champs magnétiques.
+
+Il y a cinquante ans que Hale a découvert les champs magné-
+tiques des taches solaires et qu'on les mesure systématiquement
+à l'Observatoire de Mount Wilson. Mais ces données assez som-
+maires ne pouvaient guère servir qu'à des recherches statisti-
+ques; on s'efforce au contraire aujourd'hui de déterminer les
+
+champs magnétiques sur toute la surface du Soleil, de mesurer.
+
+s
+
+dans tous ses détails leur géométrie à l'intérieur des groupes
+de taches, d'étudier leurs ‘variations en liaison avec le déclen-
+chement des éruptions. :
+
+Les informations que nous pouvons obtenir sur Je champ
+magnétique en un point de la surface solaire sont: tirées de
+l'analyse spectroscopique de la lumière émise en ce point : on
+sait que le champ décompose les raies d'absorption (ou d’émis-
+sion) caractéristiques des différents éléments, phénomène connu
+sous le nom d'effet Zeeman (*). Dans le cas le plus simple, une
+raie affectée par l'effet Zeeman comporte 3 composantes dont
+l’écartement dans l'échelle des longueurs d'onde est propor-
+tionnel au champ (fig. 6). L’intensité et la polarisation de la
+
+lumière contenue dans chaque composante dépendent de l’orien-:
+
+tation du rayon lumineux par rapport. au champ.
+
+Ainsi, la spectroscopie nous permet de mesurer les champs
+magnétiques en grandeur et en direction, du moins en théorie...
+En pratique l'information obtenue dépénd de l'intensité .du
+
+8. Voir : La Nébuleuée du Crabe et son rayonnement synchrotron, par
+J. Lequeux et J.-L. Srewsene, La: Nature, mars 1960, pp.° 89:93.
+
+4. Les raies, ou radiations caractéristiques de ;chaque. atome, sont dues.
+
+aux transitions de cet atome d'un. état. d'énergie À un autre, En présence
+du champ, le petit circuit électrique de l'atome peut s'orienter de difié-
+rentes manières, ce ‘qui correspond à là décomposition ds chaque état
+d'energie possible en plusieurs états distincts.
+
+283
+
+champ : si celui-ci esl fort, plus de x 000 gauss, une analyse
+détaillée des composantes Zeeman est possible; s'il est faible
+(quelques gauss à quelques centaines) la décomposition du
+triplet Zeeman est à peine « ébauchée » et l’on ne peut mesurer
+en fait que la grandeur du champ, ou plus exactement sa
+projection sur la ligne de visée.
+
+Sur le plan technique, différentes méthodes d'une grande
+ingéniosité ont été conçues dans les observatoires pour mesurer
+les champs solaires. Le magnéiographe photoélectrique de Pasa.
+dena (Californie) fournit de manière quasi automatique une
+carte des champs magnétiques faibles de la surface solaire : des
+champs inférieurs à 1 gauss sont détectés. On a constaté ainsi
+que le Soleil possède une structure magnétique très complexe
+dans les régions équatoriales des champs d’une dizaine de gauss
+s’étendent autc.ur des taches solaires et prolongent les champs
+très élevés de ces dernières, obéissant aux mêmes lois précises
+de polarité. Les calottes polaires sont le siège d'un champ très
+faible dont la polarité semble changer au cours du cycle de
+11 ans de l’activité solaire. !
+
+À l'Observatoire de Crimée et aussi au Mount Wilson, des
+magnélographes du même genre ont été adaptés à l'étude
+détaillée des centres d'activité. Les astronomes soviétiques ont
+
+3
+
+   
+
+Fig. 6 — Décomposition des raies de Fraunhofer par l'effet du champ
+magnétique (effet Zeeman) dans une tache ét en son voisinage.
+Les bandes horizontales sont dues à un accessoire optique placé devant la
+fente du spectrographe (analyseur de pelarisation circulaire) : deux ban-
+des successives transmettent l'une la vibration circulaire droite, l’autre
+la vibration circulaire gauche du triplet Zeeman, autrement dit, l’une, la
+composante violette, l'autre, la composante rouge, ce qui donne À la raie
+
+.en présence du champ un aspect en zigzag caractéristique. Les raies fines
+
+non affectées sont dues À l'atmosphère terrestre. Valeur du champ dans da
+tache :.2 300 gauss;
+
+(Document Observatoire de Paris, obtenu à l'Observatoire du Pic du Midi).
+
+abouti à un résultat de grande importance. Selon eux, les
+éruptions solaires se produisent en des points bien particuliers
+de la configuration magnétique des centres d'activité : points
+
+- où le champ est nul, mais au voisinage desquels il augmente
+
+très rapidement. De plus l'occurrence d'une éruption modifie le
+champ initial, tendant à simplifier sa configuration et à dimi-
+nuer son énergie potentielle: Il semblé donc que ‘l'énergie
+
+produite dans une grande éruption, énergie de l’ordre de ro16
+- à 1017 kilowatt-heures (environ un million de fois la produc-
+tion annuelle de l'E. D. F.), soit empruntée au champ magnéti-
+
+que. Ceci a conduit à urie théorie élégante des éruptions, basée
+sur l'instabilité. de certaines configurations des champs imagné+
+tiques. ,
+
+Pour Ja première. fois, l'astrophysique “Hspose d'üne ‘explica-
+
+#
+
+ 
+
+tion plausible. du très: ‘important : phénomène. que sont les.
+
+éruptions. Il est juste de dire que la théorie est encore som-
+maire et ses bases observationnelles discutées. Les observations
+
+Droits reservés au Cnam et à ses partenaires
+
+284
+
+meilleures et plus nombreuses de l'avenir révéleront sans doute
+des complexités inconnues, bien que suspectées aujourd'hui.
+Cependant, les résultats obtenus en 1957 dans l'étude magné-
+tique des centres d'activité. apparaîtront comme un. progrès
+décisif.
+
+Le Soleïl vu par les fusées
+
+« L’atmosphère terrestre fixe à 3 000 À la longueur d'onde
+minimale des ondes lumineuses observables au sol. Les ondes
+ultraviolettes plus courtes sont absorbées, d’abord par l'ozone
+‘atmosphérique, puis au-dessous de 1 900 À par l'oxygène molé-
+culaire, relayé aux longueurs d'onde encore plus courtes par
+l'oxygène atomique et l’azote dans les deux états N et N..
+
+Le 10 octobre 1946, les physiciens du Naval Research
+Laboratory réussissaient à photographier le spectre solaire
+ultraviolet à l'aide d’un appareil monté sur une fusée V2 qui
+atteignit une centaine de kilomètres d'altitude (fig. 7). C'était la
+première d’une série d'expériences qui ont abouti à une connais-
+sance direcle du rayonnement solaire dans le domaine ultraviolet
+et X. On savait d'ailleurs l'existence de ce rayonnement, car
+c'est lui qui est responsable de la formation des couches de
+l'ionosphère : ces couches étagées de 80 à 300 km d'altitude
+contiennent : une proportion suffisante d'électrons libres et
+d'ions O,+, N,+, Ot, N+, etc., pour être électriquement conduc-
+trices (5), et. cette ionisation est dué à l'ultraviolet solaire,
+L'étude des variations de l’ionosphère avait permis de mettre en
+évidence la variation du flux ultraviolet au cours du cycle de
+11 ans de l’activité solaire et de montrer l'intense émission qui
+accompagne les éruptions.
+
+Au cours de l’Année géophysique, des dizaines de lancers de
+fusées ont.eu lieu aux États-Unis et en U.R:S.S. afin d’étudier
+à Ja: fois la lumière solaire aux courtes longueurs" d'onde et la
+
+5. Les ‘couches de l'ionosphère réfléchissent donc vers le sol les ondes
+radioélectriques de longueurs d'onde convenables, permettant ainsi les
+télécommunications tout sutour du globe.
+
+ 
+
+ 
+
+manière dont elle est absorbée dans noïre atmosphère. Entre
+3 000 et 2 000 À le spectre solaire n'est pas très différent de
+celui qui nous est familier, composé d’un continuum coupé
+par une foule de raies d'absorption (raies de Fraunhofer).
+Au-dessous de 2 oo0 À les raies d’absorption disparaissent pro-
+gressivement et sont remplacées par des raies brillantes dont
+la plus intense est due à l'hydrogène (Lyman a, 1 216 A). Ce
+spectre extraordinaire a pu être photographié jusqu'à environ
+5oo À. Les raies d'émission appartiennent à des atomes ionisés
+une ou plusieurs fois et sont produites dans les couches de
+température élevée qui forment la transition entre la chromo-
+sphère et la couronne.
+
+La méthode des photographies monochromatiques, si large-
+went utilisée par les astronomes pour l'étude de la chromo-
+sphère, a été adaptée aux fusées, et des images irès satisfaisantes
+du Soleil ont été obtenues avec la raie Lyman &. On constate
+que. l'émission dans cette raie est énormément renforcée dans
+les centres d'activité. L'image récente reproduite fig. 8 (aima-
+blement communiquée par le professeur Tousey, du Naval
+Research Laboratory), bien qu'obtenue à r10 km d'altitude, est
+de qualité presque comparable à celle des clichés pris dans les
+observatoires avec les raies du spectre visible, Ce serait une
+merveilleuse performance technique si nous n'étions devenus
+si blasés | .
+
+Pour des radiations plus courtes que quelques centaines
+d’angstrôms, la photographie est remplacée par des photomè-
+tres dits compteurs de photons sensibles aux radiations d'une
+bande spectrale bien déterminée: ils sont d’ailleurs précieux
+aussi aux longueurs d'ondes de Lyman & ou plus grandes, afin
+d'obtenir des mesures précises de l'énergie rayonnée', et de ce
+qui en reste aux diverses altitudes traversées par la fusée au
+cours de son ascension. Les compteurs de photons ont permis
+à Friedman et ses collaborateurs du Naval Research Laboratory
+de mesurer le flux des rayons X émis par le Soleil, ou plus
+exactement par la couronne.
+
+Durant l’A.G.I. des vols de fusées ont pu être déclenchés pen-
+
+H LYMAN
+EPS m, + SERIES BE EE -
+© © © 7 To z
+| |
+
+ 
+
+Fig. 7. — Le speitre
+solaire de l'extrême
+ultraviolet  photogra-
+
+phié en fusée par les
+
+physiciens du Naval.
+
+Research Laboratory,
+Washington.
+
+Au-dessous des spectres,
+l'échelle des longueurs
+d'ondes en À: au-des-
+
+ 
+
+| Ï | |
+100 800 900 1100
+
+SE | / sus, identification des
+
+| principales raies’ d'émis-
+
+S,-Hihne At El Sn D +4 QE El sion. Rappelons que
+DÆEUNTEN OMC u Un CC TO OL << a Si IV, par exemple,
+LI IA Ie À A N |] [IF A signifle une raie de
+
+l'atome de silicium ayant
+perdu 3 électrons.
+(Photo Official U. S.
+Navy).
+
+ 
+
+| (
+[400 1500 1600 1700
+
+F5
+1300
+
+1200
+
+Droits reservés au Cnam et à ses partenaires
+
++
+ce
+Gt
+
+ 
+
+Fig. 8. —— Photographies du: Soleil prises le. 13 mars | 1968.
+
+En haut à gauche : avec la raie ultraviolette Lyman « de l'hydrogène : : cliché obtenü : par. une fusée, portant un lélescope. asservi “el un mono: :
+chromateur à réseau. En haut à droite : spectrohéliogramme avec la raie 3 933.A.de Cat. En. bus à gauche : spectrohéliograrnme avec la raie 6 563 À
+de H. En bas à droite : en lumière blanche. Remarquer le grand renforcement. de l'émission ultraviolette autour, dés. groupes. de taches, méme les
+
+dant des éruptions solaires : celles-ci sont accompagnées d'émis-
+
+sion de rayons X de : À, plus « durs » que ceux qui sont émis
+
+habituellement, L'observation des rayons X rejoint celle des
+
+ondes radioélectriques pour montrer la formation dans la cou-”
+ronne, après les éruptions, de condensations passagères dont la
+
+température atteindrait 10 millions de degrés, comparable : à à
+celle qui règne aû centre du Soleil ! : :
+Ainsi, grâce aux progrès de la technique qui vont des rädio-
+
+télescopes géants aux fusées extraterrestres en passant par les
+instruments optiques plus classiques, les astronomes sont en .
+
+plus petits (Phôto’ Official V: 8. Navy). :
+
+   
+
+ 
+
+ais aussi, Hélas, toujours
+
+Droits reservés au Cnam et à ses partenaires
+
+Di dé à lon te
+
+ 
+
+R | MrônanD, ee
+‘Astronome à l'Observatoire : ‘de : Paris,
+Chef: du Service: Solaire.
+
+286
+
+Le Vaisseau-satellite et Midas
+
+Ë préparent-ils l'utilisation militaire dé l’espace ?
+
+D: nouveaux satellites de la Terre ont'été lancés durant le
+mois de mai : ün «.Vaisseau-satellite » russe et Midas Il,
+engin américain. À première vue. il n'existe aucun rapport
+entre ces deux expériences, si ce n’est leur proximité dans le
+temps (elles se sont respectivement déroulées le 15 et Le 24 mai),
+le-fait qu'elles ont été toutes les deux couronnées de succès,
+du moins dans leur première phase, et enfin la similitude des
+orbites qui,
+le .Vaisseau-satellite a suivi une trajectoire elliptique dont l’apo-
+gée. sé situait à 880 km et le périgée à 312 km, tandis que
+Midas gravitait sur uné orbite dont l'apogée se situait à 617 km
+et le périgée à :470 km. Mais l’inclinaison sur l’Équäteur des
+deux ‘trajectoires différait assez sensiblement : alors que celle
+de. l'engin américain ne, dépassait pas une trentaine de degrés,
+celle ‘du satellite soviétique était légèrement inférieure à 65°.
+
+ 
+
+  
+ 
+ 
+
+| (Photo
+
+imablement. communiquée par le Centre cuiturel américain).
+
+toutes deux, sont approximativement circulaires :.
+
+ment à Can É
+
+devait en être imputée aux fusées porteuses
+
+Cependant, ces deux expériences méritent d’être rapprochées
+à un triple point de vue : importance des charges utiles « satel-
+litisées », équipement des engins et exploitation des possibilités
+offertes, fonctionnement de l’appareillage.
+
+Les charges utiles et les fusées. — Le Vaisseau-satellite a
+été lancé, jour pour jour,. deux ans après Spoutnik JIT et le
+temps qui s’est écoulé entre ces deux expériences a été bien uti-
+lisé : alors que Spoutnik IIT pesait quelque 1 300 kg {à l'épo-
+que, le chiffre avait fait sensation), le Vaisseau-satellite atteint
+le poids de 4 540 kg; à peu de choses près, le quatrième satel-
+lite soviétique serait donc trois fois plus lourd que le troisième
+et, toujours à peu de choses près, soixante fois plus lourd que
+Spoutnik I. Naturellement des masses aussi différentes n'ont
+pas été « satellitisées » par des fusées porteuses identiques.
+Aucun renseignement n'a été communiqué sur ces engins, mais
+les experts occidentaux s'accordent à penser que deux « géné-
+rations » seulement d'engins ont été utilisées, Où faut-il placer
+la ligne de démarcation ? Les Russes, cette fois, l'ont dit eux-
+mêmes : entre de troisième et'le quatrième-satellites. En d'autres
+termes les trois premiers spoutniks ont été lancés à l'aide d'une
+même fusée porteuse ou du moins à l'aide de fusées dont le
+premier étage élait identique et qui ont bénéficié pour leurs
+étages supérieurs de perfectionnements successifs. On admet en
+fait que les trois spoutniks, tout comme les engins « lunaires »,
+ont été propulsés par des fusées composites qui utilisaient toutes
+comme premier étage l'ICBM soviétique : la fusée T 3 ou son
+modèle perfectionné, la fusée T 3 À. Au contraire, le Vaisseau-
+satellite est le premier à utiliser une nouvelle « superfusée »,
+dont on.se rappelle que des essais ont été effectués en jan-
+vier dans l'Océan Pacifique. Enregistrera-t-on une ‘augmen-
+tation régulière des masses satellitisées envoyées par là « super-
+fusée », analogue à la progression que l’on à pu noter pour les
+
+masses lancées par la fusée porteuse de la première génération ?
+
+Dans l’affirmative, les charges utiles qui prochainement gra-
+viteront dans l’espace promettent d’être considérables.
+
+Le poids des premiers satellites américains, on le sait, était
+bien loin d'’égaler celui des satellites soviétiques et la faute
+: alors que celles
+utilisées par les Soviétiques reposaient déjà sur un ICBM (Inter-
+continental Balistic Missile); c'est-à-dire sur un engin capable
+de lancer une charge supérieure à une tonne à une distance
+d'au moins 8000 km, les Américains ne pouvaient uliliser
+comme premier étage que des IRBM (Intermediate Range
+Balistic Missile), Jupiter ou Thor, c'est-à-dire des engins des-
+tinés à atteindre une cible située à 2 750 km seulement. Quelles
+
+qu ‘aient été lés qualités des étages supérieurs, la charge
+_utile ne devait pas dépasser quelques centaines de kilogrammes.
+‘Aujourd'hui ils viennent tout juste de commencer à utiliser,
+
+pour lancer des satellites, leur IGBM Atlas. C’est en effet une
+combMaison de ce missile avec une fusée Agena (déjà employée,
+
+‘mais en asSociation avec l'IRBM Thor, pour lancer les satel-
+tes Discoverer) qui leur a permis de mettre Midas Il sur une
+
+orbite autour de la Terre; le second étage est resté solidaire
+
+dela charge ‘utile et l’ensemble pesait 2268 kg. Quant à
+
+la charge utile proprement dite, elle était vraisemblablement
+
+--de 1 600 kg environ, Ainsi, à peu près deux ans après le lan-
+
+_cement de -Spoutnik TNT, les Américains ont pour la première
+
+fois réussi à « satellitiser » une charge utile équivalenté. Ils
+
+‘avaient donc ratirapé les Russes dans la course à l'importance
+
+de la masse. satellitisée parce qu ‘ils ont pu à leur tour utiliser
+
+comme premier | étage de la fusée porteuse un ICBM. Maïs juste
+à ce moment, les Soviétiques, inaugurant une nouvelle généra-
+
+Droits reservés au Cnam et à ses partenaires
+
+lion d’engins, faisaient faire à leur charge utile un nouveau
+bond en avant. .
+
+Le recours à de seconds étages plus « poussés » permettra-t-il
+aux Américains de combler cette différence qui vient de nouveau
+de se creuser entre eux et les Soviétiques ? Il ne le semble pas :
+la fusée Centaure, qui doit reposer sur l'emploi de l'Atlas, autori-
+sera des charges utiles dont le poids n’excédera pas très sensible.
+ment 3 500 kg. Et il faudra attendre la mise au point de la
+fusée Saturne pour voir les États-Unis lancer autour de la Terre
+des charges équivalentes au Vaisseau-satellite. Or, la fusée
+Saturne, dont la fabrication n'a pas bénéficié des facilités et
+des priorités accordées à la construction des engins à destination
+militaire, ne pourra pas prendre son envol avant 1963.
+
+L'équipement et les possibilités militaires, — On a voulu
+donner une signification politique aux dates choisies pour le lan-
+cement des deux derniers satellites : le Vaisseau-satellite, en effet,
+n’a-t-il pas pris son envol la veille du jour où devait se réuuir
+à Paris la Conférence au Sommet? Midas n'a-t-il pas com-
+mencé à graviter autour du globe à un moment où les Amé-
+ricains pouvaient trouver intérêt à démontrer que, de nos jours,
+l'on n'avait vraiment pas de raisons sérieuses de s’émouvoir
+pour des prises de vues aériennes puisque les satellites, sous
+peu, permettront d'opérer des reconnaissances aussi précises ?
+
+S'il est difficile de ne pas reconnaître aux Soviétiques, cou-
+tumiers du fait, le désir d'utiliser à des fins de propägande leurs
+expériences spatiales, il semble bien que tout rapprochement
+entre le lancement du Midas et l'affaire de l'avion. U.2 soit
+dénué de fondement : les Américains avaient déjà tenté de
+lancer un satellite du même type et l'opération s'était soldée
+par un échec, Mais il est difficile de dénier à ces deux lance-
+ments une signification militaire.
+
+. Midas présente en effet cette particularité d'être le premier
+des satellites américains à avoir été lancé dans des intentions
+exclusivement militaires. La mission qui lui a été confiée, en
+effet, est d'essayer, des appareils capables de détecter l'envol
+des fusées intercontinentales aussitôt qu’elles ont quitté leur
+rampe de lancement, et de repérer leur direction. Aucune pré-
+cision n’a été donnée sur les dispositifs qui ont été placés à
+‘bord du satellite mais on sait que le repérage doit se faire à
+l’aide de cellules sensibles aux infrarouges et que, contraire-
+ment à ce qui se passait pour les autres satellites d'observation
+qui tous gardaient durant leur rotation autour du globe une
+direction fixe par rapport aux élôiles, Midas ne cesse de rester
+dans une position identique par rapport au sol. C'est de cette
+mission qu'il tire d’ailleurs son nom : Missile Defence Alarm
+System. Bien sûr, un seul satellite ne permettrait pas d'assurer
+une surveillance efficace ; le dispositif comprendra une douzaine
+d'engins semblables.
+
+Ce réseau Midas, dont le lancement du 24 mai ne constitue
+qu'une préfiguration, est destiné à jouer un rôle de tout pre-
+mier plan dans la « stratégie de la dissuasion », et c’est bien
+la première fois que l'on voit les satellites artificiels promus
+à une fonction aussi essentielle : permettre de gagner, dans la
+détection des fusées intercontinentales, suffisamment de temps
+pour mettre à feu et lancer les engins de représailles avant
+qu'ils ne soient frappés sur leurs rampes de lancement;
+ôter à un agresseur éventuel la certitude de paralyser par un tir
+de contre-batterie tous les moyens de riposte adverses. C’est
+dire que le réseau Midas doit, en coopération avec le dispositif
+
+Radar d'alerte avancée qui est actuellement mis en place, per.
+
+mettre aux fusées. Atlas de ne pas être inopérantes; dans la
+conception que se font actuellement les Élats-Unis de leur
+défense, il commencera seulement à se montrer moins indis-
+
+pensable lorsque seront. disponibles les fusées Minuteman à
+“carburants solides, donc capables d'être conservées en état de
+
+marche et d'être lancées après un Préavis réduit à. quelques
+minutes.
+
+ 
+
+pour les
+
+donc .
+
+on peut placer à
+
+RBT ——
+
+ 
+
+Fig. 2. — Les techniciens de l'Armée de l'Air arnéricaine mettent
+au point, à la base de Cap Canaveral, le satellite Midas If.
+
+Le second étage, une fusée Agena contenant l'équipement infrarouge ét
+les dispositifs électroniques, à été placé sur une ‘orbite circulaire. Agena-À,
+mesurant 6,70 m de long et 1,5 im de diamètre, avait été mise an point
+satellites Distoverer. Plus tard, les satellites Midas utiliseront
+l'Agena-B, version améliorée de cette premièra fusée, |
+
+(Photo aimablement communiquée par le Centre culturel américain).
+
+L'intérêt militaire. du Vaïisseau-satellite est moins évident:
+En principe cet engin, à bord duquel était placée une. capsule
+de quelque deux tonnes ét demie, était destiné à éludier les
+
+conditions dans lesquelles un Homme pourrait être lancé dans
+
+l'espace : la capsule devait être détachée du satellite et faire
+relour au sol; mais sa récupération ne devait pas, en principe,
+être tentée. IL.s ‘agissait en somme d'une’expérience analogue
+à celles auxquelles se livrent Jes Américains avec leurs satel-
+lites Discoverer, mais alors que ces derniers n’opèrent qu'avec
+des capsules de taille réduite, les Soviétiques d'emblée tentaient :
+
+l'opération «en vraie grandeur » et,. même, utilisaient une
+
+capsule sensiblement plus lourde que. celle qui était ‘étudiée
+outre-Atlantique. Ce. dernier avantage n'est pas négligeable +
+bord de la « cabine » soviétique des dispositifs
+
+Droits reservés au Cnam et à ses partenaires
+
+288
+
+ 
+
+plus nombreux, capables notamment d'assurer un meilleur
+contrôle de la trajectoire dans la descente et peut-être même de
+lui ôter un caractère exclusivement balistique.
+
+L'importance -de la charge. utile, même une fois la capsule
+larguée, autorisait également les Soviétiques à placer à bord un
+appareillaÿe très complet : mais on ne sait rien à ce sujet et
+seul un article de la Prauda a signalé que l'engin pouvait
+prendre des photographies du Soleil. Était-ce à dire qu'il pou-
+vait en prendre aussi du sol en les transmettant, à l’aide d'une
+installation de télévision analogue à celle dont était équipée la
+« station. interplanétaire automatique » qui a filmé la face
+inconriue de la Lune ? $i tel était le cas, les Soviétiques seraient
+là encore'en avance sur les Américains qui eux aussi prévoient
+de läncer un engin destiné à la surveillance du sol : le satellite
+
+Samos, équipé d'un malériel d'observation bien plus puissant
+
+que celui du satellite « météorologique » Tiros. Le Vaisseau-
+satellite, dans ces conditions, aurait été, mais sans qu'on le
+dise, tout aussi « militaire » que pouvait l'être Midas. C’eût été
+aussi le premier satellite soviétique destiné à des fins qui n’au-
+raient pas été exclusivement scientifiques.
+
+Mais il n’est pas impossible de trouver, toujours du point de
+vue Militaire, un autre intérêt au Vaisseau-satellite : il pourrait
+très bien constituer l’amorce d’un « vecteur » qui transporte.
+rait autour du globe des charges thermonucléaires et exercerait
+ainsi une menace permanente : une fois ces charges « satelli-
+tisées », il suffirait d’un ordre télécommandé, au. moment où
+l'engin occupe sur. sa trajectoire un emplacement propice, pour
+diriger une bombe, où des bombes, vers les objectifs choisis.
+Bien sûr, la précision serait encore plus aléatoire que pour des
+fusées à très grande distance. N'empêche que celui qui par-
+viendrait ainsi à « stocker » des bombes dans la haute atmo-
+sphère disposerait d'une arme offensive et surtout défensive
+qui serait à l'abri de toute attaque : aucun agresseur ne pour-
+rait penser annihiler un tel moyen de riposte. Celui qui possé-
+derait une telle aïme serait donc à même d’exercer un pouvoir
+d’intimidation à nul autre comparable. Pour que cette puis-
+sance de représailles puisse être menacée, il faudrait que l'agres-
+seur se sache certain de pouvoir abattre le satellite... Fiction ?
+Des essais en ce sens ont déjà été tentés aux États-Unis
+où des engins air-air ont été lancés en direction du satellite
+Paddlewheel. Rien n ‘interdit de penser que les spécialistes qui
+‘s'efforcent, ‘outre-Atlantique de mettre au point les satellites
+Discoverer .onf dans l” esprit des vues semblables, Cela explique-
+rait tout le secret qui entoure. des expériences uniquement des-
+tinées, en principe, à des buts scientifiques, Mais un engin
+équipé du dispositif mis au point pour les Discoverer ne pour-
+rail emporter qu’une. charge explosive tandis que le Vaisseau.
+satellite, en raison de ses dimensions, pourrait tenir lieu de
+bombardier spatial.
+
+A faut en tout cas tenir compte d un fait indiscuté : l’explo-
+ration dé l’espace n ‘est qu'un sous-produit de là fabrication
+: dé. fusées aux caractéristiques poussées, et un. moment devait
+“bien venir où l’on passerait de cette eæploration à l’ exploitation
+de |’ espace. Le lancement du Midas et peut-être aussi celui du
+. Vaisseau- satellite montrent que l'utilisation de la. haute atmo-
+
+se re Deux selles ‘américains
+
+ 
+
+Les Américains ont réussi le 2 52. “juin. à lancer à l'aide. d'une
+seule fusée, une Thor Able Star, deux satellites artificiels de ro7
+cet 19 kg. C'est. la: première fois qu'une opération de ce
+genre. peut-être. menée à bien. Les deux satellites étaient soli-
+L'c'est: seulement “lorsqu'ils: ont commencé à graviter
+
+   
+
+“autour ‘du- globe qu'un système de. ressorts les a ‘séparés,
+- Depuis, ils grävitent à faible distance l’un de l'autre sur’
+
+‘une orbite approximativement : ‘circulaire située à 800 km
+d altitude: “el” qui fait un angle de 67,59 avec l'équateur: ‘Le
+
+ 
+
+ 
+
+sphère, comme on pouvait bien s’y attendre, sera « pensée »
+en fonction d'impératifs de défense nationale.
+
+ 
+
+Les défaillances de l'équipement. — Cependant le moment
+où ces dispositifs révolutionnaires de surveillance et de bom-
+bardement seront mis en place ne paraît pas très proche. Car il
+existe un autre point commun entre les expériences réalisées
+en mai par les Américains et les Russes : les dispositifs placés
+à bord des engins n'ont pas fonctionné.
+
+La cabine placée à bord du Vaisseau-satellite n’a pas fait
+retour vers le sol comme il avait été prévu : les Soviétiques
+eux-mêmes ont admis que le mécanisme d'orientation qui
+devait placer l'engin dans une position favorable au largage
+a subi une défaillance et la capsule, au lieu d'être freinée, a été
+sans doute accélérée, C’est pourquoi certaines observations ont
+montré qu'au lieu et place du Vaisseau-satellite et du dernier
+étage de la fusée porteuse qui gravitaient séparément, trois
+objets tournent maintenant autour du globe : le dernier étage
+dont la trajectoire, évidemment, ne s'était pas modifiée, la
+capsule, et ce qui restait du satellite. Ces deux derniers, eux,
+suivaient des orbites nouvelles. Rien d’extraordinaire à cela
+une mésaventure identique était arrivée aux Américains qui,
+cherchant à détacher et à faire revenir au sol la capsule placée
+à bord du Discoverer V, avaient seulement réussi à en-faire un
+satellite. malgré eux. |
+
+Selon d'autres observations faites aux États-Unis, le Vaisseau.
+satellite ne se serait pas scindé en deux morceaux mais en huit.
+Dans l'ignorance où l’on se trouve de l'agencement du satellite,
+mais en admettant comme véridiques les quelques précisions
+fournies par les Soviétiques, on se trouve, semble-t-il, dans
+l'impossibilité d'expliquer un tel phénomène...
+
+Quant à Midas, il devait faire l’objet d’un test essentiel, des-
+tiné à vérifier dans quelle mesure on ne pouvait pas déjà lui
+opposer une parade et le mettre dans l'incapacité de remplir
+sa mission, Quelle pouvait être cette parade ? Provoquer, par
+un artifice quelconque, un dégagement de chaleur comparable
+à celui auquel donne naissance la mise à feu d’une fusée inter-
+continentale. Au cas où le satellite l'enregistrerait sans opérer
+la distinction, il mettrait ceux qui utilisent ses signaux dans
+l'incapacité de distinguer entre un vrai lancement et un faux.
+Aussi avait-il été prévu que des fusées seraient lancées et que
+des feux seraient allumés lorsque le satellite se trouverait en
+mesure de les enregistrer. Mais toutes ces expériences ont dû
+ètre décommandées, le dispositif étant malencontreusement
+tombé en panne.
+
+Dans les deux cas, il ne s'agit naturellement que de parties
+remises mais ces incidents techniques rappellent avec une:
+fâcheuse opportunité combien il pourrait être périlleux de sus-
+pendre au-dessus du globe une menace aussi permanente et
+aussi redoutable que celle que constitueraient des bombes
+« satellitisées ». C’est d'ailleurs à l'interdiction de la fabrica-
+tion de telles armes que doivent, dans l'esprit de quelques spé-
+cialistes occidentaux, tendre les efforts entrepris en faveur du
+désarmement. .
+| Nicoxas Vicaner.
+
+lancés avec la même fusée
+
+plus gros, du modèle Transit, est le second de ce genre à
+être lancé avec succès, Il est muni d’un appareillage électro-
+nique qui doit permettre un nouveau système de navigation,
+destiné surtout à fournir aux sous-marins atomiques la possi-
+
+_‘bilité de faire le point avec une grande précision et de pointer
+
+exactement les fusées Polaris."
+Piggÿy Back, c'est-à-dire « à
+
+Le petit satellite, surnommé
+à califourchon >», est destiné à l’étude
+
+des: radiations solaires,
+
+N. V.
+
+Droits reservés au Cnam et à ses partenaires
+
+Vers un Droit spatial
+
+ur possédera l'espace et les planètes ?
+Q Au-dessus de quelle altitude un satellite cesse-t-il de
+violer (cent fois par jour) les domaines aériens qui relè-
+vent des nations sous-jacentes
+
+Comment empêcher de façon réaliste l’espace d’être utilisé
+à des fins militaires ?
+
+Tous Ie astronefs ne devront-ils pas battre - pavillon de
+l'O.N.U.
+
+Dans quelle mesure faut-il appliquer dans l'espace des con-
+cepts juridiques traditionnels tels que ceux de souveraineté
+nationale, de liberté de navigation, de droit du premier occu-
+pant, d'entraves justifiées, etc. ?
+
+Ce sont là quelques-unes des questions concrètes qui se
+posent déjà, qui se poseront bientôt avec acuité, et qui sont
+du ressort du « droit spatial ».
+
+L’édification d'un droit spatial n'est nullement prématurée.
+D'abord, il est convenable de fixer les, règles du jeu avant de
+commencer la partie. Ensuite; les conditions matérielles du
+voyage dans l’espace et aux planètes sont connues par avance
+de façon assez satisfaisante. Nous croyons que ces conditions
+sont mieux prévues aujourd'hui que ne l’étaient par exemple,
+en 1900, celles des voyages aériens. Dans le vide dépourvu de
+frottements, la théorie épouse de plus près la réalité. Newton,
+au début du xviut siècle, n'aurait pas été embarrassé de don-
+ner la vitesse exacte des satellites artificiels d'aujourd'hui. Le
+juriste a donc déjà beaucoup d'éléments pour codifier dans ses
+grandes lignes les prochaines activités de l'homme et des
+machines dans le domaine extra-terrestre, Bien des aspects
+de l’Astronautique ont déjà été de longue date prévus, com-
+mentés, vulgarisés. Mais s'il est un domaine astronautique
+qui puisse se traiter avant la lettre, utilement et à peu de
+frais, c'est bien celui du droit.
+
+Analogies avec Île droît aérien et frontières de l’es-
+pace. Une des questions actuellement étudiées en matière
+de droit spatial est celle de la limite de souveraineté en altitude
+de chaque nation et, de façon un peu plus générale, celle des
+possibilités d'extension au cas de l'espace des règles du .droit
+
+ 
+
+aérien. En d'autres termes, où commence l’espace, et peut-on
+
+édifier le droit spatial à partir d’une simple extension des don-
+nées du droit aérien ? Considérons d’abord ce que sont ces
+données.
+
+L'ancien droit romain stipulait déjà que le propriétaire d'un
+domaine possède l’espace jusqu'aux cieux |!
+
+La question du droit aérien s'est posée après la traversée de
+la Manche par Louis Blériot en 1909. Deux écoles se faisaient
+jour; la première, libérale, tendait à admettre la liberté de la
+circulation aérienne au-dessus de toute nation, suivant un prin-
+cipe en tous points analogue au principe de la liberté des mers
+
+qui prévaut en droit maritime. Mais c'est la seconde école qui
+
+l’'emporta, à la fin de la guerre de 1914-1918, sans doute parce
+
+que les avions et les zeppelins venaient de révéler l'importance de |
+
+l'arme aérienne. La signature de la Convention de Paris en 1919
+fut la prémière manifestation officielle du droit aérien: l’arti-
+cle 1 de cette convention stipulait que les parties contractantes
+reconnaissaient à chaqüe puissance le droit de souveraineté
+complète et exclusive sur. le domaine aérien situé au-dessus de
+son. territoire.
+
+Vers la fin de la seconde guerre mondiale; la Convention ‘de
+Chicago (1944) remplaça la Convention de Paris; cette. fois,
+
+les distances s’élaient raccourcies, et les États-Unis d'Amérique :
+adhéraient aux mêmes dispositions que les états d'Europe. Les
+
+articles x et:2 de cette Convention de Chicago reconnaissent la
+pleine. souverairieté de tout état sur son domaine aérien, que
+cet état soit où non partie contractante. L'Union Soviétique
+
+“altitude par des obus ou des fusées ‘d'essai.
+
+289
+
+n'a pas signé cette convention, mais le code soviétique de
+l’air de 1935 pose néanmoins le même principe d’une telle
+souveraineté; il précise que le domaine aérien de l’U.R.S.S.
+est défini par une colonne d'air situé au-dessus du territoire de
+ce pays, y compris la stratosphère, cette définition ne compre-
+nant aucune limitation et s'étendant en altitude au fur et à
+mesure du progrès des avions.
+
+On le voit, il n'existe pas de liberté généralisée des airs
+comme il existe une liberté de la haute mer. Sans doute, les
+aéronefs sont libres de transiter, et même d’atterrir à des fins
+non commerciales : mais ces droits, connus sous le nom des
+deux libertés de l'air, sont limités aux nations signataires de .
+la Convention de Chicago. Même entre pays signataires de la
+Convention, la liberté de trafic n'existe pas : les liaisons com-
+merciales entre deux pays font l'objet d'accords de réciprocité
+âprement disputés.
+
+Il paraît clair que les textes préexistants ne sauraient fournir
+d'éléments concrets pour définir les frontières de l'espace, Pré-
+tendre par exemple qu’une nation possède les astres situés dans
+le cône d'espace momentanément placé au-dessus d'elle est.
+une absurdité à laquelle nul ne s’est arrêté. D'ailleurs c'est la
+Terre qui défile « sous » l'Univers, et non le contraire: cette
+considération s'étend aux satellites artificiels proches: les satel-
+lites artificiels « ignorent » la rotation de la Terre et si celle-ci,
+par magie, s'arrêtait de tourner, leurs orbites demeureraient
+inchangées pour un observateur situé sur la Lune ; ce. sont
+donc bien les nations qui défilent sous les satellites, et non le
+contraire.
+
+L'interprétation casuistique des textes actuels n'est donc pas
+fructueuse, et il faut éviter de vouloir extraire de ces textes plus
+d'informations que leurs auteurs ne voulaient ni ne pouvaient y
+en inclure. Le Droit s’honore au contraire d’être une construc-
+tion vivante attachée au fond des réalités du moment, et non,
+à la forme des sources écrites.
+
+Il n’en reste pas moins qu’il faut situer cette frontière de
+l'espace après laquelle cesse l'empire du droit aérien. Faut-il
+de plus définir les droits et les devoirs d’un engin non seule-
+ment par sa position, mais aussi par sa vitesse à un instant
+donné ? Convient-il de distinguer entre les aéronefs et les
+astronefs, et de soumettre chacun à leur régime propre P Ces
+questions sont très controversées.
+
+Si l’on se contente de vouloir définir -une altitude limite,
+une frontière entre l’air et l'espace, la nature des choses vient
+à l’aide du juriste, car il existe une zone interdite à la fois aux
+satellites et aux avions. On sait en effet qu’ün satellite est très
+éphémère au-dessous d'une altitude d’environ 150. km. D'autre
+part, lorsqu'un aéronef (qui ne saurait être qu’un avion- fusée
+au-dessus de 25 km, étant donné les exigences des propulseurs
+aérobies) prétend voler très haut en état de sustentation. aéro-
+dynamique continue, il ne peut aller ni trop lentement car
+il tomberait, ni trop vite car l’échauffement serait alors exa: :
+géré (c’est ce qu'on appelle le mur de. la chaleur): Comme le
+montre la figure 1, plus il s'élève, plus il doit d’une part, et
+peut d'autre part, voler vite en raison de la raréfaction de
+l'air. Le célèbre aérodynamicien von Karman a proposé de
+fixer à 85 km l'altitude de la frontière rechérchée. :
+
+Les satellites auraient donc droit de « passage . innocent.»
+(comme dit le.droit maritime) au-dessus de cette altitude. Mais :
+cette solution simple n'est pas très satisfaisante; pour des rai-
+sons de sécurité, et aussi probablement d’amour-propre, les
+nations ne supporteraient pas aisément d’être survolées à basse:
+Aüssi, pour les.
+
+fusées non satellitisées; M. Jean Rivoire propose-t-il que le
+
+- domaine de: souveraineté de chaque nation soit porté à une
+
+altitude plus élevée que: POUÉ les satellites, de l'ordre de 1 oo km
+
+Droits reservés au Cnam et à ses partenaires
+
+9
+
+Ce
+
+ 
+
+90
+
+ 
+
+ 
+
+. ZONE DES VITESSES ZONE DES
+se | ELLIPTIQUES (SATELLITES) VITESSES
+) Fusées-sondes Ï.R.B.M. 1. C.B.M. HYPERBOLIQUES
+| ( À \ (ASTRONEFS)
+‘ zl:
+0 | | £l |.
+_ | D |
+100 | | =:
+. | . ul -|
+sé | |. àl A]
+' FE
+85 ESPACE | Limite juridique de Von Karman | = Et
+| pure juriique de Von Karin 3 à
+80 Al R | | 11, refroidissement | ” 3 |
+J | per rayonnement | 5 <
+. | ù um Li |
+70 | À ©
+x | Retour auïsol d'un !\ | ' >|
+80 ] | astronef Par ricochets ; \ LT À | nm
+© DES VITESSES TROP FAIBLES POUR \ ii PT fus e* s|
+LE VOL CONTINU : PORTANCE INSUFFISANTE À TR LAN. Ed 2
+- 50 Î rt cs RE) 5 | S
+CÉ 5 \ 1 LE G | à|
+5 FOOT Le RIQUE S &
+/ 08 nee à È ël
+£v nent] Ro S| a
+40 / 4 net PE — AË | ou u
+\ as 7 € VO & Pa
+Ad LE on 7 | AC | | ti
+5 ant? can Fe El
+OR TL | à
+Se n° / |
+20+ À « / Dé | |
+È AK (A 20NE DES vIrEsses TROP GRANDES POUR UN VOL |
+0 RSS — PROLONGÉ : REVÊTEMENT TROP CHAUD (>1200 °C)
+RS" TT, r TT |
+SS TT 7,9 11,2
+0 RSS 3 +
+& 5 7 10
+9. . $ : 6 8 $ Vitesse m/s)
+Fig. 1. — Schéma des frontières de l’espace.
+
+esl interdile
+
+Un objet volant né” saurait avoir. n'importe quelle vitesse À une altitude donnée, La zone A est limitée par ce qu'on appelle le mur de chaleur
+
+à tout engin,
+
+ZONE DES VITESSES TROP FAIBLES POUR LA SATELLITISATION
+
+; elle
+
+sauf pour un temps réduit (cas des grandes fusées dites Intermediate Range Balistic Missiles et Intercontinental Bülistic
+Missiles qui la traversent avec difficu:té). La zone B correspond au domaine des avions actuels (partie hachurée) et futurs (tels que le X-15), Il est
+
+à noier que vers 7,9 km/s l'avion est complètement « satellitisé » par la forc
+La vitesse dite « eirculai
+
+il devrait mettre en.jeu une portance négative.
+zone CO, l'atmosphère est trop raréfiée pour porter l'avion ; i
+l'atmosphère À plusieurs reprises,
+
+par exemple. Ainsi une nation tolérerait qu'un satellite la'sur-
+volât à 200 km d'altitude, mais n'admettrait pas d’être située
+.sous un tir de projectiles, obus ou fusées, culminant à x ooo km
+d'altitude, mème si:les points de départ et d'arrivée sont en:
+territoires consentants ou en haute mer libre. La grande vitesse
+qui s'attache à la satellitisation se présentérait donc comme
+une garantie d’innocuité; les fusées d’essai où de transport
+intercontinental se trouveraiént dissociées des astronefs et ramie-
+nées au cas d’une catégorie particulière d'aéronefs.
+
+On le voit, ‘contrairement au cas du navire, la position d’un
+engin dans l' espace, né suffit pas à définir sa légitimité : il faut
+faire intervenir sa vitesse, donc finalement sa trajectoire et son
+
+- point de chute, Ce n'est pas en effet au-dessus d’un pays qu'un
+ce peut être décrété inolffensif ou menaçant pour ce pays;
+c’est bien avant, au-dessus de l'Océan, en espace neutre, Cela
+achève de montrer que les règles clateidies de souveraineté du
+droit aérien-ne peuvent. pas être étendues à l’espace. :
+
+Des définitions plus :ou- moins rnathématiques ‘ont été. pro-
+posées. pour introduire Je paramètre ic vitesse » dans la régle-
+méntation. On les juge ‘souvent incompatibles avec la simpli-
+
+cité désitable pour un texte juridique. Pourtant, les définitions.
+& scientifiques » sont souvent indispénsables. Par exemple dans
+5 le ‘domainé dé “réglementation des émissioris radio- électriques ,
+‘oh: parle: de ‘fréquencés, bien:que ce soit: compliqué, puisqu'il
+faut HONpIer des: millions de vibrations par Become; A 1 aide de
+
+   
+
+Droits reservés au Cnam
+
+e centrifuge de sa rotation autour de la Terre ; pour aller plus vite,
+
+ire » de satellitisation diminue avec l'altitude, d'où l'angle &@. Dans la
+
+; il n'y peut faire que des incursions semi-balistiques ; un aéro-astronef, en ricochant sur
+peut utiliser de, telles incursions pour prolonger la durée de son refroidissement par rayonnement
+fement reste considérable dans la zone B.
+
+; en effet, l'échauf-
+
+récepteurs étalonnés convenables. De même, on pourrait édicter
+à propos de l’espace des règles dans ce genre : « Sera en situa-
+tion irrégulière tout engin balistique dont le point de chute,
+tel qu'il est prévu à chaque instant par les systèmes bien
+connus de radars associés à des calculatrices électroniques de
+trajectoires, est situé à tel ou tel endroit, même si ce. point
+de chute futur est ensuite complètement modifié par les auto-
+propulseurs de l'engin... », etc.
+La notion de point de chute futur est simple, et il existe
+des instruments de mesure correspondants, qui peuvent être
+‘sous scellés. Comme. beaucoup d'éléments du trafic aérien, les
+éléments balistiques de surveillance peuvent être enrégistrés sur
+bande magnétique et conservés quelque temps pour le cas de
+
+‘contestation. Peu importe que ces instruments de mesure soient
+compliqués.
+
+ 
+
+Analogie avéc le droit maritime, L'astronaute uti-
+lise sans doute surtout les techniques de l’aviateur, mais son
+métier possède des affinités certaines avec celui du marin. La
+mer. est immense; on s'y embarqué pour longtemps, on peut
+y errer à jamais; le navire emporte à son bord beaucoup de
+ressources, parfois loutes les ressources nécessaires au voyage
+et à la mission. C’est la mer, en son temps, qui a conduit
+à des terres nouvelles. Tout cela s'applique à l'espace.
+
+: En droit spatial comme -ên ‘droit maritime, le juriste préfé-
+
+et à ses partenaires
+
+rera légiférer plutôt à partir de la notion de milieu (eaux territo-
+riales, vieille règle du « boulet de canon » de Grotius, xvn* siè-
+cle) que de celle de navire. La notion de navire est en effet
+controversable : il existe ou pourrait exister des hydravions,
+des îles flottantes, des îles artificielles, des docks flottants sans
+moteur, des bateaux météorologiques ancrés à poste fixe, des
+chars sous-marins à chenilles, des bouées et stations automa-
+
+tiques sans équipage, des mines, des fusées partant du fond
+
+de la mer, des épaves, et tout un arsenal d'objets actuels ou
+
+futurs prêtant à discussion. La situation n'est pas différente :
+
+dans l'espace et il vaudra mieux parler, quand ce sera pos-
+
+sible, de présence ou de mouvement d’un engin dans un milieu”
+
+(altitude, vitesses, trajectoires, durée, engin satellitisé ou engin
+interplanétaire, etc.) que de tenter de distinguer entre les
+engins eux-mêmes : avion-fusée, astronef avec ou sans ailes,
+engin automatique ou monté, etc.
+
+Cependant cette tendance a des limites, et il faudra bien
+trouver le moyen de distinguer entre les machines de guerre
+et les autres : machines de science, d'exploration, de transport,
+de télécommunication, etc.
+
+Comme la haute mer, l’espace interplanétaire sera libre, ce
+
+qui ne signifie pas qu'il doive être sans loi; ainsi tout navire
+
+de l’espace devra, au moins symboliquement, battre pavillon
+d’une nation déterminée ou de l'O.N.U.; faute de quoi il s'agi-
+rait. d'un astronel-pirate | Cela revient à dire que tout engin
+spatial devra être déclaré avant son lancement,
+
+Si actuellement les essais de fusées militaires ne sont pas
+nécessairement annoncés à l’avance, il est à noter que les lan-
+cements des premiers satellites l’ont été, tant par les Russes
+que par les Américains. Ces lancements avaient d’ailleurs lieu
+dans le cadre de l'Année géophysique internationale. C'était là
+une position prudente du point de vue juridique et, de fait,
+aucune des quatre-vingts et quelques . nations du globe n'a
+songé, sous l'effet de la surprise, à protester contre le survol
+de son territoire par des satellites.
+
+Certains projets proposent d'édicter que les astronefs ne
+pourront battre d'autre pavillon que celui de l'O.N.U.; l'espace
+serait ainsi complètement internationalisé, plus exactement
+« extra-nationalisé » comme le souligne M. Jean Rivoire,
+voulant ainsi montrer que dans le domaine de l’espace l'idée
+même de nation devrait perdre sa raison d'être, L'accord de
+tous les états sur un tel point. n'irait évidemment pas sans
+difficultés. |
+Un contrôle étroit de l'O.N.U. sur la nature du chargement
+des astronefs est pourtant nécessaire pour aboutir à une non-
+militarisation réaliste de l'espace. Le principe dé cette non-
+militarisation est acquis, si l'on en croit certaines déclarations
+officielles des deux grandes puissances astronautiques, mais la
+mise en œuvre est encore à définir. Si ces intentions deviennent
+réalité, on le voit, le statut de l'espace différera de celui de
+
+la mer dont l'accès est libre aux navires de guerre. C’est que .
+
+dans le cas de l’espace, la menace” serait. plus’ grande, plus
+universelle, plus’ räpide.- Les engins. et installations extra-ter-
+restres devront donc être :tels que leur éventuelle transfor-
+
+mation militaire ne soit pas évidente; et ils seront dépourvus.
+
+d'armement,
+
+Utilisations militaires de l’espace, — Pour tenter de
+prévènir cette menace guerrière de l’espace, il faut la connaî-
+tre. En quoi consiste-telle ? Les états-majors doivent avoir là-des-
+sus un avis plus. qualifié. Nous devrons. nous. contenter des
+spéculations suivantes. : :
+
+Miroir ardent. — On a imaginé qu'un miroir satellitisé pour-
+rait concentrer les rayons du soleil et griller à loisir les villes
+et les moissons ennemies. Il serait constitué de feuilles minces
+
+métallisées fixées à un filet tendu par la force centrifuge d'une:
+
+légère ‘rotation. ‘Vu. la. distance, ses. dimensions devraient être
+“énormes (des dizaines de > kilomètres), pour obienir une _cha-
+
+: ment la suivante:
+‘autre est rénduë à plus difficile. En effet, la distance de la. Lune
+
+291
+
+leur ponctuelle suffisante. Ge projet n’a donc pas à être pris
+au sérieux, semble-t-il.
+
+Satellites de. guerre. — Est-il possible de stocker dans l’espace
+à bord de satellites des armes nucléaires ? Sans doute. Mais il
+faut, pour précipiter avec précision ces armes au point choisi,
+les ralentir par une fusée à poudre et dépenser une énergie non
+négligeable. L'épée de Damoclès est attachée ici par un fil
+foit résistant, et la possibilité de bombardement par simple
+lâcher n'est naturellement qu'une apparence, La sûreté de
+fonctionnement de la télécommande et les problèmes de’ son
+entretien au cours des années feront apparaître cette solution
+comme déraisonnable aux yeux de beaucoup de techniciens.
+D'ailleurs les objets-satellites, peu discrets, doivent: être essen-
+tiellement vulnérables. On peut les détruire, en prenant son
+temps, par des fusées chercheuses « anti-missiles », ou satelli-
+tiser sur leur orbite, connue avec précision, des essaims d'’éclats
+(shrapnells) ‘discrets, lancés par exemple en sens inverse, qui.
+finiront par marquer un coup au but à un tour ou à l’autre.
+Il suffit de quelques grammes. Le lancement classique de
+fusées à partir de bases terrestres doit être plus efficace, malgré
+la plus grande énergie nécessaire au moment de la mise en
+
+: ŒUVYTE.
+
+Il ne semble donc pas, sous toutes réserves, que la menace
+de satellites armés soit imminente et que se pose dès main-
+tenant le problème de leur contrôle.
+
+Espionnage à partir de l'espace. — Les satellites fourniront
+un moyen idéal d'observation du sol pour la cartographie, les
+statistiques agricoles, la météorologie, etc., et il paraît évident
+qu'ils seront également employés pour photographier les routes,
+voies de communications, travaux, grandes installations, même
+et surtout dans les régions actuellement interdites au survol.
+Chercher .à s'opposer à cela ne serait pas raisonnable : le.
+contrôle n'est uère possible. Il faut en prendre son parti :
+les nations peuvent avoir des murs, mais ellés n’ont pas de
+toit. Cet état de choses n'est-il pas à tout prendre préférable P
+
+Bases militaires sur la Lune. — La Lune au contraire pos-
+sède probablement un grand intérêt stratégique. Elle offre cer-
+taines ressources qui n'existent pas à bord d'une station spa-
+tiale habitée. On y fabriquera sans doute de l’oxygène et de l’eau
+à partir des éléments chimiques liés aux minéraux. On peut s’y
+protéger dans des abris situés sous le sol. Une modeste fusée :
+à poudre qui en partirait serait capable d'atteindre la Terre,
+avec une tête nucléaire. Mieux, une catapulte électrique de
+quelques kilomètres de long peut suffire, en l’absence de toute
+résistance aérodynamique, à projeter des têtes de guerre à la
+vitesse. nécessaire (2,4 km/s), et ceci avec une cadence dé tir
+considérable. L’engin lancé de la Lune vers la Terre peut être
+observé optiquement (ce qui est plus discret que le radar) et
+télécommandé pendant tout le temps ‘de la traversée. Notons
+qu'il n’en est pas de même de l'engin Terre-Lune en raison :
+de la rotation de la Terre. CU;
+
+En ce qui concerne la défensive de Ja. base lunaire, une
+attaque provenant de la Terre déclenche l’alerte un ou deux
+
+“jours à l’avance, en raison du témps nécessaire à la traversée.
+
+En l'absence d'atmosphère, il n'y a pas d'effet de souffle.
+
+. Les retombées radioaclives sont immédiates. Tout le personnel
+
+respire sous casemale ou sous scaphandre autonome. En rai-
+
+‘son de la faible gravitation ‘lunaire, les. fusées assaillantes t6m:
+
+bent plus lentement que. sur Terre, et l'action anti-missile est
+
+facilitée, La base lunaire peut être dissimulée sur la face éloi-
+
+gnée, les postes d'observation et de télécommande restant sur:
+
+la face visible ‘à partir dé la Terre.
+
+La considération: principale touchant l'intérêt stratégique &
+la Lune, pour la nation qui seule la posséderait, est probable
+: l'attaque-surprise de cette ‘nation par: une
+
+Droits reservés au Cnam et à ses partenaires
+
+298 : =
+
+res ou terrestres) sont lancées avant que ne parviennent au but  pulseur à radical libre permet d'espérer des performances
+
+les fusées assaillantes, si celles-ci attaquent d’abord la Lune. meilleures que celles des fusées classiques, et par conséquent
+Les représailles sont également possibles à partir de la Lune,  d’effectuer avec un rapport de masse acceptable les courtes et
+ai les fusées assaillantes attaquent d’abord les bases terrestres.  énergiques évolutions entre l'orbite lunaire et le sol lunaire, et
+Au contraire, en l'absence de bases lunaires, les représailles vice versa.
+peuvent êtré impossibles si les bases terrestres de lancement Qu'il revête ou non les aspects suggérés, le propulseur idéal
+ont été détruites par l'agresseur. Mais tout ceci ne vaut, répé- qui reste à découvrir devrait satisfaire aux conditions sui-
+tons-le, que si une seule nation prenait définitivement posses-  vantes : pousser avec une force supérieure à son poids ter-
+sion de la Lune. restre péndant une demi-heure au moins, être arrêtable à volonté
+He LU Li | | | (propriété qui n'est pas évidente dans le cas des propulseurs
+Occupation pacifique de la Lune. — Comme la pré- nucléaires), avoir une poussée réglable avec rapidité (même
+tention d’une telle exclusivité est illusoire, sauf avance tech- remarque), ne pas être trop nocif pour l'atmosphère ni pour
+
+nique considérable et sauf « fortification » générale de la Lune  l’équipage, être sûr, durable, rechargeable, d'un prix accep-
+par le: premier arrivé, et comme l'avantage stratégique de la table. |
+
+Lune n'est peut-être pas aussi clair que le suggèrent les pré- Malgré cés difficultés, il est probable que les progrès des
+cédents arguments, les nations spatiales aurdnt intérêt, intérêt  propulseurs d'’astronautique suivront une courbe aussi allégre-
+financier en particulier, à renoncer à leurs bases militaires ment croissante que ceux de leurs homologues d'aéronautique :
+lunaires, et en conséquence à autoriser l'accès pour le contrôle nos pères n'eurent pas besoin de réclamer longtemps, pour
+
+de leurs bases scientifiques lunaires. Un tel plan est moins . leurs avions, « le cheval-vapeur dans un boîtier de montre ».
+
+abstrait que les plans de désarmement concernant les armes Quand ils auront les moyens nécessaires, et si ce n'est dans
+classiques, parce que l'existence d'une base sur la Lune est 5 but militaire, pourquoi les hommes investiront-ils la Lune ?
+impossible à cacher, et parce que le terrain est neuf : per- Parce que l'intérêt scientifique d'une telle entreprise est excep-
+sonne ne s’y .est encore engagé financièrement ou matérielle-  {jonnel. Les activités sur la Lune pourront concerner l'étude
+ment; il ne s’agit donc pas de désarmement, mais d'abstention 4, sol, de la physique lunaire et de la cosmogonie du système
+d'armement. : _- solaire; l'étude astronomique des planètes sans le trouble dù
+
+Même en l'absence du mobile militaire, des bases lunaires 3 l'agitation atmosphérique; l'étude astrophysique du Soleil
+seront pourtant établies, dans un avenir que nous imaginons et des étoiles sans l'absorption par l'atmosphère terrestre de cer-
+
+être de: 15 à 5o ans. Les moyens technologiques pour trans-  {aines bandes de longueurs d'onde; cette remarque s'étend à
+porter sur la Lune une masse suffisante de matériel (3 à 10 t la radio-astronomie; l'étude de la Terre, de sa météorologie, de
+au moins par astronef), avec une sécurité et à un prix accep- son rayonnement; probablement des expériences conduisant à
+tables, ne sont pas encore en vue. Il est même probable que une meilleure compréhension de la nature de la gravitation,
+des découvertes de base restent nécessaires pour y parvenir; et d'autres vérifiant. certaines conséquences de la relativité;
+de sorte que personne n'est en mesure de fixer une date pro- des expériences sur le vide, qui est sur la Lune disponible sans
+
+bable pour l'invasion permanente de la Lune bar des. équipes frais sur d'énormes longueurs: la possibilité de certaines expé-
+4 1h 4 , , RCE ï , . + : ‘at
+scientifiques. L'absence d’atmosphère, la précision de l'arrêt  riences nucléaires nocives ou dangereuses, en des lieux lunaires
+à réaliser (immobilité suivant trois axes liés à la Lune : alti- réservés à cet elfet et d'où les poussières radioactives ne partiront
+1 : 1 1 1 = “ “ s “ + “ s 1:
+tude, longitude, latitude) au point final d'arrivée au sol, la jamais puisqu'il n'y a ni vent, ni courant pour les empor- .
+
+cascade exponentielle des rapports de masse nécessaires à cha- ter, etc.
+
+cune des quatre phases motrices (essor hors de la Terre, frei- Des locaux pourront être creusés dans le sol, et rendus étan-
+nage contre la Lune, essor hors de la Lune, freinage contre  &hes à l'oxygène sous pression par projection intérieure d’une
+la Terre), tout cela rend le problème très difficile, sans com-  &ouche de matériau plastique; un réseau de voies de commu-
+
+5 Le . lis ! . A4 . , : rs , , . | ,
+mune mesure avec celui de l'envoi de simples projectiles sur hications (sujétion éternelle!) sera nécessaire pour relier entre
+la Lune. Le voyage à proximité de Mars (sans applanétissage) eux les différents lieux lunaires : aires d’arrivée des fusées, bases
+
+est même plus aisé que l'allunissage, car l’espace est remar- diverses, installations scientifiques, exploitations chimiques de
+_quablement propre aux courses à grande. distance. minerais permettant d'obtenir de l'oxygène et de l'eau, cultures
+Les deux découvertes de base nécessaires à la réalisation hydroponiques sous serres. De même que les actuelles installa-
+d” astronefs- cargos peuvent sans. doute être désignées ainsi : tions arctiques n'ont pas suivi immédiatement la conquête des
+‘1° Réalisation d’un générateur de puissance électrique four- pôles, de même les installations lunaires seront sans doute
+
+nissant au moiris quelques dizaines de mégawatts directement l'œuvre de plus d'un siècle; elles ‘seront éternelles, malgré
+à partir d'énergie nucléaire; ce générateur devra être léger, certaines détériorations provoquées par les météorites: . aucune
+sûr, peu nocif; la puissance électrique obténue assurera l’éjec- pluie, aucun vent.n’érodera par exemple les routes, même si
+tion à très grande vitesse (au moins 20 à 5o km/s) de plasma elles sont laissées sans revêtement; les automobiles ne sou-
+neutre conducteur ou dé matière ionisée, permettant à l’astronef lèveront pas de poussière. durable ; notons à ‘propos de ces
+dé ‘quitter, : même. sous très faible accélération, une orbite véhicules spéciaux dont on a déjà imaginé plusieurs types
+“autour de la: Terre, et. de: se freiner. péreillement, même sous ‘ (Hermann Oberth, Arthur C. Clarke) que la faible pesanteur
+“très. faible décélération, jusqu'à une orbite autour de la Lune;  favorisera. le dérapage, et. que les collisions seront aussi vio-
+
+30. La deuxième découvérte sérait -ün : perfectionnement des lentes que sur Terre, à vitesse égale : il ne faut pas confondre
+fusées. chimiques. pérfechonnement que l'on peut concevoir en effet le poids, qui varie d'un lieu à l'autre, et la masse,
+
+3:
+
+ 
+
+| radical ‘qui est universelle; la crevaison de l'habitacle étanche repré-
+dibre; ét plus particulièrement. ‘de. l'hydrogène: ana: pra: ‘sentera un risque supplémentaire. |
+t, il: s'agit: de trouver le moyen ‘de conserver, sans Ainsi done, entre membres voisins de missions rivales devront
+
+ 
+
+_frop. “de ner Fhydrogène atomique, puis: de l'utiliser à Ja. s’élablir des visites : visites de contrôle de non-militarisation,
+
+ë propulsion : sans faire ae ke: réservoir; on sait qe Ehydro- de courtoisie, de coopération scientifique, de secours réciproque
+{ ..S L - "(l'assistance traditionnelle entre gens de mer se présente ici
+
+à l'esprit). Mais. de tels rapports. supposent impérativement un
+: effort considérable de normalisation (on dit aussi « standardi-
+… sation »); prenons quelques exemples : les raccords d'oxygène
+“entre scaphandres, chars étanthes, habitacles d' astronef devront
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+
+293
+
+ 
+
+Fig. 2.
+
+flable en caoutchouc, sous rigidité pneumatique fau centre).
+s'abritent dans des igloos en caoutchouc gonflé (à droite),
+
+pouvoir s'adapter les uns aux autres; les pressions des bouteilles.
+
+d'oxygène devront être les mêmes; les sas étanches d'inter-
+communication entre les chars étanches, les habitacles d‘astro-
+nef et les casemates devront également faire partie de la même
+
+normalisation et satisfaire aux mêmes spécifications; les mêmes
+
+4
+
+colles devraient être aptes à réparer les parties caoutchoutées
+des tubes des scaphandres, ou des igloos d’habitation. gonfla-
+blés tels que ceux de la figure 2; les prises de raccordement
+des appareils électriques, leurs. tensions’ de fonctionnement, le
+choix des longueurs d'onde, les systèmes de guidage, les codes
+divers, la répartition du travail astronomique et séléno-phy-
+sique, tout. cela devra être étudié sous l'angle de la normali-
+
+sation en vue de l’interchangeabilité ou préparé dans un bon
+
+esprit de collaboration. L'investissement de la Lune séra si
+coûleux qu’il ne sera pas de nation sans doute qui ne soit
+bien aise de pouvoir opérer ainsi. Un bureau technique de nor-
+malisation devra donc être adjoint au comité spatial de l'O.N.U.,
+sans doute sous l’égide de l’O.A.C.I.
+
+_ Agissements nuisibles dans l’espace. — Dans le
+cadre des aûtivités pacifiques, la loi devra intervenir. pour ten-
+ter d'empêcher certains agissements. abusifs et certains dom-
+mages parfois irréparables que pourraient subir la science et
+l’humanité du fait de l'expansion spatiale. Malgré leur appa-
+
+rence. peut- -être aventurée où au moins prématurée, un certain.
+
+nombre de.cas concrets vont'être cités en exemple du genre
+de problèmes dont ‘aura à connaître le droit spatial dans un
+avenir plus ou moins lointain.
+
+. Des dommagés involontaires: au: “sol terrestre pourignt être
+causés par des satellites en fin de carrière ou par des‘ astronefs
+accidentés; les plus gros fragments de ces engins pourront en
+
+effet parvenir jusqu'au $ol ‘sans. être volatilisés, tout. comme
+
+La faible pesanteur autorise l'emploi d'un traîneau.
+
+Des mirdirs paraboliqués serviront. à faire de l'électricité à partir de l'énergie solaire.
+
+(Dessin extrait de The Exploration of the Moon, par R. À. Surrn et À, C. CLARKE,
+- l'éditeur).
+
+— Comment pourrait se présenter une. basé lunaire.
+Le matériel est débarqué de l'astronef et placé sous -un abri de terre hors d'atteinte des météorites {à gauche).
+
+L'antenne est faite d'un fuseau gon-
+Les membres de la mission
+
+Frederick Muller Ltd., Londres, avec l'aimable autorisation de
+
+sn
+
+il advient des météorites à partir d’un certain calibre. Il ne
+semble pas qu'il ÿ ait là matière à difficulté particulière : ces
+dommages seront réglés comme le sont par exemple. ceux de
+deux navires de nationalité différente qui s'abordent.
+L’encombrement des longueurs d'onde devra naturellement
+être contrôlé par les organisations internationales de télécom-.
+munications. C'est ainsi que certains satellites, comportant des:
+piles solaires et pouvant en principe émettre indéfiniment, sont
+déjà dotés d'un « étouffoir » ou chrono-rupteur qui arrête
+l'émission au bout d’un certain temps, un an par exemple.
+Des inscriptions géantes pourraient être tracées sur la Lune.
+Üne sorte de'canon-pulvérisateur de poudre colorée peut être
+utilisé à cet effet, car un obus va sur la Lune bien plus loin.
+que sur Terre en raison de la faible gravité, et un grain de
+poussière y va aussi loin qu’un obus en raison du vide (à
+vitesse initiale égale). De telles inscriptions, infiniment plus
+difficiles à nettoyér qu'à placer, seraient d’un goût discutable,
+qu'il s'agisse d’emblèmes nationaux ou bien publicitaires.
+Cette question. relève de la protection des sites, : |
+L'espace proche pourrait être progressivement encombré d’ ob.
+jets, de nuages de particules, d'essaims de bandes de ‘papier
+d'aluminium satellitisés À -des fins diverses telles. que: l'éclairage |
+nocturne.  Essentiellement irréversible ‘et. non nettoyable, pros
+bablement. génante pour: l'observation astronomique. ét’ pour :
+les communications : ‘interplanétaires, ‘toute potution: éxagérée
+de l’espace devra être interdite, : :
+La pollution radioactive pose ‘un. ‘problème: grave et. ai .
+connu sur Terre avec les expériences nucléaires. Le départ.
+
+: d'éventuelles -fusées :à “propulsion : nucléaire. pourra : augraenter :
+
+la‘ contamination: radioactive: de l'atmosphère, et: créer: des.
+écrans aux télécommunications. La chüte accidentelle de tels
+engins, - tout. comme. Je naufrâge de navires “à _ propulsion :
+
+Droits reservés au Cnam et à ses partenaires
+
+294
+
+nucléaire, risquéra de. contaminer la mer et les produits de
+. la pêche.
+
+: La contamination: radicactire de la Lune par ces mêmes astro.
+nefs à propulsion nucléaire gênera la détermination de l'âge
+de Ja Lune au moyen de sa radioactivité naturelle. On peut
+envisager de ‘sacrifier aux retombées radioactives une bande
+équatoriale, qui serait réservée aux manœuvres, et d’inierdire
+
+toute. éveraton- des cp au- -dessus des régions polaires de la
+
+Lune, ET
+
+ 
+
+La ‘conterminéton. nicéobienue de la Lune et iles planètes
+
+pose des, problèmes du même genre; il est en. effet du plus
+haut: intérêt; au Cas OÙ l'on recueillerait des micro:organismes,
+
+de savoir s'ils préexistaient où s'ils sont la conséquence de l’ar--
+
+rivée- des : “hommes. Dans-cette intention, les projectiles russes
+
+‘où ‘américains | destinés à la Lune sont actuellement: stérilisés : *
+
+au stade final, ‘les. monteurs opèrent comme des chirurgiens;
+avec. des masques et des gants; même si .cetle précaution n'était
+que : symbolique, elle est louable et reflète un respect raison-
+nable du ‘patrimoine ‘scientifique spatial.
+
+La: Terre ne. saurait naturellemerit être l'objet de moins de
+précautions ;
+exister sur Mars ou ailleurs, il faudra prévoir des mesures tellés
+: qué: -dek, quarantaines au retour ,des expéditions. Les plantes
+martiennes . seront peut- être, ‘de leur ‘côté, trop hetreuses de
+troquer leurs sévères. conditions : climatiques contre celles de Ia
+
+Terre êt d'envahir celle- -ci de façon catastrophique ; sans doute.
+
+l'histoire. de. la seméñce dangereuse conservée in vitro à des
+
+fins scientifiques ‘et lâchée à l'extérieur à la suite de quelque
+
+folie ressortit plus à la science-fiction qu’ à la science tout court :
+mais si la fiction devenait réalité, il n'y aurait là aucun motif
+à consolation. Quand il s’agit de phénomènes irréversibles, il
+vaut mieux encourir le ridicule par excès de craintes imagi-
+naires que jouer les apprentis-sorciers.
+
+Partage du système solaire. — D'ores et déjà, "la vente
+de terrains sur la Lune ou de tickets de voyages interplané-
+taires {nous n'’inventons rien) est interdite aux U.S.A.; mais
+ces pratiques étaient le fait de chevaliers d'industrie, et non
+celui d'industriels de l'espace. En fait, le partage des planètes
+. constitue un des problèmes types du droit spatial, I semble
+
+acquis : que, dans l'esprit actuel des nations, découverte ne
+
+vaut pas propriété. L'occupation confère de meilleurs droits,
+mais dans quel rayon d'action ? Les planètes, la Lune en par-
+.ticulier, représentent d'abord pour nous des bases d’études
+scientifiques, géologiques, biologiques, astronomiques ; elles
+.sont vastes sans doute, maïs certains sites peuvent être plus
+favorables que d'autres. D'autre part, si l'énergie devient sans
+
+- “les ambitions territoriales exagérées, mais aussi à
+
+dés micro-organismes ou virus dangereux pouvant |
+“diques avec F'O.N.U.,
+
+ticipation soviétique.
+
+_liér totit accord sur les questions spatiales à
+
+ 
+
+ 
+
+ 
+
+cesse moins chère, si les astronefs-cargos deviennent des machi-
+
+_nes de transport rentables, si des minerais rares doivent se
+
+découvrir en gisements concentrés, des activités industrielles
+extra-lerrestres deviennent possibles. Il conviendra alors de
+définir un système de partage de concessions propre à éviter
+
+ne pas décou-
+rager les initiatives.
+
+Préoccupations immédiates. — Les préoccupations
+
+…namédiates concernent principalement les problèmes qui ont
+
+trait au statut de l’espace,
+et au partage de la Lune.
+
+IL n'est pas ‘actuellement possible de dégager quelles seront
+finalement les positions officielles des gouvernants; on peut
+
+à ses frontières, à sa démilitarisation,
+
+seulement rappeler les déclarations encourageantes faites à plu-
+
+sieurs reprises par les chefs d'états intéressés, et témoignant
+de leur désir d'arriver à un accord sur la neutralité de |’ espace
+et de la Lune. . | .
+La Fédération astronautique internationale, organisme privé
+qui groupe les sociétés d'Astronautique des différentes nations,
+collabore cependant à titre consultatif sur les questions juri-
+l'Unesco, l'Organisation internationale
+de l'aviation civile et ‘les télécommunications. Cette Fédération
+comporte une participation soviétique en ce qui concerne les
+questions techniques; mais les délégués soviétiques n’ont acceplé
+de faire partie de l'académie de techniciens (qui groupe des
+savants, à l’exclusion des simples membres sympathisants) qu'à
+condition qu'il n'y soit pas traité de questions juridiques; ces
+
+questions leur paraissent en effet d'ordre politique, du ressort
+
+des diplomates, La Fédération comprend aussi un Institut de
+Droit de l'Espace, qui ne possède par conséquent pas de par-
+
+Du côté officiel, l'O.N.U. comporte deux commissions spa-
+tiales, l’une technique, l'autre juridique, où sont représentées
+une dizaine de nations; ces commissions ont présenté leur rap-
+port, el les questions spatiales seront discutées au cours de la
+session 1959-1960. Il semble cependant que l'U.R.S.S. désire
+à un accord plus
+général concernant les questions en suspens, celles. des bases
+de’ lancement de fusées en Europe, en particulier.
+
+Lioxer. Mowgnray.
+
+Nous tenons à remercier M. Jean Rivorne pour les renseignements qu'il
+nous à aimablement communiqués sut l'élaboration du droit spatial. Dans
+un autre domaine du droit international, on pourra relire avec intérêt
+son article sur le problème des frontières maritimes, La Nature, mars 1956,
+p- 81.
+
+ 
+
+ 
+
+Les variations des températures hivernales
+à Moscou
+
+“Dans un. Go: ses récinis “uniéros, la revus soviétique Priroda
+
+parle de la-température moyenne relevée, à Moscou, en janvier,
+
+Au Cours des: trois derniers hivers, et la compüre à la température
+
+: moyenñe . normale. Les. hivers: de 1986-1987 À 108-1989 ont, en
+effet, 6té particulièrement doux .à Moscou, surtout celui de 1958-
+
+::4980° ‘La température moyenne, en janvier, ÿ à été de -——"4,20 C,
+
+. alors qué:la moyenne normale est de — 10, 49 GC." Les #3 et 24 jan-
+
+-viér. 1980; “par: exemple, ‘là température n'est jamais descendue :
+
+: au-dessous de. 09 C, et une forte pluie est tombée le. soir .du
+> #4 janvier. La te
+79:
+
+ 
+
+ 
+  
+
+5 moyenne minimale,
+. Moscou, :én. ‘1893
+
+    
+ 
+  
+ 
+ 
+
+  
+
+inpératuré. moyenne. maximale (—:2,90 C)
+de.notér, en parlant de cétte succession
+LÉ ‘doux, que cing hivers :
+Gt é, & n: URSS. .de 4939.
+GRCOU, des: mois. qe jenvier depuis 1939
+45; ge. in : ï
+
+ 
+
+  
+
+articulièrerment .
+4948: La tem-
+
+Autocar ultra-rapide
+sur l'autoroute Londres-Birmingham
+
+En novembre 1959 a été ouvert au trafic le. tronçon Londres-
+Birmingham de l'autoroute Londres-Yorkshire. Long de 480 km,
+
+comprenant deux chaussées séparées, le tronçon en question a été
+construit au bout de. 18 mois de travaux qui ont coûté plus de
+
+260 000 000 NF. 180 ponts ont été édifiés et 20 000 000 t de terre
+
+- ont dû être remuées. Les travaux concernent maintenant la section
+
+située plus au Nord, en direction de Leicester et°de Nottingham.
+Plus tard viendra le tour de la séction reliant Birmingham et
+
+--Lancaster. Londres sera alors rattachée directement à l'Écosse
+température moyenne dé janvier 1957 a été de :
+C,-et celle de: janvier 1958 de:—6,80.C. La température
+janvièr (91,50 C) fut enregistrée, à :
+
+par. üne autoroute.
+
+Dès à présent une firme de transporte a été autorisée à exploi-
+ter un sérvice d’autocars sans arrêt Londres-Birmingham (trois
+lois.par jour). La durée du parcours est ramenée de 8 h 20 à
+3 h 95; un nouveau type d'aütocar est en construction, capable
+
+‘d'atteindre 418 km/h en une minute, et dont là vitesse maximale
+
+‘dépasserait. 136 !. Cet. original véhicule, qui tiendra là dragée.
+haute à la plupart des voitures de tourisme, sera naturellement
+
+“équipé de freins ultra-puissants ffieins à disques). .
+
+Droits reservés au Cnam et à ses partenaires
+
+Le Parc national de Yellowstone
+
+doyen d’âge des grandes réserves naturelles
+
+#
+
+’après la tradition c'est au cours d’un bivouac tenu le
+D 19 septembre 1870 qu'est née la grande idée de la pré-
+
+servation de la Nature. Une quinzaine d'hommes y par-
+ticipaient; ils venaient de parcourir dans l'Ouest américain des
+paysages de forêts, de lacs et de gorges d'une grande beauté et
+ils imaginèrent d’ériger ces régions en réserve naturelle, afin
+d'en sauvegarder les richesses contre les méfaits du déboïise-
+ment et de la chasse. Le Congrès des États-Unis ratifiait ce
+projet moins de deux ans plus tard, en créant le Parc natio-
+nal de Yellowstone,
+
+Placé au cœur des Montagnes Rocheuses, le Yellowstone n'est
+séparé des grandes plaines à l'Est que par quelques chaînons
+montagneux qui traversent l'État du Wyoming, mais son
+altitude, presque partout supérieure à 2 ovo m, accentue un
+climat déjà très continental. La réserve n’englobe pas moins
+de 10 0000 km? de hauts plateaux accidentés et sauvages, de lacs
+dont le plus grand est, à 2 300 m d'altitude, aussi vaste que le
+lac suisse de Neuchâtel, Située à l'emplacement d'une ancienne
+dépression s'ouvrant sur le versant pacifique de la chaîne, cette
+région a vu se dresser au Tertiaire d’imposants volcans, dont
+les coulées de lave ont atteint d'énormes épaisseurs avant d'être
+profondément entaillées par l'érosion glaciaire. Le volcanisme
+est aujourd'hui tombé en sommeil: il n'en subsiste que des
+
+phases tardives, quelques séismes (dont l’un d'eux fut violem-"
+
+ment ressenti l’année dernière dans des régions voisines et le
+Parc lui-même) et d'innombrables geysers et sources chaudes
+qui contribuent à donner au paysage son caractère insolite.
+
+#
+
+L'existence de 450 km de routes goudronnées permet d’accé-
+der facilement aux principales curiosités, mais bien des sites
+ne peuvent être atteints qu'au prix de longues marches pendant
+lesquelles l'éloignement des axes routiers rend la solitude à
+peu près complète.
+
+mm Limite du parc == Route carrossable
+mr Limite d (état ©  Frincipale installation hôtelière
+
+#” - . : 4
+“ ve" A r2°X …. Ligne de partage des eaux entre les deux océans
+233466
+
+/_Electric A Peak |
+
+RAR É og nm mn mm 7;
+
+ 
+
+ 
+
+‘€ Vieux Fidèle »
+minutes uné colonne d'eau et de vapeur d'une trentaine de.
+
+“ass. ee re Où:
+
+“exiger ut ue
+
+205
+
+Fig. 2. — Le geyser. « Vieux Fidèle ni:
+
+La périodicité des éruptions n'est pas absolument constante mais elle suit
+. des väriations prévisibles.
+
+(Photo. National Park Service, Yelowstone Park, Wyoming).
+
+Les manifestations thermales constituent un élément caracté-
+ristique de la région. Dans certaines parties du Parc le voya-
+geur peut apercevoir les vapeurs légères qui s'élèvent de tous
+côtés au milieu des arbres, entendre le halètement des mares :
+en: ébullition ét le sifflement dés gaz. dans les fissures du sol.
+Ailleurs il ne subsiste que quelques plaques de « geysérite »,
+croûte blanchâtre et siliceuse abandonnée: par les eaux chaudes.
+Dans les Geyser Basins ce dépôt occupe de vastes étendues où:
+
+il n'ya plus ni forêt ni végétation aucuné, mais des centaines
+
+dé sources chaudes et jaillissantes auxquelles le soufre et les
+minéraux ‘d'allération ‘donnent Parfois des teintes de pastel.
+C'est au milieu de l'un dé ces bassins que. se manifeste. le.
+: d'heure en heure s élève. pendant quek ue:
+
+ 
+
+mètres; quant au «Géant. »;: ‘aux. manifestations. malheureuse
+ment très rares, il n'a pas moins de 200 .m Beaucoup de pétit
+geysers. forment des systèmes à: ‘plusieurs ouvertures ‘et sui ent.
+
+è ertaines marées. lentement remplies.
+
+ 
+
+ 
+
+ 
+
+le rvétement de ie po
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+

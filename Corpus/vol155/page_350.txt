@@ -1,0 +1,546 @@
+346
+
+Vers la commutation électronique
+
+en téléphonie
+
+tidienne, mais les, caprices de ce tyran provoquent bien
+
+des énervements : conversations hachées sinon interrom-
+pues, fritures, crépitements, diaphonie (c'est-à-dire passage
+d'une communication sur d’autres lignes que celle qui l’ache-
+mine), etc. Les habitués des téléphones de campagne qui ont
+de plus à actionner avec une certaine violence une magnéto
+avant d'engager un dialogue de sourds avec l’opératrice auront
+beau prétendre que l' « automatique » est une merveille, celui-ci
+a tout de même bien des faiblesses, reconnaissons-le, quels que
+soient ses avantages comparés au « manuel ».
+
+La plupart des inconvénients signalés proviennent de la com-
+-mutation, opération essentielle de la téléphonie, c'est-à-dire de
+la commande et de l'établissement des contacts qui permettent
+de raccorder les lignes du demandeur et du demandé. La com-
+mutation automatique est électro-mécanique et fait appel à un
+ensemble complexe de contacteurs, relais, électro-aimants,
+moteurs. , c’est-à-dire à des contacts électriques par lames métal-
+liques, à des pièces en mouvement, Qu'un contact soit souillé,
+qu'une lame de ressort soit détendue, qu’un relais « colle » et c'est
+l'incident. La fragilité relative de ce matériel est encore mieux
+illustrée lorsqu'on place celui-ci dans des conditions d'emploi
+très dures : quand par exemple les canons d’un bâtiment de
+guerre tirent, le téléphone automatique est bien souvent mis
+hors d'usage et les communications doivent être acheminées par
+interphone, ou porte-voix !
+
+Le Laboratoire Central de Télécommunications a donc étudié
+‘le problème de la commutfalion électronique en téléphonie.
+En 1957, un auto-commutateur à 20 lignes a été livré à la
+Marine nationale et essayé de façon concluante sur un bâtiment.
+Un auto-commutateur à 240 lignes, plus élaboré, a été cons-
+truit et mis en service au début de cette année au siège de cet
+
+L' téléphone est devenu indispensable à notre existence quo-
+
+À. Rappelons que le nombre dës combinaisons que l'on peut effectuer
+entre m lignes jointes 2 à 2 est donné par l'expression mm —— 1)/2.
+Dans le cas des 10 000 lignes d’un bureau téléphonique parisien il faudrait
+prévoir, s'il n'y avait pas d'étages de sélection, 49 995 (00 contacts rien que
+pour le circuit de parole, La nécessité de la sélection apparaît ainsi clai-
+rement.
+
+Matrices de
+concentration-expansion
+ID jonctions
+
+Postes :
+d'abonnés f
+
+240 lignes -en”
+Ggroupes de 40
+
+  
+
+60
+
+ 
+
+ 
+
+ 
+
+Circuit … de commande
+
+  
+    
+ 
+ 
+  
+ 
+ 
+    
+
+organisme pour écouler son trafic intérieur et permeltre une
+expérimentation sur une échelle raisonnable. C'est de cette
+réalisation originale qui ne comporte plus aucune pièce en
+mouvement que nous allons maintenant parler.
+
+ 
+
+Le circuit de parole. Tout central téléphonique pos-
+sède deux circuits distincts. Le premier .joint les lignes du
+demandeur et du demandé et véhicule les courants téléphoni-
+ques proprement dits, c'est le circuit de parole. L'autre trans-
+porte les ordres d'ouverture ou de fermeture des contacts :du
+circuit de parole, c'est le circuil de commande, équivalent
+mécanique ou électronique de la « demoiselle des téléphones ».
+Cette distinction se retrouve bien entendu dans l’auto-commu-
+lateur électronique,
+
+Comme il est exclu de joindre directement chacune des
+240 lignes aux 239 autres (il faudrait pour cela 25 880. « points
+
+de contact »), on opère une sélection (1) en divisant les lignes
+
+en 6 groupes de {o; chacun de ces groupes aboutit à un
+élément appelé « matrice de concentration-expansion » qui
+permet de raccorder chaque ligne à 10 jonctions grâce à
+hoo contacts électroniques. Les 6o jonctions peuvent être elles-
+mêmes raccordées 2 à 2 dans la « matrice de brassage » grâce
+à 1 770 points de contact. Le nombre total des contacts est ainsi
+ramené de 25 880 à 4 170. Mais en contrepartie, puisque chaque
+communication immobilise 2 jonctions, l’une pour la ligne du
+demandeur, l’autre pour celle du demandé, le nombre maximal
+de”’conversations simultanées est égal à la moitié de celui des
+
+‘jonctions, soit 30, En pratique, ce nombre est suffisamment
+
+élevé relativement aux 240 lignes pour que la probabilité qu'il
+y ait effectivement 30 conversations simultanées soit très faible. .
+La figure 1 montre le schéma de ce cireuit : les 240 postes
+
+-sont raccordés par un nombre égal de lignes à l’auto-commu.
+
+tateur; les 60 lignes d'un groupe sont concentrées sur les
+10 jonctions mises à leur disposition; en sens inverse, après
+raccordement des jonctions utilisées dans la matrice de bras-
+sage, il y a expansion des ro jonctions sur 6o lignes.
+
+Les contacts électroniques. — Chaque contact élec-
+tronique est réalisé de la manière suivante : deux conducteurs
+à raccorder électriquement sont branchés aux deux bornes d’une
+diode à gaz à cathode froide (tube rempli de néon sous basse
+pression) dont la caractéristique courant-tension est rappelée par
+| la figure 2. Lorsque le tube est
+éleint, son impédance est très éle.
+vée et il se comporte comme un
+« contact ouvert ». Au contraire,
+étant allumé, son impédance est
+faible : le contact est fermé. Or,
+pour ullumer le tube il faut lui
+appliquer une tension tempo-
+raire V, supérieure à r70 volts,
+
+Matrice
+‘de brassage
+
+alors que pour le maintenir
+Fig. 1. — Schéma du. circuit
+de parole..
+
+Les deux postes d’abonné figurés à gau-
+che sont en communication ‘grâce aux
+trois contacts fermés reptésentés par des
+points noirs. Les cercles blancs sont des
+contacts ouverts correspondant à un
+autre cheminement possible de la com-
+munication. Aü-dessous est indiqué le
+circuit de comrnande, les flèches en
+pointillés correspondant à des ordres
+d'ouverture ou de fermeture des circuits.
+
+Droits reservés au Cnam et à ses partenaires
+
+Tension a
+
+À Tube :
+jéteint :
+l
+
+Tube allumé
+
+Fig. 2. — Caractéris-
+tique d’une diode à
+
+tensions.
+
+La figure a montre sur
+la courbe. tension - cou-
+rant les deux points de
+repos et de jonctionne-
+ment situés respective-
+ment dans les régions
+« tube éteint » et « tube
+Tension b allumé ».
+À La figure b montre je
+rôle des impulsions
+d'allumage et d'extinc-
+tion qui permettent de
+faire basculer le tube
+et ainsi de « fermer »
+ou d’' « ouvrir » Île
+contact.
+
+  
+
+Courant
+
+ 
+
+Temps
+
+Contact établi
+
+allumé il suffit ensuite d’une tension V, égale
+à 107 volts. Dans ces conditions, on applique
+en permanence aux bornes du tube une ten-
+sion de repos V, de 115 volts. Une impulsion
+de 60 V supplémentaires suffit alors pour allu-
+mer le tube et le faire basculer dans l'état
+conducteur. Une impulsion de sens inverse
+appliquée au moment voulu réduira momenta-
+nément Je courant qui traverse le tube et
+celui-ci s’éteindra, revenant dans son état pri-
+mitif, ‘ .
+
+Notons une propriété intéressante de ces
+diodes à gaz au point de fonctionnement
+quand la tension augmente, le courant dimi-
+nue, on a une résistance dynamique négative
+de — 8o ohms. La résistance négative des
+contacls est utilisée pour compenser dans une
+certaine mesure l’atténuation inévitable due
+aux autres éléments du circuit de paroe dont
+la résistance est posilive.
+
+Signalons enfin que le bruit de fond (voir
+La Nature, juillet 19bg, p. 298-304) de cette
+sorte de contact est si faible qu'il n'est en fait
+pas décelable, à la différence de celui des
+contacts électro-mécaniques qui est responsable
+des « crachements » entendus dans l’écouteur.,
+
+La figure 3 montre une portion d'une « ma-
+trice de concentration-expansion » comprenant
+5o de ces diodes à gaz.
+
+| 3
+
+Le circuit de commande. — Le circuit
+de commande d'un central téléphonique doit
+assurer plusieurs fonctions :
+
+. — Surveiller les lignes des abonnés en vue
+
+ 
+
+Fig. 3 — Une « carte » de tubes à gaz.
+
+Ce circuit représente une par lie d'une matrice de’ con-
+centration-expansiôn. Les 10 tubes de chaque ranzée
+correspondent aux 10 points de’ contact. que. chaque
+ligne peut établir. avec une jonction intermédiaire. Un .
+el circuit permet ainsi de connecter chaque Jigné à
+l'une ou à l'autre des 10 jonctions dé la: matrice: Une
+matrice complète cat constituée de 10 ‘éléments iden-
+tiques.
+
+gaz et diagramme des
+
+347
+
+de détecter les appels, c'est-à-dire le décrochage du combiné de
+son support;
+
+— Enregistrer pour chaque appel le numéro demandé;
+
+— Vérifier que le numéro demandé n'est pas en communi-
+cation ;
+
+— Déterminer un cheminement à l'aide des jonctions libres
+entre les deux lignes:
+
+— Établir alors la communication :
+
+— “Enfin, « relâcher » la communication lorsqu'un. 1. des com-
+binés es reposé sur son support.
+
+Bien entendu, des fonctions accessoires s'ajoutent à ces fonc-
+tions principales, notamment l'envoi des diverses « tonalités ».
+
+Dans un central téléphonique classique, la plupart de ces
+fonctions sont assurées par un enregistreur qui, au reçu d'un
+appel, est affecté à la ligne du demandeur et se charge de la
+plupart des opérations énumérées grâce à un programme
+
+interne. Le nombre des enregistreurs d'un central est alors égal
+au nombre maximal des conversations simultanées prévues.
+
+IT aurait été peu rationnel de transposer cette solution électro-
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+
+mécanique à l’auto-commulateur électronique, car on sait bien
+que les « temps de réponse » des circuits électroniques sont très
+inférieurs à ceux des dispositifs qui comportent des pièces en
+mouvement. Affecter un enregistreur électronique à chaque
+ligne appelante serait revenu à immobiliser, pendant les quel-
+ques secondes nécessaires à l’abonné pour former le numéro,
+un appareil capable de fonctionner en un temps bien inférieur
+à ia microseconde, |
+
+Aussi l’auto-commutateur électronique ne possède-t-il qu’un
+seul organe de commande qui est mis successivement et pério-
+diquement à la disposition de tous les appels, à la manière
+d’une opérairice humaine extraordinairement rapide qui explo-
+rerait du regard en une fraction de seconde tous les voyants
+lumineux correspondant aux lignes ; qui noterait dans sa
+mémoire prodigieuse tous les numéros appelés en même temps,
+grâce à des « prélèvements » qu'elle effectuerait sur les impul-
+sions électriques de numérotage; qui relierait enfin à une vitesse
+exceptionnelle les lignes avec des fils conducteurs.
+
+Les caractéristiques de cette « opératrice électronique » sont
+déterminées en grande partie par la durée qu’elle doit consa-
+crer à chacun des abonnés ou à chacune des opérations élémen-
+taires qu'elle doit accomplir. afin d'établir la communication.
+L'exploration des lignes en vue de la détection des nouveaux
+appels fournit la première base de temps de celte exploration
+cyclique: la durée maximale d'attente que l’on impose à l’abonné
+entre le moment où il décroche le combiné et celui où il perçoit
+la tonalité qui lui signifie que son appel est délecté a été fixée
+à 528 millisecondes. Cette valeur est donc l'intervalle de temps
+qui sépare deux explorations de la même ligne en vue de la
+détection d’un appel. Comme il y a 240 lignes, 2 lignes consé-
+cutives sont explorées à 2,2 ms d'intervalle.
+
+Une seconde base de temps est fournie par la procédure de
+numérotation qui s'effectue sur un cadran habituel en produi-
+
+sant des impulsions de 33 ms toutes les 100 ms (quand l’abonné
+forme le 3 sur un cadran, il envoie un train de 3 impulsions).
+
+Ces impulsions sont enregistrées sur une mémoire constituée
+de tores de ferrite, analogue aux mémoires des calculateurs élec-
+troniques puisque la numérotation s'effectue dans une échelle
+binaire : du courant, ou pas de courant. Il y a autant de
+
+mémoires que de jonctions, soit 30, et chacune d'elles est appro- .
+
+visionnée par une suite de prélèvements effectués sur la ligne
+appelanie qu'on lui a affectée. On doit faire au moins un pré.
+lèvement de numéro toutes les 33 ms, ce qui donnerait comme
+
+durée élémentaire d’un prélèvement 1,1 ms. On a en fait choisi :
+
+la moitié, 550 microsecondes.
+
+Cette division du temps n’est pas encore achevée car, durant
+cet intervalle de 55a ps, la logique centrale doit faire exécuter
+- bien des ordres : rechercher les jonctions libres, tester l'abonné
+appelé, allumer où éteindre les tubes à gaz, etc. On arrive ainsi
+à des impulsions élémentaires de 20 microsecondes, ce qui nous
+éloigne quelque peu des 528 millisecondes de dépaït. Sans aller
+plus loin dans notre étude du circuit de commande, notons
+que cette durée de 20 us ‘est relativement grande en électro-
+
+niqué. Aussi peut-on concevoir. l'extension de ce mode de:
+
+« partage dans le temps » de l'organe de: commande à des
+centraux bien plus importants. Une simple règle de trois mon-
+
+tre qu'en utilisant des impulsions très « confortables » de 1 ps
+on peut atteindre une capacité de 5006 lignes environ. La.
+réalité est d'ailleurs bien plus favorable car le nombre des
+
+opérations élémentaires augmente beaucoup plus lentement
+que celui des lignes
+impulsions. .de ‘12 ys seulement.
+
+Notons enfin quelques propriétés ‘intéressantes de cette logi-
+
+que interne .: sa position centrale. procure une-grande souplesse
+
+d'emploi: et. permet. l'introduction facile de nouveaux. pro-
+
+grammes. (’est ainsi qüe même dans le cas bien improbable
+
+-où la majorité des diodes à gaz d'une matrice serait hors de
+fonctionnement, les conversations pourraient encore être ache.
+
+: une capacité de 12 000 lignes .exige des .
+
+DAS ———— EEE
+
+minées grâce à une procédure de secours (nous avons vu fonc-
+tionner une matrice dont 5 jonctions sur ro avaient été ren-
+dues inutilisables). On s'emploie également à doter cet organe
+de commande d’un dispositif propre à déceler les défaillances
+ou les arrêts des tubes à gaz.
+
+L'avenir de la commutation électronique. En
+résumé; les caractéristiques importantes de cette réalisation
+expérimentale sont les suivantes : grande sécurité de fonction-
+nement, faible encombrement, faible « bruit de fond » et
+grande rapidité. Nous n'insisterons pas sur le premier point,
+d'autant plus que le recul manque un peu, mais la question
+de l'encombrement mérite quelques mots : cet auto-commu-
+tateur est deux à trois fois plus pelit qu'un auto-commutateur
+électro-mécanique de même capacité. Quand on sait que la
+capacité des centraux parisiens est actuellement limitée par le
+simiple encombrement du matériel classique, cet avantage
+prend toule son importance,
+
+La” rapidité et le faible bruit de fond de cet appareillage
+nous paraissent cependant des avantages bien plus marqués.
+Nous ne pensons pas tellement ici aux besoins de la téléphonie
+usuelle, c’est-à-dire à la transmission de la parole humaine,
+mais surtout à ceux d'un domaine d'avenir : la transmission
+des informalions numériques. Les calculatrices électroniques ont
+familiarisé le public instruit avec la notion d’ « information »,
+
+ 
+
+- quintessence même du langage; il est donc à peine besoin de
+
+rappeler que cette information peut être extraite d'un texte
+puis codée en un « langage-machine » généralement binaire,
+avant d’être utilisée dans un calculateur, une machine à clas-
+ser, une machine à traduire, etc. La. grande rapidité de ces
+machines à trailer numériquement l'information n'a plus à
+être soulignée, non plus que le fait que l'information ainsi
+codée en un langage-machine universel peut traverser sans
+
+retard et sans erreur les frontières de la phonétique et de la
+
+linguistique.
+Ces avantages rendent nécessaire l'établissement d'un
+réseau de transmission des informations numériques. Un
+
+centre météorologique régional pourrait ainsi envoyer en quel-
+ques secondes ses observations au centre national chargé de Ja
+prévision; une compagnie aérienne pourrait interroger ses
+bureaux de Dakar ou de Tokyo, faire réserver des places, pren-
+dre des décisions sans tarder; une société commerciale pourrait ‘
+être fixée en un clin d’œil sur l’état de ses stocks de Lyon ou
+de Marseille, et agir en conséquence, etc.
+
+“Les seules raisons qui interdisent actuellement d'employer à
+cel usage le réseau téléphonique sont la lenteur relative des
+opérations de commutation, et surtout le bruit de fond élevé
+qui déformerait les impulsions codées du message et entraf-
+nerait de nombreuses erreurs.
+Nous pensons que l'électronique apportera la solution de ce
+problème très important, bien qu'on ne sache encore quelle
+forme définitive prendra la commutation électronique, car
+l’appareillage présenté ici est expérimental et ne propose qu’une
+
+: méthode parmi bien d’autres que l'on pourrait concevoir.
+
+PIERRE CHARVIN.
+
+ 
+
+ 
+
+Un savant centenaire
+
+La revue soviétique Priroda rapporte que le professeur Boukréev,
+de l'Université de Kiev et mathématicien très connu en U. R. S. S.,
+
+-à' fêté. sés cent ans en septembre 1959. Le professeur Boukréev
+‘n’a nullement renoncé à son activité à un âge aussi avancé. Non
+‘seulement il travaille à l'heure actuelle à la troisième édition
+
+de:sôn oùvrage sur la géométrie non euclidienne,. mais il dirige
+
+personnellement les cours de. géométrie à l’Université de Kiev
+et il fait-toujours des conférences aux étudiants. :
+
+Droits reservés au Cnam et à ses partenaires
+
+Les prolongements de la Carbochimie
+
+LES DÉRIVÉS
+
+349
+
+ACRYLIQUES
+
+et leurs applications
+
+drique et les cyanures dont la violente toxicité a inspiré
+bien des auteurs d'histoires policières et aussi, hélas, les
+anilitaires qui, sous le nom de vincennite, l’employèrent comme
+&az de combat lors de la bataïlle de la Somme en avril 1g16.
+Pendant longtemps leurs applications ont été relativement
+restreintes:; certes le cyanure de sodium sert à extraire l'or de
+ses minerais, les nombreux « complexes » formés par les cya-
+
+Ts le monde connaît, au moins de nom, l'acide cyanhy-
+
+nures, tel le ferrocyanure ferrique ou bleu de Prusse, sont :
+
+utilisés en analyse et la propriété du platino-cyanure de baryum
+de transformer les rayons X en radiations de plus grande lon-
+gueur d'onde, visibles par l'œil, l’a fait employer. comme
+écran contre ce rayonnement. Mais une industrie importante
+de cet acide n'a vu le jour que récemment avec l'apparition
+des dérivés acryliques, produits qui intéressent des industries
+aussi diverses que celles des matières plastiques, des textiles
+
+et des peintures, pour ne citer que quelques-unes des multi-
+
+ples utilisations que nous allons essayer de passer en revue.
+
+Préparation de l’acide cyanhydrique. — Industriel-
+lement, on a d'abord préparé l'acide cyanhydrique par déshy-
+dratation catalytique de la formiamide (elle-même préparée par
+
+action de l'oxyde de carbone sur de l’ammoniac sec, à 100° C,
+sous pression) sur phosphate d'aluminium à 360-400° G,
+
+Plus récemment on a fait appel à un procédé utilisant l'oxy-
+dation catalytique par l'air d’un mélange d'ammoniac et de
+méthane selon le schéma réactionnel :
+
+NH, + CH, + 3/20, —H—C=N +3H,0.
+
+Cette réaction est exothermique et s'effectue sur un catalyseur
+à base de platine, à une température de l'ordre de x o00° €,
+L'acide cyanhydrique est séparé des gaz sortants par dissolu-
+tion dans l’eau et l’on obtient après lavage et redistillation,
+
+un produit titrant 98 à gg pour 100 d'acide cyanhydrique. Ce
+
+procédé fut étudié pendant plusieurs années par la Société
+d'Électrochimie d’Ugine à Toulouse, sur un atelier pilote de
+2 t/jour et les essais réalisés sur cette unité justifièrent une
+application véritablement industrielle de cette technique. A cet
+effet, les Houillères du Bassin de Lorraine fondèrent en com-
+mun avec le groupe Ugine la société « Ugilor » qui fut chargée
+de la mise en route, il y a près de trois ans, à Saint-Avold
+{Moselle}, de la première’centrale française d’acide cyanhy-
+drique utilisant cette réaction. |
+
+ 
+
+F :
+
+Place Fig. 1. = Vüe d'ensemble: des structures de ‘ fabrication ’ Ugilor à Saint-Avotd (Photo UuiLok)::
+
+PRES
+
+Droits reservés au Cnam et à ses partenaires
+

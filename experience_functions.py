@@ -4,6 +4,17 @@ import Levenshtein as le
 import os
 import pandas as pd
 
+import argparse
+
+
+class SmartFormatter(argparse.HelpFormatter):
+
+    def _split_lines(self, text, width):
+        if text.startswith('R|'):
+            return text[2:].splitlines()
+        # this is the RawTextHelpFormatter._split_lines
+        return argparse.HelpFormatter._split_lines(self, text, width)
+
 
 lower_case = r"[a-zæœ-]"
 upper_case = r"[A-ZŒÆ]"
@@ -119,8 +130,17 @@ re_latin_focused = re.compile(latin_focused_maj_maj)
 
 pattern_name = get_names()
 
-latin_union = re.compile(
+Mm = re.compile(
     rf"(?<=\W)({latin_binom})(?!-)(?=\W)")
+
+MmMM = re.compile(
+    rf"(?<=\W)({latin_binom}|{latin_focused_maj_maj})(?!-)(?=\W)")
+
+Mmmm = re.compile(
+    rf"(?<=\W)({latin_binom}|{latin_focused_min_min})(?!-)(?=\W)")
+
+MmMMmm = re.compile(
+    rf"(?<=\W)({latin_binom}|{latin_focused_maj_maj}|{latin_focused_min_min})(?!-)(?=\W)")
 
 # get the list of frequent words to remove and compile it to a regex
 with open("Experiences/stopwords.txt", "r") as stops:
@@ -138,20 +158,40 @@ def c(m, s, start, end, context, size):
 
 
 # evaluates the article according with the asked mode
-def classify(article, context=False, size=30):
+def classify(article, context=False, size=30, mode=3):
+    if mode >= 3:
+        abbrev = True
+    else:
+        abbrev = False
+    if mode == 1:  # Mm
+        matcher = Mm
+    elif mode == 2:  # Mm MM
+        matcher = MmMM
+    elif mode == 3:  # Mm A
+        matcher = Mm
+    elif mode == 4:  # Mm MM A
+        matcher = MmMM
+    elif mode == 5:  # Mm mm A
+        matcher = Mmmm
+    elif mode == 6:  # Mm MM mm A
+        matcher = MmMMmm
+    else:
+        # should not arrive but if the modes change will allow to see it quickly
+        exit("unexpected mode")
     s = clear_stopwords(article)
     result = []
     r = r"(?<=\W)("
     b = False
-    for match in latin_union.finditer(s):
+    for match in matcher.finditer(s):
         m = match[0]
         result.append(c(m, s, match.start(), match.end(), context, size))
         # if the binom starts with a capitalized letter,
         # add the possibility to match a binom with thid genus abreviated
-        a = re.match(upper_case, m)
-        if a and a[0] != 'M':
-            b = True
-            r += rf"{a[0]}\.\s{acword}|"
+        if abbrev:
+            a = re.match(upper_case, m)
+            if a and a[0] != 'M':
+                b = True
+                r += rf"{a[0]}\.\s{acword}|"
     # try to find all the abreviated binoms in the page
     r = r[:-1] + r")(?=\W)"
     # do the search only if there are geni that can be abreviated
@@ -185,11 +225,11 @@ def handle_species(article):
 # the expected results for this article
 # returns the false positives, false negatives and true positives
 # when recognisiong with the mode mode
-def check(article, expected, classifier):
+def check(article, expected, classifier, mode=3):
     with open(article) as in_:
         text = in_.read()
-    if classifier == "default":
-        finds = classify(text, context=True)
+    if classifier == "CRI":
+        finds = classify(text, context=True, mode=mode)
     elif classifier == "LINNAEUS":
         finds = handle_linnaeus(article)
     elif classifier == "SPECIES":
@@ -258,8 +298,8 @@ def score(fps, fns, tps):
 #  and the chosen mode of recognition
 #  and return the effective matches the number of
 # true positives, false negatives and false positives
-def evaluate(article, name, expected, classifier):
-    (fps, fns, tps) = check(article, expected, classifier)
+def evaluate(article, name, expected, classifier, mode=3):
+    (fps, fns, tps) = check(article, expected, classifier, mode)
     (precision, recall, fm) = score(len(fps), len(fns), len(tps))
     prec = "{:.2f}".format(precision*100)
     rec = "{:.2f}".format(recall*100)
@@ -287,8 +327,16 @@ def print_res(output, result):
 # to be able to modify them in one place
 corpus_path = "Processed_corpus"
 expected_results_path = "Experiences/Expected_results_position"
-modes = ["latin_binom", "latin_and_names", "union"]
-default_mode = "union"
+default_mode = 1
+help_mode = '''R|\
+choose the recognition mode:
+    1: Mm
+    2: Mm MM
+    3: Mm A
+    4: Mm MM A
+    5: Mm mm A
+    6: Mm MM mm A'''
+mode_choices = range(1, 7)
 volumes_path = "archives_pretraitees/"
 
 

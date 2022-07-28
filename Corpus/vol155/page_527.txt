@@ -1,0 +1,1025 @@
+Une branche nouvelle de la psychologie sociale
+
+Le développement
+
+023
+
+des petits groupes
+
+2. Les facteurs de cohésion ‘
+
+L est d'observation commune que des petits groupes, iden-
+| tiques quant à leur taille, leurs objectifs, les activités des
+membres, peuvent différer considérablement en ce qui con-
+-cerne le désir et la volonté d’être ensemble, le sentiment de la
+solidarité, l’ « esprit de corps ». Dans certains groupes, les
+absences sont rares, chacun aime collaborer avec les autres, les
+interactions sont nombreuses, Dans des groupes similaires,
+l’absentéisme est chronique, la coordination des efforts est insuf-
+fisante, comme si le groupe était malade et se trouvait à chaque
+moment proche de sa. désintégration. Pour rendre compte de
+ces phénomènes, la psychologie sociale utilise le concept de
+cohésion : elle parle donc de groupes dont la cohésion est
+élevée, de groupes dont la cohésion est faible, de groupes enfin
+qui sont en état de « non-cohésion », c'est-à-dire de désinté-
+gration ou de rupture.
+
+Nous connaissons déjà ce concept (1) et nous savons que la
+variable à laquelle il correspond est à la fois cause et effet :
+elle conditionne d’autres. variables, comme la progression vers
+les buts, la densité des communications; elle est elle-même
+conditionnée et dépend aussi bien des motifs qui ont déterminé
+la formation du groupe que des événements qui ont marqué
+son évolution, sa « dynamique ». Quels sont donc les facteurs
+qui conditionnent la « cohésion groupale » P C'est à cette ques-
+tion qu'un grand nombre de recherches expérimentales ont
+tenté de répondre ces dernières années. L'objet du présent
+article est de synthétiser quelques résultats de ces recherches.
+
+Le concept de cohésion
+
+Tout d’abord, il vaut la peine de noter que la psychologie
+sociale évite d'employer des termes vagues, tels ceux de
+« moral », d’ « esprit de corps » qui, certes, recouvrent des
+phénomènes réels, mais sont chargés de préjugés et surtout
+peuvent difficilement donner lieu à des définitions opération-
+
+nelles. Il est évident qu’il ne sert à rien d'expliquer la cohésion
+
+par l' « esprit de corps » ou par le « bon moral »; ce serait
+expliquer obscurum per obseurius. La définition même du
+concept doit tenir compte de la conceptualisation générale uti-
+lisée en psychologie des groupes, laquelle détermine, nous
+l'avons vu, des variables structurales et dynamiques. Nous ver-
+rons donc Festinger, Schachter et Back définir dans un article
+
+classique (1950) la cohésion par les notions de champ et de
+
+forces: elle se présentera alors comme un état d'équilibre tel
+que les membres désirent rester dans le groupe et participer
+à ses activités : plus exactement comme le champ total, ou
+résultant, des forces qui agissent sur les membres pour les
+induire à demeurer dans le groupe. Une telle définition. a l'avan-
+tage, au surplus, de réunir les aspects individuels et collectifs
+
+de la cohésion, qui est bien une réalité à double face : les indi-.
+
+vidus qui ont une valence positive pour le. groupe, le groupe
+lui-même qui induit cette valence.
+
+. Une fois cette définition opérationnelle posée, le problème est
+de déterminer expérimentalement quelles sont les sources des
+forces dont la résultante induit l'individu à rester dans le
+groupe. Mais la détermination des sources de cohésion demande
+d'abord une analyse de la nature du phénomène d'intégration
+lui- même.
+
+.1. Voir : Le” développement des petits groupes : 1. Variables fondamen-
+
+tales, La Nature, novembre 1960, p. 465.
+
+Nature de la cohésion : motivations
+individuelles et propriétés du groupe :
+
+Il ne saurait exister de cohésion si l'individu ne se trouvait
+en groupe et n'avait quelque notion des propriétés du groupe
+vis-à-vis duquel il réagit plus ou moins favorablement. C'est
+pourquoi l'analyse du phénomène de cohésion doit tenir compte,
+
+. d’une part des motivations (besoins, désirs, etc.) de l'individu,
+
+et d'autre part des propriéiés du groupe. Une conformité des
+motivations et des propriétés est nécessaire. Il est bien évident
+que l’organisation, les activités d'un club doivent nous satis.
+faire pour que nous y restions : s’il arrive que nous nous
+sommes leurrés, ou qu'il n'y a plus concordance entre nos
+désirs et la vie du club, nous sommes tentés de le quitter,
+
+On trouve chez Festinger (195x) la classification suivante des
+diverses motivations initiales qui poussent un individu à appar-
+tenir à un groupe :
+
+— Motivalions vers le groupe comme moyen d'atteindre des
+buts individuels importants; .
+
+— Motivations vers les activités mêmes du groupe, qui est
+alors une fin;
+
+— Motivations visant les autres mernbres comme tels,
+
+Parmi les motifs de la première catégorie peuvent figurer le
+besoin de sécurité, la nécessité d'acquérir, par l'intermédiaire
+du travail en groupe, une formation professionnelle ou sociale,
+ou encore le désir de s'affirmer socialement, dans le cas où le
+groupe bénéficie d'un certain statut dans la société (être membre
+de tel club « chic », parce que cela « vous pose »). N'oublions
+pas aussi qu'il existe une participation forcée à de nombreux
+groupes institutionnels (équipes, comités) qui font partie de
+notre univers professionnel et, partant, vital. Le groupe devient
+une fin lorsque les activités mêmes qu'on y pratique sont dési-
+rées en soi : jeux, discussion par « plaisir de discuter », action
+politique. Enfin, il arrive que l’on participe à la vie d'un groupe
+parce qu'on y rencontre des individus avec lesquels on a des
+liens d'amitié, qui nous sont « sympathiques » : il s’agit bien
+là de motivations interpersonnelles, visant les « autres » comme
+tels. Bien entendu, ces trois types de motivations ne sont pas
+nettements distincts, et Festinger admet en particulier (ce qui,
+d'ailleurs, a été vérifié expérimentalement) que l'attrait de
+relations interpersonnelles satisfaisantes est nécessaire dans
+tous les cas : sans un minimum d'attirance vers les « autres
+membres », aucun groupe ne pourrait avoir de l'influence sur
+ses participants.
+
+Il est évident qu'il est difficile. de parler des propriétés du
+groupe d'une façon absolue : ces propriétés sont partiellement
+dépendantes de la signification qu'elles revêtent pour l'indi-
+vidu. Toutefois, il est possible de classer les divers aspects struc-
+turaux d'un groupe qui, soit au départ, soit à un moment
+donné de son « existence », peuvent être conformes à des
+motivations individuelles :°ce sont essentiellement son mode
+d'organisation (régions), les normes, le système d'autorité, sa
+position dans la communauté, Les auteurs insistent particuliè-
+
+“ rement sur l'importance des normes et du type de leadership
+
+(autorité).
+
+Les « normes » constituent, on le sait, des règles dé conduite,
+des « standards » de comportement consistant en modèles,
+valeurs, etc. L'action de groupe demande une complémentarité
+
+Droits reservés au Cnam et à ses partenaires
+
+024
+
+des attitudes et en particulier des rôles. Il nous est difficile de
+nous comprendre, de donner la même significalion à nos paroles
+et à nos gestes respectifs, si nous ne connaissons pas les uns et
+les autres les systèmes de référence qui régularisent ces paroles
+et ces gesles.
+
+C'est pourquoi, lorsqu' un groupe se forme, les membres qui
+ont déjà « quelque chose » en commun et qui, en particulier,
+partagent des normes ou des valeurs communes sont déjà plus
+cohésifs que s'ils différaient grandement sur ce point. Toutes
+choses égales par ailleurs, les travaux de Thrasher et de Whyte
+sur les gangs ont établi que plus il y a de normes et de stan-
+dards partagés, plus est grande la cohésion résultante du groupe,
+et inversement, L'émergence de normes propres au groupe,
+quelle qu’en soit la cause, favorise toujours l'intégration grou-
+pale, si tant est que l'individu les perçoit favorablement.
+
+En ce qui concerne le rapport entre le séyle de leadership et
+la plus ou moins grande cohésion du groupe, il faut se référer
+à d'intéressants travaux de Cattell (r95x1), de Preston et Heintz
+(1949) et de Hare (1953). Selon Cattell, un groupe est d'autant
+plus cohésif que le leader augmente ce qu’il appelle la « syn-
+. talité » du groupe, c'est- à- dire une sorte d'identité des percep-
+tions des membres vers un but commun. Quand un leader
+satisfait les membres, il induit par là même chez eux des forces
+positives d'appartenance, Nous aurons l'occasion, dans un arti-
+cle consacré plus spécialement aux fonctions de conduite dans
+les groupes, de préciser quels styles de leadership sont, selon
+les cas, perçus comme satisfaisants par les membres. Disons
+seulement que les expériences de Preston et Heiniz, qui uti-
+lisaient des troupes de boy-scouts, de même que celles de Hare,
+avec des groupes de discussion, établissent que les leaders-
+participants, « centrés sur le groupe », induisent plus de satis-
+factions que les leaders autoritaires.
+
+Bien entendu, les propriétés du groupe et les motivations indi-
+viduelles sont en interaction tout au long du développement
+groupal, L'existence préalable de normes partagées, la percep-
+tion d'un climat favorable provoque au départ un élément de
+cohésion, dès lors que le groupe peut satisfaire des motivations
+essentielles. Plus le groupe se structure en créant des normes
+et des systèmes satisfaisants, plus l'individu est motivé, aftiré
+par le groupe. C'est alors que le groupe pourra modifier des
+attitudes individuelles, créer aussi de nouveaux motifs d’appar-
+tenance.. La cohésion appelle la cohésion. Mais ce processus
+n’est pas irréversible : si l’aftraction qui émane du groupe peut
+augmenter, elle peut aussi diminuer, jusqu'à la désintégration.
+
+Attraction interpersonnelle
+et attraction groupale
+
+Nous sommes ainsi amenés -à considérer ce phénomène
+d'attraction, qui semble bien fondamental : l'analyse de la
+nature du fait « intégration » conduit en effet à chercher au
+sein de ce phénomène les sources dynamiques de cohésion. Les
+facteurs de cohésion se ramènent alors objectivement aux fac-
+teurs d'attraction. Plus les forces d'attraction seront grandes,
+"plus l'individu sera. « accroché » par le groupe, plus la
+« valence » du groupe pour l'individu sera élevée. Cartwright
+(1953) établit nettement que la mesure expérimentale de la
+cohésion ne fait qu’un. avec la mesure de l'intensité des forces
+: d'attraction. Mais, d'après ce qui. a été dit plus haut relati-
+“vement à l'importance des motivations interpersonnelles dans
+la formation des groupes, il semble qu'il faille considérer deux
+types essentiels d’attraction : le premier concerne l'attrait qui
+émane des « autres membres » comme tels ;
+l'attrait du groupe perçu en tant que totalité. relativement
+impersonnelle.. C’est pourquoi l'investigation expérimentale: a
+étudié différentiellement l'attraction interpersonnelle et l'attrac-
+
+tion groupale, tout en les considérant comme deux aspects
+
+Je second concerne :
+
+d’un même phénomène, l'attirance émanant du groupe. Dans
+
+.un cas le groupe attire par les individus qui le composent,
+
+dans le second par son existence même et par ses buts,
+
+Lorsque se crée un groupe informel et spontané d'amis, il
+est clair que les sources d'attraction pour le groupe dérivent
+des attraits interindividuels. Mais que se passe-t-il lorsque le
+groupe est,constitué plus ou moins institutionnellement, et ras-
+semble des gens qui ne se connaissent pas et sont plus ou moins
+condamnés à vivre ensemble, quelle que soit l'identité de leurs
+buts? Dans son ouvrage intitulé The Human Group (1950),
+G. Homans émet l'hypothèse que les interactions qui s'établis-
+sent alors nécessairement entre les membres du groupe téndent
+normalement à faire naître et croître l'attraction interperson-
+nelle. Cette hypothèse, dérivée de l'étude effectuée antérieure-
+ment. par l'équipe de Mayo à la Western Electric Company
+{expérience de la « salle d'observation du câblage des centraux
+téléphoniques »), est formulée de la façon suivante : loutes
+choses égales par ailleurs, si la fréquence des interactions entre
+deux ou plusieurs personnes augmente, le degré de leur atta-
+chement les uns aux autres s'accroit dans une même propor-
+tion. Elle a été vérifiée systématiquement par Bovard (r95xr),
+qui compara deux groupes formés d'étudiants. Dans l'un, le
+maximum d'interactions élait suscité par l’utilisation d'un
+leadership démocratique; dans l'autre, un leadership ‘très auto-
+ritaire réduisait au minimum les interactions entre membres.
+Des tests sociométriques montrèrent que les étudiants du pre-
+mier groupe avaient beaucoup plus de relations amicales que
+ceux du second. Cependant, d'autres expériences sembleraient
+indiquer que des interactions déplaisantes mènent plus à l'ini-
+milié qu'à l'amitié. C'est que, comme Homans lui-même le
+souligne, la loi selon laquelle l'interaction provoque l'attrac-
+tion interpersonnelle n'est valable, comme toute loi, que « toutes
+choses égales par ailleurs », Ainsi, les rapports hiérarchiques
+de soumission-dépendance peuvent induire, chez le subordonné
+au moins, une inhibition à la sympathie : un supérieur et un
+subordonné risquent moins -d’entrer en amitié que deux per-
+sonnes de même statut. Un autre élément de perturbation est
+inhérent à la dynamique du groupe lui-même : si le groupe ne
+parvient pas à réaliser ses desseins, des. relations d'hostilité
+tendent à se substituer aux relations amicales.
+
+L'attraction groupale au sens strict trouve ses sources dans
+
+les caractéristiques que revêt le groupe en tant que tel aux
+yeux de l'individu : organisation, structure, buts, etc. Cette
+
+attraction existe d'emblée lorsque l'individu est primordiale-
+
+ment motivé par le groupe lui-même, en raison de la sécurité
+qu'il y trouve, du prestige du groupe, voire même du statut
+personnel qu'il peut obtenir dans le groupe. IL est plus inté-
+ressant de noter qu’un groupe qu'on a rejoint pour des raisons
+d'attraction interpersonnelle, ou simplement parce qu'il y a
+coïncidence entre les buts du groupe et les buts individuels,
+finit en général par devenir attractif en lui-même, Dans un
+groupe de travail ou de loisir qui « fonctionne » bien, on doit
+ob$erver un accroissement régulier, jusqu’à un état d'équilibre,
+de la valence du groupe : et on l'observe effectivement si cer-
+taines conditions sont réalisées,
+
+Une première condition réside dans la perception d'une rela-
+tive uniformité des normes. Gomme dit Festinger, le fait de
+percevoir que les normes auxquelles on adhère sont partagées
+« crée une uniformité et des rapports agréables ». Une autre
+condition, établie par Deutsch {Effets de la coopération et de
+la compétition sur les processus de groupe, 1949), est l’établis-
+sement de rapports de coopération. Son expérience portait sur
+des groupes d'étudiants, dont les uns étaient rendus compétitifs
+par une information selon laquelle chaque participant serait
+sanctionné en fonction .de ses efforts pour parvenir au but, et
+dont les autres étaient rendus coopératifs par une iiformation
+selon laquelle’ chacun serait noté en fonction du résultat global
+du groupe : les groupes « coopératifs » se révélèrent nette-
+
+Droits reservés au Cnam et à ses partenaires
+
+ment plus attractifs pour les membres, montrèrent davantage
+de cohésion, et suscitèrent davantage de relations amicales. Un
+facteur important est évidemment le sentiment d’une progres-
+sion vers les buts : le simple fait que le groupe « travaille »
+contribue à le valoriser, à lui donner une sorte de statut aux
+yeux du participant.
+
+Attraction « interpersonnelle » et attraction « groupale » con-
+tribuent à se renforcer l’une l’autre. D'une part, en effet, des
+amitiés préalables, de même que des amitiés nées des pro-
+cessus d'interaction tendent à renforcer la valence du groupe,
+son attrait, ne serait-ce qu'en raison de la tendance qu'ont des
+gens qui s'entendent bien à mieux travailler ensemble (autre
+hypothèse de Homans). Back constata expérimentalement qu'un
+groupe composé d'individus « attirés les uns par les autres »
+est plus lenace, progresse mieux, donne lieu à plus de discus-
+sions fécondes, qu'un groupe composé d'individus indifférents
+ou peu enclins à la cordialité. D'autre part, lorsque le groupe
+est suffisamment attractif, les inleractions deviennent plus
+grandes entre les membres, ce qui crée, nous le savons, des
+occasions plus nombreuses d’altraits inlerindividuels.
+
+En somme, les deux types d'attraction sont bien des aspects
+complémentaires d'un même phénomène dont les sources se
+trouvent dans les facteurs d'interaction, de progression, de
+coopération, de pression vers la conformité. Ajoutons-leur cet
+autre, parfois très important : les attaques qui émanent de
+l’exlérieur ont souvent pour résultat d'augmenter l'attraction
+du groupe et, partant, d'en renforcer la cohésion. Quitter un
+groupe, lorsque précisément celui-ci paraît être injustement
+attaqué, ressemblerait à une trahison.
+
+Cohésion et conflits :
+les expériences de J. R. French
+
+I a été dit précédemment que l'existence de rapports de
+« coopéralion » rend le groupe plus attractif que l'existence
+de rapports de « compétition ». S’ensuit-il que la compétition
+ne puisse, dans certains cas, être un facteur de cohésion ? La
+coopération elle-même est-elle exclusive de conflits? C'est à
+ces questions que permettent de répondre, au moins partielle-
+ment, des expériences de J. R. French devenues à présent elas-
+siques. Elles paraissent établir, en particulier, que la compé-
+tition et le conflit ne sont pas toujours négatifs et destructeurs,
+mais peuvent être stimulants et positifs; ils ne sont un
+facteur de « rupture » ou d’ « éclatement » du groupe que si
+d'autres éléments interviennent, s'il y a par exemple de graves
+désaccords sur les buts collectifs,
+
+Les expériences de French ont porté sur 16 groupes de 6 per-
+sonnes : 8 groupes étaient constitués d'étudiants qui ne se
+connaissaient pas auparavant et ne s’élaient même pas rencon-
+trés avant le début des expériences; chacun des autres groupes
+était formé d'une équipe d'étudiants qui se connaissaient depuis
+longtemps, avaient déjà leur « chef » et avaient vécu ensemble
+quelques jours avant l'étude expérimentale (groupes apparte-
+nant à des clubs sportifs de basket ou d'athlétisme), On peut
+considérer que ces 8 derniers groupes étaient organisés, les
+8 premiers étant inorganisés. Le but de French élait de mettre
+ces groupes devant une situation identique de « frustration »
+arrängée de la façon suivante : on leur disait d’abord que le
+propos de l’expérience était de savoir avec quelle rapidité le
+groupe était capable de résoudre un problème; on leur présen-
+tait alors trois problèmes (dont l’un était d'ordre intellectuel,
+l’autre d'ordre moteur, le troisième à la fois intellectuel et
+moteur), en leur expliquant qu'il fallait résoudre l’un des trois
+le plus vite possible ; il était ajouté qu'il était permis de passer
+d’un problème à l'autre, si des difficultés se présentaient, mais
+
+que tous les membres du groupe devaient. être attelés à la solu-
+tion d'un même problème, Or, les problèmes avaient été choisis:
+
+4
+
+020
+
+de manière à être insolubles et, partant, d’être à l'origine d'une
+frustration. Ajoutons que 45 minutes étaient allouées pour la
+recherche de la « solution ».
+
+French voulait étudier les répercussions de la situalion de
+frustration en fonction du caractère « organisé » ou « non
+organisé » du groupe. Des observateurs codaient les catégories
+de comportement observé, les paroles échangées et en parti-
+culier les élats de motivation, frustration, solidarité, interdé-
+pendance des membres tautes les 3 minutes, etc. Une fois les
+séances terminées, des questionnaires furent remplis par les
+participants, et les résultats obtenus furent confrontés avec les
+épreuves statistiques habituelles pour que soit validée leur signi-
+fication (7j.
+
+Quels furent ces résultats ? Ils indiquèrent des, différences de
+comportement considérables dans chacune des catégories. Dans
+les 8 groupes organisés (Go), on observa des sentiments de
+frustration croissants, l'apparition de fréquentes conduites
+agressives des individus les uns contre les autres, des tentatives
+du leader, souvent vouées à l'échec, pour remettre le groupe
+sur la voie de la solution; mais jamais la désorganisation ne
+durait longlemps et les membres étaient toujours lucides sur
+leur propre comportement (« Allons, cessons de nous disputer »,
+ou « J'ai tort de vous critiquer », disaient-ils). Une sorte d’auto-
+régulation permettait à la désorganisation de n'être que tem-
+poraire, et surtout tout le monde continuait à être très inté-
+ressé à la réussite finale. Dans les 8 groupes non organisés
+(Gno), les sentiments de frustration furent moindres, et moin-
+dre l'agressivité interpersonnelle; en général, il n'y eut pas
+de changement d’un problème à un autre ; ce qui fut surtout
+observé, ce fut la constitution de factions, soit que deux
+« cliques » s'opposent d'une façon non coopérative, soit que
+quelques individus travaillent pendant que les autres regardent
+et critiquent; enfin, peu d'attiludes de solidarité, impliquant
+un sentiment du « nous », furent observées, |
+
+Les membres de chacune des catégories de groupes présen-
+tèrent de grandes similitudes de conduite réactionnelle à la
+situation de frustration. Le fait d'appartenir à un Go tendait
+à susciter des attitudes de frustration, agression, motivation,
+lucidité; le fait d’appartenir à un Gno tendait à susciter des
+attitudes d’indifférence, et surtout l'acceptation de l'apparition
+de factions. D'une façon générale, les difficultés dues au carac-
+tère insoluble des problèmes étaient plus péniblement ressen-
+ties par les Go que par les Gno.
+
+French a expliqué cette différence, ainsi que la similitude
+des réactions dans chaque catégorie de groupes, en disant :
+a) que l’organisation tend à susciter une convergence initiale
+des désirs d'appartenance, d'interdépendance, de participation
+égale et de liberlé sociale; b) que l'accroissement de cette
+liberté accroît les possibilités d'agression; c) que si la motiva-
+tion dépend de l'acceptation des instructions, de l'intérêt intrin-
+sèque du problème et de l'existence de buts, elle s'accroît avec
+l’accroissement des interactions et du sentiment de solidarité;
+d) qu’enfin, plus est grande Ja motivation, plus est grande
+la frustration, et par conséquent, en vertu d’une loi bien
+connue, plus grande l'agression. Dans les Go s'institue une
+dialectique telle que les conflits et, paradoxalement, la cohésion
+augmentent, en même temps que la frustration est plus grande:
+dans les Gno, une dialectique inverse s’institue : les gens sont
+de moins en moins motivés, de moins en moins früstrés, se
+sentent de moins en moins égaux et libres, et sont'de moins
+en moins agressifs malgré la présence de factions.
+
+Quoi qu'il en soit, on peut tirer de ces expériences une
+conclusion: importante :. deux types de « rupture » peuvent
+intervenir dans. un. groupe, l'un défavorable à la cohésion,
+
+d'autre favorable. Dans les Go, il n'apparaît que des. désorga-
+
+. Sur les procédures expécimentales et leur validation, voir notre art
+ae": La psychologie des petits groupes ; 2. La méthode scientifique,
+La Nature, septembre 1960, p: 373. : ‘ Hi
+
+Droits reservés au Cnam et à ses partenaires
+
+526
+
+nisations mineures, significatives de l'implication des membres,
+de leur identification au groupe : c’est pourquoi Îles agressions
+interpersonnelles, les fuites temporaires hors du champ (parler
+d'autre chose, etc.), les moments dè désorganisation générale
+n'empêchent pas le groupe de travailler solidairement pour
+essayer de parvenir au but. Dans les Gno on observe des phéno-
+mènes de « clivage groupal », voire d'éclatement proprement
+dit. Il convient donc, d'une façon générale, de bien différen-
+cier la rupture faible (souvent positive), et la rupture forte,
+ou éclatement (toujours négatif).
+
+Facteurs d'éclatement du groupe
+
+4
+
+De nombreuses études ont eu pour objet de déterminer quels
+sont les facteurs spécifiques de la baïsse d'attraction et finale-
+ment de l’éclatement du groupe (rupture « forte »). Il est évident
+que l’absence de conditions propres à assurer la cohésion du
+groupe est une raison de rupture. Pourtant, les chercheurs ne
+se sont pas contentés de cette évidence logique : aux travaux
+ayant pour but de manipuler les variables directement induc-
+trices d'attraction et de cohésion s'ajoutent ceux qui mani-
+pulent des variables supposées avoir une causalité directe sur
+la désintégration groupale. ‘
+
+Pour qu'un individu se décide à quitter un groupe qu'il a
+rejoint volontairement, il faut que les forces qui l’attiraient
+vers le groupe soient devenues plus faibles que celles qui le
+poussent à le fuir. Et si ce phénomène se produit chez tous
+les mémbres, le groupe se volatilisera. Parmi les raisons qui
+peuvent pousser l'individu. à fuir le groupe, voici celles qui
+ont donné lieu à une investigation systématique.
+
+D'abord, la divergence d'opinion relativement aux buis et
+aux moyens, lorsque l’évolution dynamique du groupe ne mène
+pas à une uniformisalion suffisante (Gérard, 1954).. En soi, une
+divergence initiale peut être résorbée, soit par modification
+de l'opinion individuelle sous l'influence du groupe ou d’autres
+membres, soit par une modification des opinions primitivement
+partagées. Mais, si une évolution suffisante vers l’uniformité
+ne se produit pas, des germes de rupture apparaissent.
+
+Il faut invoquer ensuite ce que Cartwright appelle les expé-
+riences déplaisantes, telles que l'inaptitude à jouer le rôle
+nécessaire, le sentiment d'échec, la présence d'individus à ten-
+dances dominatrices, une trop vive compétition. On sait qu'une
+des résultantes naturelles de la vie de groupe est que ses mem-
+bres sont appelés à assumer des responsabilités : quelques-unes
+d'entre elles (faire des exposés, écrire des lettres ou conduire
+‘une discussion) peuvent être considérées comme des devoirs
+pour lesquels ils ne sont pas convenablement préparés (travaux
+d'Horwitz, 1953). La tendance dominatrice d'autres membres
+a été décrite comme facteur de rupture par Scheidlinger (1953)
+dans l'étude « sur le terrain » de comités de discussion. Quant
+à l'influence néfaste d’une compétition interne trop féroce,
+elle a été notamment mise en évidence par Pepitone et Kleïner
+“(1957) danis leurs travaux sur les effets. de la crainte sur la
+cohésion. _ |
+
+Mais les récénts travaux ont surtout mis l'accent sur les fac-
+teurs qui provoquent des troubles dans les processus de com-
+muünication entre les membres. Nous rétrouverons dans un pro-
+chain article le problème des « communications » dans les
+-pétits groupes. Disons seulement que tout ce qui entrave la
+transmission dè « messages », leur bonné interprétation, a
+une influence négative sur la cohésion. Quand les individus
+communiquent. peu, où cessent de ‘communiquer, des attitudes
+stéréotypées apparaissent; chacun développe sans tenir compte
+d'autrui ses propres systèmes dé pérception, et il naît ce que
+:Newcornb appelle une. « hostilité par isolement ‘», véritable
+
+_ cercle vicieux d’attitudes défensives et agressives. Un cas parti-
+
+“culier est le phénomène d’ « ignorance commune » étudié par
+
+ 
+
+ 
+
+Shank : personne n'a une opinion donnée, mais chacun croit
+que tout le monde l’a, Parmi les facteurs de distorsion des
+communications, on trouve aussi l'image erronée que peuvent
+se faire l’un de l'autre « émetteur » et « récepteur »,
+
+Tels sont quelques-uns des résultats des expériences pour-
+suivies notamment par les chercheurs qui se réclament de la
+« dynamique des groupes, relativement à la cohésion groupale,
+envisagée comme « conditionnée » ». Ces résultats ont une signi-
+fication à la fois théorique (quant à la représentation qu'on peut
+se faire du fonctionnement des groupes) et pratique (quant à
+l'organisation de groupes de travail, etc.). On notera l’inté-
+rêt de l'abandon de notions aussi obscures que celles d’« esprit
+de corps », « volonté commune ». Mais bien des questions
+demeurent encore sans solution. Ainsi, les travaux publiés à
+ce jour ne disent pas très clairement si les attractions qui
+émanent de diverses sources s'ajoutent arithmétiquement pour
+accroître l'attraction totale: ils ne disent pas plus clairement
+comment elles se combinent pour former une seule valeur.
+Gross et Martin (1952) formulaient déjà des critiques à ce sujet,
+et il ne semble pas qu'elles aient perdu de leur valeur. Il est
+même possible de se demander si la notion de force, ou de
+résultante de forces a un caractère aussi scientifique qu'il paraît.
+Ainsi que le remarque G. de Montmollin (#}, la notion de
+« force psychologique » se confond dans l'esprit de la plupart
+des chercheurs avec le désir qu'ont les membres de rester dans
+le groupe : aussi, « la relation entre la cohésion (attribut du
+groupe) et le désir d’être membre (attribut des individus)
+n’a pas été bien analysée ». Et, certes, il conviendrait d’envi-
+sager mieux comment se distribuent les motifs individuels,
+l'influence de leur nature, au lieu d'envisager seulement une
+moyenne quantitative. Mais ces difficultés n'enlèvent rien, selon
+nous, à l'intérêt des tentatives qui ont voulu donner une base
+expérimentale à des observations parfois communes. Une théo.
+rie satisfaisante de la cohésion groupale n'existe. pas encore,
+pas plus qu'une théorie satisfaisante de la vie des groupes.
+Mais les questions qui se posent à la suite des études expéri-
+mentales peuvent contribuer à la construction d’une telle
+théorie.
+
+JEan-CLauve FizLoux,
+Agrégé de l'Université.
+
+{à suivre).
+
+8. Réflexions sur l'étude et l'utilisation des petits groupes, par G. DE Mont-
+MOLLIN, Bulletin du CERPE, 1959, n° 4 et 1960, n° 2. Signalons qu'il
+n'existe aucun ouvrage de langue française sur la psychologie des groupes
+dans son ensemble.
+
+ 
+
+ 
+
+L'industrie de l’aluminium en Chine
+
+Pendant les années qui ont immédiatement précédé la dernière
+guerre mondiale et après le début des hostilités, les Japonais
+avaient comméncé à édifier ét exploiter en Chine un certain nom-
+bre d'usines d'aluminium. A partir de 494, cette industrie tomba
+en sommeil et la plupart des usines japonaises furent détruites
+ou abandonnées. Les seules installations qui subsistaient en 1954
+étaient l'usine de Nonting pour l’alumine et Fushun, en
+Mandchourie, pour l’électrolyse. Leur capacité a élé augmentée
+depuis lors et les chiffres de production se sont établis en 1958
+à 60 000 t d’alumine et 27 000 t de métal. Entre temps une petite
+usine d’une capacité de 1 500 t par an à été construite près de
+Pékin. Elle serait le prototype d'une série de « micro-usines » de
+type familial, destinées à assurer un démarrage rapide de l'in-
+dustrie del’aluminium, en attendant des installations à plus
+grande échelle, Les objectifs inscrits au Plan, pour une date qui
+n’a pas été précisée, seraient 280 000 à 300 000 & de métal par an.
+
+Droits reservés au Cnam et à ses partenaires
+
+L'ORGUE ”
+et ses multiples possibilités
+
+3. La facture d’orgues des origines à nos jours
+
+deux précédents ‘acticles constitue l'aboutissement d'une
+
+longue évolution (1). Tout en conservant une physionomie
+originale, tant par l'architecture du buffet que par la compo-
+sition et les sonorités, les instruments des différents pays ont
+profité des découvertes effectuées çà et là, et leurs progrès sont
+parallèles,
+
+Dans l'histoire de l'orgue, il est possible de délimiter trois
+périodes essentielles, La première, la plus longue, est une
+suite de recherches et d'expériences qui aboutiront au xvu® et
+au xvui' siècle, en Allemagne comme en France, à une réalisation
+admirable : l’orgue classique. Le xix° siècle a connu des prin-
+cipes différents qui nous paraissent maintenant discutables, mais
+des progrès considérables ont été accomplis dans le domaine de
+la facture de cet orgue romantique. Enfin, le xx° siècle voit
+naître une brillante synthèse de ces deux conceptions, qu’on
+nomme parfois l'orgue néoclassique.
+
+L' perfection du corps sonore que nous avons décrit dans les
+
+Des origines à l'orgue classique
+
+Il est bien difficile d’assigner une origine précise à l’instru-
+
+   
+ 
+
+ment : dérive-t-il de la flûte de Pan, de la « flûte » double à
+
+anche des Grecs ou de l'orgue à bouche des Chinois, simple
+R
+
+Fig. 1. — Principe de Fhydraülis romain, selon Héron d'Alexandrie.
+
+Grâce à la pompe à bras P, l'air est emmagasiné dans une sorte d’enton-
+noir E, partiellement rempli d'eau et communiquänt avec la cuve C grâce
+à des trous visibles à sa partie inférieure. Lé vent, porté à ‘une pression
+égale À. la différence des niveaux de l’eau dans l’entonnoir et dans la cuve,
+peut alimenter les tuyaux grâce au sommier R, La pompe était pénible à
+mancœuvrer, et d'autres auteurs. en mentionnent: deux, Selon. Vitrüve,
+l'orgue aurait ‘comporté. plusieurs. registres alimentés chacun par l'inter-
+.médiaire d'un robinet (D'après Jean PERRoT).
+
+| réservoir où souffle l'éxécutant et sur lequel sont disposés. des
+
+a
+
+tuyaux ‘de bambou à anche libre
+
+Un perfectionnement notable, un véritable sommier permet:
+tant de faire parler à volonté un tuyau ou un autre, est à l'ori-
+gine de l'orgue romain (hydraulis) destiné à mener grand bruit
+lors des jeux du cirque ou à distraire quelque riche amateur :
+
+1. L'Orgue et ses multiples possibilités ; 1. Le matériel sonore, La Nature,
+octobre 1960, p. 401; 2. L'alimentation et la mécanique, novembre 1960,
+p. 470. ‘ | ‘
+
+ 
+
+— Un orgue portatif médiéval
+d'après une miniature du XVI siècle:
+
+Fig. 2.
+
+(Photo Larousse).
+
+des clefs tirées à la main permettaient à l'air emmagasiné sous
+la pression de l'eau de s'introduire dans les tuyaux de bronze
+(fig. 1). Plus tard, on devait remplacer les corps de pompe
+de cette soufflerie hydraulique par des soufflets à bras. Une
+découverte archéologique fondamentale effectuée à Aquincum
+(Hongrie) montre un petit orgue du 1n° siècle après J.-C.
+présentant déjà des registres à glissière en bronze : le sommier
+comportait donc l'essentiel des organes du sommier méca-
+nique actuel. -
+
+Par la suite, l'orgue devait passer de son utilisation profane
+à un rôle sacré : à vrai dire, il s'agit d'instruments assez petits,
+ne comportant guère que 16 à 20 notes (Limoges, Fécamp où
+Reims), mais une dizaine de tuyaux à bouche parlent ensemble
+pour chaque touche; loin de s'être attaché à diviser les sono-
+rités, le Moyen Age semble avoir voulu renforcer l'effet total
+en multipliant le nombre de tuyaux relatifs à chaque. note.
+L'instrument n'est alors qu ‘une vaste. mixture, tort criarde sans
+doute.
+À côté du grand orgue, des instruments. plus r restreints appa-
+raissent au xim° siècle, destinés à soutenir dés ensembles pro--
+fanes ou à égayer de nobles personnages. Le portatif, très peu
+encombrant, se jouait d'une seule main, l’autre actionnant le
+soufflet (fig. 2) : il prenait place dans un. ensemble instru-
+
+: mental aussi bien au château que chez les ménestrels, et figu-
+
+Droits reservés au Cnam et à ses partenaires
+
+028
+
+ 
+
+Fig, 3 — Les trompes de l'orgue de Saint-Bavon de Haarlem.
+
+Cette peinture de Pieter Jansz Saenredam (1636) est un des rares dccu-
+
+ments qui montrent l'aspect que pouvait avoir un orgue de la fin du
+
+moyen âge; remarquer les énormes tuyaux de « trompes » bien séparés
+du buffet,
+
+rait par la musique indifféremment le Paradis ou l'Enfer dans
+les Mystères. Plus important, le positif se touchait des deux
+mains, un aide étant chargé de manœuvrer les soufflets : ses
+usages étaient à peu près semblables. Tout comme le grand
+orguë, portatif et positif possèdent un buffet rehaussé de pein-
+tures et de dorures précieuses qui enrichissent même les
+tuyaux; déjà les plus gros tuyaux trouvent parfois place dans
+des tourelles latérales.
+
+Au xv° siècle, l'orgue se répand dans les églises, tandis qu'il
+est progressivement remplacé dans les demeurés seisneuriales
+par le luth et l'épinette. Il s'agrandit de plus en plus, car
+“c'est à cette époque que remonte l’invention de l’abrégé, et le
+‘facteur lui adjoint quelquefois le pédalier inventé au xrv® siècle
+
+et introduit en France en 1425 à la cathédrale d'Amiens. À vrai.
+
+dire, ce clavier ne sert d'abord qu'à actionner par tirasses les
+
+‘basses notes du clavier manuel, puis de grandes « trompes »
+
+‘atteignant quelquefois 82 pieds (fig. 3). L'orgue s'enrichit aussi
+
+- d'un second clavier, le positif, qui commande des jeux déjà pla-.
+
+“-cés dans le dos de l’organiste. La grande mixture médiévale
+“subsiste toujours, divisée cette fois en quelques registres. À
+- côté de ce plein-jéu, les organiers aiment à placer quelques
+‘jeux de détail, flûtes ou jeux d'anches.. Get ensemble déjà impo-
+
+tribune. les! «
+
+ 
+
+sant, comptant quelquefois 2 000 tuyaux répartis en 20 regis-
+tres dont les plus graves atleignent 24 pieds (les claviers com-
+mençäient souvent au Fa.), prend place dans un vaste buffet
+de style gothique dont la cathédrale de Strasbourg offre un
+magnilique exemple datant de la fin du xv° siècle (fig. 4). Pour
+le protéger de la poussière et de l'humidité, on referme sur lui
+quand il ne fonctionne pas des volets ornés ou de splendides
+toiles peintes (voir fig. 3).
+
+Le xvi* siècle voit se crislalliser loules les recherches de cette
+période de transilion en des modèles mieux définis. Sans con-
+naître de changement vraiment essentiel depuis le siècle précé-
+dent, l'instrument s'enrichit et se perfectionne, On voit appa-
+raître couramment des jeux d'anches (régale, irompeite ou
+sacqueboute, cromorne et voix humaine), et des jeux « estoup-
+pés » (bouchés) en provenance de Hollande. Le nombre de cla-
+viers s'étend quelquefois jusqu'à irois sans compler la pédale
+et il n'est pas exceptionnel de rencontrer des instruments de
+4o jeux dont les claviers atteignent 4 octaves,
+
+Le clavier de grand orgue, basé souvent sur le 16 pieds,
+comprend une vaste mixture, tandis que le positif est sa répli-
+que moins puissante, le clavier de récit étant composé de jeux
+de solo. Quant à la pédale, son rôle est peu important et elle
+ne possède que des jeux d’anche de 8 pieds destinés à la partie
+de ténor, C'est en Hollande que la facture d’orgues atteint son
+
+:
+
+ 
+
+FE: 4. — Le buffet du XV" siècle du grand orgue
+de la cathédrale de Strasboure.
+
+Ce magnifique ensemble de 24 pieds en montre devait comporter autrefois
+
+des volets peints: Le matériel sonore et la transmission ne datent pas
+
+du. xv* siècle, l'orgue ayant &û être entièrement refait par plusieurs facteurs
+
+depuis le xyu° siècle, Mais le buffet lui-même ést intact. Remarquer sous la
+
+Rorañfen », automates mus primitivement par la soufflerie
+de l'orgue,
+
+Droits reservés au Cnam et à ses partenaires
+
+apogée au xvi° siècle. En voici un exemple remarquable obéis-
+sant aux principes que nous venons d’énoncer : il s'agit de
+l'orgue majeur d'Amsterdam (vers 1570). |
+
+Grand Orgue : Montre 16, Bourdon 16, Montre 8, Prestant 4,
+Mixture importante, Cymbale.
+
+Positif de dos : Montre 8, Prestant 4, Octave 2, Mixture, Cym-
+bale, Quintaton 8, Flûte 2, Trompette 8, ‘Douçaine (anche douce) 8.
+
+_Brustwerlr (sorte de récit) : Montre 8, Octave 4, Flûte 8, Flûte 4,
+Flûte 2, Sifflet 4, Cymbale, Trompette 8, Cromorne 8.
+Pédale : Trompette 8, Douçaine 8.
+
+On trouve des orgues aussi importantes en Allemagne, mais
+le pédalier est plus développé : comportant fonds et anches de
+16 et de 8 pieds, il présente souvent une anche de 4 pieds utile
+pour jouer les chorals. C'est alors qu'apparaissent les premiers
+accouplements.
+
+En France et même en Espagne, l'influence de la facture
+hollandaise se fait sentir, tandis que les instruments montrent
+déjà leur physionomie locale qui sera plus marquée encore au
+xvue siècle. Déjà les écoles se séparent, après s'être longtemps
+communiqué leurs découvertes grâce aux échanges artistiques
+si fréquents à cette époque débordante de vie, où l’on pouvait
+voir le Flamand Oudin Hestre construire l'orgue de la cathé-
+drale de Reims et le Castillan Dominique de Castelbon tra-
+vailler à celui de Bayonne. A l'orgue synthétique du xv® siècle,
+constitué d'une immense mixture, s'oppose au xvi® siècle un
+instrument analytique, plus fantaisiste mais plus riche aussi,
+d’où découleront aux siècles suivants des types tellement diffé-
+renciés qu'il nous faut les étudier séparément.
+
+Les orgues classiques
+
+Voici d'abord l'orgue italien. Restés fidèles à la tradition du
+xv® siècle, les facteurs n’y établissent qu'une seule famille de
+jeux : celle des principaux dont on construit tous les harmo-
+niques usuels sous forme de mixtures uniquement décomposées,
+chaque rang de tuyaux étant commandé par un registre. L'en-
+semble est d’une rondeur et d'une douceur tout à fait inconnue
+
+ 
+
+Fig. 5. — Le petit orgue de Saint-Vincent d’Avila (Espagne).
+
+C joli instrument comporte, comme presque toutes les orgues anciennes en
+Espagne, des jeux d’anche en chamade, dont les tuyaux sont horizontaux.
+
+(Photo J. Lequeux).
+
+Ja pauvrelé de leur instrument,
+
+ 
+
+me
+
+ 
+
+ 
+
+Fig. 6 — Un orgue d'Allemagne du Nord : l'instrument
+d’Arp Schnitger à Saint-Jacques de Hambourg (vers 1690).
+
+Ce bel instrument n'a malheureusement pas conservé son emplacement
+primitif, mais il est par ailleurs absolument intact.
+
+ailleurs mais peut à peine remplir une vaste nef : veut-on de
+l'éclat dans une cérémonie grandiose, on s'adresse à des cuivres
+orchestraux, trompettes et trombones. L'instrument est destiné
+à de sereines médilations et sa beauté vient de la finesse de
+l'harmonisation; il ne comporte qu'un seul clavier et un péda-
+lier restreint, et quelques rares jeux de solo (flûte de 4).
+
+L'orgue anglais est moins riche encore et beaucoup moins
+parfait : sur un seul clavier manuel se groupent seulement
+quelques fonds et mixtures, et le pédalier est une rareté. Ce
+n'est qu'à la fin du xvn° siècle que les facteurs, conscients de
+multiplient les claviers. Peu
+de temps après ils inventent les gambes, puis la boîte expres-
+sive. Maïs en Angleterre l'orgue n'a jamais joué un rôle excep-
+tionnel comme en Allemagne et en France.
+
+L'orgue espagnol a bénéficié au xvi* siècle des. acquisitions de
+l'école flamande. Bien que ses claviers soient moins bien indi-
+vidualisés qu'en Hoïllande ou en Allemagne du Nord et les
+jeux moins nombreux, l'instrument est riche en sonorités écla-
+tantes et en anches incisives dont plusieurs sont postées en
+chamade (fig. 5). Le pédalier rudimentaire qui s'est développé
+asez tard comprend cependant plusieurs jeux. Comme en Italie,
+on trouve souvent deux orgues disposées de part et d'autre du
+chœur, ce qui permet des effets dont les compositeurs ne se
+sont pas privés. Au xvin® siècle, les facteurs s’attacheront éga.
+lement aux sonorités de fines mixtures qui susciteront une
+musique toute de délicatesse et de mesure.
+
+Aux Pays- Bas et en Flandre, la fagture continue à se déve-
+
+“lopper mais subira au milieu du xvu® siècle, par un juste
+
+retour des choses, l'influence de l'art français : certains fac-
+teurs dont les Le Picard, originaires de Noyon, iront s'établir
+à. Liège. vers 1680 et y apporteront l'invention des claviers de
+récit et d'écho à la manière française. |
+
+Droits reservés au Cnam et à ses partenaires
+
+030
+
+ 
+
+L'orgue allemand, — C'est cependant en Allemagne que
+seront construits au xvu® siècle les instruments les plus com-
+plets, dont la facture s'est orientée très différemment de celle
+de la Hollande (le pédalier est ici d’une prodigieuse richesse)
+et surtout de la France. 7
+
+En Allemagne du Nord, les facteurs célèbres pullulent et
+installent dans toutes les villes des instruments gigantesques
+(fig. 6ÿ : l'orgue ne sert pas seulement à accompagner la
+foule, mais l’organiste doit préluder au choral et jouer maintes
+fantaisies, toccatas, préludes et fugues devant un auditoire pas-
+sioniné, Il lui arrive même de donner des concerts spirituels ou
+de participer avec un confrère étranger à des joutes musicales
+demeurées célèbres. .
+
+ 
+
+Fig. 7. — L'orgue de la Frauenkirche de Dresde
+{Gottfried Silbermann, 1736).
+
+‘Les principaux progrès de la facture portent sur le pédalier,
+qui comprend, outre des fonds de 32 à 1 pied, une grosse
+mixture et des anches puissantes dont une de 2 pieds pouvant
+chanter un choral’à l’alto et même au soprano. Il permet les
+effets les plus variés et est capable de soutenir le tutti des cla-
+viers accouplés; sa commodité est si grande que le pédalier
+« à l'allemande » qui permet l'exécution des traits les plus
+rapides est encore exclusivement employé aujourd’hui. Les cla-
+viers manuels fournissent maintenant des plans sonores bien
+différenciés, quoique l'équilibre des pleiñs-jeux presque trop
+riches en tuyaux soit souvent moins bon qu'en France. Au
+grand orgué basé sur les 16 pieds répond l’Oberwerk situé en
+haut du buffet, sa réplique à l’octave supérieure. Le Rückposilif,
+où positif de dos, joue un peu le même rêle que le positif fran-
+çais, tandis que le Brustwerk plus faible est une sorte de cla-
+vier d'écho. . . :
+
+‘Particulièrement remarquable est la profusion des jeux de
+
+détail, fonds. doux d'une grande beauté et mixtures fines de.
+solo dont nous n'avons pas l'équivalent en France, Tous ces
+
+jeux parlent avec promptitude et sont traités avec une extrême
+habileté. Par contre, les anches nous semblent un peu acidés
+
+ 
+
+ 
+
+et de sonorité trop particulière pour porter beaucoup. Mais
+l’ensemble des pleins-jeux sonne avec une clarté admirable,
+surtout quand il est soutenu par les anches de pédale. Tout était
+possible à l'organiste titulaire d’un tel instrument auquel un
+Buxtehude et un Boehm ont confié nombre de tumultueuses
+fantaisies. Il en subsiste encore d’admirables exemplaires en
+Hollande du Nord et en Allemagne, dont les plus beaux sont
+sans doute dus à Arp Schnitger (1648-1720).
+
+En même temps se développait en Bavière et en Autriche un
+orgue bien plus petit, dont la douceur des timbres et la lumi-
+nosité font la réputation : l'influence italienne s'y est parti-
+culièrement fait sentir.
+
+En Thuringe comme en Saxe, un certain équilibre s'établit
+entre les deux tendances, recherchant à la fois l'abondance et
+la qualité des jeux : c'est cet orgue qu'a connu Jean-Sébastien
+Bach. Un de ses amis, qui dut bénéficier plus d’une fois de
+ses précieux conseils, le génial facteur Gottfried Silbermann,
+construisit en 1736 l'orgue de la Frauenkirche de Dresde
+(fig. 7), dont voici la composition
+
+Grand Orgue : Principaux 16, 8, 4, 2 pieds, Mixture et Cymbale,
+Violes de gambe 8 et 4, Flûte à cheminée 8, Nasard 2 2/4, Tierce
+1 3/5, Sesquialtera, Trompettes 16 et 8.
+
+Oberwerk : Principaux 8, 4, 2, Mixture, Quintaton 16, Bourdon 8,
+Flûte 4, Nasard 2 2/3, Tierce 1 8/5, Voix humaine 8.
+
+Positif de Poitrine (Brustwerk) : Principaux #4, 2, 1/2 pied,
+
+1
+Mixture, Bourdon 8, Flûte à cheminée #, Nasard 2 2/8, Cor de
+nuit 2, Larigot 1 1/3, Chalumeau 8.
+Pédale : Principaux 16, 8, 4, Mixture. Soubasse 46. Bombarde 16,
+Trompette 8, Clairon 4.
+Tous les claviers s’accouplent entre eux.
+
+ 
+
+. Fig. 8 — L'orgue baroque du couvent des Prémontrés à Die Wiess
+
+(Bavière), construit vers 1750 par Dominique Zimmermann.
+
+Jamais le buffet’ d'orgue {ou plutôt les buffets) n'a fait autant partie inté-
+grante de l'architecture. La splendeur de ses timbres n'est pas indigne
+de cette ‘construction hallucinante, mais d'une parfaite unité.
+
+Droits reservés au Cnam et à ses partenaires
+

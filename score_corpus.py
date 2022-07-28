@@ -2,6 +2,7 @@ import experience_functions as ex
 import argparse
 import os
 import re
+from experience_functions import SmartFormatter
 from progress.bar import Bar
 from datetime import datetime
 import sys
@@ -10,7 +11,7 @@ li = "--------------------------------------------------------------------------
 
 parser = argparse.ArgumentParser(
     description="evaluates all of the articles \
-    in the Corpus and prints the results")
+    in the Corpus and prints the results", formatter_class=SmartFormatter)
 parser.add_argument("-c", "--Corpus",
                     help="the path to the Corpus dir",
                     default=ex.corpus_path)
@@ -20,15 +21,16 @@ parser.add_argument("-r", "--Expected_results",
 parser.add_argument(
     "-o", "--output",
     help="if providied, the results will be printed in this file")
-# parser.add_argument("-m", "--mode", choices=ex.modes,
-#                     default=ex.default_mode,
-#                     help="choose the mode of recognition")
+parser.add_argument("-m", "--mode", type=int,
+                    default=ex.default_mode,
+                    help=ex.help_mode, choices=ex.mode_choices)
 parser.add_argument(
-    "-v", "--Verbose", help="if activated prints the results on each article", default=1, type=int)
+    "-v", "--Verbose", help="if activated prints the results on each article",
+    default=1, type=int)
 parser.add_argument("-t", "--Take_traps", type=int, default=1,
                     help="consider articles with no expected output when scoring")
-parser.add_argument("-cl", "--Classifier", default="default",
-                    choices=["default", "LINNAEUS", "SPECIES"],
+parser.add_argument("-cl", "--Classifier", default="CRI",
+                    choices=["CRI", "LINNAEUS", "SPECIES"],
                     help="the classifier used")
 args = parser.parse_args()
 
@@ -43,7 +45,7 @@ daytime = today.strftime("%B %d, %Y at %H:%M:%S")
 # gives the overall score using the total numbers
 # of false positives, negatives and true positives
 # obtained processing the corpus
-def evaluation(corpus, exp, classifier):
+def evaluation(corpus, exp, classifier, mode):
     result = ""
     nfps = nfns = ntps = 0
     with os.scandir(corpus) as it:
@@ -61,7 +63,7 @@ def evaluation(corpus, exp, classifier):
                 if args.Take_traps != 0 or len(expected) > 0:
                     name = re.sub(r"\.txt", "", entry.name)
                     s, tps, fns, fps = ex.evaluate(
-                        os.path.join(corpus, entry.name), name, expected, classifier)
+                        os.path.join(corpus, entry.name), name, expected, classifier, mode=mode)
                     if args.Verbose:
                         result += s
                     ntps += tps
@@ -86,17 +88,19 @@ if __name__ == "__main__":
     import expected_results_vol12 as vol12
     import expected_results_vol83 as vol83
     import expected_results_vol126 as vol126
-    expected = {12: vol12.expected, 83: vol83.expected, 126: vol126.expected}
-    results = f"# {li}\nExperience launched on {daytime}\n{li}\n"
+    import expected_results_vol155 as vol155
+    expected = {12: vol12.expected, 83: vol83.expected,
+                126: vol126.expected, 155: vol155.expected}
+    results = f"# {li}\nExperience launched on {daytime} with mode {args.mode}\n{li}\n"
     nfps = nfns = ntps = 0
     with os.scandir(args.Corpus) as it:
         for entry in it:
-            if entry.is_dir() and not entry.name == "vol83":
+            if entry.is_dir():
                 if args.Verbose:
                     results += f"## starting evaluation of volume {entry.name}\n"
                 vol_num = int(re.search(r"\d+", entry.name).group(0))
                 (result, fps, fns, tps) = evaluation(
-                    entry, expected[vol_num], args.Classifier, )
+                    entry, expected[vol_num], args.Classifier, args.mode)
                 results += result
                 ntps += tps
                 nfps += fps

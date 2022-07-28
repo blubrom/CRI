@@ -1,0 +1,1445 @@
+436
+
+dent les possibilités de l’ensemble, elle est constituée par
+un tambour magnétique de grande capacité qui comporte
+16 384 « mots » de 34 chiffres binaires répartis en 128 pistes
+de 128 mots. Elle permet l'enregistrement de nombreux micro-
+programmes facilitant la programmation. C'est aïnsi que les
+ordres tels que multiplication, division, racine carrée, ete., font
+appel à des microprogrammes enregistrés sur le tambour.
+
+. Le temps d'exécution d’une instruction simple n'est que de
+o,34o ms (milliseconde), alors que Ja durée du cycle majeur,
+qui correspond à un tour complet du tambour, est de 20 ms.
+
+La C.A.B. 5oo se comporte en marche normale comme une
+calculatrice universelle à programme interne, mais elle peut
+aussi fonctionner en commande manuelle directe à partir du
+clavier de la machine à écrire. Il est même possible, au cours
+de l'exécution d’un programme, d'arrêter automatiquement la
+calculatrice pour lui faire exécuter une série d'opérations dont
+on désire un résultat immédiat; la calculatrice se remet auto-
+matiquement en route sur le programme initial, une fois obte-
+nus les résultats de ces calculs auxiliaires.
+
+Disons pour terminer que les constructeurs de la C.A.B, 500
+sont parvenus à en rendre l'utilisation très simple. Les nom-
+breux microprogrammes et sous-programmes enregistrés sur
+le tambour magnétique facilitent la tâche de l'utilisateur qui a,
+par ailleurs, la faculté de faire appel à un programme spécial
+d'autoprogrammation. Il s'agit du système P.A.D. (Program-
+mation automatique des données) qui traduit directement les
+ordres explicites en langage machine.
+
+Royal McBee présentait la calculatrice numérique type
+L.G.P. 50, d’une conception analogue à celle de la G.A.B. 500.
+Ï s'agit là aussi d'une calculatrice binaire à fonctionnement
+séquentiel, la conversion des informations sous forme déci-
+male étant réalisée automatiquement par Ja machine. Les orga-
+nes d'entrée et de sortie sont représentés par une machine à
+écrire de même type que celle de la C.A.B, Boo (10 caractè-
+res/seconde). Un lecteur-perforateur rapide peut être adjoint à
+
+l'appareil et porter ainsi la vitesse de lecture à 200 carac-
+
+ 
+
+tères /seconde et la vitesse de perforation à 20 caraclères/seconde.
+La mémoire à tambour magnétique .ne comporte cependant
+que 4 ogô mots répartis en 64 pistes de 64 mots; elle a donc
+une capacité moins grande que celle de la C.A.B. 500. Enfin,
+il s'agit d'une machine à simple adresse, alors que la C.A.B. 500
+permet l'exécution d'ordres à deux adresses. Quant à la pro-
+grammation, elle a été rendue, elle aussi, particulièrement ‘aisée
+et il est possible, sur l'une ou sur l'autre de ces machines, de
+former un opérateur en quelques heures.
+R. R.
+
+Calculateur analogique et enregistreur XY
+
+Le calculateur analogique Pace TR 10, associé à l'enregis-
+treur XY Variplotter 1100 E (fig. 3), a été présenté par les
+Établissements Antarès pour l'Electronic Associates, Inc. (États.
+Unis). D'un encombrement très réduit et d’une mise en œuvre
+aisée, le calculateur, dont la construction fait appel à un ensem-
+ble de circuits transislorisés, peut être considéré comme un outil
+sûr et pratique.
+
+Un problème se posant sous la forme d’un système d'équa-
+tions algébriques et différentielles, sa solulion commence par
+une programmalion en données électriques, suivie de la mise
+en relations, par connexions, des différents tiroirs à fonctions
+diverses : intégrateurs, comparateurs, générateurs de fonctions,
+mulliplicateurs, amplificateurs. L'introduction des paramètres
+se réalise grâce à des boutons agissant sur des polentiomètres.
+La solution du problème est rapide (quelques secondes). L'enre-
+gistrement des solutions de problèmes à deux variables en
+courbes y = fr) se réalise immédiatement sur le Variplot-
+ter 1100 E qui offre de nombreuses caractéristiques. La feuille
+d'enregistrement, plaquée par dépression, est en 25,4 x 38,10.
+Vitesse maximale de la plume et du bras : 50 cm/s. Le zéro de
+la courbe est réglable et ajustable en n'importe quel point du
+diagramme. | G, G.
+
+Fig. 3 — Calculateur
+
+analogique Pace TR 10
+
+et enregistreur XŸ
+Variplotter 1100 E.
+
+(Phola AXTARÉsS).
+
+Droits reservés au Cnam et à ses partenaires
+
+437
+
+Applications thermiques du faisceau électronique
+
+La Société Précis présentait un ensemble expérimental des-
+tiné à montrer les diverses possibilités du faisceau électronique
+dans le domaine thermique. Un faisceau d'électrons présente
+en effet des parlicularilés qui en font un véritable « chalu-
+meau » susceplible d'applications varices, Examinons-les avec
+quelque détail.
+
+L'énergie transporiée par les électrons est amenée unique-
+ment et directement sur la surface utile à chauffer. Celle-ci
+constitue ainsi la partié portée à la plus haute température de
+toute l'enceinte el, par suita, la moins polluée. La surface
+chauffée peut être vraiment sous vide, et même sous ultra-vide,
+alors qu'il n’en est pas de même avec les disposilifs à arc qui
+demandent une cerlaine pression pour leur fonctionnement
+stable. Les concentrations de puissance obtenues sont considé-
+rables et il n°y a dès lors pratiquement pas de limite aux tem-
+péralures atteintes. Enfin, le réglage de la puissance et de sa
+concentralion est obtenu avec unc grande précision : les opc-
+rations thermiques sont ainsi parfaitement reproductibles.
+
+Les canons à électrons fabriqués par cette société l’ont été
+sous contrat avec le G.E.A. Ils sont du type à accélération
+interne et ne comporlent ainsi aucune partie sous hate tension
+accessible. Leur utilisation est donc sans danger. L'enceinte
+du canon peut être pratiquement isolée de l’enccinte d'utilisa-
+tion, au point de vue du vide. Il est ainsi possible de pomper
+
+A — #4
+
+Fig. 4, — Dispositif
+pour soudures par
+bombardement élee-
+tronique utilisant un
+canon à électrons à
+focalisation fine.
+Un système optique per-
+met le réglage de la
+posilion du point d'im-
+pact du faisceau d'élec-
+trons et le contrôle
+visuel de la soudure.
+
+ 
+
+LIL LÉ EEE NAS
+
+séparément l'enccinte du canon et l'enceinte d'’ulilisation. Cette
+dernière peut alors être le siège d'une montée de pression
+importante, sans compromettre le fanctionnement du canon.
+
+Différents types de canons à électrons ont déjà été réalisés;
+d'autres sont en cours de fabrication. Citons, par exemple,
+un canon à grande puissance de 0 kW-20 KV destiné à l’équi-
+pement des fours de fusion ou de distillation sous vide
+fig. 4%. Le diamètre minimal du faisceau est de #4 mm à
+30 mm de l'orifice d'éjection. Un autre type à focalisation
+fine de 3 kKW-6o KV présente un diamètre de faisceau de a,8 mm
+à 8 em de distance frontale. Il est destiné à réaliser des sou-
+dures à très grandes pénétrations en raison de la finesse du
+point: d'impact et de la grande concentration de puissance réa-
+lisée (fig. 5. Un modèle voisin à focalisation encore plus fine
+
+  
+   
+ 
+    
+    
+   
+
+Canon #2 Pompage canon N°2
+
+Canon N°1
+
+Pompage enceinte de traver
+
+ 
+     
+
+«
+
+sn
+Cou
+
+E SES =
+
+Creuset refroidi
+
+|
+Pompage can M?1
+
+Sn MAR TTE EEE CEE E ENT ENS
+
+ 
+
+Fig. 5. — Four à fusion par bombardement électronique
+pour l'affinage des réfractaires sous vide ou ultra-vide.
+
+Le barreau à affiner cest fondu par le canon n° 1.
+L'homogénéisation du mélal coulé est réalisée par le canon n° 2.
+
+{o,8 mm à 2 em de distance frontale) permet la réalisation de
+micro-soudures.
+
+Cette technique semble promise à un grand avenir. Déjà.
+l’affinage des métaux réfractaires par fusion sous vide a per.
+mis des réalisations souvent remarquables. Par exemple le
+tungstène, dont l’affinage est réputé très difficile, devient pres-
+que ductile avec cette méthode de purification. Des métaux
+que l'on considérait comme insoudables ont pu être soudés.
+par cetie technique qui est maintenant appliquée presque cou-
+ramment dans la fabricalion des réacteurs nucléaires. Nul doute.
+dans ces condilions que les années à venir nous apporteront.
+d’autres réalisations tout à fait remarquables dans ce démaine.
+
+R. KR.
+
+Suspension magnétique d’une maquette
+en veine de soufflerie
+
+La suspension magnétique ONERA maintient des maquettes.
+en soufflerie sans support matériel. Les maquettes sont en métal
+magnétique ou contiennent un barreau de métal magnétique.
+Des électro-aimants judicieusement placés les attirent en com--
+pensant exactement les efforts sûübis par la maquette.
+
+L’ asservissement est commandé par des cellules photo-élec-
+triques excitées à l'aide de faisceaux lumineux plus ou moins.
+occultés par la maquette, Un émetteur de télémesures à tran-
+sistor monté à l'intérieur de la maquette permet d'effectuer
+
+certaines mesures comme celle de la pression de culot, dans des
+
+conditions aérodvnamiques très pures. L'ensemble suspension
+magnétique-émetteur de télémesures est utilisé actuellement.
+dans des souffleries hypersoniqnes discontinues.
+
+G. G.
+
+Droits reservés au Cnam et à ses partenaires
+
+438
+
+Microscopie par rayons X
+
+L'idée d'utiliser les rayons X en microscopie suivit de peu
+leur découverte; cette technique devait en effet permettre
+d'observer les détails de structure d'objets opaques à d’autres
+rayonnements, qu'il s'agisse de lumière visible ou encore d'élec-
+trons. Malheureusement, l'indice de réfraction de tous les maté-
+riaux pour les ravons X est très voisin de l'unité, et il est
+impossible de faire des lentilles de courte distance focale per-
+mettant de focaliser efficacement les rayons X. Il était donc
+ncessaire d'aborder la solution du problème par d'autres voies
+que celles de la microscopie optique classique.
+
+On peut évidemment opérer d'une manière analogue à celle
+de la radiographie médicale : c’est le procédé dit de micro-
+radiographie par contact. L'objet est appliqué contre une
+émulsion sensible aux rayons X et l’on obtient une image dont
+le grandissement est sensiblement égal à 1. On procède ensuite,
+par les méthodes habituelles, à l’agrandissement de la photo-
+graphie obtenue. Si le procédé est d’une application très simple,
+il ne permet pas d'obtenir, dans les meilleures conditions, une
+résolution inférieure à 1 x, le grossissement étant limité par
+les dimensions du grain de l'émulsion.
+
+La microradiographie par projection permet des performances
+bien supérieures. Le principe de cette méthode est le suivant
+imaginons que l'on puisse réaliser une source $ f{fig. 7) de
+rayons X rigoureusement ponctuelle. L'objet O est placé dans
+l'air devant cette source et dans un plan perpendiculaire au
+rayon moyen du faisceau issu de 8. La distance de la source
+à l’objet est a. Sur un récepteur P, sensible aux rayons X, à la
+distance b de $, on obtient une image homathétique de l'objet,
+véritable projection de ce dernier avec un grandissement
+
+G = b/a. Le contraste de l'image est dû au fait que les diffé.
+rents points de l’objet présentent des transparences variables
+au faisceau de rayons À.
+
+Le problème revient donc à la réalisation d’une source ponc-
+tuelle de rayons X et c’est là que réside toute la difficulté de
+cette méthode. Dès 1896, Czermack fit les premières radiogra-
+phies en plaçant simplement un diaphragme de très faible
+ouverture devant une source de rayons X : c’est la méthode
+dite de la chambre obscure, à trou d'épingle. Malheureusement
+l'intensité du faisceau utilisé est très faible et il est impossible
+d'obtenir des photographies d'un grossissement appréciable
+avec des temps de pose raisonnables. En 1939, von Ardenne
+et L. Marton eurent l'idée de réaliser une source ponctuelle de
+grande brillance en focalisant un faisceau d'électrons sur une
+anticathode appropriée, au moyen de lentilles électroniques.
+Dans ces conditione, le diamètre de la source de rayons X ne
+dépasse pas quelques dixièmes de micron, ce qui est particuliè-
+rement important puisqu'on démontre que la distance de deux
+points voisins de l'objet qui peuvent encore être séparés est
+égale au diamètre de la source K.
+
+Un instrument de ce type fut construit en 1951 par Cosslett
+et Nixon. Divers perfectionnements ont été, depuis, apportés à
+ce dispositif et, cette année, MM. Dupouyÿ, Perrier et Verdier
+présentaient au stand du C.N.R.S. le premier microscope à
+rayons X construit en France. Nous allons le décrire sommai-
+rement.
+
+Le canon à électrons se compose d’un filament de tungstène,
+d’un diamètre de 0,1 mm, porté à l’incandescence par un cou-
+rant électrique. La pointe du filament émet donc des électrons.
+
+ 
+
+Fig. 6. -— Tête de moustique. Temps de pose : 5 mn. Grossissement total : 55.
+
+Droits reservés au Cnam et à ses partenaires
+
+Wehnelt Anode
+
+Filament
+
+Fig. 7. — Schéma de
+principe du  micro-
+scope à rayons X de
+MM. Dupouy, Perrier
+et Verdier {Labora-
+toire d’'Optique élec-
+tronique du C.N.RS.
+ä Toulouse).
+
+Explications dans le
+texte.
+
+Un cylindre de Wehnelt, porté à un potentiel légèrement néga-
+tif par rapport au filament, joue le rôle de première lentille
+électrostatique et concentre Île faisceau d'électrons. Entre le
+filament et l'anode percée d’une ouverture, on applique une
+différence de potentiel V convenable, destinée à accélérer le
+faisceau d'électrons. Dans l'appareil présenté, V varie entre
+3 kV et 0 kV. La longueur d'onde des rayons X a ainsi des
+valeurs comprises entre 6 À et 1 À.
+
+Deux lentilles électroniques magnétiques, le condenseur Li
+et l'objectif Le forment sur l’anticathode F une image ponc-
+tuelle S du faisceau d'électrons.
+
+L’anticathode est une feuille d'or très mince, de quelques
+dixièmes de micron d'épaisseur; elle sépare le corps de l’ins-
+trument, dans lequel on a fait le vide, du milieu extérieur où
+
+ 
+
+règne la pression atmosphérique. La source de rayons X ainsi
+oblenue rayonne donc dans l'air.
+
+Les résultats obtenus avec ce nouveau microscope sont parti-
+culièrement encourageants (fig. 6) : la résolution peut attein-
+dre 0,3 nu. Les grossissements dépassent 1 000. La durée du
+temps de pôse est de l'ordre de quelques minutes. Les objets
+observés ne nécessitent aucune préparation; la profondeur de
+champ étant considérable, toutes les parties d'un objet épais
+apparaissent au point sur l’image.
+
+Ainsi, le microscope à rayons X apparaît comme un puissant.
+instrument d'étude dont les applications devraient être particu-
+lièrement fécondes dans divers domaines de la recherche scien-
+tifique : biologie, médecine, métallurgie, etc,
+
+R. R.
+
+Purification des substances par la méthode
+
+de la zone fondue
+
+Le procédé de la zone fondue, inventé par Pfann en 19532,
+permet la purification poussée de nombreuses substances. Il a
+notamment été appliqué à l'obtention, dans un très grand état
+de pureté, du germanium et l'on peut dire que c'est en grande
+partie grâce à lui qu'a été rendue possible l'utilisation des
+semi-conducteurs en électronique.
+
+Cette méthode consiste à déplacer, le long du corps à traiter,
+une zone fondue obtenue par un chauffage localisé. Les impu-
+retés présentes sont, en général, plus solubles dans la phase
+liquide que dans la phase solide. Elles sont donc entraînées lors
+du déplacement de la zone fondue et se rassemblent à l'extré-
+mité du barreau en cours de raffinage. La même opération
+peut être répétée un grand nombre de fois, conduisant ainsi à
+des substances de plus en plus pures.
+
+Dans le domaine des semi-conducteurs, Philips présentait un
+ensemble pour le raffinage du silicium réalisant le déplace-
+ment lent. (2 mm/mn) d'une zone fondue le long d'une barre
+de silicium tendue verticalement .à l'intérieur d'un tube de
+quartz sous atmosphère neutre ou sous vide. La production de
+la zone fondue est assurée par chauffage haute fréquence
+(b MHz). Pour faciliter la formation de la zone flottante, on fait
+subir une certaine traction à la barre en faisant tourner la
+partie située au-dessous de la partie chauffée, La vitesse de rota-
+tion est variable, entre 4 et 250 t/mn.
+
+Cet appareil diffère de ceux utilisés pour le raffinage du ger-
+manium et d’autres substances dans lesquels le baïreau à puri-
+fier est contenu dans un creuset chauffé par induction. Ce pro-
+cédé serait inapplicable au silicium en raison de l'attaque
+chimique qu'il fait généralement subir au creuset.
+
+Le C.N.R.S. présentait un appareil destiné à la purification
+
+des substances dont le point de fusion est compris entre 7o°
+et 200° C, par exemple de nombreux composés organiques
+(fig. 8). Il est constitué par déuze lames d'aluminium (4)
+
+ 
+
+Fig. 8. — Schéma de l'appareil destiné à la purification des substances
+dont le point de fusion est voisin de l'ambiance par la méthode de
+la zone fondue. . : ‘
+
+chauffées par contact avec une enceinte (E) qui renferme
+une résistance électrique. Un régulateur à couple thermo-
+électrique (C) maintient constante la température de l’en-
+semble. Le produit à purifier est contenu dans le tube
+
+scellé (F). On obtient donc simultanément de nombreuses zones
+
+. fondues que l’on déplace au moyen d’un micromoteur agissant
+
+sur une came qui produit une avance lente (3 mm/h) du tube
+scellé sur une distance égale à l'éciärtement de deux lames d'’alu-
+minium. Un retour brusque vers la position initiale est ensuite
+obtenu sous l'effet d'un ressort. On utilise ainsi d’une manière
+continue la quasi-totalité des éléments chauffants.
+
+Cet appareil, d’une réalisation relativement simple, devrait
+connaître un certain succès auprès des organiciens.
+
+Droits reservés au Cnam et à ses partenaires
+
+440
+
+ 
+
+ 
+
+ 
+
+Spectrométrie de masse
+
+A la suite de la découverte des « rayons canaux » par
+Goldstein en 1886 et de leur identification ultérieure en ions
+positifs gazeux créés par le bombardement électronique des
+molécules de gaz résiduel existant dans le tube de Crookes qui
+servait aux expériences, J. J, Thomson, l'un des premiers,
+chercha à les analyser. Pour en déterminer la charge, la masse
+et la vitesse, il imagina une méthode dite des paraboles, uti-
+lisant l’action combinée d’un champ électrique et d’un champ
+magnétique transversaux sur la lrajectoire des ions : il vou-
+lait isoler les trajectoires et, par suite, les points d'impact des
+ions de différente nature sur une plaque photographique, les
+coordonnées des points d'impact permetlant le calcul des carac-
+téristiques de chaque ion. Cette méthode permit à Thomson
+et Aston de découvrir en 1918 la possibilité pour un élément
+d’apparaître comme un mélange de constituants appelés jiso-
+topes;, leurs travaux portaient sur l'étude du néon almosphé-
+rique, dont ils mirent en évidence Iles isotopes 20 et 22
+(Fe Ne et 0 Ne).
+
+L'impossibilité d'avoir une quelconque focalisalion, c'est-
+à-dire une concentralion en un point de lous les impacts des
+rayons parcourus par les parlicules de même nature, caracté-
+risées par le rapport r/m de la charge à la masse, mais seule-
+ment une tache, le faisceau d'ions restant cylindrique après
+déviation, conduisit Dempster et Aston à imaginer deux
+méthodes différentes qui permettraient cette focalisation et
+autoriseraient, par là même, une précision très supérieure, La
+spectrométrie de masse date de cette époque.
+
+L'analyse d'un mélange ionisé de gaz faite avec un spec-
+tromètre de masse permet donc d'obtenir un spectre dont
+chaque point on raie (source d'ions ponctuelle ou fente) per-
+met d'identifier les atomes ou molécules gazeuses de diffé-
+rente nature, de- calculer accessoirement leur masse et d'en
+déterminer les proportions relatives dans le mélange d’après
+l'intensité des raies.
+
+Les spectromètres de masse sont d’un emploi courant au
+laboratoire et dans l'industrie: ils permettent d'étudier non
+seulement des gaz maïs aussi des solides (source thermoionique
+au lieu de bombardement électronique pour les gaz). Les appli-
+cations au laboratoire sont nombreuses et touchent aussi bien
+à la physique nucléaire et électronique qu'à la chimie phy-
+sique. |
+
+Parmi les applications industrielles, citons, en ce qui concerne
+les solides :
+
+— l'analyse isotopique; .
+
+— le contrôle des procédés de séparation isotopique ;
+
+— Ja détection et l'identification d’impuretés, en particulier
+dans les métaux ; |
+et en ce qui concerne les gaz :
+
+— l'analyse qualitative et quantitative des mélanges gazeux;
+
+— Ja détection ét l'identification d'irmpuretés dans les gaz;
+
+— l'analyse d'hydrocarbures légers.
+
+Les spectromètres de masse comportent, de par leur cons-
+truction, trois parties distinctes : la source d'ions avec les dis-
+positifs d'introduction des échantillons: l'ensemble des dispo-
+sitifs d'accélération et de déviation du faisceau ionique par
+champs électrique et magnétique; l'appareil récepteur qui peut
+être une simple plaque photographique ou un oscilloscope pré-
+cédé de multiplicateur d'électrons auqüel on a adjoint une
+chaîne d'amplification. |
+
+La source d'ions. — Le spectrographe travaillant sous
+“vide ‘et- l’ionisation se faisant sous un vide allant de 1072 à
+1076 mm Hg, les composés gazeux sont introduits dans l’appa-
+
+reil par l'intermédiaire d'un capillaire. Les corps chimiques.
+solides ou liquides doivent avoir une certaine tension de vapeur
+pour être analysables. En ce qui concerne les éléments non
+volatils, il est nécessaire de passer par l'intermédiaire de cer-
+lains de leurs composés volalils où gazeux (hvdrures par
+exemple). D'autres éléments sont jonisables par simple chauf-
+fage.
+
+La plupart des constructeurs s'arrangent pour produire des
+ions dont la vitesse, avant accéléralion et déviation, soit nulle.
+IL est alors possible de connaître d'une façon précise, après
+leur accéléralion brève, la vitesse de chaque type d’ions, em
+particulier au moment de leur arrivée sur l'appareil récepteur.
+
+| lons formes
+DS
+
+Vide 107 °mm Hg
+
+F
+
+_D
+
+        
+  
+
+  
+
+  
+
+ 
+
+Trajet
+ds + 100V 80 V
+électrons E, - 10V
+£3 -500V
+Trajet des ions
+Fig. 9. — Schéma d'une source d'ions.
+
+F, filament émetteur d'électrons ; G, et G,, grilles d'accélération et de freï-
+nage ; E, et E,. électrodes d’arcélération des ions formés, l'ormant lentille
+électrostatique.
+
+Ce résultat s'obtient en contrôlant, à l'aide de grilles à
+potentiel convenable, la vitesse des électrons ionisants de façon
+que les ions produits par choc aient une vitesse minime; om
+extrait ensuite ces ions de leur zone de naissance par accélé-
+ration dans une direction perpendiculaire à la trajectoire des
+électrons (fig. g).
+
+Les différents modes de déviation des trajec-
+toires. — Selon la façon dont sont isolées les trajectoires de
+chaque type d'ions, il est possible de distinguer : la déviation
+purement magnétique (appareils à déviation directe et à foca-
+lisation semi-circulaire); les déviations électrique et magné-
+tique combinées (appareils adaptés des appareils de Thomsom
+et Aston). Un autre type nouveau d'appareil ne fait interve-
+nir aucune déviation (appareil « à temps de vol »).
+
+En, fait, les appareils présentés à la dernière expositior
+organisée par la Société française de Physique sont, soit du
+type à déviation magnétique, soit du type « à temps de vol ».
+Rappelons-en brièvement les principes de fonctionnement.
+
+Appareils à déviation magnétique. — La loi de Laplace
+appliquée au déplacement d'une particule électrique de
+vitesse u et, de charge € au séin d’un champ magnétique. uni-
+forme B, nous apprend que cette particule subit une force
+
+. - —> — —
+donnée ‘par la relation f = e(u A B). Un calcul simple montre
+que, dans ce cas, la trajectoire étant un cercle situé dans un
+plan perpendiculaire au champ, l'intensité du champ, le rayon
+du cercle, la vitesse (si'elle n’est pas trop grande), la masse et la
+
+charge de.la particule sont liés par la relation BR — 7 à Par
+
+ailleurs, U: étant la tension d'accélération des ions ‘Considérés,
+la relation BR = oU/u ‘s'établit facilement. ve
+Un type d'ions donnés aura dans ces conditions une vitesse
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 10, — Déviation magnétique directe.
+S, source d'ions ; D, diaphragme ; E, écran ; 1, point d'impact. Champ
+uniforme B dirigé vers le haut, perpendiculairement au plan de la figure.
+
+donnée sur une trajectoire circulaire bien définie. À un autre
+type d'ions de masse et charge différentes, correspondra un
+autre cercle.
+
+1° Déviation directe. — La méthode consiste à interposer un
+écran Ë perpendiculaire à l'axe OY du faisceau sortant de ]a
+source d'ions $S (fig. ro) et à mesurer la distance 5 sur l'écran,
+OI étant un arc de cercle, le rayon du cercle se calcule facile-
+ment. Le rapport e/m s'en déduit aussitôt.
+
+2° Focalisalion semi-circulaire, — Cette méthode est une
+extension de la méthode précédente. Ici les ions sortant de la
+source décrivent un demi-cercle avant d'être arrêtés par l'écran
+(fig. 11). Leur faisceau est délimité par un diaphragme D. Les
+ions de même rapport e/m décrivent des demi-cercles de même
+
+OB
+
+D I E
+RS
+1
+?
+SR x x
+! î
+Fig. 11. — Schéma de la focalisation semi-circulaire.
+
+E, écran parallèle à l'axe fixe ox; D, diaphragme: !, point d'impact de
+toutes les trajectoires des ions de même nature issus de S et passant
+à travers le diaphragme D.
+
+rayon R dont l'orientation dans le plan de la figure, caractérisée
+par l'angle # que forme leur diamètre avec l'écran, varie très
+légèrement autour de & autant que le permet le diaphragme.
+Malgré tout, les ions convergent au point 1, ce qui réalise la
+focalisation.
+
+Fig, 12, — Le spec-
+tromètre de masse
+SP 21 F (Italelettro-
+nica),
+(Les Équipements
+Industriels).
+
+ 
+
+ 
+
+ 
+
+Les mesures de , de l’abscisse æ du point 1 permettent de
+connaître R, d’où les caractéristiques des ions considérés.
+
+Le spectromètre type Dempster est construit en prenant
+pour & une valeur nulle. Le pouvoir de résolution m/dm,
+caractéristique de chaque spectromètre, peut atteindre jusqu'à
+la valeur 400.
+
+Trois appareils conçus suivant ce principe de séparation par
+déviation magnétique ont été présentés à l'Exposition. L'un de
+ces appareils est construit pour l'analyse des éléments légers
+par les Établissements Beaudouin. Il est d’une grande simplicité
+et d’une grande souplesse d'utilisation. Il permet d'effectuer les
+analyses isotopiques ou chimiques des éléments de poids ato-
+mique inférieur à 100, ceci pour les corps solides et gazeux.
+Ce spectromètre est à simple déviation magnétique de 60° et
+travaille sous un vide de 10-$ à 0-7 mm Hg. Les spectres de
+masse de 1 à 100 sont obtenus par balayage automatique du
+champ magnétique et enregistrement sur bande de papier. Le
+pouvoir de résolution mesuré à ro pour 100 de la hauteur des
+raies est voisin de 100. Champ analyseur de 5 000 gauss.
+
+Le sbectromètre de masse N 203 $ présenté par la Compagnie
+française Thomson-Houston est plus spécialement destiné au
+dosage isotopique précis de l'argon 40. 1! comprend un ensem-
+ble séparateur à champ permanent de 3 aoo Gs et un ensemble
+électronique de mesure comprenant une chaîne d'amplification
+linéaire à courant continu, un système de balayage automatique
+de spectre et un enregistreur. Pouvoir de résolution : 5a. La
+reproductibilité des mesures de rapport isotopique peut attein-
+dre 1 pour r 000.
+
+Le spectromètre de masse type SP 21 F présenté par les lqui-
+pements Industriels (fig. 12) permet la mesure du rapport
+d'abondance des masses de molécules contenues dans un échan-
+tillon gazeux. L'enregistrement des spectres se fait directement
+sur papier à l’aide d’un dispositif automatique, d'une façon
+lente pour les pics et rapide tout au lang des intervalles. IL
+existe un changement de sensibilité automatique comportant
+huit gammes. L'appareil permet la mesure de masses allant
+de 1 à 400 par accélération ionique de 1 800 V, de 2 à 800 sous
+
+ 
+   
+
+Droits reservés au Cnam et à ses partenaires
+
+= 449
+
+et
+
+ 
+  
+
+lonisation
+
+_
+
+  
+
+Introduction ——
+.
++ 400V -2 000 2 800V
+a OV
+Fig. 13. — Schéma de principe du spectromètre de masse
+
+& temps de vol.
+G,, grille de commande des impulsions d'ions ; G;, grille d'accélération,
+
+g00 V. Le pouvoir de résolution m/dm est supérieur à 350, ce
+qui est remarquable. La sensibilité est de 1/10 et la précision
+des mesures atteint r pour 100.
+
+Spectromètre de masse à temps de vol. — Cet appa-
+reil, construit par Jobin et Yvon sous licence Bendix Aviation
+Corporation, est de conception nouvelle. Il présente en effet des
+caractéristiques très différentes des instruments classiques à
+déviation magnétique. Les ions, libérés par impulsions pério-
+diques et accélérés sur une distance courte devant leur trajec-
+toire rectiligne, prennent une vitesse uniforme dans la cham-
+bre de vol, libre de champ magnétique. Les ions de rapport e/m
+différents se séparent du fait de leurs vitesses différentes, les
+plus rapides correspondant au rapport e/m le plus grand, et
+arrivent par paquets successifs sur l’ensemble récepteur; ils
+pénètrent dans un multiplicateur magnétique d'électrons : le
+signal résultant est appliqué à un oscilloscope dont le balayage
+est déclenché par l'impulsion d'accélération des ions. La masse
+correspondant à chaque pic observé peut être déterminée par son
+temps de vol : l'image qui apparaît sur le tube de l'oscilloscope,
+dont le balayage est étalonné en temps avec précision, montre
+l’arrivée des ions de masse différente en fonction de ce temps.
+. La hauteur des pics donne la proportion d'ions de masse diffé.
+rente...
+
+ 
+
+        
+  
+
+Multiplicateur magnétique
+d électrons
+
+ 
+   
+     
+
+Osci!loscope
+
+ 
+
+ 
+
+ie
+st
+ps
+=
+
+Quelques caractéristiques de l'appareil sont à citer :
+
+Nombre d'analyses par seconde : 2 000 ou 10 000.
+
+Sensibilité : des pics d'amplitude dans le rapport de 1 à 1 000
+peuvent être mesurés quantitativement par l'oscilloscope.
+
+tendue de mesure : la fréquence de fonctionnement 10 kHz
+permet l'analyse de masses comprises entre x et 4 ooo. Pour
+2 kHz, on pourrait atteindre 100 000. Un dispositif de retard
+du déclenchement du balayage de l’oscilloscope, incorporé au
+spectromètre, ainsi que le choix de la vitesse de balayage, per-
+met de faire apparaître sur là largeur du tube cathodique la
+portion du spectre exactement désiré.
+
+Résolution : la vallée entre les pics 200 et 207 atteint la ligne
+de base. Interférence de 10 pour 100 entre {oo et 4or. Près de
+100 pour 100 entre 6oo et 6or.
+
+Applications : l'instrument permet des analyses qualitatives
+et quantitatives de façon simple et rapide; il est utilisable en
+recherche et en contrôle. Son utilisation, conjointement avec
+un chromatographe en phase gazeuse, est très intéressante et
+permet d'éviter les analyses successsives de fractions collectées :
+on envoie directement dans le spectromètre, grâce À un robinet
+à fuite, une partie des gaz effluents. L'analyse à l'oscilloscope
+est instantanée. - |
+
+G. Guiroy.
+
+Fig. 14. — Spectro-
+mètre de masse à
+temps de vol Jobin
+et Yvon. Licence
+Bendix.
+
+Droits reservés au Cnam et à ses partenaires
+
+443
+
+Générateur de noyaux d’iodure d'argent
+
+L'un des procédés les plus employés pour la dissipation des
+brouillards à température inférieure à — 5° C, la production
+artificielle de pluie, la prévention de la grêle, consiste à pro-
+duire des « fumées » d'iodure d'argent au moyen d'appareils
+générateurs installés au sol.
+
+Les générateurs de germes d'iodure d'argent utilisés jus-
+qu’alors pouvaient être classés en deux catégories. Dans Ja
+première se placent des appareils fondés sur la combustion d’un
+charbon contenant quelques pour-cent d’iodure d'argent. Dans
+les appareils de la deuxième catégorie, une solution d'iodure
+d'argent dans l’acétone est injectée dans une flamme d’hydro-
+gène ou de butane qui assure la vaporisation du sel, On voit
+donc que ces générateurs font tous appel à un combustible
+pour la production des fumées d’iodure d'argent.
+
+L'originalité de l'appareil présenté par M. “Dessens au stand
+du C. N. RS. réside dans le fait que c'est le solvant lui-même
+qui est brûlé : il en résulte une mise en œuvre beaucoup plus
+simple (fig. 15).
+
+La solution acétonique est pulvérisée dans le jet d'air d’une
+soufflerie et brûlée dans un four avec une quantité d'air ajustée
+de façon à obtenir une température comprise entre la tempé-
+rature de vaporisation et la température de dissociation de
+
+ns 2
+Saiution acétonique
+Er
+
+ 
+
+Fig. 15. — Schéma du générateur de noyaux d’iodure d’argent
+de M. Dessens (Observatoire du Puy-de-Dôme).
+
+l’iodure d'argent. Le rendement en noyaux efficaces, que l'on
+peut définir comme le nombre de germes glaciogènes actifs
+produits par gramme d'iodure d'argent vaporisé, serait supé-
+rieur à celui des appareils similaires.
+
+Un modèle autonome a même été construit et il est actuel-
+lement utilisé en Afrique équatoriale; la soufflerie électrique
+a été remplacée par une soufflerie entraînée par un petit moteur
+
+à essence muni d’un système de refroidissement par air.
+R. R.
+
+Microgéomètre
+
+Cet appareil, présenté par Baudot-Hardoll {Karl Deutsch} et
+destiné à contrôler et mesurer des états de surface, opère à
+l'aide d'un palpeur effectuant un parcours de référence avec
+transcription électrique des valeurs mesurées : le patin de la
+tête palpeuse glisse sur la surface de la pièce à vérifier, cepen-
+dant que l'aiguille sonde le profil de la surface à travers le
+patin. L'une des plaques d'un condensateur est solidaire de
+l'aiguille sondeuse. Une variation de capacité résulte du dépla-
+cement de l'aiguille. Après amplification, un dispositif de
+
+méthode de zéro utilisant des cristaux piézoélectriques permet
+d'annuler cette variation et d’en déduire la profondeur de rugo-
+sité dont l’élendue de mesure est de 0,02 À r o00 u, en trois
+gammes qui correspondent chacune à un type de tête palpeuse
+différent. Le transmetteur est statiquement étalonnablé indé-
+pendamment du trajet. Le parcours de référence est de 5 mm.
+La durée de la mesure est de 100 s. Les résultats sont enregis-
+trés sur un diagramme.
+
+G. G.
+
+(Lire la suite de l'Exposition de Physique dans notre prochain numéro).
+
+ 
+
+ 
+
+La météorite de 1908
+
+La météorile tombée en 1908 dans la région de Toungousk,
+en Sibérie centrale, n'a pas fini d'occuper les savants sovié-
+tiques. Nous avons résumé récemment (août 1960, p. 337),
+d’après la revue Priroda, les déductions de M. Vronsky, selon
+
+qui les débris de la météorite, après son explosion dans l’atmo-
+
+sphère, se seraient enfoncés très profondément dans le sol et
+devraient être recherchés très au-dessous des multiples cratères
+qu'ils ont produits dans le sol en partie gelé. Dans un nouvel
+article de la même revue, M. E, Krinov revient à une hypothèse
+jadis énoncée, selon laquelle la météorite de 1908 aurait été le
+noyau d'une comète.
+
+La zone où les arbres ont été déracinés par la chute de la
+météorite est, à en. juger .par l'orientation des troncs, ‘non
+point ronde, mais allongée dans la direction du mouvement
+
+qui, selon un calcul dû à M. Astapovitch, ne faisait qu'un angle
+
+de 7 degrés avec le plan horizontal. Les arbres auraient alors
+
+été déracinés, non seulement par l'explosion, mais par l'onde .
+évaluée
+
+balistique qui l’accompagnait et à laquelle sa vitesse,
+par Astapovitch à 6o km/s, conférait une énorme énergie.
+. Une vitesse de cet ordre prouve quela météorite se mouvait
+
+autour du Soleil dans le sens opposé à celui de la Terre, ce
+
+qui peut être le cas pour une comète, mais non pour une
+
+était-elle une comète ?
+
+météorile normale, qui est un débris d'astéroïde et se déplace
+dans le même sens que la Terre, sa vitesse de pénétration dans
+l'atmosphère étant alors de l'ordre de 11 à 25 km/s. _-
+
+D'autre part la météorite de 1908, s'il s'agissait du noyau
+d'une comète, devait être constituée d’une substance & molle »
+ou bien d'un bloc d’eau et de gaz congelés (méthane, ammo-
+niac, gaz carbonique, etc.}; ce bloc devait également contenir
+. de nombreuses particules dispersées dé fer-nickel et de silicates.
+On s'expliquerait ainsi qu'on n'ait päs retrouvé dans le sol
+les constituants ordinaires des météorites.
+
+M. Krinov rappelle enfin que plusieurs nuits particulièrement
+claires se sont succédé, en 1908, après la chute de la météo-
+
+rite. Gette clarté nocturne aurait pu avoir pour cause-la dissi-
+pation des rayons solaires par les particules de poussière de.
+
+la queue de la comète captées par l'atmosphère. Ce qui est
+“surtout significatif, précise-t-il, c'est que la météorite est
+tombée à 7 h du matin, alors que le Soleil se trouvait: à l'est
+du point de chute. La queue de la comète, si c'en était bien
+une, devait donc se trouver. à l'ouest de ce point, c’est- dire
+au- Éessts de la Sibérie occidentale et de l'Europe, Or, c'est au :
+| sud de la Sibérie occidentale et de l' Europe pr écisément que les”
+- nuits claires ont été observées... 1: . re Gi M.
+
+Droits reservés au Cnam et à ses partenaires
+
+444
+
+L'information qui suil pourra susciter un certain scepticisme,
+car il est difficile, connaissant la malfaisance du bruit, de penser
+qu'il ait trouvé un empléi utile en thérapeutique. C’est cepen-
+
+dant la très sérieuse revue américaine Science qui a publié
+
+cette information (1% juillet 1960). Faut-il rappeler d'autre part
+que les substances toxiques figurent en grand nombre dans
+l’arsenal de la médecine ?
+
+Trois chirurgiens-dentistes de la ville de Boston, MM. Gardner,
+Licklider et Weisz, décrivent dans cette revue une méthode
+employée par eux et certains de leurs collègues pour supprimer
+la douleur, en soumettant leurs patients à d'intenses stimulus
+auditifs. La statistique relevée, après application de la méthode
+dans un cabinet dentaire sur un millier de personnes, indique
+que la suppression de la douleur a été totale dans 65 pour 100
+des cas et d’une efficacité suffisante dans 25 pour 100 des cas
+pour éviter l'emploi d'analgésiques chimiques. Elle a produit
+des effets insuffisants dans 10 p. 100 des cas seulement.
+
+Un des promoteurs de la méthode, M. Gardner, a pu extraire
+200 dents sans autre insensibilisation, Ses collègues ont annoncé
+des performances analogues,
+
+Le patient porte un casque à écouteurs et agit lui-même sur
+l'intensité du son, par l'intermédiaire d'une boîte de réglage.
+Avant le début des soins, il peut entendre une musique stéréo-
+
+ 
+
+ 
+
+Anesthésie médicale par le bruit
+
+phonique qui produit un effet de relaxation. Dès qu’il com-
+mence à appréhender la douleur ou ressentir son apparition, il
+agit sur l'émission du bruit (reproduisant approximativement
+la rumeur d'une chute d’eau),
+
+Ge bruit peut avoir divers effets psychologiques comme de
+masquer celui de la fraise creusant une cavité dentaire et dériver
+l'attention du patient. Le fait de pouvoir agir soi-même sur la
+douleur en réglant le son est également un facteur de lutte
+contre l'anxiété. Le praticien, d'autre part, apprécie le degré de
+cette anxiété en voyant le volume du son que son patient est en
+train d'écouter.
+
+Des résultats favorables ont été obtenus non seulement dans
+la pratique de l’art dentaire, mais dans certaines interventions
+chirurgicales légères, telles qu’arrachement d’un ongle ou abla-
+tion d'un polype. Il a été ainsi possible de déterminer le genre
+de douleur, justiciable de l’anesthésie sonore.
+
+Une explication neurologique peut être admise : le circuit
+nerveux de la douleur de même que celui de l'audition se
+rencontrent dans certains centres, l'hypothalamus notamment,
+et l’interférence entre les deux flux de sensations aurait un effet
+inhibiteur, Il existerait également des « relais » qui informent
+le cerveau des montées de la douleur et que le stimulus acous-
+tique parviendrait à bloquer. G. C.
+
+ 
+
+Chromosomes en excès chez un bébé
+
+À l'Université d’Uppsala (Suède), un examen génétique a été fait
+sur un bébé masculin d’un an qui présentait certaines anomalies
+cérébrales. Des cellules prélevées sur le tissu cutané de l'enfant
+ont permis de révéler la présence de 69 chromosomes, ce qui consti-
+tue un excédent de 50 pour 100. Il semble que ce soit le premier cas
+de triploïdie, constaté chez un représentant de l'espèce humaine.
+
+Scandium pur à 99 pour 100
+
+On trouve maintenant dans le commerce, aux États-Unis, du
+scandium, dont la pureté de 99 pour 100 a pu être atteinte par dis-
+tillation dans le vide. C'est un métal de densité 8,02 fondant vers
+1 5800 et bouillant à ? 4709, Le scandium (n° atomique 21) a des
+propriétés analogues à celles des terres rares, auxquelles il est
+fréquemment associé dans les minerais.
+
+ 
+
+LE CIEL EN NOVEMBRE
+
+SOLEIL : du 19 novembre au 1er décembre {à OP) sa déclinaison
+décroit de — 14022 à — 21048 et la durée du jour de Jhü0® à
+Sh$2m ; diamètre app. le {1er — 4217 ,2, le 30 — 32297,9, —
+LUNE : Phases : P. L. le 8 à 41h58, D. Q. le 41 à 13148m, N. I.
+le 18 à 29h47, P. Q. le 25 à 15M42m ; apogée Je 9 à 92, diamètre
+app. = 2931" ; périgée le 21 à 4h, diamètre app. 3254". Princi-
+pales conjonctions : avec Mars le 9 à Où, à 8040" s. : avec Uranus
+le 12 à 4n, à 2019 $. ; avec Mercure le 47 à 16ù, à 1036 N. Avec
+Neptune le 17 à 18h, à 235 NN. : avec Jupiter le 24 à 186,
+4039" : avec Vénus le 21 à 195, à 60367 N. ; avec Saturne le D
+
+à @b, à 49 N. Principales cccultations : le 6, de 318 B Taureau
+(mag. 5,7), émersion à 5h12m,0 ; le 45 de 15 Vierge (mag. 4.0),
+émersion à 4b0m,5, — PLANETES < ercure, passe devant le
+
+ 
+
+Amateurs d'ASTRONOMIE, adhéresz à la
+
+SOCIÉTÉ ASTRONOMIQUE DE FRANCE
+
+fondée. en 1887 par CG. FLAmManion, reconnue d'utilité publique én 1897
+
+vous recevrez là revue mensuelle L'ASTRONOMIE
+vous aurez à votre disposition une importante Bibliothèque, .
+un Observatoire, séances mensuelles, cours, conférences, etc,
+| . Dernandez les programmes au Siège Social
+… Hôtel des Sociétés Savantes, 28, rue Serpente, Paris-6*
+“Permanence, tous les jours non fériés de 14 à 17 h
+{Cotisations : Région Parisienne, 256 NF ; France, 20 NF ; Étranger. 30 NF;
+Étudiants, 3 NF; Droit d'inscription pour tous, 2 NF.
+Spécimen gratuit de la revue sur demande.
+
+- Demandez « Splendeur de l'Astronomie », les plus belles photographies
+astronomiques: : 16 pages 13,5 x 20,5, tirage néogravure bleu nuit.
+"_ 0,65 NF franco.
+
+ 
+
+1960
+
+Soleil le 7 et devient étoile du matin jusqu'à la fin du mois, le 24
+lever à Bh18m, soit 1157m avant le Soleil ; Vénus, belle étoile du
+soir s’observant de mieux en mieux, se couche le 20 à 184, soit
+2b10m après le Soleil : Mars, dans les Gémeaux bel astre rouge 88
+levant avant 20b, le 15 : diamètre app. 12,6 et mag. — 0,ÿ ; : Jupi-
+ter et Saturne, dans le Sagittaire brillent encore le soir respecti-
+vement 2 et 3 heures après le coucher du Soleil ; Uranus, à 1°
+au N-W de v Lion apparaît avant minuit, le 15, position : 9h5gm et
++ 13038", diamètre app. 3”,8 ; Neptune, dans la Balance Téappa-
+raît un peu le matin à la fin du mois. — ÉTOILES VARIA-
+BLES : minime observables d’Algol (2m,2-3m,8) le 16 à 2h,2, le 18
+à 22h,8, le 21 à 19h,7 ; minima de $ Lyre (3m 4.fm 3} le 7 à Ah 8, le
+20 à 41b,0 ; maxima de 8 Céphée (3n,7-4m,6) le 49 à11b,4, le 6 à
+202,2, le 12 à 8,0, le 47 à 134,8. le 22 à 29,6, le 28 à 72,4 ; maxima
+de n Aigle (3m, 7 un #) le der à 92,9 le 8 à tant, le 48 à 18h,3, le
+
+22 à 22h,6, le 30 à 2h 8 : maxima de x Cygne gum, 9 44,9) le der, "de
+T Céphée (y, 4-11m 0) le 8. — TEMPS SID RAL : au méridien
+de Paris à Où (T. Ü.) : le der : 2h5Qm?8s, le 11 : 9h20mb4s, le 24 :
+
+&hgm49s, le {er décembre : 4h48m48s,
+
+Phénomènes intéressants. — Surveiller l'apparition de taches
+et de facules à la surface du Soleil. — Du 13 au 16, lumière
+cendrée de la Lune, le matin, Le 7, passage de Mercure sur
+le disque du Soleil, en partie visible en France, à Paris : premier
+contact extér, à 14:34m,8 , premier contact intér. à 14h88%,3, cou-
+cher du Soleil et de Mercure à 1620, ne pas manquer d° observer
+ce rare phénomène. — On remarquera dans le crépuscule les rap-
+prochements Vénus-Jupiter le 19 et Vénus-Saturne je 28. —
+Étoiles filantes : du 15 au 20, Léonides (max. le 16),
+radiant € Lion ; du 17 au 28, Andromédides, radiant y Andro-
+mède.
+
+Heures données en Temps universel, ajouter une heure pour
+obtenir le temps légal en vigueur.
+
+‘ L. Tanrors.
+
+Droits reservés au Cnam et à ses partenaires
+
+LES LIVRES NOUVEAUX 445
+
+La programmation linéaire et l'algorithme
+du simplexe, par D. U. GREENwaLD, Traduit
+de l'anglais par R. AnTzEeNsEnGEn, 1 vol,
+14 x 22, 104 p., 19 fig. Dunod, Paris, 1960.
+Prix, broché : Er.
+
+La détermination de la solution optimale d’un
+programme linéaire s'opère généralement à
+l'aide de la méthode du simplexe due à Dantzig.
+Gette méthode, exposée dans plusieurs ouvrages,
+restait cependant inaccessible à tous ceux que
+le calcul matriciel rebute, Ge petit ouvrage sim-
+ple et progressif, rempli d'exemples et de pro-
+blèmes et qui ne recourt qu'à des mathémati-
+ques élémentaires, comble une importante lacune
+en exposant, sans ses justifications mathémali-
+ques difficiles, le maniement de l’algorithme du
+simpléxe qui apparaît de la sorte comme un
+outil d'emploi facile. Ge livre donnera ainsi à
+bien des chefs d'entreprises, ingénieurs et étu-
+diants, les moyens d’assimiler et d'employer la
+puissante méthode de la programmation linéaire,
+
+Mesure et instruments de mesure, par
+J. Iorac. 1 vol. 16 x 25, 132 p., 47 fig.
+Dunod, Paris, 1960. Prix, broché : 9 NF.
+
+« On ne connaît bien un phénomène que lors-
+qu'il est possible de l'exprimer en nombres. »
+Cette citation de lord Kelvin rappelle qu'en
+définilive il n'y a pas de sciences là où il n'y
+à pas de meésures; ausei doit-on féliciter
+M. Idrac d'avoir abordé ce problème fonda-
+mental. Tout au long des différents chapitres
+consacrés aux notions de sensibilité, de préci-
+sion, de finesse, de rapidité, l'auteur a cherché
+avant tout à dégager la philosophie des phéno-
+mènes étudiés. Il y a matièra à réflexion dans
+ces pages dont la lecture n'est pas toujours
+facile, précisément parce que l'auteur est allé
+au fond des choses et ne s'est pas borné à réex-
+poser une fois de plus des notions que chacun
+croit bien connaître. Il s'agit pourtant d'un
+ouvrage pratique comme en témoignent, par
+exemple, les « notions-clés », sorte de résumés
+qui jouent le rôle de guide à la fin de chaque
+chapitre, créant ainsi un cadre de travail.
+— R.R.
+
+Vistas in Astronomy, vol. 3, édité par
+À. Bern. 1 vol, 19 x 25,5 cm, vin-345 p,,
+nombr. fig. Pergamon Press, Londres, 1960.
+Prix, relié : 120 sh.
+
+Le succès remporté par les volumes 1 et 2
+de Vislas in Astronomy a incité les éditeurs à
+continuer la publication de tels ensembles
+d'articles originaux : il paraîtra donc d'autres
+volumes analogues à celui-ci, qui offriront leurs
+pages aux astronomes et astrophysiciens de tous
+les pays. Le présent tome contient, entre autres
+articles, une étude de R. Woolley sur la dyna-
+mique des étoiles proches du Soleil, une de
+H. von Klüber sur l'effet Einstein, une autre
+de GC. M. Sisson (de la C'* Grubb-Parsons) sur
+la construction des grands télescopes, etc, Citons
+aussi les arlicles de photométrie stellaire de
+J. DB. lrwin, de G. E, Kron et de A, N. Argue,
+une importante étude de R. E. J. Pagel consi-
+crée aux étoiles À raies d'émission, et environ
+70 pages concernant l'évolution stellaire et la
+cosmologie, dues à ©. J. Eggen, $. Gaposchkin,
+L. Mestel et D, W, Sciama. Ensemble très varié,
+souvent d'un très grand intérêt,
+
+The Background of Astronomy, par
+H. G. Kiné, 1 vol. 14 x 22 cm, 254 p. Tavi-
+stock Publications, Londres, 1959, Prix. relié :
+
+sb.
+
+Ce livre extrêmement bien fait et intelligent
+retrace l’évolution : de l'Astronomie jusqu’en
+1610, date à laquelle Galilée a pointé vers le
+ciel sa première lunette, L'auteur expose avec
+précision de quelle manière l'Astronomie s'est
+dégagée de l'astrologie et de la métaphysique
+pour devenir une véritable science. Cependant,
+Copernic et Képler eux-mêmes mélangeaient
+encore science et métaphysique, ce qui ne sem-
+ble avoir nullement restreint leur activité scien-
+tifique si fructueuse. En fait, le problème de
+l’interconnexion entre les disciplines scientifi-
+ques ét extrascientifiques dans l'Antiquité et le
+Moyen Age est très complexe, eb c’est le grand
+mérite de H. G. King d'avoir su l'analyser avec
+lucidité.
+
+Astronomical Photography at the Telescope,
+pa Thomas RacxnaM. 1 vol. 14,5 x 29,5 cm,
+82 p., 17 fig., 10 pl. h. t. Faher and Faber,
+Londres, 1959. Prix, relié : 36 sh.
+
+Manuel exposant les principes de la photogra-
+phie astronomique d'amateur et les réalisations
+
+accessibles sans trop de difficultés ; conseils pra-
+tiques,
+
+La Terre et la Lune, par Jean ‘Taié, agrégé
+de l'Université. 1 vol. 11,5 x 17,5, 128 p.,
+19 fig. Collection Que sais-je ?, Presses Uni-
+versitaires de France, Paris, 1960. Prix
+
+NF.
+
+1970 aura vu probablement plusieurs voyages
+humains Terre-Lune et retour, Cette prévision
+de l'auteur l'engage à nous rappeler les prin-
+cipaux éléments astronomiques du couple Terre-
+Lune, Après un chapitre sur le mouvement
+diurne, on étudie la Terre isolée dans l'espace,
+sa rotation, son déplacement autour du Soleil,
+puis le mouvement et les caractéristiques de
+notre satellite. Le dernier chapitre s'intitule,
+bien entendu : « Jrons-nous sur la Lune ? ».
+Mais qui en doute ?
+
+Towards a unified Cosmology, par Reginald
+O. Kar»pr, 1 vol. 15 x 23,5, 303 p., 10 fig.
+Hutchinson and (Co., Londres, 1960, Prix,
+relié : 85 sh.
+
+C'est le livre d’un philosophe très averti
+des problèmes de l’Astronomie, de la Physique
+et de la Relativité. On y trouvera des analyses
+approfondies des concepts de matière, d'espace
+et de gravitation, Développant les idées de
+Hoyle sur la création continue, l’auteur pré-
+sente une hypothèse nouvelle, dite de 1’ « Imper-
+manence symétrique de la Matière », qui admet
+que la création d'atomes nouveaux est compen-
+sée non seuiement par l'expansion universelle,
+mais par l' « extinction » d'autres atomes. La
+matière aurait une vie limitée, Théories origi-
+nales concernant la formation des galaxies, la
+gravilation el mème la courbure de l’espace au
+voisinage des noyaux atomiques. Comme il
+arrive souvent, la partie négative du livre est
+sans doute la plus intéressante, Elle met l'accent
+sur les difficultés de réalisation d’une théorie
+physique unitaire.
+
+Précis de Physique générale, par R. Kronc.
+Traduit du hollandais et adapté par M. Y. Ber-
+NARD, Tome 1 : Mécanique physique. Thermo.
+dynamique. 1 vol. 16 x où 416 p., 215 fig.
+Dunod, Paris, 1960. Prix : 28 NF.
+
+Sous la direction de M. Kronig de Delft, un
+groupe de professeurs uterlandais ont rédigé un
+traité de physique dans un esprit très moderne ;
+
+un groupe de physiciens du Liboratoire de Radio-
+électricité de la Sorlwnne, sous la direction de
+M. Y. Bernard, ont traduit et adapté cet
+Ouvrage aux besoins nouveaux des étudiants
+de licence définis dans les programmes de 1958.
+Une série d'exercices compiète chaque chapitre
+
+LA NATURE
+PLASTIFIÉE
+
+ENROBAGE DE
+SPÉCIMENS BIOLOGIQUES
+dans résine artificielle
+claire comme du cristal
+
+CHEZ VOUS
+
+Demandez renseignements
+pour colis d'essai
+avec instructions
+
+     
+     
+     
+   
+   
+      
+   
+
+Joindre enveloppe timbrée
+avec adresse S.V.P
+
+INTERNATIONAL
+PLASTIC RESEARCH
+B. P. 03 CONTES (A-M)
+
+   
+ 
+
+ 
+
+ 
+     
+
+Droits reservés au Cnam et à ses partenaires
+
+(sans solutions toutefois...) de ce premier tome
+consacré à la mécanique physique, aux vibra-
+tions el aux ondes, à la théorie atomique de la
+chaleur et de la thermodynamique. Signalons
+que l'ouvrage emploie le système d'unités MKSA
+Giorgi.
+
+Étude expérimentale de l'écoulement turbu-
+lent dans un divergent bidimensionnel par-
+couru par de l'air, par Jean-Pierre MILLIAT.
+1 vol, 18x27, 134 p., 76 fig. Publ, Scient, et
+Techn, du Ministère de l'Air, Paris, décem-
+bre 1957. Prix : 20 NF.
+
+L'écoulement bidimensionnel turbulent est
+étudié expérimentalement dans un divergent
+d'angle 2, 4 et 6 degrés. Un régime d'équilibre
+est mis en évidence dans la partie aval de la
+tuyère, après une zone de transition. Étude des
+fonctions spectrales des fluctuations de vitesse
+et des intermittences du régime d'écoulement
+au voisinage de la paroi.
+
+Photopiles au sélénium, par G. BLer, 1 vol.
+11 x 16, 164 p., 73 fig. Monographies Dunod,
+Paris, 1959, Prix, relié toile souple : 11 NF.
+
+Les appareillages photoélectriques se déve-
+loppent dans toutes les branches de l’industrie
+et on trouvera dans cette monographie, après
+un aperçu historique sur les phénomènes photo-
+électriques et le sélénium, un exposé des théo.
+ries modernes sur le fonctionnement des photo-
+piles au sélénium et leur fabrication indus.
+trielle. Les deux derniers chapitres, parlie la
+plus importante de l'ouvrage, traitent des pro-
+priétés et de l'emploi des photopiles. Tous les
+montages proposés ont été l'objet d'essais et
+de contrôles en laboratoire, Livre destiné surtout
+aux utilisateurs, mais que l'étudiant peut lire
+avec profit.
+
+About Chemistry, par Magnus Pyxe, 1 vol.
+14,5 x 28, vur-219 p., 68 fig. Oliver and
+Boyd, Londres et Edimbourg, 1959. Prix,
+reiié : 18 sh.
+
+Bien qu'il soit un lieu commun de dire que
+la chimie prend de plus en plus d'importance
+dans la vie moderne, qu'elle est au fond de
+toutes choses, qu'un pays important doit dis.
+poser d'une industrie chimique florissante, beau.
+coup de gens, mème cultivés, ignorent ce qu'est
+la chimie et le rôle des chimistes, Loin de pré-
+tendre former un chimiste par la lecture de
+ce petit ouvrage, l'auteur voudrait qu'il per-
+mette à tout honnète homme de jeter un pont
+entre ce qu'il a appris sur la chimie lors de
+ses études et le rôle actuel de celte science
+appliquée, qu'il se rende compte des bases essen-
+lielles de celle-ci et qu'il voie par quelles
+méthodes le chimiste est à mème d'élaborer
+tous ces produits que chacun de nous utilise
+chaque jour,
+
+Vistas in free-radical chemistry, pulbié sous
+la direction de W. A. Warenrs. 1 vol.
+17,5 x 25,5, vin-251 p. Pergamon Press,
+Londres, 1969, Prix, relié : 75 sh.
+
+Volume consacré À l'œuvre de Morris S. Kha.
+rasch (1895-1957), dont les travaux ont apporté
+uné contribution importante à la chimie des
+radicaux libres : on y trouve un exposé de ses
+recherches, certains mémoîres précédemment
+publiés par cet auteur ainsi que des mémoires
+originaux de ses élèves et amis.
+
+The structure and properties of porous
+materials, édité par D. H. Everett et
+F. 8. Srons. 1 vol. 19 x 25,5, x1v-389 p., fig.
+Butterworths Scientific Publications, Londres,
+el Academic Press, New York, 1958. Prix,
+relié toile : 60 sh: édition américaine
+12 dollars.
+
+La Société de Recherches Colsson organise
+chaque année ün symposium qui, en 1958, a
+été consacré à la structure et aux propriétés
+des roatériaux poreux. 16 communications pré-
+sentées à ce Colloque, qui traitent toutes des
+questions d'une grande actualité : on sait en
+effet que la structure des solides, sujet très
+complexe, fait actuellement l’objet de nombreu-
+ses recherches.
+
+Japanese Potassium Symposium. 1 vol.
+14 x 21, 140 p., fig. Institut international
+de la Potasse, Berne, 1958. Broché.
+
+Neuf publications présentées en 1957 à Tokio
+au l® congrès nippon sur la potasse, Plusieurs
+mémoires concernent la culture du riz, le tabac,
+les arbres fruitiers, etc. . ‘
+
+cut
+

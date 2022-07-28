@@ -1,0 +1,345 @@
+valeur de cette théorie. La preuve expérimentale de l’existence
+des antiparticules a montré qu'il y avait là, au contraire, un
+des points les plus intéressants de la théorie.
+
+En présence de l'abondance de protons et de neutrons de
+la matière, les antiprotons el les antineutrons donneraient rapi-
+dement une réaction d'annihilalion, et ceci explique la diffi-
+culté de mettre en évidence ces particules malgré leur stabilité
+intrinsèque,
+
+On s’est posé le problème de savoir s’il serait possible de
+fabriquer des atomes « extraordinaires », en ajoutant ou en
+substituant aux constituants normaux des atomes des particules
+différentes. On peut envisager de remplacer un des électrons
+qui gravitent autour du noyau par une particule plus lourde,
+méson ou antiproton, de même charge que l'électron. On peut
+aussi envisager d'introduire dans le noyau un hypéron.
+
+Ces atomes seront instables et il ne semble pas que, dans
+l’état actuel de la technique, on puisse songer à introduire
+dans un atome plus d'une particule extraordinaire, car cela
+supposerait un concours de- circonstances bien improbable.
+L'instabilité de ces atomes exclut que l'on puisse en recueillir
+une quantité, même faible, dans un « récipient ». En revanche,
+on. a pu mettre en évidence des événements et des séries d’évé-
+nements qui impliquent à un certain moment l'existence d'un
+atome extraordinaire. Le nombre total d’atomes ainsi aperçus
+est encore très faible, quelques millions ou dizaines de mil-
+lions, Réunis ensemble, ces atomes laisseraient insensible la
+plus sensible des balances. Nous verrons par quels procédés on
+ä pu les mettre en évidence.
+
+Les atomes extraordinaires, que l’on sait produire le plus
+facilement sont les atomes mésiques x et u. Le noyau est un
+noyau normal mais à un électron orbital est substitué un méson
+négatif léger. Nous examinerons d'abord le mode de production
+de ces mésons.
+
+ 
+
+Production des mésons légers. Les mésons x 5€
+forment dans de nombreuses réactions nucléaires. Citons par
+exemple l'interaction de photons +.de très hante énergie avec
+des noyaux légers :
+
+Photon + + Deutérium — 2 protons + TT.
+
+Les éléments du second membre de celte équation ont une
+masse totale au repos plus grande que ceux du premier membre,
+d'environ 254 fois la masse de l'électron. Le photon y doit
+apporter l'équivalent en énergie de cette masse. Son énergie
+doit donc être au moins égale à 137 MeV (1). En fait, pour que
+le rendement de la réaction soit appréciable, il faut que l’éner-
+gie soit supérieure à cette valeur. |: .
+
+On peut aussi produire des mésons en bombardant des noyaux
+légers par des protons de haute énergie. Dans ces réactions
+aussi, il y a création de masse à partir de l’énergie des pro-
+. tons. L'énergie d'un préton doit être supérieure à l'équivalent
+en énergie de la-masse du méson à créer (137 MeV pour un
+méson T). . |
+
+Les particules de haute énergie nécessaires à la production
+des mésons ont d’abord été trouvées dans le rayonnement cos-
+mique, grâce auquel on a découvert les mésons, Maintenant
+avec les accélérateurs de particules (synchrocyclotron, cosmo-
+
+‘ trons, etc.) on sait communiquer à des protons des énergies
+de plusieurs centaines et même plusieurs milliers de MeV. On
+peut dans ce dernier cas produire, à côté des mésons x, une
+petite quantité de mésons K..
+
+Les mésons +7 sont habituellement produits en bombardant
+
+une cible de béryllium ou d'aluminium avec des protons issus
+d'un synchrocyclotron (fig. 1). Ces mésons sont instables et
+
+1. Rappelons qu'un électron-volt (1 eV) est l'énergie. d'un ‘électron :
+
+accéléré dans un champ électrique par différencé de potentiel de -1 v.
+1 MeV (mégaélectron-voli) =,1 000 000 eV = 1,6. x 10-°.erg.
+
+- Synchrocyclotron
+
+ 
+  
+ 
+ 
+
+Cible d'aluminium
+
+ 
+  
+
+Ecran absorbant Les
+ï rayonnements
+
+SS
+
+Canal
+Aimant oéviant les particules chargées
+
+Ecran absorbant
+
+b
+
+Cible & bombarder par des mesons
+
+Fig. 1. — Schéma d’un dispositif d'étude de la matière mésique.
+
+Les protons aècélérés suivant des orbites grossièrement circulaires dans
+
+un synchrocyclotron sont envoyés sur une cible en aluminium. Le dispositif
+
+est entouré d’un écran qui absorbe les mésons et autres particules pro-
+
+duites, Un canal percé dans cet écran laïsso passer un faisceau parallèle
+
+de particules. Un aimant, déviant les particules chargées, n'envoie, à tra-
+
+vers le canal percé dans un deuxième écran absorbant, .que Îles mésons
+‘ que l’on désire,
+
+se décomposent rapidement en des mésons p suivant les réac-
+tions énoncées plus haut :
+
+m7 —> pu —> électron négatif.
+
+Mais la seconde réaction est beaucoup plus lente que la
+première, Un méson x- d'une énergie de quelques dizaines
+de MeV ne parcourt guère plus de 2 m dans le vide avant de
+se décomposer en un méson y, alors qu'un méson ps peut
+parcourir quelques centaines de mètres sans se décomposer en
+un électron. Si on place une cible à une distance de 2 où 3 m
+du lieu de production des mésons uw”, elle ne recevra que quel-
+ques mésons #7 non encore décomposés. En revanche, les
+mésons ps qui résultent de la décomposition des mésons m7
+parviendront presque tous à la cible.
+
+Pour bombarder une cible avec des mésons x on placera
+celle-ci aussi près que possible du lieu de ‘production des
+mésons =. Pour la bombarder avec des mésons u on se placera
+au contraire à une distance de quelques mètres. |
+
+Un champ magnétique dévie les mésons #7 et u7 qui sont
+des particules chargées mais, à vitesse égale, les mésons x
+sont moins déviés que les mésons w7. On peut ainsi achever
+de séparer les mésons x et n. :
+
+L'intégration des mésons aux atomes. — Les mésons,
+au moment de leur création par lés procédés que nous, venons
+de décrire, ont des énergies très élevées, quelques dizaines ou
+centaines .de MeV. Leur vitesse leur interdit toute capture par
+les atomes.  .
+
+Pour que leur capture soit possible, les mésons doivent au
+préalable être ralentis, et ceci, bien entendu, en un temps
+
+ 
+
+_ inférieur à leur durée de vie. Le processus de ralentissement
+
+a été étudié par Fermi. Lorsqu'un méson traverse la matière,
+
+il provoque, sur son passage, des ionisations qui lui font perdre
+
+de l'énergie. Le méson cède son énergie aux électrons qu'il
+arrache aux atomes rencontrés. Le nombre d’ionisätions qu'un
+méson produit par unité de longueur décroît quand sa vitesse
+augmente et, pour des mésons d'énergie moyenne, ce nombre
+est approximativement proportionnel. à l'inveise du carré de
+‘sa vitesse. Un méson perd son énergie d'autant moins vite que
+sa vitesse est plus grande et la perte d'énergie par unité de
+
+Droits reservés au Cnam et à ses partenaires
+
+10
+
+temps est approximativement proportionnelle à l'inverse de
+sa vitesse. Elle est en outre proportionnelle à la densité des
+électrons dans la matière traversée. | ,
+
+Fermi a trouvé aïnsi que le temps nécessaire pour ramener
+un méson de l'énergie de quelques dizaines de MeV qu'il pos-
+sède lors de sa création à une énergie de quelques électrons-
+volts qu'il doit avoir pour être capturé, est de l'ordre de 107
+à 1078, s’il traverse un liquide ou un solide, 1 000 fois plus
+s'il traverse un gaz. Donc, si le méson est ralenti par un milieu
+condensé, la majorité des mésons x et presque tous les
+mésons U n'auront pas le temps de subir la décomposition
+spontanée avant leur capture par un atome.
+
+La relativité ajoute une circonstance favorable. Pour un
+observateur lié à un méson dont la vitesse approche celle de
+la lumière (300 ooo km/s), le temps paraît plus court que pour
+un observateur fixe. Les durées de vie indiquées plus haut pour
+les mésons sont valables pour un observateur lié à la particule.
+Si un méson x nous semble mettre 2 x 107$ s pour passer
+de 2go 000 km/s à 280 o00 km/s, ce temps ne représente pas
+même la moitié de sa durée de vie moyenne et il conserve une
+chance non négligeable d’être capturé par un atome.
+
+L'atome de Bohr et les orbites quantifiées. — L'éner-
+gie du méson est la somme de deux termes : son énergie ciné-
+tique, qui résulte de sa vitesse, et son énergie potentielle élec-
+trique, qui résulte de la force d'attraction électrique entre le
+méson et le noyau. Nous verrons que l’on peut négliger en
+. première approximation l’action des électrons qui peuvent
+
+entourer le noyau. On convient habituellement que l'énergie
+du méson est nulle quand il est au repos à une distance infinie
+du noyau. L'énergie potentielle électrique est toujours négative,
+l'énergie cinétique est toujours positive. L'énergie totale, qui
+reste constante si le méson ne subit pas d'autre action que la
+force d'attraction électrique du noyau, peut être positive ou
+négative.
+
+On peut montrer que si l'énergie totale du méson est posi-
+tive, sa trajectoire l'amène une fois à une distance minimale
+du noyau puis il s'en éloigne indéfiniment, Si l'énergie totale
+du méson est négative, il “décrit une trajectoire fermée autour
+du noyau ou du moins sa distance au noyau passe successive-
+ment par des maximums et des minimums. La capture du
+méson par l'atome peut être définie comme le passage d’un
+état d'énergie positive à un état d'énergie négative. |
+
+Dans les états d'énergie négative, la quantification apparait.
+Comme les électrons dans les atomes ordinaires, les mésons ne
+
+peuvent décrire que certaines orbiles, ils ne peuvent prendre
+qu'une suite discrète d'énergies.
+
+Dans l’ approximation de Bohr, ces énergies sont données par
+la formule :
+
+2r?Z2etm, ‘
+W=— n2h2
+
+n est un entier positif appelé nombre quantique principal;
+h est la constante de Planck; Z est le numéro atomique du
+noyau; e est la valeur de la charge élémentaire; m, est une
+quantité appelée « masse réduite » du méson, qui peut être
+calculée en fonction de la masse
+masse Mix du noyau par la formule :
+NT
+My Re,
+mt + US
+: La masse réduite, qui diffère peu de la masse réelle du méson,
+intervient :à. la place de celle-ci parce que le mouvement de
+rotätion di méson autour du noyau entraîne celui-ci. L'ensem-
+“ble du mésonet du noyau tourne autour d’un point du segment
+qui joint leur centre; ce point est appelé centre de masse.
+Pour n différent de r; plusieurs orbites. sont possibles, aux-
+‘quelles correspondent des énergies légèrement. différentes, mais
+
+m, du méson et de la.
+
+ 
+
+ 
+
+dont l’ordre de grandeur est néanmoins donné par les formules
+précédentes.
+
+Ces formules sont la généralisation à des atomes mésiques de
+formules applicables à des alomes ordinaires ne comportant
+qu’un électron par suite de la perte de tous leurs électrons
+sauf un. Elles s'appliquent aux atomes mésiques, même s'ils
+n'ont pas perdu leurs électrons parce que ceux-ci gravitent à
+des distances du noyau beaucoup plus grandes que le méson.
+Par exemple pour le niveau fondamental (niveau d'énergie
+minimale) d’un atome d’hélium mésique (n = 1, Z = 2),
+le méson y gravite à une distance du noyau de l'ordre de
+1,5 x 10711 cm, l'électron que doit comporter en plus l'atome
+pour être électriquement neutre est à environ 5 x 10° cm.
+L'action de l'électron sur le méson sera donc très faible en
+regard de celle du noyau.
+
+Le méson capturé par un atome tend à prendre l'énergie
+minimale compatible avec la quantification de son orbite. Il
+va sauter d'orbite en orbite jusqu'à celle, unique, qui corres-
+pond au nombre quantique principal n = 1. On dit que l'atome
+est alors dans son état fondamental. À chaque saut le nom-
+bre n diminue d'une ou plusieurs unités et l'énergie de l'atome
+
+mésique diminue de :
+or°27etm, / 1
+7 R?  \n? on?
+
+n et n° étant les valeurs du nombre quantique principal avant
+et après le saut.
+
+L'énergie W — W” est emportée par un photon. À ce pho-
+ton correspond une vibration électromagnétique de fréquence
+
+W — WW" ; ch l
+V=—g — € de longueur d'onde y = ww" étant la
+vitesse de la lumière.
+
+Ce phénomène d'émission de photons n'est pas
+aux atomes mésiques, il se présente aussi pour des alomes
+ordinaires. Maïs souvent, dans les atomes ordinaires, les pho-
+tons émis ont une longueur d'onde comprise entre 0,4 et
+o,8 micron, ils sont alors détectables par l'œil. Dans les ato-
+mes mésiques, les photons correspondants ont une longueur
+d'onde de l’ordre de 20 angstrôms; ce sont des rayons X.
+
+Un atome ordinaire n'est que rarement dans un état excité
+(avec une énergie supérieure à l'énergie fondamentale) et par
+suite ne peut généralement pas émettre de photons. Lorsqu'un
+atome mésique se forme il est toujours dans un état excité et
+il tend toujours à émettre un ou plusieurs photons X. Les
+longüeurs d'onde de ces photons sont caractéristiques et peu-
+vent être calculées, L'émission de photons qui ont ces lon-
+gueurs d'onde constitue une preuve de l'existence des atomes
+mésiques. Le fait que les photons soient des photons X cons-
+titue une. circonstance favorable. À l’aide de chambres d'ioni-
+sation, il est possible de les détecter presque tous et en outre
+de mesurer individuellement leurs longueurs d'onde. Quelques:
+millions de photons ainsi obtenus après une expérience de
+quelques heures ou de quelques jours apportent ainsi une infor-
+mation non négligeable ‘sur les atomes mésiques. Si ces pho-
+iôns avaient été du domaine visible, la lumière qu'ils auraient
+transportée n'aurait même pas élé décelable.
+
+Nous avons dit que les mésons ou les électrons décrivent des
+orbites autour des noyaux. En fait, il s'agit là d’une image
+trop. précise. Elle suppose que pour ‘chaque particule on puisse
+définir à chaque instant une position et une vitesse exactes.
+
+W — W"
+
+spécial
+
+‘ D'après le principe d'incertitude de Heïsenberg, cela est impos-…
+
+sible. L'orbite dont nous avons parlé ne peut que schématiser
+l'état de l'atome. D'une façon très grossière, on peut la consi-
+dérer comme une ligne autour de laquelle on a des chances
+maxinmiales de trouver la particule. Maïs si par exemple um
+méson décrit ‘une orbite circulaire, le méson a une probabilité
+non nulle de se manifester au centre de son « orbite ».
+
+Droits reservés au Cnam et à ses partenaires
+

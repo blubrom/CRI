@@ -1,0 +1,148 @@
+D
+
+mais non négligeable le moment où la bombe éclatera. On doit
+aussi chercher à donner à la masse surcritique une géométrie
+telle que la réaction en chaine qui s’y déclenche ait les plus
+grandes chances d'intéresser rapidement une fraction impor-
+‘tante de la matière fissile.
+
+Maïs il ne suffit pas de déterminer l'importance de la masse
+surcritique, sa géométrie et la vitesse avec laquelle la réaction
+en chaîne s’y propagera. Il faut également calculer dans quelle
+mesure Îles facteurs extérieurs à cette masse de matière fissile
+(qualité de la matière; caractéristiques de l’ « amorçage » de la
+réaction par l'injection d’un flot de neutrons produits arti-
+ficiellement; nature du réflecteur chargé de diminuer les « fui-
+
+tes: » de particules) interviendront sur le volume d’énergie .qui
+
+ 
+
+Fig. 2. — Générateur de choc pour installation de radiographie éclair.
+{Phota du Service cinématographique des Armées).
+
+sera dégagé. C'est en perfectionnant ces dispositifs annexes que
+l’on arrive à accroître le rendement de l'engin.
+‘Demander aux: mathématiciens de mener à bien de tels calculs
+
+-. suppose que l'on peut leur fournir les données chiffrées indis-
+
+pensables. Avait-on une. connaissance suffisante des neutrons
+. rapides P Les techniciens du Commissariat à l'Énergie atomique
+
+avaient de longue date entrepris des. études poussée sur la
+
+« ‘eriticalité »,. mais ces études portaient essentiellement sur
+des systèmes où intervenaient seulemient des neutrons lents.
+Aussi lorsqu'on à commencé à se demander dans quelle mesure
+il serait. possible de procéder à la fabrication d’une bombe,
+. at-il fallu commencer : un examen détaillé des systèmes sans
+ralentisseur. - :
+
+Une polémique qui ne semble pas prêt de s'éteindre, faute
+d’élément décisif, oppose céux qui pensent que ces études
+étaient  dénuées d'intérêt scientifique et ceux qui, tout at
+
+: contraire, “estiment qu elles en ‘avaient un. Les partisans des
+
+deux ‘thèses ne manquent pas d'arguments. Les premiers affit-
+ment que des recherchés ‘sur les neutrons rapides auraient de
+: toute: façon “été e reprises pour faire progresser. nos connäis-
+“sinces en: matière de pile couveuse.. Les auires, mais sans trop
+
+. deux ou de plusieurs masses sous-criliques;
+
+LS ———————————
+
+insister, laissent entendre que la masse des connaissances accu-
+mulées est loin d’être négligeable, ne serait-ce que parce qu’on
+a toujours intérêt à manier des appareils de physique et à faire
+des mesures, Mais quelle que soit leur opinion sur cette ques-
+tion, les physiciens tombent tous d'accord pour admettre que
+la fabrication de la bombe a été l’occasion de substantiels pro-
+grès techniques.
+
+La fabrication de l'engin. — Ce n'est pas tout d'être
+parvenu à une connaissance théorique satisfaisante du miéca-
+nisme d’une bombe. Il faut encore la réaliser. A ce stade se
+rattachent des entreprises de nature tout à fait différente. Il
+faut d'abord former la. masse surcritique. Deux procédés peu-
+vent être employés : on peut provoquer la réunion brutale de
+On peut aussi
+donner à un corps doté d'une géométrie sous-critique une géo-
+métrie surcritique. Mais chercher à rassembler rapidement deux
+ou plusieurs masses sous-critiques ou imaginer un dispositif qui
+
+‘permette une « implosion » revient à entreprendre des études
+
+x
+
+sur la nature des explosifs à utiliser, et sur la façon de les
+disposer,
+
+Fort heureusement, la nature même des problèmes à résoudre
+permettait ici non seulement de recourir au calcul mais aussi
+d'utiliser largement l'expérimentation : on pouvait construire
+des maquettes, expérimenter les dispositifs imaginés, formuler
+des conclusions... Encore fallait-il pouvoir observer avec minu-
+tie des phénomènes qui se déroulent à des vitesses extrêmement
+élevées. De nombreux appareils (caméras à très grande vitesse
+de prise de vue, dispositifs de radio-éclair) (fig. 2) ont dû pour
+cela être mis au point,
+
+Second problème : arriver à une parfaite maîtrise de l’explo-
+sit. Le plutonium est un corps fantasque dont la métallurgie
+présente des difficultés considérables, et d'autre part il présente
+cette fâcheuse particularité d'être d'une extrême toxicité : il
+
+‘suffit d'un millionième de gramme pour altenter gravement
+
+au bon fonctionnement de l'organisme humain. Les humoristes
+ne pouvaient manquer de se livrer à une comparaison entre ses
+deux propriétés : la fission d'une livre anglaise d'’explosif
+nucléaire provoque un dégagement d'énergie équivalant à celui
+que suscite l'explosion de g ooo t de trinitrotoluène, mais il
+n'est pas certain, ont-ils dit, que le meilleur parti destructif
+
+1
+
+que l’on puisse retirer du plutonium consiste à en faire une
+q P P
+
+bombe.
+
+Ces études préliminaires doivent en fin de compte se solder
+par la fabrication des masses sous-critiques, Mais l'expérimen-
+tation ne pouvait porter que sur de très faibles quantités de
+mélal : or, passer de la manipulation de quelques grammes,
+voire de quelques milligrammes de matière fissile à la confection
+de. masses de plusieurs kilogrammes pose des problèmes délicats.
+
+Les physiciens français avaient de bonnes raisons de ne mani.
+puler le plutonium qu'en petites quantités : non seulement il
+fallait à toute force éviter qu'à un moment ou un autre, des
+conditions de criticalité soient réunies, mais surtout la pro-
+duction française de plutonium n'a démarré que tout récem-
+ment, ét longtemps les masses de plutonium disponibles ont été
+très faibles.
+
+: C'était le troisième problème à résoudre : produire du plu-
+tonium en quantité suffisante pour entreprendre la fabrication
+en petite série d’un armement nucléaire. On sait qu'il à été
+résolu grâce à la construction à Marcoule d'un centre industriel
+comprenant trois réacteurs de puissance à l'uranium naturel
+modérés au graphite et une usine destinée à
+
+à l'extraction du
+plutonium à partir de l'uranium irradié. Si ce centré n'avait
+
+pas vu le jour, la fabrication de la bombe eût été impossible.
+
+Aussi faut-il voir dans le premier plan quinquennal adopté
+en 1952 l’amorce et la base du programme militaire dont
+certains éléments viennent seulement d’être portés à la connais-
+
+sance du public.
+
+Droits reservés au Cnam et à ses partenaires
+

@@ -1,0 +1,1083 @@
+262
+
+Progrès récents en matière de navigation
+
+et guidage des avions et engins
+
+'ÈRe des intercepteurs à hautes performances et des bom-
+
+bardiers hypersoniques en projet aux États-Unis comme
+certainement en U.R:S.S, va donner une place importante à
+un problème qui jusque-là ne se posait guère pratiquement
+que pour les engins : le guidage. Il n’est pas d’ailleurs jusqu'à
+l'introduction dans l'aviation commerciale des appareils à réac-
+tion qui ne doive apporter aussi dans cette catégorie des exi-
+gences relatives au guidage inconnues jusqu'alors.
+
+C'est bien entendu grâce aux recherches effectuées dans le
+domaine des engins guidés que des progrès se sont fait jour.
+Il est juste de reconnaître aussi que le développement rapide
+des programmes d'’astronautique a contribué pour une large
+part à l'obtention de résultats intéressants. Dans la réussite du
+lancement d'un satellite, et plus encore d'un astronef destiné
+à prendre contact avec une autre planète, la précision du gui-
+dage le long de la première partie de la trajectoire est l'un
+des facteurs prédominants, et bien des échecs enregistrés jus.
+qu'à présent doivent être imputés à une défaillance du sys-
+tème de navigation.
+
+Dans le cours de cet article, nous examinerons deux procédés
+nouveaux qui semblent promis au plus brillant avenir : les
+systèmes de navigation Dôppler et le guidage par rayons infra.
+rouges,
+
+Principes et performances des systèmes de navigation
+Dôppler, — L'effet Dôppler repose sur la variation de la fré-
+quence des ondes reçues d’un mobile en mouvement. Il est
+observé, par exemple, lorsque l’on se trouve sur le quai d'une
+gare et qu’un train passe devant soi; le son produit par le
+sifflet de la locomotive est plus aigu avant le passage du train
+qu'après. Ce principe sert également en astronomie à déter-
+_miner la vitesse de déplacement des étoiles en mesurant la
+variation de la fréquence de la lumière que l'on reçoit d'elles,
+matérialisée par le déplacement des raies spectrales.
+
+Revenons aux applications purement aéronautiques pour dire
+qu'un navigateur Dôppler se compose essentiellement d'un
+radar de bord qui émet des ondes électromagnétiques vers le
+sol où elles se réfléchissent pour être de nouveau reçues à bord
+de l’avion. La fréquence de l'onde reçue est différente de celle
+de l'onde émise, et la différence entre les deux fréquences est
+proportionnelle à la vitesse de. l'avion par rapport au sol,
+et inversement proportionnelle à la vitesse de la lumière :
+
+df _
+F —
+
+“—- cos & (fig. 1).
+
+_V
+
+   
+ 
+  
+
+Fig. 1. — Schéma de :
+la navigation Dôppier.
+
+Si donc l'on mesure l'écart de fréquence df, la fréquence.
+d'émission f et l'angle « que fait le vecteur vitesse de l'avion
+
+avec la direction des ondes, on peut en déduire la valeur de
+
+Ja vitesse V de l'avion:
+
+ ceau: d'ondes.
+
+En fait, même en supposant l’avion en vol horizontal, ce
+qui est le cas le plus simple, la vitesse par rapport au sol
+possède deux composantes, l’une dirigée suivant le cap de
+l’avion et l’autre suivant la perpendiculaire au cap. On émet
+alors suivant deux directions symétriques par rapport à l’axe
+de l'avion, et on obtient la composante de la vitesse suivant
+le cap en ajoutant les écarts de fréquence correspondant à cha-
+cun des faisceaux, et la composante perpendiculaire au cap en
+les soustrayant (fig.' 2). On en déduit alors aisément la valeur
+absolue du vecteur vitesse et l’angle de dérive, c’est-à-dire l’an-
+
+Fig. 2. — Configura-
+tion Dôppler à deux
+faisceaux.
+
+gle entre la vitesse et l'axe géométrique de l'avion. D'autres
+causes perturbatrices peuvent introduire des erreurs dans les
+mesures, telles les oscillations en tangage de l'avion autour de
+son axe transversal, Pour les éliminer, on à recours à un sys-
+‘ème plus compliqué, qui comporte quatre et non plus deux
+faisceaux d’ondes radar, et qui a été baptisé système Janus,
+par analogie avec le dieu romain que l’on représentait habi-
+tuellement avec deux visages dirigés en sens contraire.
+
+Enfin, le faisceau d'ondes émis présente une certaine largeur,
+et les ondes réfléchies ne correspondent pas à une fréquence
+unique du fait de la variation de &, mais à un spectre de fré-
+quence représenté par une courbe du type courbe de Gaus
+
+Ampli tude
+en décibel/s
+
+ 
+
+Fig. 3, — Spectres de fréquences des ondes réfléchies.
+
+(fig. 3). Le calculateur Dôppler utilise la fréquence pour laquelle
+l'amplitude est maximale, f,. On a coutume de définir la
+finesse de la réception par la largeur de bande Af, telle que
+l'écart d'amplitude par rapport à l'amplitude maximale soit
+égal à 3 décibels (1). Cette largeur de bande est donnée par
+
+Fexpression : Af = - sin de, où da est la largeur du fais-
+
+Les antennes courantes émettent des faisceaux
+d'angle variant entre 2 et 7 degrés: elles présentent une forme
+de parabole et sont entourées de réflecteurs métalliques.
+
+Un dernier facteur à prendre en considération pour l'étude
+
+ci de la précision d’un système à effet Dôppler est la nature de
+
+la surface survolée. La précision est inférieure lorsque la zone
+
+1: Rappelons que l’on mesure en décibels le logarithme d’un rapport
+d'amplitude quelle que soit la nature de l'onde envisagée (acoustique,
+électromagnétique, etc.).
+
+Droits reservés au Cnam et à ses partenaires
+
+survolée est la mer, par suite des mouvements de la surface
+de l'eau et des courants. Aussi munit-on souvent le calculateur
+d’un commutateur qui change l’élalonnage de l'appareil selon
+la nature de la surface.
+
+L'émission radioélectrique peut s'effectuer suivant trois modes
+différents :
+
+— émission d'impulsions de faible durée:
+
+— émission d'une onde entretenue ;
+
+— émission d'impulsions de longue durée.
+
+C’est celte dernière qui est la plus en faveur sur les réalisa-
+tions les plus récentes.
+
+La fréquence adoptée avoisine la bande des 13 500 MHz et
+les puissances émises sont de l’ordre de ro W, ce qui est
+très faible.
+
+L'erreur sur la détermination de la position est dans les plus
+mauvais cas de 0,5 pour 100 pour un vol au-dessus du sol;
+pour un vol au-dessus de la mer, elle est un peu plus mauvaise
+et peut atteindre quelques pour-cent.
+
+Le guidage par infrarouges., — Un 1iel dispositif est adopté
+sur les plus récents engins anti-aériens. Le repérage utilise le
+rayonnement thermique émis par l'objectif, c’est-à-dire, dans
+le cas des chasseurs à réaction, par les gaz chauds qui sortent
+de la tuyère. La loi de guidage utilisée pour les engins sol-air
+consiste à faire tourner l'axe de l'engin avec une vitesse pro-
+portionnelle à la vitesse de rotation de la droite qui relie l’en-
+gin à l'objectif. Ceci nécessite que la tête chercheuse ait un
+champ assez important, de l'ordre de {o à 5o degrés, et
+qu'elle soit sensible à un spectre de radiations assez étendu,
+car le rayonnement thermique de l'avion varie notablement
+suivant les directions. Ce rayonnement, devant traverser une
+certaine bande d'atmosphère, sera évidemment affaibli en arri-
+vant au détecteur qui doit donc être d’une assez grande sensi-
+bilité. .
+
+Une tête chercheuse à infrarouges se compose prineipalement
+de trois éléments : un système optique pour concentrer le
+rayonnement, le détecteur sensible et le cerveau électronique.
+
+—— 263
+
+Nous n'insisterons pas sur le système optique qui est une asso-
+ciation de miroirs sphériques ou à facettes, ni sur le cerveau
+électronique dont le rôle est d'envoyer des ordres aux com-
+mandes de l'engin, ce qui est analogue à celui de n'importe
+quel autre dispositif de guidage,
+
+Le détecteur peut prendre de nombreuses formes. Les plus
+couramment: utilisés sont des cellules photorésistantes aux
+sulfure, tellurure ou séléniure de plomb. La résistance élec-
+trique de ces corps diminue lorsqu'ils sont frappés par un rayon-
+nement infrarouge et il suffit de mesurer la variation de résis-
+tance d’une mince couche de l’un d'eux pour en déduire
+l'intensité du rayonnement. Citons encore les cellules à tran-
+sistors, les récepteurs à gaz dans lesquels le gaz contenu dans
+une enceinte s’échauffe sous l'effet du rayonnement incident
+et subit une augmentation de pression, et enfin les cellules
+à couche d'arrêt dans lesquelles la surface de contact entre
+deux matériaux est exposée au rayonnement, ce qui donne
+naissance à une différence de potentiel entre les deux corps.
+
+La sensibilité du détecteur peut être définie comme la plus
+faible énergie qu'il doit recevoir pour fournir un signal uti-
+lisable aux gouvernes. Elle dépend évidemment du bruit de
+fond du détecteur et de celui qui est dù aux rayonnements para-
+sites. Le premier est produit par les mouvements des électrons
+des matériaux qui forment le détecteur; comme il est dû à
+l'agitation thermique, il peut être réduit par refroidissement
+de la surface. Le bruit de fond dû aux rayonnements parasites
+est très variable; il provient du Soleil et du fond du ciel et
+peut être réduit en interposant devant le détecteur des filtres
+appropriés. .
+
+Parmi les engins déjà équipés d'une tête chercheuse à infra-
+rouges, citons l'engin air-air américain Hugues « Falcon »
+qui équipe les plus récents intercepteurs de l’U. $. Air Force,
+et le De Havilland « Fire Streak » monté sur l'intercepteur
+anglais English Electric P. 1. En U.R.S.S., un engin sol-air de
+ce type serait également en construction.
+
+Jacques SPINCOURT.
+
+ 
+
+ 
+
+JOURNAL
+
+GC petit appareil, mis au polnt par
+les Laboratoires de recherche aéro-
+nautique du gouvernement austra-
+lien, a pour but de déterminer les
+causes des accidents ont peuvent
+être victimes les avions, On le des-
+tine plus particulièrement aux unités
+importantes et surtout aux nouveaux
+modèles, pendant leur période d'es-
+sais et dans leurs premières années
+de fonctionnement. Il consiste essen-
+tiellement en un enregistreur ma-
+gnétique où les différentes informa-
+tions sont recueillies sur un fil
+métallique d'une extrême finesse. Ces
+informations comprennent toutes les
+conversations échangées entre le
+pilote et l'équipage ainsi que les
+indications fournies par les instru-
+ments du tableau de bord.
+L'appareil entre en action dès que
+l'avion prend son vol. Une com-
+mande automatique déclenche l'ef-
+façage et la régénération: du fil pour
+toutes les informations vieilles de
+plus de six heures. Ce « journal
+dé bord automatique » est placé
+dans la queue de l'avion, où l'on
+espère pouvoir le retrouver plus faci-
+lement en cas d'accident. Il est pro-
+tégé par un container en matériau
+ignifuge.
+
+DE BORD
+
+AUTOMATIQUE
+
+ 
+
+Droits reservés au Cnam et à ses partenaires
+
+1)
+Fe
+
+6
+
+PAR
+
+U: problème très important pour l'économie montagnarde
+est la bonne exploitation des hauts pâturages. Celle-ci n'est
+possible que si le lait produit sur l'alpage est traité dans des
+conditions techniques, hygiéniques et économiques satisfai-
+santes, de façon à « valoriser » le lait d’une manière correcte.
+Il faut reconnaître que cette valorisation sur place est difficile;
+les locaux sont sommaires à l’alpage, le matériel insuffisant, les
+manipulations ne sont guère hygiéniques, les moyens de conser-
+vation manquent. De plus les fabrications sont parfois coùû-
+teuses, le fromager saisonnier exige un salaire relativement élevé
+pour des fabrications qui peuvent porter sur des quantités de
+lait insuffisantes. Le travail du lait dans la laiterie, ou « frui-
+tière », de la vallée, qui centralise le lait d'une commune, est
+toujours plus aisé; les sous-produils peuvent être ulilisés pour
+la porcherie et la vente du lait en nature est possible et rému-
+nératrice,
+
+La descente du lait dans la vallée doit être considérée comme
+une règle qui ne doit souffrir que de rares exceptions. Jusqu'à
+ces dernières années, c'est la solution du câble transporteur
+qui prévalait, dans les régions accidentées où les voies de com-
+municalions sont insuffisantes. Mais l'installation de transpor-
+teurs est coûteuse, l'amortissement est lent étant donné que
+leur service ne dure que quelques mois par an, leur entretien
+est onéreux, De ce fait leur -extension est limitée,
+
+Une solution nouvelle, considérablement moins coûteuse que
+la précédente, a vu le jour il y a quelques années en Autriche,
+dans le Vorarlberg, c'est le transport par des conduits en matière
+plastique, En France ce système se répand, depuis la création
+du premier « Pipelait » à Onnion, en Haute-Savoie, en juin
+
+ 
+
+“Fi: ;
+
+1: — “ia “départ du. & smipèlale de
+
+À gauche, lee ns ,
+
+la: partie conique: est soudé le tube .du “pibelait qui. conduit le liquide- dané
+: ‘Ja vallée: (Photo: E. Mounçues).
+
+A droite, le bac de “départ en polyéthylène : +-80US
+
+LE TRANSPORT DU LAIT EN MONTAGNE
+« PIPELAIT »
+
+1957. Notre pays a même innové en utilisant le chlorure de
+polyvinyle (Lucoflex) et en installant le plus long transport
+connu en Europe, celui de Sixt, qui mesure 4 500 m. La Suisse,
+l'Allemagne et l'Italie ont également adopté ce système de trans-
+port. Ses avantages sont tels qu’il a été utilisé, en France, pour
+des transports permanents : ainsi le pipelait de Taninges, qui
+remplace un télé-benne hors d'usage, conduit tout au long de
+l'année environ 500 ! de lait par jour.
+
+Il aurait peut-être été plus juste de dire « lactodue », mais le
+terme « pipelait », né dans le milieu paysan savoÿard, a fait
+fortune. Je l'ai utilisé timidement dans un rapport, à une réu-
+nion de spécialistes à Kiel (Allemagne); il a plu d’emblée aux
+étrangers | .
+
+Le tableau I donne les caractéristiques des pipelaits en Haute.
+Savoie. Les premiers ont été faits en tuyau de polyéthylène, les
+derniers en tuyau de chlorure de polyvinyle non plastifié, qui
+est moins coûteux et convient aussi bien. Huit sont installés,
+deux autres en projet.
+
+ 
+
+ 
+
+ 
+
+TaBceau [ — Pipecarrs EN Haure-Savoir
+| Dénivel Longueur Diamètre Matière
+Fruitière Alpage ! lation |-du tuyau | du tuyau .
+pag | “(m) (my (my) plastique
+Onnion + .| L'Arpaz 464 1 536 12-16 | Polyéthylène
+Mégevetle. | La Combaz 406 a 250 19-16 »
+Nancy-sur-
+Cluses | ,! Romme 355 | 1650 13-20 ‘| »
+» Les Chavan- !
+nes 267 | 1350 — | »
+Taninges . . 150 700 13-16 ! Polyvinyle
+(Lucotlex)
+Habère-Lullin.! La Glappaz 380 | 2500 13-16 | >
+Villard-sur-! | |
+Boège .  .|La Glappaz ba 4 ooo | 20-25 »
+Sixt . . .|Alpe « Com-
+munc » 1 150 | 4 500 13-16 »
+Vallorcine et
+Chamonix,.| len projet}
+|
+
+ 
+
+ 
+
+ 
+
+Les tuyaux ont une faible section (diamètre intérieur de 72
+à 20 mm), de façon à limiter la turbulence du liquide; la vitesse
+d'écoulement est de 1,0 à 1,5 m/s, le débit de g à 15 litres par
+minute. Ils partent du local de pesage du lait: à côté de la
+balance à lait se trouve le bac de départ, en matière plastique,
+d’une contenance variable, 100 à 200 litres, On s'efforce de faire
+un trajet souterrain, ce qui a le grand avantage de refroidir le
+lait jusqu'à 15° C et au-dessous et de limiter les proliférations
+microbiennes, Il n’y à pas de robinet et pas d'aspérités, l'écou-
+lement est continu; entre les descentes de lait, deux par jour,.
+on fait couler l’eau en permanence. Un téléphone, par ligne
+contiguë au tuyau, assure la synchronisation des opérations.
+
+Les propriétés des plastiques utilisés sont connues, La. masse
+est colorée au noir de carbone (2 pour 100 pour éviter l’action
+photochimique de la lumière dans les parcours aériens). Ces
+
+“matériaux sont légers, inertes (insolubles dans le lait) et robus-
+
+tes; certains tuyaux ont même résisté à des glissements de ter-
+rain! La mise en place en tranchées étroites, de 4o cm de
+
+“profondeur, est facile, sauf dans les cas où il faut miner des
+“roches (il est préférable de les contourner), Les prix de revient
+
+globaux sont variables. M. Bouverot, ingénieur des Eaux et
+
+- Forêts et chef du Service de Restauration des Terres en Mon-
+
+tagne, qui subventionne les installations, l'estime à 700 francs
+
+Droits reservés au Cnam et à ses partenaires
+
+Fig. 2. — L'arrivée du « pipelait » dans la cuve de la « fruitière »
+{fromagerie).
+
+A l'arrière-plan, une écrémeuse.
+
+anciens (1958) le mètre courant en moyenne, prix qui peut être
+réduit par le travail des intéressés.
+
+Un problème s'est révélé capital, après les premiers temps
+d'utilisation, c'est celui du nettoyage et de la désinfection des
+installations. Le service spécialisé de l’Institut national de la
+Recherche agronomique (Station centrale de recherches laitières
+de Jouy-en-Josas: directeur : M. G. Mocquot) a assuré le contrôle
+hygiénique des installations. Des accidents sérieux se sont pro-
+
+265
+
+duits au début qui ont tous pour cause la prolifération des micro-
+organismes dans les tuyaux mal lavés. L'accident dramatique
+est l’obturation du tuyau par du lait coagulé ou par des colonies
+microbiennes. D'autre part, les fabrications fromagères peuvent
+être compromises par la pollution du lait pendant son parcours
+dans le pipelait. Si celui-ci est mal entretenu, des bactéries
+coliformes peuvent s’y développer en abondance, et si l'eau de
+lavage est impure elle peut apporter une contamination impor-
+tante dans des germes caractéristiques des eaux polluées : Pseu-
+domonas, Proteus, etc.
+
+L'usage du pipelait exige donc des précautions minutieuses :
+
+1° Utilisation d'une eau de rinçage pure, si besoin est, javelli-
+sée; elle circulera dans le tuyau pendant les intervalles d’utili-
+salion,
+
+2° Nelloyage soigneux en trois temps :
+
+— Après descente du lait, envoi d'eau tiède;
+
+— Ensuite passage d’une solution chaude de produits déter-
+gents et antiseptiques (par exemple P, — 7%, etc.);
+
+— De temps en temps, passage d'une solution acide pour
+dissoudre la « pierre de lait » (dépôts de phosphates calciques
+enrobés de graisse et de protéines).
+
+Si ces précautions sont prises, .les contrôles effectués sur le
+lait au départ et à l’arrivée montrent que l'usage du pipelait ne
+modifie pas la qualité du lait.
+
+CHARLES ALAIS,
+
+Station centrale de Recherches laitières
+et de Technologie des produits animaux.
+
+ 
+
+ 
+
+Tempêtes de poussière saline
+
+Les tempêtes de poussière sont un phénomène assez-fréquent
+
+dans le sud-est de l'Union Soviétique et en Asie Centrale. Elles,
+
+se produisent surtout entre les mois de mars et novembre. Il
+a été constaté, cependant, qu'il s’agit parfois de tempêtes de
+poussière saline. Tel fut notamment le cas en avril 1955, après
+une longue période de sécheresse, dans la région de la ville
+d'Elist (République des Kalmouks) où, après la tempête, le sol
+était recouvert d'un dépôt salin. La tempête dura environ
+35 heures. Un dépôt gris cendre, épais de 0,0g mm environ, se
+forma sur la surface exposée au vent de tous les objets et de
+toutes les plantes. L'analyse du dépôt prélevé sur les troncs et
+les branches des arbres révéla que ce dépôt se composait pour
+47,4 pour 100 de sels solubles dans l’eau, et pour 52,6 pour 100
+de substances solides non solubles. Les sels dont on a constaté
+la présence se répartissaient comme suit : sulfates, 90,6 pour 100;
+chlorures, 7,4 pour rao; bicarbonates, 2 pour 100. D'après les
+calculs approximatifs des auteurs d’un article paru dans Ja
+revue soviétique Priroda, le dépôt de sulfate de sodium qui
+s'était formé sur le sol pendant la durée de la tempête peut
+être évalué à environ 25 kg par hectare, Cette tempête semble
+avoir élé déterminée par.des tempêtes de poussière et des vents
+
+très violents du sud-est qu'on avait observés, depuis le
+10 avril 1959, dans la région des mers Caspienne et Aral.
+, CM.
+
+Ce phénomène est peut-être en relation avec l'existence du
+Kara Bogaz, golfe silué au nord-est de la Mer Caspienne et qui
+couvre une surface d’environ 16 000 km?. Les particularités de
+ce golfe sont d'abord une très faible profondeur, n'atteignant
+que rarement 10 m, et une intense évaporation, favorisée à la
+fois par l'insolation et par les vents, Les pertes d’eau du Kara
+Bogaz sont compensées par les apports de la Caspienne, à tra-
+vers un étroit chenal de 600 à 800 m de large. Le cycle qui.s'éta-
+blit ainsi a eu pour conséquence de transformer ce golfe en un
+marais salant naturel, dont l'action, à la longue, pourrait faire
+de la Caspienne ‘un lac d'eau douce.
+
+Par ailleurs, certains gisements de sel fossile peuvent être
+expliqués par un phénomène analogue à celui du Kara Bogaz.
+Il est également légitime de concevoir que les vents violents de
+la steppe puissent transporter à de longues distances les pous-
+sières de sels dont la description est fournie par la revue
+Priroda. G. GC.
+
+ 
+
+ 
+
+Le renne en U.R.S.S.
+
+Dans les régions seplentrionales, tant d'Europe que d'Amérique
+et d'Asie, où règne un climat extrêmement rigoureux, le renne
+est l’animal domestique le plus utile, En U.R.S.S., selon Priroda,
+on compte deux millions de rennes environ, et ce nombre sera
+vraisemblablement doublé d'ici une dizaine d'années. On distin-
+gue des rennes de toundra et des rennes de forêt. Les conditions
+de nourriture étant meilleures en forêt et le travail y étant moins
+pénible, le poids du renne y est, en moyenne, de ä à 6 ke. plus
+grand que dans la toundra. Dans .les toundras, un troupeau se
+
+compose habituellement de 2 000 à 2500 têtes, et les distances
+à franchir dépassent parfois 1000 km, tandis que dans les forêts
+l'importance d’un troupeau n'excède pas 60 rennes et les trajets
+à couvrir sont relativement courts. Ce sont les lichens qui en
+biver constituent la nourriture essentielle du renne. Le lichen: est
+
+riche en amidon, mais pauvre en albumine, en matières azotées et
+
+en sels minéraux. Aussi s'efforce-t-on, en U.R.8.S., de permettre.
+aux rennes d'atteindre d’autres plantes; généralement recou-
+
+- vertes de neige. Le G.M..
+
+Droits reservés au Cnam et à ses partenaires
+
+nous ont conduits à nous représenter les continents comme
+
+formés soit de terrains plissés, chaînes de montagnes récen-
+les ou anciennes, soit de couvertures horizontales reposant elles-
+mêmes sur des restes d'anciennes chaînes, plus ou moins ara-
+sées par la suite. La plupart de ces chaînes, et en tout cas les
+plus anciennes, sont lardées de granites, contemporains de leur
+surrection ou postérieurs, et qui ont contribué à les consolider.
+Et les grands boucliers granito-gneissiques, qui forment comme
+le cœur et le socle de tous les continents, se montrent de plus
+en plus comme étant non pas les restes d'une imaginaire croûte
+primitive, mais les racines indurées des chaînes anciennes,
+venues au jour grâce à l'érosion des parties hautes.
+
+Depuis une vingtaine d'années, grâce aux isotopes radioactifs,
+nous savons en outre dater ces surrections et granitisations
+successives. Connaissant les aires qu’elles affectent, et les dates,
+nous pouvons évaluer alors la progression, au cours des temps,
+de leur extension et la représenter par une courbe. Nous obte-
+nons ainsi, par interpolation, leur vitesse; et, en extrapolant
+vers les origines, nous pouvons nous faire une idée provisoire
+de la date approximative du début de ces phénomènes.
+
+À notre connaissance, les efforts dans ce sens sont dus à
+Birch (1961), Caïlleux (1954, 1959), Knopf (1955). Nous vou-
+drions faire le point de la question, en rassemblant les résultats
+des travaux précédents, et en y ajoutant les données toutes nou-
+velles qu’on peut tirer de la belle esquisse structurale de l’Afri-
+que par Raymond Furon (1958).
+
+Toutes les données numériques de Birch et de Knopf seront
+exprimées ici, comme les nôtres, en kilomètres carrés.
+
+L° progrès de la géologie descriptive, depuis deux siècles,
+
+Consolidation progressive des continents. — En .chaque
+région des continents, nous pouvons déceler une ou plusieurs
+phases de plissement. Considérons la plus récente; évaluons
+l'aire qu'elle affecte. Cette enquête, menée à l’aide des travaux
+de Belooussov, Birot, Fourmarier, Furon, Hussey, Umbgrove,
+pour les différentes régions du Globe, a conduit à une carte et
+à une liste détaillée, publiées par ailleurs (Cailleux et Tricart,
+1955). Par convention, les plissements y sont classés sous les
+noms suivants, d'après leur âge en millions d'ans :
+
+o — Cénozoïque — 65 -— Mésozoïque — 190 — Hercynien
+— 280 — Calédonien — 5oo — Précambrien.
+
+Maintenant, pour chacune de ces cinq grandes périodes, nous
+mesurons sur un planisphère la surface totale des terriloires
+qui ont subi alors leur dernier plissement; nous l'exprimons en
+millions de kilomètres carrés. Ceci nous donne les valeurs indi-
+quées dans, le tableau I, première colonne de chiffres. On voit
+que c'est dans les temps les plus anciens, au Précambrien, que
+s'est faite la consolidation principale, 84 millions de kilomètres
+carrés environ. De là aux temps calédoniens, on n’en compte
+que 8 à ajouter aux précédents; de là aux temps hercyniens,
+12 à ajouter; et ainsi de suite : ro et 21 jusqu'aux temps les
+plus récents.
+
+La colonne suivante donne le résultat de ces additions, ou
+cumulations successives. Elle peut se lire ainsi : 84 millions
+de kilomètres carrés étaient consolidés, n'ont plus bougé depuis
+le Précambrien; g2 en tout n'ont plus bougé depuis le Calé-
+donien, 104 depuis le Hercynien, 114 depuis le Mésozoïque, tout
+proche de nous. Et aujourd’hui nous en sommes, comme cha-
+cun sait, pour l’ensemble des continents émergés, à 135 mil-
+lions. de. kilomètres carrés, sans compter l' Antarctique caché aux
+neuf dixièmes par les glaces, et sur lequel nous n'avons évi-
+demment pas asséz de. données - pour le faire entrer dans nos
+statistiques.
+
+: Dans le même tableau I, dans la colonne 3, les surfaces conso-
+
+lidées cumülées, sont ramenées par convention à x00 pour.
+
+Vitesses de consolidation et de granitisation des continents
+
+l'actuel; on passe de la colonne 2 à la colonne 3, bien entendu,
+par une règle de trois.
+
+Quant à la dernière colonne, à droite, elle donne la vitesse
+de consolidation, en kilomètres carrés par an, pendant la
+période considérée. On l'obtient en divisant la surface conso-
+lidée pendant la période (colonne 1), par la durée de la période,
+que nous avons rappelée plus haut.
+
+ 
+
+TaBLeau I, — PrisseMEnTs pu GLos.
+Surface
+Epoque en 10% km? Surface F1
+des derniers m7" mm | + 100 Vitesse
+plissements cum. km*/an
+Part. Cum.
+{1} [al (3) (4)
+
+Cénozoïque . . . < 21 < 135 100 0,34
+Mésozoïque . . . . 10 114 84 0,08
+Hercynien, . . . . 12 104 77 0,13
+Calédonien + 8 g2 68 | 0,04
+
+Précambrien . . . . 84 ë4 Ga
+
+ 
+
+ 
+
+ 
+
+Si maintenant, nous reportons les points sur une courbe
+(fig. 1), nous constatons une accélération récente, surtout pour
+les mouvements cénozoïques; mais elle est probablement une
+simple apparence, car rien ne nous garantit que les terres
+qui ont bougé au Cénozoïque soient définitivement consolidées.
+Pour les époques plus anciennes, la vitesse est plus constante.
+Du Cambrien au Mésozoïque inclus, elle est en moyenne de
+o,07 km?, soit 7 ha, par an.
+
+Si l'on se risque à extrapoler la courbe vers le passé, on trouve
+une date-origine de la consolidation entre 2 400 et 4 200 mil-
+lions d'années, valeurs qui encadrent bien celles obtenues par
+de tout autres méthodes (Cailleux, 1954, 19bg).
+
+Granitisation progressive de l'Amérique du Nord. —
+Birch (1951) a évalué les surfaces occupées par les granites
+précambriens dans la Cordillère Pacifique et la Chaîne Appa-
+lachienne. Knopf (1955), dans un travail remarquablement com-
+posé et pensé, a évalué les surfaces de batholites granitiques
+de toute l'Amérique du Nord; il entend par batholite une masse
+intrusive grande (affleurant sur 250 km? au moins), soit con-
+cordante, soit recoupant les terrains encaissants, et dépourvue
+de substratum de roches plus anciennes. Knopf classe les batho-
+lites par âge, et il mesure les aires au planimètre. J'ai repris
+ses résultats dans le tableau II, en comptant le Post-Glenarm
+pour moitié dans le Paléozoïque, et pour moitié dans le Pré-
+cambrien; et pour celui-ci j'ai exclu la majoration proposée
+par Knopf pour le Précambrien présumé en profondeur, et qui
+n'affleure pas.
+
+TaBLeau ÎE -— BATHOLITES GRANITIQUES D'AMÉRIQUE pu Non
+
+ 
+
+ 
+     
+    
+  
+ 
+   
+    
+
+Surface
+
+      
+ 
+
+en 10% km? Surface
+ns P- 100
+cumulée
+Partielle Cumulée
+Cénozoïque. 135 5 44o 100
+Mésozoïque. +. 4 . . 595 5 305 ‘07
+Paléozoïque , 210 4 710 87
+Précambrien . 4 500 4 500 83
+6 om mm mt
+
+Droits reservés au Cnam et à ses partenaires
+
+Les. données de Knopf sont en excellent accord avec celles
+de Birch, obtenues pourtant sur un échantillon 5o fois plus
+petit (tableau IIT).
+
+ 
+
+ 
+
+TaBLeAu IIL — Granires D'AMÉRIQUE pu Norp
+2j 4 Toute
+Cordillère Chaîne Par
+Pacifique |des Appalaches l Amerique
+{Birch} Birch) (Knopf)
+
+Cénozoïque à Cambrien;
+Surface relative cumu-
+lée p. 100. . . . . 100 100 100
+
+ 
+
+Précambrien; Surface rela-
+live cumulée p. 100. . 84 86 83
+
+Date. Origine extrapolée,
+
+3 000
+en millions d'années, 3 100 3 450 à 5 ooo
+
+ 
+
+ 
+
+ 
+
+ 
+
+Les points représentatifs étant reportés sur la figure 1, nous
+pouvons ientér une extrapolation. La date-origine se situe
+entre 3 oo0o et 5 oo millions d'années, coïncidant bien avec
+celles obtenues par d'autres méthodes. Birch et Knopf en con-
+cluent à juste raison qu’en Amérique du Nord la granitisation
+
+ 
+
+ 
+
+100%
+50%
+lu
+3000 2000 1000 ê
+Millions d'années
+Fig. 1. — Progression de la consolidation et de la granitisation.
+
+En ordonnées, pourcentage de la surface actuelle qui était déjà consolidé
+
+où granitisé à l'époque considérée. Carrés noirs : consolidation de l’Afri-
+
+que ; cercles blancs : consolidation du Globe ; points en croix : granitisa-
+
+tion de l'Afrique (courbe provisoire) ; croix : granitisation de l'Amérique
+du Nord.
+
+(Les trois premières courbes d'après GaizLeux, la quatrième d'après Knorr).
+
+a progressé à vitesse sensiblement constante, contrairement à
+ce qu’avaient supposé cértains auteurs. Quant aux fluctuations
+de la vitesse, entre le Cambrien et nos jours, qu'on pouvait
+tirer des données du tableau Il, on doit se demander s'il s’agit
+d’aléas propres à l'Amérique ou s'ils ont une valeur mondiale.
+Seule une enquête sur d’autres continents pourra le montrer.
+
+Consolidation et granitisation progressive de l'Afrique.
+— La très belle carte structurale de l'Afrique due à Raymond
+
+Furon (1958) ne représente, l’auteur s'empresse de nous le dire,
+qu'une esquisse provisoire et sujette à révision. Aussi les
+résultats que nous en tirerons sont-ils passibles de la même
+expresse réserve, Cette carte n'en offre pas moins deux grands
+
+avantages : c'est l’une des rares cartes structurales d’un conti-
+
+nent entier; c'est la seule à offrir une subdivision du Précam-
+
+brien, d'après les dates isotopiques. : :
+
+Sur cette carte, nous avons opéré la mesure des surfaces
+par découpage et pesée. Ont été comptés séparément les quatre
+Précambriens et chacun de leurs granites: le Paléozoïque plissé
+(Hercynien et Calédonien) et ses granites; et le cycle alpin
+(Mésozoïque et Cénozoïque plissés au Cénozoïque). Le socle
+d'âge indéterminé de Furon a été compté avec le Précam-
+brien I; s'il se révélait être d’un autre âge, ceci ne changerait
+presque rien, car il occupe une surface infime. Ont été exclues
+les couvertures non plissées quaternaire, tertiaire, crétacée,
+jurassique, triasique et Karroo, ainsi que les laves et les roches
+basiques et ultra-basiques.
+
+Les pesées ont été faites au trébuchet, au centigramme près,
+par double pesée. La masse de l'Afrique avant découpage était
+de 35 670 mg (Madagascar et autres îles inclus). Après décou-
+page, pesées séparées et sommation, on a trouvé 35 220 mg.
+Erreur : 450 mg, soit 3,3 pour 100. Par comparaison avec l’in-
+certitude bien plus forte sur les âges et sur les aires, due au
+caractère incomplet des levés, Le procédé par découpage et pesée
+est donc très satisfaisant.
+
+Pour évaluer les pourcentages relatifs, nous les comparons
+à leur somme, c’est-à-dire que nous prenons pour 100 la somme
+des aires des terrains plissés ou granitisés énumérés plus haut.
+
+Les résultats sont représentés dans les tableaux IV et V et
+par la figure 1. Sur celle-ci on voit que la consolidation a été
+fort régulière. Peut-être at-elle été plus rapide au début, plus
+lente à la fin. Comme l'ensemble des continents nous a donné
+plutôt une variation en sens inverse, ou tout au plus linéaire,
+l'Afrique semblerait (si la carte est exacte sur ce point) s'être
+consolidée un peu plus vite que les autres continents. Si on
+extrapole la courbe vers le passé, on trouvé une date-origine
+entre 3 6oo et 4 5oo millions d'années, valeurs en excellent
+accord avec celles obtenues par ailleurs (Cailleux, 1954 et
+1959).
+
+ 
+
+ 
+
+Tasreau IV, — CoNsoLibATION DE L'AFRIQUE
+
+Age de la Date- Surface
+
+consolidation limite . cumulée
+
+finale en 106 ans | P. 100
+Génozoïque . , , . . . . o 100
+Paléozoïque . . ss 0- 190 gô
+Préc. IV . .… , «| 190- 600 03
+Préc. III , , , . . s 600-1 000 +.  : 8
+Préc. I, . , . . . . 1 000-3 000 7è
+Préc. 1. ,. . . . . . . 2 000-3 000 43
+
+TABLEAU V, — GRANITES AFRICAINS
+
+(Compte tenu des indications aimablement fournies par R. FuroN).
+
+ 
+
+Age en millions d'années
+antérieur à , . . .| 3000 | 3000 | ro0o0o | 600 | r90 0
+Surface cumulée en p. 100. 3 78 gù 97 | 100 | 100
+
+ 
+
+ 
+
+Toujours d’après la même carte provisoire, les aires graniti-
+sées occuperaient en Afrique 10 pour 100 du total consolidé,
+alors que sur le bouclier canadien, d'après Knopf (1955), les
+roches granitiques occupent 80 pour 100 de la surface. Le désac-
+cord est considérable; une partie vient probablement de ce
+qu'entre les granites et les schistes métamorphiques, on a
+toutes les transitions par les granites gneïissiques, gnelss gra-
+
+. nitiques et gneiss, et que la coupure a été placée probablement
+
+plus près des granites en Afrique, plus loin en Amérique du
+Nord. Rien qu'en suggérant cette remarque, les comparaisons
+de mesures exposées ici peuvent contribuer à une meilleure
+
+Droits reservés au Cnam et à ses partenaires
+
+268
+
+homogénéisation des définitions et conventions adoptées pour
+les cartes des différents continents. D'ailleurs R. Furon lui-
+même nous avertit (1999) qu'il n'a « pas obtenu suffisamment
+d'informations précises pour pouvoir. figurer tous les granites »,
+Aussi la question d’une différence réelle entre les degrés de
+granitisation de l'Afrique et de l'Amérique du Nord reste évi-
+demment ouverte, jusqu’à meilleure information.
+
+Taszeau VI. -— DATE DU DÉBUT, EN MILLIONS D'ANNÉES
+
+ 
+
+Dale Auteur
+
+Plissements du Globe 2400 à 4 200 Caïlleux
+Granitisation | Pacifique 3 100 Birch
+Amérique 4 Appalaches 3 450 | Birch
+
+du Nord f Continent . 3000 à 5000 | Knopf (1)
+
+Consolidation de l'Afrique , 3 600 à 4 5oo | Cailleux
+
+ 
+
+1. Extrapolation par Cailleux.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Les aires cartographiées en granite en Afrique étant faibles,
+les renseignements que nous pouvons attendre de leur répar-
+tition sont très incertains; en particulier, le saut de 8 pour 100
+à 8g pour rom montré par la figure 1 ne saurait être interprété.
+Tout au plus on peut noter que, d'après l’allure générale de
+la courbe, la granitisation de l'Afrique, comme sa consolida-
+tion, semble avoir marché plus vite au début qu'à la fin.
+
+Conclusions. — Les dates-origines, déduites de la consoli-
+dalion et de la granitisation, sont rassemblées dans le tableau VI.
+
+On voit que les résultats sont en bon accord avec ceux des
+astronomes qui attribuent plusieurs milliards d'années au
+Système solaire, et davantage encore à l'Univers connu. Bien
+entendu les valeurs de notre tableau ne nous donnent que des
+ordres de grandeur, avec un large éventail de variation, et ceci
+n’a rien d'étonnant si on réfléchit à la hardiesse des extrapola-
+lions que nous avons faites. Ce qui peut sembler étonnant, au
+contraire, c’est la bonne concordance des résultats.
+
+ANDRÉ DE CAYEUX,
+Maître de conférences à la Sorbonne.
+
+ 
+
+ 
+
+L'économie
+
+On sait combien il est délicat d'avancer le moindre chiffre
+avec certitude lorsqu'il s'agit de l’Union soviétique. Les sour-
+ces sont dispersées, hétérogènes, et concordent rarement entre
+elles. De plus, la difficulté due au langage interdit fréquem-
+ment l'accès direct aux études soviétiques elles-mêmes.
+
+Or, le développement des sciences géographiques est consi-
+dérable en U.R.S.S. à l'heure actuelle. Aussi faut-il, saluer
+comme il convient le remarquable effort entrepris par l’Ame-
+rican Geographical Society de New York afin de mettre à la
+disposition des chercheurs occidentaux les principaux résultats
+des travaux de leurs collègues russes : chaque mois paraît,
+depuis le début de 1960, une brochure de 80 à 100 pages inti-
+tulée Soviet Geography, qui fait le point des articles et ouvra-
+ges publiés en Union soviétique; des traductions anglaises pré-
+sentent les articles les plus importants. Voici, par exemple, le
+sommaire du premier numéro paru (janvier-février 1g60) :
+
+I. P. Gerasimov : Statut actuel de la géographie en U.R.S.S.
+
+D. V. Kravchenko : Les travaux de l'Institut de Géographie de
+l'Académie des Sciences de L'U.R.S.S. en 1957.
+
+E. M. Murzdiev : Résultats des études de géographie physique
+régionale en U.R.S.S.
+
+Y. D. Zekkel : Les nouvelles tâches de la géomorphologie.
+
+S. N. Riazantzev : Études de géographie économique régionale
+à l'Institut de Géographie de l’Académie des Sciences de l’'U.R.S.S.
+
+“Y. P. Parmouzine : Le caractère zonal du pôle du froid sibérien.
+- M. I. Pomous : Une expérience d'étude économico-géographique
+des villes de l’'U.R.S.S.
+
+V._V. Pokchichevsky
+. Brésil,
+
+La carte forestière de l'URSS,
+
+: Les grandes régions économiques du
+
+Le volume s'achève par des notes économiques de très grand
+intérêt, présentéés par Théodore Shabad (voir ci-après), et par
+uné bibliographie complète des études publiées dans les gran-
+des revués soviétiques de géographie.
+
+Voici, emprunlées à l'étude de Th. Shabad, quelques indi-
+
+cations chiffrées touchant l'économie soviétique en 1959 :
+
+Combustibles. ‘= La production de charbon semble arriver
+‘à:son plafond. (495 millions de tonnes métriques en 1958; 506
+- en:1959; 515 prévues en 1960). Mais celle du pétrole continue
+
+‘à augmenter rapidement (113 Mt en 1958, 129 en 1959, 144.
+
+-prévues:en:1960), ainsi que celle de gaz naturel (respectivement
+
+de
+
+ 
+
+'U.R.S.S.
+
+30, 87 et 53 milliards de mS). L'évolution semble donc s'ali-
+gner sur celle des pays européens et des États-Unis.
+
+Électricité. — L'accroissement de la production est d’envi-
+ron 10 pour 100 par an, comme en Occident (264 milliards
+de kWh en 1959, 291 attendus en 1960). La centrale hydro-
+électrique de Stalingrad sera entièrement en service à la fin
+de l'année, et sa puissance installée de 2 563 000 kW en fera
+la plus puissante centrale du monde, D'autres usines sont en
+achèvement sur le Dniepr (Krementchoug) et sur l'Angara
+(Bratsk, où la puissance définitive sera dans quelques années
+de 4 5oo o0o KW).
+
+Métallurgie. — La production de minerai de fer s'accroît
+
+régulièrement, passant de 8g Mt (1958) à 94,4 (1959) et sans
+
+doute 105 (1960). De nouvelles mines sont mises en exploita-
+tion en Sibérie et surtout dans le secteur de la fameuse ano-
+malie magnétique de Koursk en Russie centrale. La production
+de fonte et d'acier atteint les valeurs suivantes : respeclive-
+
+. ment 39 et 55 Mt en 1958; 43 et 60 en 1959. On attend 47
+
+el 65 Mt en 1960. |
+
+Agriculture, — La superficie ensemencée lotale se chiffre
+(1959) à 196 300 ooo ha, en augmentation de 4o 000 000 ha
+sur 1958, grâce aux défrichements entrepris dans les « terres
+vierges » du Kazakhstan et de Sibérie méridionale. On note
+une spectaculaire avance des surfaces ensemencées en maïs,
+multipliées par 7 depuis 1953 (on sait l'intérêt de M. « K »
+pour cette céréale, qui lui a valu d’être surnommé en U.R.SSS,
+« Petit Père Maïs »).
+
+Les récoltes, en raison de la sécheresse, sont inférieures en
+1959 aux chiffres de 1968 (125 Mt de céréales contre 141;
+4h Mt de betteraves à sucre contre 54). Maïs le coton progresse
+
+à 4 500 000 t (record).
+
+Élevage, — Un effort particulier concerne l'élevage, point
+
+. faible de l’économie soviétique jusqu'à présent. La production
+
+de viande (1959) a été supérieure à 8 600 o00 t (bêtes abattues).
+L'augmentation est de l’ordre de 12 pour 100 en un an; le chif-
+
+‘fre prévu pour 1960 est de ro 600 000 t.
+
+Pour le beurre, on a enregistré en 1959 la production de
+845 o00 t, et pour lé lait 62 Mt (34 millions de vaches laitières
+sur un total de: 74 millions de bovidés).
+
+P. W.
+
+Droits reservés au Cnam et à ses partenaires
+
