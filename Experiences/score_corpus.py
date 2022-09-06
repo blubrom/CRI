@@ -15,7 +15,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument("-c", "--Corpus",
                     help="the path to the Corpus dir",
                     default=ex.corpus_path)
-parser.add_argument("-r", "--Expected_results",
+parser.add_argument("-e", "--Expected_results",
                     help="the path to the results dir",
                     default=ex.expected_results_path)
 parser.add_argument(
@@ -32,6 +32,10 @@ parser.add_argument("-t", "--Take_traps", type=int, default=1,
 parser.add_argument("-cl", "--Classifier", default="CRI",
                     choices=["CRI", "LINNAEUS", "SPECIES"],
                     help="the classifier used")
+parser.add_argument("-r", "--regex", help=ex.help_regex,
+                    default=ex.default_regex)
+parser.add_argument("-s", "--stopwords",
+                    help=ex.help_stopwords, default=ex.stopwords_path)
 args = parser.parse_args()
 
 # format for the date of when the experience was carried
@@ -45,7 +49,7 @@ daytime = today.strftime("%B %d, %Y at %H:%M:%S")
 # gives the overall score using the total numbers
 # of false positives, negatives and true positives
 # obtained processing the corpus
-def evaluation(corpus, exp, classifier, mode):
+def evaluation(corpus, exp, classifier, mode, expr, stopwords):
     result = ""
     nfps = nfns = ntps = 0
     with os.scandir(corpus) as it:
@@ -63,7 +67,8 @@ def evaluation(corpus, exp, classifier, mode):
                 if args.Take_traps != 0 or len(expected) > 0:
                     name = re.sub(r"\.txt", "", entry.name)
                     s, tps, fns, fps = ex.evaluate(
-                        os.path.join(corpus, entry.name), name, expected, classifier, mode=mode)
+                        os.path.join(corpus, entry.name), name, expected,
+                        classifier, stopwords, mode=mode, expr=expr)
                     if args.Verbose:
                         result += s
                     ntps += tps
@@ -84,6 +89,9 @@ def evaluation(corpus, exp, classifier, mode):
 
 
 if __name__ == "__main__":
+    if args.mode == 0 and args.regex == ex.default_regex:
+        exit(ex.missing_regex_message)
+    stopwords = ex.compile_stopwords(args.stopwords)
     sys.path.insert(0, f'./{args.Expected_results}')
     import expected_results_vol12 as vol12
     import expected_results_vol83 as vol83
@@ -100,7 +108,7 @@ if __name__ == "__main__":
                     results += f"## starting evaluation of volume {entry.name}\n"
                 vol_num = int(re.search(r"\d+", entry.name).group(0))
                 (result, fps, fns, tps) = evaluation(
-                    entry, expected[vol_num], args.Classifier, args.mode)
+                    entry, expected[vol_num], args.Classifier, args.mode, args.regex, stopwords)
                 results += result
                 ntps += tps
                 nfps += fps

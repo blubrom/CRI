@@ -40,7 +40,7 @@ For instance, if one would like to call the classifier, she would proceed as fol
     two independant volumes of LA NATURE
     -   the script **pretraitement.py** is used to preprocess a file (remove double spaces, end of line `-` etc.)
     -   the script **score_article.py** is used to get the results of our classifer compared with the oracle for any
-    specific article in the corpus
+    specific article in the corpus (**NOT MAINTAINED** probably not working)
     -   the script **score_corpus.py** is the main evaluation script, it allow to process all of the corpus and get the
     results with regards to the oracles.
     -   the script **tri_classification.py** is used to sort the output of the classifier in different ways.

@@ -142,27 +142,33 @@ Mmmm = re.compile(
 MmMMmm = re.compile(
     rf"(?<=\W)({latin_binom}|{latin_focused_maj_maj}|{latin_focused_min_min})(?!-)(?=\W)")
 
-# get the list of frequent words to remove and compile it to a regex
-with open("Experiences/stopwords.txt", "r") as stops:
-    words = stops.readline()
-    stopwords = re.compile(
-        rf"(?<=\W){words}(?=\W)", flags=re.IGNORECASE)
+
+def compile_stopwords(stopwords_path):
+    # get the list of frequent words to remove and compile it to a regex
+    with open(stopwords_path, "r") as stops:
+        words = stops.readline()
+        stopwords = re.compile(
+            rf"(?<=\W){words}(?=\W)", flags=re.IGNORECASE)
+        return stopwords
 
 
-def clear_stopwords(article):
+def clear_stopwords(stopwords, article):
     return stopwords.sub(r"€\g<mid_word>€", article)
 
 
-def c(m, s, start, end, context, size):
+def contextualize(m, s, start, end, context, size):
     return (m, s[max(start-size, 0):min(end+size, len(s))]) if context else m
 
 
 # evaluates the article according with the asked mode
-def classify(article, context=False, size=30, mode=3):
+def classify(article, stopwords, context=False, size=30, mode=3, expr=""):
+    print(stopwords)
     if mode >= 3:
         abbrev = True
     else:
         abbrev = False
+    if mode == 0:  # User regex
+        matcher = re.compile(expr)
     if mode == 1:  # Mm
         matcher = Mm
     elif mode == 2:  # Mm MM
@@ -178,13 +184,14 @@ def classify(article, context=False, size=30, mode=3):
     else:
         # should not arrive but if the modes change will allow to see it quickly
         exit("unexpected mode")
-    s = clear_stopwords(article)
+    s = clear_stopwords(stopwords, article)
     result = []
     r = r"(?<=\W)("
     b = False
     for match in matcher.finditer(s):
         m = match[0]
-        result.append(c(m, s, match.start(), match.end(), context, size))
+        result.append(contextualize(
+            m, s, match.start(), match.end(), context, size))
         # if the binom starts with a capitalized letter,
         # add the possibility to match a binom with thid genus abreviated
         if abbrev:
@@ -198,14 +205,9 @@ def classify(article, context=False, size=30, mode=3):
     if b:
         for match in re.finditer(r, s):
             m = match[0]
-            result.append(c(m, s, match.start(), match.end(), context, size))
+            result.append(contextualize(
+                m, s, match.start(), match.end(), context, size))
     return result
-
-
-def f_measure(precision, recall):
-    if(precision == 0 and recall == 0):
-        return -1
-    return 2 * precision * recall / (precision + recall)
 
 
 def handle_linnaeus(article):
@@ -225,11 +227,11 @@ def handle_species(article):
 # the expected results for this article
 # returns the false positives, false negatives and true positives
 # when recognisiong with the mode mode
-def check(article, expected, classifier, mode=3):
+def check(article, expected, classifier, stopwords, mode=3, expr=""):
     with open(article) as in_:
         text = in_.read()
     if classifier == "CRI":
-        finds = classify(text, context=True, mode=mode)
+        finds = classify(text, stopwords, context=True, mode=mode, expr=expr)
     elif classifier == "LINNAEUS":
         finds = handle_linnaeus(article)
     elif classifier == "SPECIES":
@@ -298,8 +300,8 @@ def score(fps, fns, tps):
 #  and the chosen mode of recognition
 #  and return the effective matches the number of
 # true positives, false negatives and false positives
-def evaluate(article, name, expected, classifier, mode=3):
-    (fps, fns, tps) = check(article, expected, classifier, mode)
+def evaluate(article, name, expected, classifier, stopwords, mode=3, expr=""):
+    (fps, fns, tps) = check(article, expected, classifier, stopwords, mode, expr)
     (precision, recall, fm) = score(len(fps), len(fns), len(tps))
     prec = "{:.2f}".format(precision*100)
     rec = "{:.2f}".format(recall*100)
@@ -325,19 +327,31 @@ def print_res(output, result):
 
 # list of common things used in each application
 # to be able to modify them in one place
+stopwords_path = "Experiences/stopwords.txt"
+help_stopwords = f"if provided, the path to the stopwords file, else {stopwords_path}"
 corpus_path = "Processed_corpus"
 expected_results_path = "Experiences/Expected_results_position"
 default_mode = 1
 help_mode = '''R|\
 choose the recognition mode:
+    0: Inputed regex
     1: Mm
     2: Mm MM
     3: Mm A
     4: Mm MM A
     5: Mm mm A
     6: Mm MM mm A'''
-mode_choices = range(1, 7)
+mode_choices = range(0, 7)
 volumes_path = "archives_pretraitees/"
+help_regex = "input a regex to be used in the classifier"
+default_regex = ""
+missing_regex_message = "user chose mode 0 and did not input a regex"
+
+
+def f_measure(precision, recall):
+    if(precision == 0 and recall == 0):
+        return -1
+    return 2 * precision * recall / (precision + recall)
 
 
 def match_dist(pattern, word):
