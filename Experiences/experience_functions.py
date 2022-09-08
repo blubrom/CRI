@@ -148,7 +148,7 @@ def compile_stopwords(stopwords_path):
     with open(stopwords_path, "r") as stops:
         words = stops.readline()
         stopwords = re.compile(
-            rf"(?<=\W){words}(?=\W)", flags=re.IGNORECASE)
+            rf"(?<=\W){words.strip()}(?=\W)", flags=re.IGNORECASE)
         return stopwords
 
 
@@ -160,9 +160,14 @@ def contextualize(m, s, start, end, context, size):
     return (m, s[max(start-size, 0):min(end+size, len(s))]) if context else m
 
 
+def update_results(s, context, size, result, match):
+    m = match[0]
+    c = contextualize(m, s, match.start(), match.end(), context, size)
+    result.append(c)
+
+
 # evaluates the article according with the asked mode
 def classify(article, stopwords, context=False, size=30, mode=3, expr=""):
-    print(stopwords)
     if mode >= 3:
         abbrev = True
     else:
@@ -189,13 +194,11 @@ def classify(article, stopwords, context=False, size=30, mode=3, expr=""):
     r = r"(?<=\W)("
     b = False
     for match in matcher.finditer(s):
-        m = match[0]
-        result.append(contextualize(
-            m, s, match.start(), match.end(), context, size))
+        update_results(s, context, size, result, match)
         # if the binom starts with a capitalized letter,
         # add the possibility to match a binom with thid genus abreviated
         if abbrev:
-            a = re.match(upper_case, m)
+            a = re.match(upper_case, match[0])
             if a and a[0] != 'M':
                 b = True
                 r += rf"{a[0]}\.\s{acword}|"
@@ -204,9 +207,7 @@ def classify(article, stopwords, context=False, size=30, mode=3, expr=""):
     # do the search only if there are geni that can be abreviated
     if b:
         for match in re.finditer(r, s):
-            m = match[0]
-            result.append(contextualize(
-                m, s, match.start(), match.end(), context, size))
+            update_results(s, context, size, result, match)
     return result
 
 
